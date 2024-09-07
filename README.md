@@ -1,2 +1,2 @@
-# academy-crystal-cave
-Optional.
+# Academy Crystal Cave
+A compilation of structured texts in Elden Ring.
