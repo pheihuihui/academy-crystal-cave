@@ -61,7 +61,6 @@ if (args[2] && args[2] == "txt") {
     extractTextFromFmg();
 } else if (args[2] && args[2] == "json") {
     convertAllTextFilesToJson();
-    // convertSingleTextFileToJson("EventTextForMap", "en");
 }
 
 function extractTextFromFmg() {
@@ -97,40 +96,29 @@ function extractTextFromFmg() {
     }
 }
 
-function copyTexts() {
-    for (let dir of AllDirs) {
-        let files = readdirSync(dir);
-        for (let file of files) {
-            for (let name of AllFileNames) {
-                if (file == `${name}.txt`) {
-                    console.log(file);
-                    if (dir.includes("engUS")) {
-                        copyFileSync(`${dir}\\${file}`, `./text/en/${name}.txt`);
-                    }
-                    if (dir.includes("jpnJP")) {
-                        copyFileSync(`${dir}\\${file}`, `./text/jp/${name}.txt`);
-                    }
-                    if (dir.includes("zhoCN")) {
-                        copyFileSync(`${dir}\\${file}`, `./text/zh/${name}.txt`);
-                    }
-                }
-            }
-        }
-    }
-}
-
 function convertSingleTextFileToJson(name, lang) {
     let res = {};
-    let filePath = `./text/${lang}/${name}.txt`;
+
+    let filePath = `./step_02_txt/${lang}/${name}.fmg.txt`;
     if (existsSync(filePath) == false) return;
-    let file = readFileSync(`./text/${lang}/${name}.txt`, "utf8");
+    let file = readFileSync(`./step_02_txt/${lang}/${name}.fmg.txt`, "utf8");
     let lines = file.split("\n");
     for (let line of lines) {
         let [number, text] = splitNumberAndText(line);
         if (text != "\t\r") res[number] = text;
     }
+
+    let dlc01filePath = `./step_02_txt/${lang}/${name}_dlc01.fmg.txt`;
+    if (existsSync(dlc01filePath) == false) return;
+    file = readFileSync(`./step_02_txt/${lang}/${name}_dlc01.fmg.txt`, "utf8");
+    lines = file.split("\n");
+    for (let line of lines) {
+        let [number, text] = splitNumberAndText(line);
+        if (text != "\t\r") res[number] = text;
+    }
+
     let str = JSON.stringify(res);
-    writeFileSync(`./json/${lang}/${name}.json`, str);
+    writeFileSync(`./step_03_json/${lang}/${name}.json`, str);
 }
 
 function convertAllTextFilesToJson() {

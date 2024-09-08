@@ -40,6 +40,10 @@
   "1116": "\tBoosts Frenzied Flame incantations\r",
   "1117": "\tBoosts lava sorcery\r",
   "1118": "\tBoosts godslayer incantations\r",
+  "1200": "\tBoosts finger sorcery\r",
+  "1201": "\tBoosts golden ring of light incantations\r",
+  "1202": "\tBoosts Messmer's flame incantations\r",
+  "1203": "\tBoosts spiral incantations\r",
   "6400": "\tCauses slight poison buildup (<?poisonATKpwr?>)\r",
   "6401": "\tCauses poison buildup (<?poisonATKpwr?>)\r",
   "6402": "\tCauses heavy poison buildup (<?poisonATKpwr?>)\r",
@@ -63,5 +67,6 @@
   "6700": "\tCauses slight madness buildup (<?madnessATKpwr?>)\r",
   "6701": "\tCauses madness buildup (<?madnessATKpwr?>)\r",
   "6702": "\tCauses heavy madness buildup (<?madnessATKpwr?>)\r",
+  "6800": "\tCauses eternal sleep buildup (<?sleepATKpwr?>) \r",
   "": ""
 }

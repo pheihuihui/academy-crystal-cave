@@ -41,6 +41,8 @@
   "75": "\tStatus: Madness\r",
   "76": "\tStatus: Death\r",
   "77": "\tPoise\r",
+  "80": "\tScadutree Blessing\r",
+  "81": "\tRevered Spirit Ash Blessing\r",
   "100": "\tCooperator's Objective (Furled Finger)\r",
   "101": "\tAdversary's Objective (Duelist)\r",
   "102": "\tMultiplayer Maximums\r",
@@ -68,5 +70,8 @@
   "152": "\tKnocking Down Mounted Enemies\r",
   "153": "\tHardened Foes\r",
   "200": "\tTeardrop Scarabs\r",
+  "205": "\tKeeping Track of New Items\r",
+  "206": "\tKeeping Track of Recent Items\r",
+  "207": "\tCarrying Over Summoning Pools\r",
   "": ""
 }

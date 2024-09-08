@@ -41,6 +41,8 @@
   "75": "\tWhen the madness gauge is full, you will go mad and lose a great deal of both HP and FP.\\nOnly humans can be afflicted with madness.\\nThe higher your focus, the longer it takes for the madness gauge to fill.\r",
   "76": "\tWhen your death gauge is full, you will be struck with instant death.\\nThis is a very dangerous status ailment, but the higher your resistance to death,\\nthe longer it takes for the death gauge to fill.\r",
   "77": "\tHeavy armor provides high poise, making you less likely to recoil from enemy attacks.\\nWielding a heavy weapon with two hands may also provide similar effects.\r",
+  "80": "\tConsume Scadutree Fragments at sites of grace to bolster your Scadutree Blessing.\\n\\nThe Scadutree Blessing bolsters the recipient's abilities to deal and negate damage, but has no influence outside the realm of shadow.\r",
+  "81": "\tConsume Revered Spirit Ash at sites of grace to bolster your Revered Spirit Ash Blessing.\\n\\nThe Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow.\r",
   "100": "\tDuring cooperative multiplayer, a Furled Finger's objective is to help the Host of Fingers defeat the boss of the area.\\nA Furled Finger will return to their own world when they die or the boss is defeated, whichever happens first.\r",
   "101": "\tDuring competitive multiplayer, a duelist's objective is to defeat the Host of Fingers.\\nA duelist will return to their own world when they die or the Host of Fingers is defeated, whichever happens first.\r",
   "102": "\tIn typical multiplayer, there can be up to two cooperators and one invader or adversary present at once.\\n\\nThe host player can use a Taunter's Tongue to increase the maximum number of invaders or adversaries.\r",
@@ -68,5 +70,8 @@
   "152": "\tRepeatedly attack a mounted enemy to knock them off of their mount and break their stance.\\nThis will give you a chance to perform a critical hit.\\nCharge attacks and jump attacks are particularly likely to knock enemies off of their mounts.\r",
   "153": "\tThe slashing attacks of sharp weapons are largely ineffective against hardened armor and scales.\\nStrike attacks are likely to hit the mark.\r",
   "200": "\tThere are both Crimson and Cerulean Teardrop Scarabs.\\nDefeat them to replenish the flasks that match their type.\\nHowever, you cannot replenish more flasks than your maximum amount allows.\r",
+  "205": "\tItems acquired for the first time can be marked with <?newItemIcon?>.\\n\\nDisplay of this mark can be enabled or disabled in the display tab within the system menu.\r",
+  "206": "\tRecently acquired items can be viewed on a dedicated tab.\\n\\nYou can turn this tab on or off in the display tab within the system menu.\r",
+  "207": "\tActivated summoning pools will be carried over into subsequent playthroughs.\\n\\nYou can enable or disable summoning pools individually using the list on the map functions menu.\r",
   "": ""
 }

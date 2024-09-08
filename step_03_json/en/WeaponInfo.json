@@ -23,6 +23,8 @@
   "50330000": "\tAnimal bone arrow with frozen tip\r",
   "50340000": "\tFletched bone arrow with rot-coated tip\r",
   "50350000": "\tAnimal bone arrow with rot-coated tip\r",
+  "50540000": "\tFletched bone arrow with putrescence-soaked tip\r",
+  "50550000": "\tAnimal bone arrow with putrescence-soaked tip\r",
   "51050000": "\tThick, whittled bone arrow with feather fletchings\r",
   "51060000": "\tThick, whittled animal bone arrow, large as a spear\r",
   "52090000": "\tThin, whittled animal bone bolt\r",
@@ -35,6 +37,7 @@
   "52160000": "\tAnimal bone bolt with frozen tip\r",
   "52170000": "\tAnimal bone bolt with rot-coated tip\r",
   "52180000": "\tAnimal bone bolt with waterlily tincture tip\r",
+  "52520000": "\tAnimal bone bolt with putrescence-soaked tip\r",
   "53030000": "\tThick, whittled bone bolt, large as a spear\r",
   "": ""
 }

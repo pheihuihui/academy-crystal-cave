@@ -45,6 +45,9 @@
   "302560": "\tUnited Combat and Combat Ordeals\r",
   "302570": "\tCombat with Spirit Ashes\r",
   "302580": "\tMarika's Effigy at the Roundtable\r",
+  "302600": "\tScadutree Blessing\r",
+  "302610": "\tRevered Spirit Ash Blessing\r",
+  "302620": "\tNew Inventory Features\r",
   "309000": "\tMultiplayer\r",
   "402000": "\tEquipment Menu\r",
   "402010": "\tItem Crafting Menu\r",
@@ -71,5 +74,7 @@
   "402390": "\tSmithing Menu\r",
   "402400": "\tRemembrance Duplication Menu\r",
   "402500": "\tColosseum Menu\r",
+  "402600": "\tScadutree Blessing Menu\r",
+  "402610": "\tRevered Spirit Ash Blessing Menu\r",
   "": ""
 }

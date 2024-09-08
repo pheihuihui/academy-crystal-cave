@@ -19,6 +19,16 @@
   "10010815": "\tUse <?gdsparam@2964?>?\r",
   "10010830": "\tUse Miquella's Needle to tame the flame of frenzy?\r",
   "10010840": "\tGo to the audience grounds?\r",
+  "10010850": "\tUse <?gdsparam@2002900?>?\r",
+  "10010851": "\tUse <?gdsparam@2002901?>?\r",
+  "10010852": "\tUse <?gdsparam@2002902?>?\r",
+  "10010853": "\tUse <?gdsparam@2002903?>?\r",
+  "10010854": "\tUse <?gdsparam@2002904?>?\r",
+  "10010855": "\tUse <?gdsparam@2002905?>?\r",
+  "10010857": "\tUse <?gdsparam@2002907?>?\r",
+  "10010858": "\tUse <?gdsparam@2002908?>?\r",
+  "10010859": "\tUse <?gdsparam@2002909?>?\r",
+  "10010860": "\tUse <?gdsparam@2002910?>?\r",
   "10011954": "\tLose all runes to return to the last site of grace visited?\r",
   "20000001": "\tFinger Remedy effect will be nullified. OK?\r",
   "20000010": "\tAttempting to invade another world.\\nSelect the bounds for the attempt.\r",
@@ -42,5 +52,6 @@
   "20000610": "\tSummoning a new spirit will send any spirits present away. OK?\r",
   "20000700": "\tThis Dream Mist has been already acquired\r",
   "20000800": "\tResummon steed by consuming one charge of the Flask of Crimson Tears?\r",
+  "20000810": "\tThe spectral steed is frightened and cannot be summoned.\r",
   "": ""
 }
