@@ -1,5 +1,6 @@
 const { exec } = require("child_process");
-const { readdir, readFileSync, readdirSync, copyFile, copyFileSync } = require("fs");
+const { readdir, readFileSync, readdirSync, copyFile, copyFileSync, writeFileSync, existsSync } = require("fs");
+const { json } = require("stream/consumers");
 
 const BinderToolPath = "D:\\eldenringdump\\BinderTool.v0.7.0-pre4\\BinderTool.exe";
 const MsgPath = "D:\\eldenringdump\\Data0\\msg";
@@ -40,6 +41,8 @@ const FilesNeeded = {
         "EventTextForMap",
         "EventTextForTalk",
         "GR_Dialogues",
+        "GR_LineHelp",
+        "GR_MenuText",
         "LoadingText",
         "LoadingTitle",
         "MovieSubtitle",
@@ -57,7 +60,8 @@ if (args[2] && args[2] == "txt") {
     extractTextFromFmg();
     copyTexts();
 } else if (args[2] && args[2] == "json") {
-    convertToJson();
+    convertAllTextFilesToJson();
+    // convertSingleTextFileToJson("EventTextForMap", "en");
 }
 
 function extractTextFromFmg() {
@@ -99,4 +103,31 @@ function copyTexts() {
     }
 }
 
-function convertToJson() {}
+function convertSingleTextFileToJson(name, lang) {
+    let res = {};
+    let filePath = `./text/${lang}/${name}.txt`;
+    if (existsSync(filePath) == false) return;
+    let file = readFileSync(`./text/${lang}/${name}.txt`, "utf8");
+    let lines = file.split("\n");
+    for (let line of lines) {
+        let [number, text] = splitNumberAndText(line);
+        if (text != "\t\r") res[number] = text;
+    }
+    let str = JSON.stringify(res);
+    writeFileSync(`./json/${lang}/${name}.json`, str);
+}
+
+function convertAllTextFilesToJson() {
+    for (let name of AllFileNames) {
+        for (let lang of ["en", "jp", "zh"]) {
+            convertSingleTextFileToJson(name, lang);
+        }
+    }
+}
+
+function splitNumberAndText(text) {
+    let numbers = text.match(/\d+/g);
+    let number = numbers ? numbers[0] : "";
+    let txt = text.replace(`${number}`, "");
+    return [number, txt];
+}

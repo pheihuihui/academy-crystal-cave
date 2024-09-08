@@ -1,14 +1,16 @@
 {
-  "name": "academy-crystal-cave",
-  "version": "1.0.0",
-  "description": "A compilation of structured texts in Elden Ring.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^22.5.4"
-  }
+    "name": "academy-crystal-cave",
+    "version": "1.0.0",
+    "description": "A compilation of structured texts in Elden Ring.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "pretty": "prettier ./json --write"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^22.5.4",
+        "prettier": "^3.3.3"
+    }
 }

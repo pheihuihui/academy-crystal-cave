@@ -1,2 +1,3 @@
 # Academy Crystal Cave
-A compilation of structured texts in Elden Ring.
+
+A structured compilation of all texts in Elden Ring.
