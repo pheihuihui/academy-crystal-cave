@@ -1,0 +1,950 @@
+2120000	Summon this cooperator?
+2120100	Summon this adversary?
+2120200	Hunters from other worlds will be automatically summoned to rescue\nyou when your world is invaded
+2120201	Hunters will no longer be summoned automatically
+2120202	
+2120203	
+2120204	
+2120205	
+2120206	
+2120207	
+2120208	
+2120209	
+2120210	You will now respond to calls for rescue from other worlds
+2120211	You are no longer responding to calls for rescue from other worlds
+2121000	Cancel summon sign?
+2200000	Your summon sign disappeared
+2200200	Invasion canceled
+2200300	Finger Remedy effects wore off
+2210000	Failed to create summon sign
+2300000	Summoning cooperator...
+2300001	
+2300002	
+2300003	
+2300004	
+2300005	
+2300006	
+2300007	
+2300008	
+2300009	
+2300010	Summoning cooperator...
+2300100	Summoning adversary...
+2301000	You are being summoned to another world...
+2301100	You are being summoned to another world...
+2301200	Invading another world...
+2301201	
+2301202	
+2301203	
+2301204	
+2301205	
+2301206	
+2301207	
+2301208	
+2301209	
+2301210	Invading another world...
+2301304	You are being summoned to another world...
+2302000	Summoning another cooperator...
+2302001	
+2302002	
+2302003	
+2302004	
+2302005	
+2302006	
+2302007	
+2302008	
+2302009	
+2302010	Summoning another cooperator...
+2302100	Summoning another adversary...
+2311000	Being summoned to another world as a cooperator...
+2311100	Being summoned to another world as an adversary...
+2311200	Invading another world...
+2311201	
+2311202	
+2311203	
+2311204	
+2311205	
+2311206	
+2311207	
+2311208	
+2311209	
+2311210	Invading another world...
+2311304	Being summoned to another world as a hunter...
+2311413	All combatants have assembled
+2331200	Attempting to invade another world... (Bounds: Nearby only)
+2331201	Attempting to invade another world... (Bounds: Near/far)
+2331202	Requesting the summons of a Broken Finger Stalker
+2331203	
+2331204	
+2331205	
+2331206	
+2331207	
+2331208	
+2331209	
+2331210	Attempting to invade another world... (Bounds: Nearby only)
+2331211	Attempting to invade another world... (Bounds: Near/far)
+2331300	Sending co-op sign to summoning pools (Range: Nearby only)
+2331301	Sending hostile sign to summoning pools (Range: Nearby only)
+2331302	
+2331303	
+2331304	
+2331305	Sending co-op sign to summoning pools (Range: Near/far)
+2331306	Sending hostile sign to summoning pools (Range: Near/far)
+2341413	Please wait until all combatants are assembled.\n(Remaining combatant(s): <?matchRemainingCount?> )
+2351413	Please wait until all combatants are assembled.\n(Remaining allies: <?matchRemainingMyCount?>, remaining foes: <?matchRemainingEnemyCount?>)
+2410000	Could not summon cooperator.\nCooperator was unable to join session.
+2410100	Could not summon adversary.\nAdversary was unable to join session.
+2411000	Summoning aborted.\nUnable to join session.
+2411100	Summoning aborted.\nUnable to join session.
+2411200	Could not invade.\nUnable to join session.
+2411201	
+2411202	
+2411203	
+2411204	
+2411205	
+2411206	
+2411207	
+2411208	
+2411209	
+2411210	Could not invade.\nUnable to join session.
+2411304	Summoning aborted.\nUnable to join session.
+2450000	Summoning of cooperator aborted.\nCooperator died in their world.
+2450100	Summoning of adversary aborted.\nAdversary died in their world.
+2460000	Unable to summon cooperator due to\ntime out
+2460100	Unable to summon adversary due to\ntime out
+2461000	Summoning aborted due to\ntime out
+2461100	Summoning aborted due to\ntime out
+2461200	Invasion aborted due to\ntime out
+2461201	
+2461202	
+2461203	
+2461204	
+2461205	
+2461206	
+2461207	
+2461208	
+2461209	
+2461210	Invasion aborted due to\ntime out
+2461304	Summoning aborted due to\ntime out
+2490000	Unable to summon cooperator
+2490100	Unable to summon adversary
+2491000	Unable to be summoned
+2491100	Unable to be summoned
+2491200	Unable to invade
+2491201	
+2491202	
+2491203	
+2491204	
+2491205	
+2491206	
+2491207	
+2491208	
+2491209	
+2491210	Unable to invade
+2491304	Unable to be summoned
+2510000	Could not summon cooperator.\nFailed to create session.
+2510100	Could not summon adversary.\nFailed to create session.
+2521000	Unable to be summoned.\nFailed to join session.
+2521100	Unable to be summoned.\nFailed to join session.
+2521200	Could not invade.\nFailed to join session.
+2521201	
+2521202	
+2521203	
+2521204	
+2521205	
+2521206	
+2521207	
+2521208	
+2521209	
+2521210	Could not invade.\nFailed to join session.
+2521304	Unable to be summoned.\nFailed to join session.
+2600000	Furled Finger <?joinName?> summoned as a cooperator
+2600001	
+2600002	
+2600003	
+2600004	
+2600005	
+2600006	
+2600007	
+2600008	
+2600009	
+2600010	<?joinName?> summoned as a cooperator
+2600100	Duelist <?joinName?> summoned as an adversary
+2600200	Invaded by Bloody Finger <?joinName?>!
+2600201	
+2600202	
+2600203	
+2600204	
+2600205	
+2600206	
+2600207	
+2600208	
+2600209	
+2600210	Invaded by Recusant <?joinName?>!
+2600211	
+2600212	
+2600213	
+2600214	
+2600215	
+2600216	
+2600217	
+2600218	
+2600219	
+2600220	Invaded by <?joinName?>!
+2600221	
+2600222	
+2600223	
+2600224	
+2600225	
+2600226	
+2600227	
+2600228	
+2600229	
+2600230	Invaded by <?joinName?>!
+2600231	
+2600232	
+2600233	
+2600234	
+2600235	
+2600236	
+2600237	
+2600238	
+2600239	
+2600240	Invaded by <?joinName?>!
+2600304	Hunter <?joinName?> summoned
+2601000	Summoned as a Furled Finger cooperator.\nHelp <?hostName?>, Host of Fingers,\ndefeat the area boss!
+2601100	Summoned as a duelist adversary.\nDefeat <?hostName?>, Host of Fingers!
+2601200	Invading another world.\nDefeat <?hostName?>, Host of Fingers!
+2601201	
+2601202	
+2601203	
+2601204	
+2601205	
+2601206	
+2601207	
+2601208	
+2601209	
+2601210	Invading another world.\nDefeat <?hostName?>, Host of Fingers!
+2601304	Summoned to the world of <?hostName?>,\nHost of Fingers, as a hunter.\nHelp them defeat Bloody Finger <?joinName?>!
+2601409	Summoned to another world.
+2601410	Invading another world.\nDefeat <?hostName?>!
+2601411	Invading another world.\nDefeat <?hostName?>!
+2601412	Invading another world.\nDefeat White Mask Varré!
+2601413	Invading another world.\nDefeat Old Knight Istvan!
+2601414	Invading another world.\nDefeat Rileigh the Idle!
+2601415	Invading another world.\nDefeat Juno Hoslow, Knight of Blood!
+2601416	Invading another world.\nDefeat Vargram the Raging Wolf and Errant Sorcerer Wilhelm!
+2601417	Invading another world.\nDefeat Great Horned Tragoth!
+2601418	Summoned to another world.\nDefeat Bloody Finger Ravenmount Assassin!
+2601419	Summoned to another world.\nDefeat Sorceress Sellen!
+2601420	Summoned to another world.\nDefeat Witch-Hunter Jerren!
+2601421	Summoned to another world.\nDefeat Millicent's sisters!
+2601422	Summoned to another world.\nDefeat Millicent!
+2601423	You have been ambushed!\nDefeat Ensha of the Royal Remains!
+2601424	Invading another world.\nDefeat Magnus the Beast Claw!
+2602000	Furled Finger <?joinName?> summoned as a cooperator
+2602001	
+2602002	
+2602003	
+2602004	
+2602005	
+2602006	
+2602007	
+2602008	
+2602009	
+2602010	<?joinName?> summoned as a cooperator
+2602100	Duelist <?joinName?> summoned as an adversary
+2602200	Invaded by Bloody Finger <?joinName?>!
+2602201	
+2602202	
+2602203	
+2602204	
+2602205	
+2602206	
+2602207	
+2602208	
+2602209	
+2602210	Invaded by Recusant <?joinName?>!
+2602211	
+2602212	
+2602213	
+2602214	
+2602215	
+2602216	
+2602217	
+2602218	
+2602219	
+2602220	Invaded by <?joinName?>!
+2602221	
+2602222	
+2602223	
+2602224	
+2602225	
+2602226	
+2602227	
+2602228	
+2602229	
+2602230	Invaded by <?joinName?>!
+2602231	
+2602232	
+2602233	
+2602234	
+2602235	
+2602236	
+2602237	
+2602238	
+2602239	
+2602240	Invaded by <?joinName?>!
+2602241	
+2602242	
+2602243	
+2602244	
+2602245	
+2602246	
+2602247	
+2602248	
+2602249	
+2602250	Bloody Finger <?joinName?> has invaded
+2602251	
+2602252	
+2602253	
+2602254	
+2602255	
+2602256	
+2602257	
+2602258	
+2602259	
+2602260	Recusant <?joinName?> has invaded
+2602261	
+2602262	
+2602263	
+2602264	
+2602265	
+2602266	
+2602267	
+2602268	
+2602269	
+2602270	<?joinName?> has invaded
+2602271	
+2602272	
+2602273	
+2602274	
+2602275	
+2602276	
+2602277	
+2602278	
+2602279	
+2602280	<?joinName?> has invaded
+2602281	
+2602282	
+2602283	
+2602284	
+2602285	
+2602286	
+2602287	
+2602288	
+2602289	
+2602290	<?joinName?> has invaded
+2602304	Hunter <?joinName?> summoned
+2602354	Hunter <?joinName?> summoned
+2610304	With their objective accomplished,\nHunter <?leaveName?> returned to their world
+2611000	Objective accomplished.\nReturning to your world.
+2611001	
+2611002	
+2611003	
+2611004	
+2611005	
+2611006	
+2611007	
+2611008	
+2611009	
+2611010	The Host of Fingers accomplished their objective in a distant location.\nReturning to your world.
+2611100	Host of Fingers defeated.\nReturning to your world.
+2611200	Host of Fingers defeated.\nReturning to your world.
+2611201	
+2611202	
+2611203	
+2611204	
+2611205	
+2611206	
+2611207	
+2611208	
+2611209	
+2611210	Host of Fingers defeated.\nReturning to your world.
+2611304	Invader defeated.\nReturning to your world.
+2611409	Objective accomplished.\nReturning to your world.
+2611410	Objective accomplished.\nReturning to your world.
+2611411	Objective accomplished.\nReturning to your world.
+2611412	White Mask Varré defeated.\nReturning to your world.
+2611413	Old Knight Istvan defeated.\nReturning to your world.
+2611414	Rileigh the Idle defeated.\nReturning to your world.
+2611415	Juno Hoslow, Knight of Blood defeated.\nReturning to your world.
+2611416	Vargram the Raging Wolf and Errant Sorcerer Wilhelm defeated.\nReturning to your world.
+2611417	Great Horned Tragoth defeated.\nReturning to your world.
+2611418	Bloody Finger Ravenmount Assassin defeated.\nReturning to your world.
+2611419	Sorceress Sellen defeated.\nReturning to your world.
+2611420	Witch-Hunter Jerren defeated.\nReturning to your world.
+2611421	Millicent's sisters defeated.\nReturning to your world.
+2611422	Millicent defeated.\nReturning to your world.
+2611423	Defeated Ensha of the Royal Remains.
+2611424	Magnus the Beast Claw defeated.\nReturning to your world.
+2612304	With their objective accomplished,\nHunter <?leaveName?> returned to their world
+2620000	Furled Finger <?deadName?> has died
+2620001	
+2620002	
+2620003	
+2620004	
+2620005	
+2620006	
+2620007	
+2620008	
+2620009	
+2620010	<?deadName?> has died
+2620100	Duelist <?deadName?> has died
+2620200	Bloody Finger <?deadName?> has died
+2620201	
+2620202	
+2620203	
+2620204	
+2620205	
+2620206	
+2620207	
+2620208	
+2620209	
+2620210	Recusant <?deadName?> has died
+2620211	
+2620212	
+2620213	
+2620214	
+2620215	
+2620216	
+2620217	
+2620218	
+2620219	
+2620220	<?deadName?> has died
+2620221	
+2620222	
+2620223	
+2620224	
+2620225	
+2620226	
+2620227	
+2620228	
+2620229	
+2620230	<?deadName?> has died
+2620231	
+2620232	
+2620233	
+2620234	
+2620235	
+2620236	
+2620237	
+2620238	
+2620239	
+2620240	<?deadName?> has died
+2620304	Hunter <?deadName?> has died
+2620430	<?roleName?> <?deadName?>  has been defeated 
+2621000	You died. Returning to your world.
+2621100	You died. Returning to your world.
+2621200	You died. Returning to your world.
+2621201	
+2621202	
+2621203	
+2621204	
+2621205	
+2621206	
+2621207	
+2621208	
+2621209	
+2621210	You died. Returning to your world.
+2621304	You died. Returning to your world.
+2621409	You died. Returning to your world.
+2621410	You died. Returning to your world.
+2621411	You died. Returning to your world.
+2621412	You died. Returning to your world.
+2621413	You died. Returning to your world.
+2621414	You died. Returning to your world.
+2621415	You died. Returning to your world.
+2621416	You died. Returning to your world.
+2621417	You died. Returning to your world.
+2621418	You died. Returning to your world.
+2621419	You died. Returning to your world.
+2621420	You died. Returning to your world.
+2621421	You died. Returning to your world.
+2621422	You died. Returning to your world.
+2621423	You died
+2621424	You died. Returning to your world.
+2621425	
+2621426	
+2621427	
+2621428	
+2621429	
+2621430	You have been defeated.\nYou will revive and return to combat.
+2622000	Furled Finger <?deadName?> has died
+2622001	
+2622002	
+2622003	
+2622004	
+2622005	
+2622006	
+2622007	
+2622008	
+2622009	
+2622010	<?deadName?> has died
+2622100	Duelist <?deadName?> has died
+2622200	Bloody Finger <?deadName?> has died
+2622201	
+2622202	
+2622203	
+2622204	
+2622205	
+2622206	
+2622207	
+2622208	
+2622209	
+2622210	Recusant <?deadName?> has died
+2622211	
+2622212	
+2622213	
+2622214	
+2622215	
+2622216	
+2622217	
+2622218	
+2622219	
+2622220	<?deadName?> has died
+2622221	
+2622222	
+2622223	
+2622224	
+2622225	
+2622226	
+2622227	
+2622228	
+2622229	
+2622230	<?deadName?> has died
+2622231	
+2622232	
+2622233	
+2622234	
+2622235	
+2622236	
+2622237	
+2622238	
+2622239	
+2622240	<?deadName?> has died
+2622304	Hunter <?deadName?> has died
+2630000	Furled Finger <?leaveName?> has returned to their world
+2630001	
+2630002	
+2630003	
+2630004	
+2630005	
+2630006	
+2630007	
+2630008	
+2630009	
+2630010	<?leaveName?> has returned to their world
+2630100	Duelist <?leaveName?> has returned to their world
+2630200	Bloody Finger <?leaveName?> has returned to their world
+2630201	
+2630202	
+2630203	
+2630204	
+2630205	
+2630206	
+2630207	
+2630208	
+2630209	
+2630210	Recusant <?leaveName?> has returned to their world
+2630211	
+2630212	
+2630213	
+2630214	
+2630215	
+2630216	
+2630217	
+2630218	
+2630219	
+2630220	<?leaveName?> has returned to their world
+2630221	
+2630222	
+2630223	
+2630224	
+2630225	
+2630226	
+2630227	
+2630228	
+2630229	
+2630230	<?leaveName?> has returned to their world
+2630231	
+2630232	
+2630233	
+2630234	
+2630235	
+2630236	
+2630237	
+2630238	
+2630239	
+2630240	<?leaveName?> has returned to their world
+2630304	Hunter <?leaveName?> has returned to their world
+2631000	Returning to your world
+2631100	Returning to your world
+2631200	Returning to your world
+2631201	
+2631202	
+2631203	
+2631204	
+2631205	
+2631206	
+2631207	
+2631208	
+2631209	
+2631210	Returning to your world
+2631304	Returning to your world
+2631409	Returning to your world
+2631410	Returning to your world
+2631411	Returning to your world
+2631412	Returning to your world
+2631413	Returning to your world
+2631414	Returning to your world
+2631415	Returning to your world
+2631416	Returning to your world
+2631417	Returning to your world
+2631418	Returning to your world
+2631419	Returning to your world
+2631420	Returning to your world
+2631421	Returning to your world
+2631422	Returning to your world
+2631423	
+2631424	Returning to your world
+2632000	Furled Finger <?leaveName?> has returned to their world
+2632001	
+2632002	
+2632003	
+2632004	
+2632005	
+2632006	
+2632007	
+2632008	
+2632009	
+2632010	<?leaveName?> has returned to their world
+2632100	Duelist <?leaveName?> has returned to their world
+2632200	Bloody Finger <?leaveName?> has returned to their world
+2632201	
+2632202	
+2632203	
+2632204	
+2632205	
+2632206	
+2632207	
+2632208	
+2632209	
+2632210	Recusant <?leaveName?> has returned to their world
+2632211	
+2632212	
+2632213	
+2632214	
+2632215	
+2632216	
+2632217	
+2632218	
+2632219	
+2632220	<?leaveName?> has returned to their world
+2632221	
+2632222	
+2632223	
+2632224	
+2632225	
+2632226	
+2632227	
+2632228	
+2632229	
+2632230	<?leaveName?> has returned to their world
+2632231	
+2632232	
+2632233	
+2632234	
+2632235	
+2632236	
+2632237	
+2632238	
+2632239	
+2632240	<?leaveName?> has returned to their world
+2632304	Hunter <?leaveName?> has returned to their world
+2640000	Furled Finger <?leaveName?> was sent back to their world
+2640001	
+2640002	
+2640003	
+2640004	
+2640005	
+2640006	
+2640007	
+2640008	
+2640009	
+2640010	<?leaveName?> was sent back to their world
+2640304	Hunter <?leaveName?> was sent back to their world
+2640305	Duelist <?leaveName?> was sent back to their world
+2641000	Sent home by the Host of Fingers.\nReturning to your world.
+2641304	Sent home by the Host of Fingers.\nReturning to your world.
+2641305	Sent home by the Host of Fingers.\nReturning to your world.
+2642000	Furled Finger <?leaveName?> has been sent back to their world
+2642001	
+2642002	
+2642003	
+2642004	
+2642005	
+2642006	
+2642007	
+2642008	
+2642009	
+2642010	<?leaveName?> has been sent back to their world
+2642304	Hunter <?leaveName?> has been sent back to their world
+2642305	Duelist <?leaveName?> has been sent back to their world
+2650430	You have been defeated.\nYou will revive and return to combat.
+2651000	The Host of Fingers has died.\nReturning to your world.
+2651304	The Host of Fingers has died.\nReturning to your world.
+2651420	Sorceress Sellen has died.\nReturning to your world.
+2651421	Millicent has died.\nReturning to your world.
+2651422	
+2651423	
+2651424	
+2651425	
+2651426	
+2651427	
+2651428	
+2651429	
+2651430	<?roleName?> <?deadName?>  has been defeated 
+2661000	You may now challenge the area boss
+2661100	The Host of Fingers has begun fighting the area boss.\nReturning to your world.
+2661200	The Host of Fingers has begun fighting the area boss.\nReturning to your world.
+2661201	
+2661202	
+2661203	
+2661204	
+2661205	The Host of Fingers has begun fighting the area boss.\nReturning to your world.
+2661206	
+2661207	
+2661208	
+2661209	
+2661210	The Host of Fingers has accomplished their objective.\nReturning to your world.
+2661211	
+2661212	
+2661213	
+2661214	
+2661215	
+2661216	
+2661217	
+2661218	
+2661219	
+2661220	The Host of Fingers has accomplished their objective.\nReturning to your world.
+2661221	
+2661222	
+2661223	
+2661224	
+2661225	The Host of Fingers has accomplished their objective.\nReturning to your world.
+2661304	The Host of Fingers has begun fighting the area boss.\nReturning to your world.
+2670304	Hunter <?leaveName?> has returned to their world
+2672304	Hunter <?leaveName?> has returned to their world
+2681100	The Host of Fingers has left the area. Returning to your world.
+2700430	<?roleName?> <?leaveName?> has left combat
+2701000	A connection error occurred.\nReturning to your world.
+2701100	A connection error occurred.\nReturning to your world.
+2701200	A connection error occurred.\nReturning to your world.
+2701201	
+2701202	
+2701203	
+2701204	
+2701205	
+2701206	
+2701207	
+2701208	
+2701209	
+2701210	A connection error occurred.\nReturning to your world.
+2701304	A connection error occurred.\nReturning to your world.
+2701430	A connection error occurred.\nLeaving combat.
+2702430	<?roleName?> <?leaveName?> has left combat
+2712200	Bloody Finger <?deadName?> defeated.\nObjective accomplished. Returning to your world.
+2712201	
+2712202	
+2712203	
+2712204	
+2712205	
+2712206	
+2712207	
+2712208	
+2712209	
+2712210	Recusant <?deadName?> defeated.\nObjective accomplished. Returning to your world.
+2712211	
+2712212	
+2712213	
+2712214	
+2712215	
+2712216	
+2712217	
+2712218	
+2712219	
+2712220	Defeated <?deadName?>.\nObjective accomplished. Returning to your world.
+2712221	
+2712222	
+2712223	
+2712224	
+2712225	
+2712226	
+2712227	
+2712228	
+2712229	
+2712230	Defeated <?deadName?>.\nObjective accomplished. Returning to your world.
+2712231	
+2712232	
+2712233	
+2712234	
+2712235	
+2712236	
+2712237	
+2712238	
+2712239	
+2712240	Defeated <?deadName?>.\nObjective accomplished. Returning to your world.
+2722200	Bloody Finger <?leaveName?> has returned to their world.\nObjective accomplished. Returning to your world.
+2722201	
+2722202	
+2722203	
+2722204	
+2722205	
+2722206	
+2722207	
+2722208	
+2722209	
+2722210	Recusant <?leaveName?> has returned to their world.\nObjective accomplished. Returning to your world.
+2722211	
+2722212	
+2722213	
+2722214	
+2722215	
+2722216	
+2722217	
+2722218	
+2722219	
+2722220	<?leaveName?> has returned to their world.\nReturning to your world.
+2722221	
+2722222	
+2722223	
+2722224	
+2722225	
+2722226	
+2722227	
+2722228	
+2722229	
+2722230	<?leaveName?> has returned to their world.\nReturning to your world.
+2722231	
+2722232	
+2722233	
+2722234	
+2722235	
+2722236	
+2722237	
+2722238	
+2722239	
+2722240	<?leaveName?> has returned to their world.\nReturning to your world.
+2731430	<?roleName?><?deadName?> defeated
+2741000	The Host of Fingers has left the area. Returning to your world.
+2741100	The Host of Fingers has left the area. Returning to your world.
+2741200	The Host of Fingers has left the area. Returning to your world.
+2741201	
+2741202	
+2741203	
+2741204	
+2741205	
+2741206	
+2741207	
+2741208	
+2741209	
+2741210	The Host of Fingers has left the area. Returning to your world.
+2741304	The Host of Fingers has left the area. Returning to your world.
+2751413	Unable to commence combat.\nLeaving combat.
+2760413	All combatants have left combat.\nLeaving combat.
+2920000	You are beyond the boundaries of the\nmultiplayer area. Returning inside.
+3000000	Message was appraised
+3000001	Failed to create message due to network error
+3000100	This summoning pool is now functional
+3000200	<?codenameIcon?><?codenamePCName?> defeated a shardbearer!
+3000201	Someone in the <?codenameIcon?> group\ndefeated a shardbearer!
+3000202	Someone in your group has accomplished something remarkable!
+3000203	
+3000204	
+3000205	
+3000206	
+3000207	
+3000208	
+3000209	
+3000210	<?codenameIcon?><?codenamePCName?> has become the Elden Lord
+3000211	Someone in the <?codenameIcon?> group has become the Elden Lord
+3000212	
+3000213	
+3000214	
+3000215	
+3000216	
+3000217	
+3000218	
+3000219	
+3000220	<?codenameIcon?><?codenamePCName?> has become the Elden Lord
+3000221	Someone in the <?codenameIcon?> group has become the Elden Lord
+3000222	
+3000223	
+3000224	
+3000225	
+3000226	
+3000227	
+3000228	
+3000229	
+3000230	<?codenameIcon?><?codenamePCName?> has become the Elden Lord
+3000231	Someone in the <?codenameIcon?> group has become the Elden Lord
+3000232	
+3000233	
+3000234	
+3000235	
+3000236	
+3000237	
+3000238	
+3000239	
+3000240	<?codenameIcon?><?codenamePCName?> has become the Elden Lord
+3000241	Someone in the <?codenameIcon?> group has become the Elden Lord
+3000242	
+3000243	
+3000244	
+3000245	
+3000246	
+3000247	
+3000248	
+3000249	
+3000250	<?codenameIcon?><?codenamePCName?> has become a Lord
+3000251	Someone in the <?codenameIcon?> group has become a Lord
+3000252	
+3000253	
+3000254	
+3000255	
+3000256	
+3000257	
+3000258	
+3000259	
+3000260	<?codenameIcon?><?codenamePCName?> has become a Lord
+3000261	Someone in the <?codenameIcon?> group has become a Lord
+3000262	
+3000263	
+3000264	
+3000265	
+3000266	
+3000267	
+3000268	
+3000269	
+3000270	<?codenameIcon?><?codenamePCName?> has become a Lord
+3000271	Someone in the <?codenameIcon?> group has become a Lord
+3000272	
+3000273	
+3000274	
+3000275	
+3000276	
+3000277	
+3000278	
+3000279	
+3000280	<?codenameIcon?><?codenamePCName?> has become a Lord
+3000281	Someone in the <?codenameIcon?> group has become a Lord

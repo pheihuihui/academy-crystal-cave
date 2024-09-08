@@ -1,0 +1,644 @@
+1	
+101000	<?keyControlCamera?>: <?keyActFullName@10?>
+101030	<?keyicon@15?>: <?keyActName@15?>
+101031	
+101032	
+101033	
+101034	
+101035	
+101036	
+101037	
+101038	
+101039	
+101040	<?keyicon@22?>: <?keyActName@22?>
+101041	
+101042	
+101043	
+101044	
+101045	
+101046	
+101047	
+101048	
+101049	
+101050	<?keyicon@23?>: <?keyActName@23?>
+101080	<?keyicon@8?>: <?keyActName@8?>
+101081	
+101082	
+101083	
+101084	
+101085	
+101086	
+101087	
+101088	
+101089	
+101090	Hold <?keyMove?>+<?keyicon@7?>: Dash
+101110	<?keyControlCamera?> while locked-on to a target: Change target
+101111	
+101112	
+101113	
+101114	
+101115	
+101116	
+101117	
+101118	
+101119	
+101120	<?keyicon@24?>: Guard
+101121	
+101122	
+101123	
+101124	
+101125	
+101126	
+101127	
+101128	
+101129	
+101130	Materials can be used to craft items.
+101150	<?keyicon@22?> near a backturned enemy: Critical hit
+101170	<?keyicon@27?>: HUD display
+101171	
+101172	
+101173	
+101174	
+101175	
+101176	
+101177	
+101178	
+101179	
+101180	<?keyicon@8?> during mounted jump: Double jump
+201010	<?keyicon@26?>: <?keyActName@26?>\n<?keyicon@18?>: <?keyActName@18?>
+201070	
+201100	Each hand can be equipped with up to three armaments, allowing you to toggle between them.\n\nArmaments can also be two-handed, making attacks more difficult to repel with shields and boosting effective strength by 50%.\n\n<?keyicon@19?>: <?keyActName@19?>\n<?keyicon@20?>: <?keyActName@20?>\n<?keyicon@27?>+<?keyicon@24?>/<?keyicon@22?>: Wield with two hands
+301020	Resting at a site of grace will restore your HP, FP, and cleanse any status ailments.\nIt will also refill your sacred flasks.\nHowever, most of the enemies you've defeated will be revived.\n\nYou can find sites of grace by going where light converges.\n\n*These explanations are acquired in the form of info items and can be accessed from the inventory at any time.
+301060	You can memorize sorceries and incantations at sites of grace.\n\nYou must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.\nCasting sorceries and incantations consumes FP.\n\n<?keyicon@0017?>: <?keyActName@17?>
+301130	Equip a bow to fire arrows.\nYou can equip up to two types of arrows to choose from at once.\n\nWhen wielding a bow with two hands, hold <?keyicon@24?> for precision aiming.\nUse <?keyControlCamera?> to adjust your aim.\n\n<?keyicon@22?>: Fire arrow type 1\n<?keyicon@23?>: Fire arrow type 2\n<?keyicon@24?>: Precision aiming
+301131	
+301132	
+301133	
+301134	
+301135	
+301136	
+301137	
+301138	
+301139	
+301140	Crouch to make it harder for enemies to discover you.\nEspecially effective in tall grass.\n\nAttacking an enemy that hasn't noticed you will cause more damage than usual.\n\n<?keyicon@9?>: <?keyActName@9?>
+301160	Some attacks may break an enemy's stance, giving you a chance to perform a critical hit.\n\nCharge attacks and jump attacks make it particularly easy to break an enemy's stance.\n\nHold <?keyicon@23?>: Charge attack\n<?keyicon@23?> while jumping: Jump attack
+301500	Use your map to check your current position, as well as the terrain and surrounding structures.\n\nYou can update your map with new information by finding map fragments at steles along the road.\n\nYou can also use the map to freely place beacons of light to serve as landmarks as you explore.\n\n<?keyicon@29?>: <?keyActName@29?>
+301501	
+301502	
+301503	
+301504	
+301505	
+301506	
+301507	
+301508	
+301509	
+301510	Grace exists to guide the Tarnished and lead them along the proper path.\n\nEven now, some sites of grace retain that power. Their golden rays will guide you along your way.
+301511	
+301512	
+301513	
+301514	
+301515	
+301516	
+301517	
+301518	
+301519	
+301520	Use the Spectral Steed Whistle to summon and ride your spectral steed.\n\nIf your spectral steed dies, you can summon it again, but it will cost one Flask of Crimson Tears to do so.\n\nYou can dismount by using the whistle again or by pressing <?keyicon@0009?>.
+301521	
+301522	
+301523	
+301524	
+301525	
+301526	
+301527	
+301528	
+301529	
+301530	Upon dying, you will be revived at the last site of grace that you visited.\n\nYou will drop any runes in your possession at the site of your death.\nIf you die again before reclaiming those runes, they will be lost forever.\n\nThe compass at the top of the screen indicates the direction of the lost runes.
+301531	
+301532	
+301533	
+301534	
+301535	
+301536	
+301537	
+301538	
+301539	
+301540	Upon dying, you will be revived at the last site of grace that you visited.\n\nHowever, if there is a Stake of Marika near where you died, you can choose to be revived there instead.
+301541	
+301542	
+301543	
+301544	
+301545	
+301546	
+301547	
+301548	
+301549	
+301550	With a Spirit Calling Bell, you can use ashes to summon various spirits.\nSummoning typically consumes FP.\n\nYou can only summon one type of spirit at a time.\nYou cannot summon spirits during multiplayer.
+301551	
+301552	
+301553	
+301554	
+301555	
+301556	
+301557	
+301558	
+301559	
+301560	In every corner of the Lands Between, you will find fruits and flowers, mushrooms and butterflies, and various other useful materials.\n\nThese materials can be used for item crafting.
+301561	
+301562	
+301563	
+301564	
+301565	
+301566	
+301567	
+301568	
+301569	
+301570	If you have a Crafting Kit, you can make various items from materials that you find.\n\nSelect "Item Crafting" from the main menu to make items.\n\nYou can learn to craft more items by finding cookbooks.\n\n<?keyicon@28?>: <?keyActName@28?>
+301571	
+301572	
+301573	
+301574	
+301575	
+301576	
+301577	
+301578	
+301579	
+301580	You will need cracked pots or other containers to craft certain items.\nYou will not be able to make more of those items than you have containers.\n\nContainer items will run out with use, but the containers themselves will remain.
+301581	
+301582	
+301583	
+301584	
+301585	
+301586	
+301587	
+301588	
+301589	
+301590	You can find crystal tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between.\n\nAt sites of grace, you can mix two crystal tears in the Flask of Wondrous Physick.\nThis will allow you to create elixirs with various custom effects.
+301591	
+301592	
+301593	
+301594	
+301595	
+301596	
+301597	
+301598	
+301599	
+301600	With a Whetstone Knife, you can use ashes of war to grant your armaments new skills at sites of grace.\n\nAn armament can only have one skill.\nAny skill it previously had will be removed.\n\nAn armament's type determines what skills it can have. Some special armaments have unique skills and cannot be granted new ones.
+301601	
+301602	
+301603	
+301604	
+301605	
+301606	
+301607	
+301608	
+301609	
+301610	You can use the Birdseye Telescopes found in various areas to get a bird's-eye view of the terrain in the direction that the telescope is facing.\n\n<?keyicon@17?>: Zoom in\n<?keyicon@18?>: Zoom out
+301611	
+301612	
+301613	
+301614	
+301615	
+301616	
+301617	
+301618	
+301619	
+301620	Jump while on horseback near a spiritspring to ride its current high into the air.\n\nYou won't take damage from jumping into a spiritspring while on horseback, even from a great height.\n\n<?keyicon@8?> at a spiritspring while on horseback: Spiritspring jump
+301621	
+301622	
+301623	
+301624	
+301625	
+301626	
+301627	
+301628	
+301629	
+301630	Vanquishing an enemy group will replenish your flasks.\n\nThe number and type of flasks to be replenished varies, depending on the enemy group.\n\nYou cannot replenish more flasks than your maximum amount allows.
+301631	
+301632	
+301633	
+301634	
+301635	
+301636	
+301637	
+301638	
+301639	
+301640	There are both Crimson and Cerulean Teardrop Scarabs.\nDefeat them to replenish the flasks that match their type.\n\nHowever, you cannot replenish more flasks than your maximum amount allows.
+301641	
+301642	
+301643	
+301644	
+301645	
+301646	
+301647	
+301648	
+301649	
+301650	Use Furlcalling Finger Remedy to reveal summon signs of players from other worlds.\n\nGold signs indicate an ally.\nRed signs indicate an adversary.\nThe multiplayer session will begin once either type has been summoned.\n(You will take the role of the Host of Fingers.)
+301651	
+301652	
+301653	
+301654	
+301655	
+301656	
+301657	
+301658	
+301659	
+301660	Use Tarnished's Furled Finger to write a gold summon sign.\n\nCooperative multiplayer will begin once you have been summoned by a player from another world.\n\nYou will take the role of an ally (Furled Finger) and your objective is to defeat the area boss.\n\nThe compass at the top of the screen indicates the direction of the summoner (Host of Fingers).
+301661	
+301662	
+301663	
+301664	
+301665	
+301666	
+301667	
+301668	
+301669	
+301670	Use Duelist's Furled Finger to write a red summon sign.\n\nCompetitive multiplayer will begin once you have been summoned by a player from another world.\n\nYou will take the role of an adversary (Duelist) and your objective is to defeat the Host of Fingers who summoned you.
+301671	
+301672	
+301673	
+301674	
+301675	
+301676	
+301677	
+301678	
+301679	
+301680	Use Festering Bloody Finger to attempt to invade the world of another player.\n\nThe multiplayer session will begin once the invasion succeeds.\n\nYou will take the role of an invader (Bloody Finger) and your objective is to defeat the Host of Fingers of that world.\n\nIf you stray far from the Host of Fingers, the compass at the top of the screen points to their location.
+301681	
+301682	
+301683	
+301684	
+301685	
+301686	
+301687	
+301688	
+301689	
+301690	In each area, you may find effigies of martyrs.\nThese effigies are summoning pools.\n\nYou'll find it easy to summon other players at these locations, as co-op and hostile summoning signs created with small effigies gather at summoning pools.
+302000	With a Whetstone Knife, you can use ashes of war to grant affinities to your armaments at sites of grace.\n\nThis way, you can alter an armament's attack affinity, boost attribute scaling, and more.\n\nAn armament's type determines what affinities it can have. Some special armaments, like those with unique skills, cannot be granted new affinities.
+302380	If you use a Blue Cipher Ring, you will make yourself open to summons for rescue from other worlds.\n\nThe multiplayer session will begin once you have been summoned as a hunter, and your objective is to defeat the invader of that world.\n\nThe compass at the top of the screen indicates the direction of the summoner (Host of Fingers).
+302381	
+302382	
+302383	
+302384	
+302385	
+302386	
+302387	
+302388	
+302389	
+302390	You must be near a rebirth monument to summon spirits from ashes.\n\nWhen you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+302391	
+302392	
+302393	
+302394	
+302395	
+302396	
+302397	
+302398	
+302399	
+302400	You can perform a counterattack immediately after blocking an enemy attack.\n\nGuard counters make it easy to break an enemy's stance.\n\n<?keyicon@23?> immediately after blocking an attack: Guard Counter
+302401	
+302402	
+302403	
+302404	
+302405	
+302406	
+302407	
+302408	
+302409	
+302410	Use an armament in your left hand or both hands to guard against incoming attacks.\nGuarding is especially effective when done with a shield.\n\nGuarding consumes stamina.\nIf your stamina runs out, your stance will be broken.\n\n<?keyicon@24?>: Guard
+302411	
+302412	
+302413	
+302414	
+302415	
+302416	
+302417	
+302418	
+302419	
+302420	If you use a White Cipher Ring, you will automatically request for a hunter from another world to come to your rescue when your world is invaded.\n(Can also be used after you are invaded.)\n\nThe hunter will be summoned once the request succeeds, and their objective is to defeat the invader of your world.
+302421	
+302422	
+302423	
+302424	
+302425	
+302426	
+302427	
+302428	
+302429	
+302430	Armaments have special abilities called skills.\n\nSkills are highly varied, and range from powerful attacks to temporary effects.\nUsing skills consumes FP.\n\n<?keyicon@25?>: <?keyActName@25?>
+302431	
+302432	
+302433	
+302434	
+302435	
+302436	
+302437	
+302438	
+302439	
+302440	Through your map, you can instantly travel to any sites of grace that you've discovered.\n\nHowever, there are some dungeons and other areas where this cannot be done.
+302441	
+302442	
+302443	
+302444	
+302445	
+302446	
+302447	
+302448	
+302449	
+302450	At a smithing table, you can spend runes and smithing stones to strengthen your armaments.\n\nSomewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.
+302451	
+302452	
+302453	
+302454	
+302455	
+302456	
+302457	
+302458	
+302459	
+302460	The Roundtable Hold is a place where Tarnished gather, guided by grace. Combat is prohibited on the premises due to a pact of non-aggression. (This rule is in effect when the Roundtable icon is displayed.)\nThe Roundtable Hold is located outside of this world, and fast travel by grace is the only means of reaching it. (Use the map to travel there.)\n\n<?keyicon@29?>: <?keyActName@29?>
+302461	
+302462	
+302463	
+302464	
+302465	
+302466	
+302467	
+302468	
+302469	
+302470	Monk Jiko seeks the deep fog of sleep.\n\nFind someone in a deep sleep, and capture their Dream Mist by using St. Trina's Crystal Ball.\n\nThose in a deep sleep can be identified by the mist surrounding them.\n\n<?keyicon@27?> when near someone in a deep sleep: Capture Dream Mist
+302471	
+302472	
+302473	
+302474	
+302475	
+302476	
+302477	
+302478	
+302479	
+302480	From "Pouch" in the main menu, you can equip six items to your pouches.\n\nFour of those items can be used without opening the main menu.\n\n<?keyicon@27?>+<?keyicon@17?>: Use item in Pouch 1\n<?keyicon@27?>+<?keyicon@19?>: Use item in Pouch 2\n<?keyicon@27?>+<?keyicon@20?>: Use item in Pouch 3\n<?keyicon@27?>+<?keyicon@18?>: Use item in Pouch 4
+302481	
+302482	
+302483	
+302484	
+302485	
+302486	
+302487	
+302488	
+302489	
+302490	You can avoid enemy attacks with a dodge roll or backstep.\nBoth of these actions consume stamina.\n\n<?keyMove?>+<?keyicon@7?>: Dodge roll\n<?keyicon@7?>: Backstep
+302491	
+302492	
+302493	
+302494	
+302495	
+302496	
+302497	
+302498	
+302499	
+302500	The Great Runes you receive by defeating shardbearers have lost their beneficial power.\nHowever, their power can be restored at Divine Towers throughout the Lands Between.\n\nSee the description of each Great Rune to discover which Divine Tower you should visit.
+302501	
+302502	
+302503	
+302504	
+302505	
+302506	
+302507	
+302508	
+302509	
+302510	Jump down the hole ahead, and you will find the Cave of Knowledge.\n\nThere, you can learn more about game controls and basic actions, as well as other tips that may be helpful during your adventures in the Lands Between.
+302550	To engage in combat with other players, touch the effigy of Marika in a Colosseum.\n\nDuels, in which combatants fight one on one, can be undertaken in this venue.
+302551	
+302552	
+302553	
+302554	
+302555	
+302556	
+302557	
+302558	
+302559	
+302560	To engage in combat with other players, touch the effigy of Marika in a Colosseum.\n\nUnited Combat and Combat Ordeals can be undertaken in this venue.\n\nIn United Combat two teams of fighters clash. Combat Ordeals are all-out brawls in which every combatant is out for themselves.
+302561	
+302562	
+302563	
+302564	
+302565	
+302566	
+302567	
+302568	
+302569	
+302570	To engage in combat with other players, touch the effigy of Marika in a Colosseum.\n\nIn this venue, spirit ashes are permitted for use in battle.
+302571	
+302572	
+302573	
+302574	
+302575	
+302576	
+302577	
+302578	
+302579	
+302580	The effigy of Marika at the Roundtable Hold can be used to enter Colosseum combat.\n\nYour preferred format may be chosen from those of Colosseums already visited.
+309000	You will need certain items to participate in each type of multiplayer:\ncooperative, invasion, or competitive.\n\nSelect "Multiplayer" from the main menu to see your multiplayer items.\nYou can also use them directly from this menu.\n\n<?keyicon@28?>: <?keyActName@28?>
+402000	With the Equipment menu, you can equip armaments, arrows, bolts, armor, talismans, and items.\n\nYou can equip up to three armaments each to your left and right hands.\nThe actions each armament performs will vary based on which hand is wielding it.
+402001	
+402002	
+402003	
+402004	
+402005	
+402006	
+402007	
+402008	
+402009	
+402010	With the Item Crafting menu, you can make various items from materials that you find.\n\nYou can learn to craft more items by finding cookbooks.
+402011	
+402012	
+402013	
+402014	
+402015	
+402016	
+402017	
+402018	
+402019	
+402020	With the Inventory menu, you can browse the items you're carrying, drop them on the ground, or throw them away.\n\nYou can also use tools from the Inventory menu.\n\n<?keyicon@31?>: Show large image and explanation.\n<?keyicon@30?>: Toggle character data
+402021	
+402022	
+402023	
+402024	
+402025	
+402026	
+402027	
+402028	
+402029	
+402030	With the Status menu, you can check your level, attributes, base stats, and more.\n\nThe information shown here also reflects changes to your attack, defense, and resistances bestowed by armaments and armor that you have equipped.
+402031	
+402032	
+402033	
+402034	
+402035	
+402036	
+402037	
+402038	
+402039	
+402040	With the Messages menu, you can write messages that players in other worlds can read at the spot where you left them.\n\nYou can change the message format to leave more complex messages and also attach gestures to your messages.\n\nYou can rate other players' messages.\nWhenever another player rates a message that you've written, your HP will be replenished.
+402041	
+402042	
+402043	
+402044	
+402045	
+402046	
+402047	
+402048	
+402049	
+402050	With the Multiplayer menu, you can use various multiplayer items.\n\nIf you set a group password, you'll be more likely to see messages, summon signs, bloodstains, phantoms, and so on from others using the same password.\n\nIf you set a multiplayer password, you'll only be matched with other players using the same password for most multiplayer features.\nHowever, multiplayer passwords do not apply to invasion multiplayer.
+402100	With the Map menu, you can check your current position and terrain and buildings in the surrounding area.\n\nYou can also freely place beacons of light to serve as landmarks as you explore.\n\nLastly, through your map, you can select any site of grace that you've discovered and travel there instantaneously.\nHowever, there are some dungeons and other areas where this cannot be done.
+402200	With the Level Up menu, you can spend runes to increase your attributes.\n\nWith each attribute increase, your level rises by one.\nAs your level rises, so does the amount of runes required for your next attribute increase.
+402201	
+402202	
+402203	
+402204	
+402205	
+402206	
+402207	
+402208	
+402209	
+402210	You can increase the number of flasks available.\n\nLocate Flask Shards in order to increase the number of flasks.
+402211	
+402212	
+402213	
+402214	
+402215	
+402216	
+402217	
+402218	
+402219	
+402220	You can increase the healing amount of each flask.\n\nLocate "Immortal Ashes" in order to increase the healing amount.
+402221	
+402222	
+402223	
+402224	
+402225	
+402226	
+402227	
+402228	
+402229	
+402230	With this menu, you can allocate the number of uses in each of your flasks.\n\nYou have a set total of maximum flask uses.\nYou can decide how many of those uses are for the HP-replenishing Flask of Crimson Tears, and how many are for the FP-replenishing Flask of Cerulean Tears.
+402231	
+402232	
+402233	
+402234	
+402235	
+402236	
+402237	
+402238	
+402239	
+402240	With the Memorize Spells menu, you can memorize sorceries and incantations.\n\nYou must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.\nCasting sorceries and incantations consumes FP.\n\nYour memory slots determine the number of sorceries and incantations you can memorize.\nYou can increase your memory slots by obtaining a Memory Stone.
+402241	
+402242	
+402243	
+402244	
+402245	
+402246	
+402247	
+402248	
+402249	
+402250	With this menu, you can place items that you're carrying into the chest for storage, or take stored items out of the chest.\n\nIf you are already carrying the maximum number of items when you pick up a new item, it will be stored in the chest automatically.
+402300	With the shop menu, you can spend runes to purchase various items.\n\nYou can also sell items for runes.\n\nEach merchant stocks a different variety of items for purchase.
+402301	
+402302	
+402303	
+402304	
+402305	
+402306	
+402307	
+402308	
+402309	
+402310	Weapons and shields can be upgraded by using upgrade materials.\n\nHigher ranked upgrade materials are required for highler level weapons.
+402311	
+402312	
+402313	
+402314	
+402315	
+402316	
+402317	
+402318	
+402319	
+402320	With the Ashes of War menu, you can use Ashes of War to grant skills and affinities to your armaments at sites of grace.\n\nAn armament can only have one skill.\nAny skill it previously had will be lost.\n\nBy adding an affinity, you can alter an armament's attack affinity, boost attribute scaling, and more.\n\nAn armament's type determines what skills and affinities it can have. Some special armaments cannot be granted new skills or affinities using Ashes of War.
+402321	
+402322	
+402323	
+402324	
+402325	
+402326	
+402327	
+402328	
+402329	
+402330	With the Spirit Tuning menu, you can spend runes and Grave Gloveworts to strengthen the spirits you summon from ashes.\n\nTo strengthen named spirits, you'll need Ghost Gloveworts.
+402331	
+402332	
+402333	
+402334	
+402335	
+402336	
+402337	
+402338	
+402339	
+402340	You can learn magic from the Dragon Communion.\n\nMemorize these spells by offering Dragon Communion Seeds.
+402341	
+402342	
+402343	
+402344	
+402345	
+402346	
+402347	
+402348	
+402349	
+402350	With the Great Rune menu, you can equip Great Runes that\nhave had their power restored.\n\nYou can use a Rune Arc to give even greater benefits to\nyour equipped Great Runes.
+402351	
+402352	
+402353	
+402354	
+402355	
+402356	
+402357	
+402358	
+402359	
+402360	With this menu, you can mix two crystal tears in the Flask of Wondrous Physick.\n\nThis will allow you to create physicks with various custom effects.
+402361	
+402362	
+402363	
+402364	
+402365	
+402366	
+402367	
+402368	
+402369	
+402370	With the Rebirth menu, you can spend Larval Tears to clear\nyour levels and reassign them from square one.\n\nYou must reassign all levels until you reach your present\nlevel and you cannot make any attributes lower than\ntheir initial level determined by your origin.
+402371	
+402372	
+402373	
+402374	
+402375	
+402376	
+402377	
+402378	
+402379	
+402380	With the Power of Remembrance menu, you can draw out the power of a remembrance's namesake.\n\nEach remembrance can provide one power. Once that power is claimed, the remembrance will be lost.
+402381	
+402382	
+402383	
+402384	
+402385	
+402386	
+402387	
+402388	
+402389	
+402390	With the smithing menu, you can spend runes and smithing stones to strengthen your armaments.\n\nYou can strengthen your armaments up to +3 at a smithing table.\n\nSomewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.
+402391	
+402392	
+402393	
+402394	
+402395	
+402396	
+402397	
+402398	
+402399	
+402400	With the Remembrance Duplication menu, you can duplicate remembrances you've previously acquired.\n(This includes remembrances from which you've already drawn out power.)\n\nDuplication can only be performed once per mausoleum.
+402500	With the Colosseum menu, you can adjust the rules for Colosseum combat, such as the format, player count, and use of spirit ashes, etc. You may also set your Colosseum password here.\n\nYou can jump straight into combat from this menu.
