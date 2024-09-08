@@ -1,0 +1,4 @@
+280004	Please check your settings. Keys bound to dedicated menu functionality cannot be used.
+401130	The following DLC cannot be found:\n\n<?requiredDlcList?>\n\nThis profile cannot be loaded until the required DLC is reinstalled.
+401131	Shadow of the Erdtree
+401406	Connection to Steamworks failed: <?errcodeSteam?>\nReturning to title menu.

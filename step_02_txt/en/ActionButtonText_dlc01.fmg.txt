@@ -1,0 +1,147 @@
+7310	Talk
+7311	
+7312	
+7313	
+7314	
+7315	
+7316	
+7317	
+7318	
+7319	
+7320	Touch cross
+7321	
+7322	
+7323	
+7324	
+7325	
+7326	
+7327	
+7328	
+7329	
+7330	Examine puppet
+7331	
+7332	
+7333	
+7334	
+7335	
+7336	
+7337	
+7338	
+7339	
+7340	Examine
+7341	
+7342	
+7343	
+7344	
+7345	
+7346	
+7347	
+7348	
+7349	
+7350	Talk
+202800	Acquire materials
+202801	
+202802	
+202803	
+202804	
+202805	
+202806	
+202807	
+202808	
+202809	
+202810	Acquire materials
+202811	Acquire materials
+202812	Acquire materials
+202813	Acquire materials
+202814	Acquire materials
+202815	Acquire materials
+202816	Acquire materials
+202817	Acquire materials
+202818	Acquire materials
+202819	Acquire materials
+202820	Acquire materials
+202821	Acquire materials
+202822	Acquire materials
+202823	Acquire materials
+202824	Acquire materials
+202825	Acquire materials
+202826	Acquire materials
+202827	Acquire materials
+202828	Acquire materials
+202829	Acquire materials
+202830	Acquire materials
+202831	Acquire materials
+202832	Acquire materials
+202833	Acquire materials
+202834	Acquire materials
+202835	Acquire materials
+202836	Acquire materials
+202837	Acquire materials
+202838	Acquire materials
+202839	Acquire materials
+202840	Acquire materials
+202841	Acquire materials
+202842	Acquire materials
+202843	Acquire materials
+202844	Acquire materials
+208700	Sound hanging bell
+208701	Sound hanging bell
+208702	Sound hanging bell
+208703	
+208704	
+208705	
+208706	
+208707	
+208708	
+208709	
+208710	Examine
+209051	Be summoned to assist Needle Knight Leda
+209052	Be summoned to assist Sir Ansbach
+209053	Be summoned to assist Needle Knight Leda
+209054	Be summoned to assist Hornsent
+209055	Be summoned to challenge Needle Knight Leda and her allies
+209056	
+209057	
+209058	
+209059	
+209060	Touch gold summon sign
+209200	Examine altar
+209500	Touch withered arm
+209501	
+209502	Examine
+209503	
+209504	Examine seal
+209520	Touch gold summon sign
+209521	
+209522	Touch gold summon sign
+209523	Examine
+209524	
+209525	Examine altar
+209526	Examine altar
+209527	
+209528	
+209529	Examine monument
+209530	Touch gold summon sign
+209531	Touch gold summon sign
+209532	Touch gold summon sign
+209600	Touch memory
+209601	
+209602	
+209603	
+209604	
+209605	
+209606	
+209607	
+209608	
+209609	
+209610	Examine sealing tree
+209611	
+209612	
+209613	
+209614	
+209615	
+209616	
+209617	
+209618	
+209619	
+209620	Rest in coffin

@@ -1,0 +1,4 @@
+280004	一部の操作はメニューの操作と重複させる事ができません\n設定を確認してください
+401130	必要なDLCが見つかりません\n\n<?requiredDlcList?>\n\n再度DLCをインストールするまで\nこのプロファイルは読み込めません
+401131	SHADOW OF THE ERDTREE
+401406	Steamworksとの通信に失敗しました：<?errcodeSteam?>\nタイトル画面に戻ります

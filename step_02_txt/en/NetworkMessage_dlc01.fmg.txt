@@ -1,0 +1,173 @@
+2601425	Summoned to another world.\nDefeat Needle Knight Leda and her allies!
+2601426	Summoned to another world.\nDefeat Sir Ansbach!
+2601427	Summoned to another world.\nDefeat Needle Knight Leda!
+2601428	Summoned to another world.\nDefeat Hornsent!
+2601429	Summoned to another world.\nDefeat Needle Knight Leda!
+2611425	Needle Knight Leda and her allies defeated.\nReturning to your world.
+2611426	Sir Ansbach defeated.\nReturning to your world.
+2611427	Needle Knight Leda defeated.\nReturning to your world.
+2611428	Hornsent defeated.\nReturning to your world.
+2611429	Needle Knight Leda defeated.\nReturning to your world.
+2621425	You died. Returning to your world.
+2621426	You died. Returning to your world.
+2621427	You died. Returning to your world.
+2621428	You died. Returning to your world.
+2621429	You died. Returning to your world.
+2622425	The Host of Fingers has died.\nReturning to world of host.
+2631425	Returning to your world
+2631426	Returning to your world
+2631427	Returning to your world
+2631428	Returning to your world
+2631429	Returning to your world
+2632425	The Host of Fingers returned to their world. Returning to world of host.
+2640425	Furled Finger <?leaveName?> was sent back to their world
+2641425	Sent home by the Host of Fingers.\nReturning to your world.
+2642425	Furled Finger <?leaveName?> has been sent back to their world
+2691425	You died. Returning to your world.
+2692425	Furled Finger <?deadName?> has died
+2693425	Returning to your world
+2694425	Furled Finger <?leaveName?> has returned to their world
+4080100	Summoning cooperator...
+4080101	
+4080102	
+4080103	
+4080104	
+4080105	
+4080106	
+4080107	
+4080108	
+4080109	
+4080110	Summoning another cooperator...
+4080800	Drake Warrior Igon summoned as a cooperator
+4080801	Drake Warrior Igon summoned as a cooperator
+4080802	Drake Warrior Igon has died
+4080803	
+4080804	
+4080805	
+4080806	
+4080807	
+4080808	
+4080809	
+4080810	Thiollier summoned as a cooperator
+4080811	Thiollier summoned as a cooperator
+4080812	Thiollier has died
+4080813	
+4080814	
+4080815	
+4080816	
+4080817	
+4080818	
+4080819	
+4080820	Invaded by Thiollier!
+4080821	
+4080822	Thiollier has died
+4080823	
+4080824	
+4080825	
+4080826	
+4080827	
+4080828	
+4080829	
+4080830	Invaded by Swordhand of Night Jolán!
+4080831	
+4080832	Swordhand of Night Jolán has died
+4080833	
+4080834	
+4080835	
+4080836	
+4080837	
+4080838	
+4080839	
+4080840	Pureblood Knight Ansbach summoned as a cooperator
+4080841	Pureblood Knight Ansbach summoned as a cooperator
+4080842	Pureblood Knight Ansbach has died
+4080843	Pureblood Knight Ansbach will be summoned as a cooperator at the appropriate time
+4080844	
+4080845	
+4080846	
+4080847	
+4080848	
+4080849	
+4080850	Thiollier summoned as a cooperator
+4080851	Thiollier summoned as a cooperator
+4080852	Thiollier has died
+4080853	Thiollier will be summoned as a cooperator at the appropriate time
+4080854	
+4080855	
+4080856	
+4080857	
+4080858	
+4080859	
+4080860	Sanguine Noble Nataan summoned as a cooperator
+4080861	Sanguine Noble Nataan summoned as a cooperator
+4080862	Sanguine Noble Nataan has died
+4080863	Sanguine Noble Nataan will be summoned as a cooperator at the appropriate time
+4080864	
+4080865	
+4080866	
+4080867	
+4080868	
+4080869	
+4080870	Hornsent summoned as a cooperator
+4080871	Hornsent summoned as a cooperator
+4080872	Hornsent has died
+4080873	
+4080874	
+4080875	
+4080876	
+4080877	
+4080878	
+4080879	
+4080880	Swordhand of Night, Jolán summoned as a cooperator
+4080881	Swordhand of Night, Jolán summoned as a cooperator
+4080882	Swordhand of Night, Jolán has died
+4080883	
+4080884	
+4080885	
+4080886	
+4080887	
+4080888	
+4080889	
+4080890	Hornsent summoned as an adversary
+4080891	
+4080892	Hornsent has died
+4080893	
+4080894	
+4080895	
+4080896	
+4080897	
+4080898	
+4080899	
+4080900	Moore summoned as an adversary
+4080901	
+4080902	Moore has died
+4080903	
+4080904	
+4080905	
+4080906	
+4080907	
+4080908	
+4080909	
+4080910	Redmane Freyja summoned as an adversary
+4080911	
+4080912	Redmane Freyja has died
+4080913	
+4080914	
+4080915	
+4080916	
+4080917	
+4080918	
+4080919	
+4080920	Needle Knight Leda summoned as an adversary
+4080921	
+4080922	Needle Knight Leda has died
+4080923	
+4080924	
+4080925	
+4080926	
+4080927	
+4080928	
+4080929	
+4080930	Dryleaf Dane summoned as an adversary
+4080931	
+4080932	Dryleaf Dane has died

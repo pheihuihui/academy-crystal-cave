@@ -1,0 +1,4 @@
+280004	部分配置与选单的操作配置重复，请再次确认。
+401130	找不到必要的附加内容：\n\n<?requiredDlcList?>\n\n安装完上述附加内容后，才能读取此角色档案。
+401131	Shadow of the Erdtree
+401406	无法联机至Steamworks：<?errcodeSteam?>\n将返回标题画面。

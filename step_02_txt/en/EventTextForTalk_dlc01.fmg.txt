@@ -1,0 +1,195 @@
+20010001	Shadow Realm Blessing
+20010002	Scadutree Blessing (<?dlcPlayerDopingLevel?>)
+20010003	Revered Spirit Ash Blessing (<?dlcBuddyDopingLevel?>)
+20010004	Cancel
+20011040	Use 1 Scadutree Fragment to empower blessing?
+20011041	Use 2 Scadutree Fragments to empower blessing?
+20011042	Use 3 Scadutree Fragments to empower blessing?
+20011043	Use 4 Scadutree Fragments to empower blessing?
+20011044	Use 5 Scadutree Fragments to empower blessing?
+20011045	Use 6 Scadutree Fragments to empower blessing?
+20011046	Use 7 Scadutree Fragments to empower blessing?
+20011047	Use 8 Scadutree Fragments to empower blessing?
+20011048	Use 9 Scadutree Fragments to empower blessing?
+20011049	
+20011050	Use 1 Revered Spirit Ash to empower blessing?
+20011051	Use 2 Revered Spirit Ashes to empower blessing?
+20011052	Use 3 Revered Spirit Ashes to empower blessing?
+20011053	Use 4 Revered Spirit Ashes to empower blessing?
+20011054	Use 5 Revered Spirit Ashes to empower blessing?
+20011055	Use 6 Revered Spirit Ashes to empower blessing?
+20011056	Use 7 Revered Spirit Ashes to empower blessing?
+20011057	Use 8 Revered Spirit Ashes to empower blessing?
+20011058	Use 9 Revered Spirit Ashes to empower blessing?
+20011059	
+20011060	Not enough Scadutree Fragments
+20011061	Not enough Revered Spirit Ashes
+20011062	Scadutree Blessing empowered
+20011063	Revered Spirit Ash Blessing empowered
+20011064	Scadutree Blessing cannot be empowered any further
+20011065	Revered Spirit Ash Blessing cannot be empowered any further
+24050000	Imbibe nectar
+24050001	Leave
+24060000	Devour draconic essence
+24060001	Do not partake
+24060002	Use Thiollier's concoction
+24060003	Leave
+24060004	Confess to putting her to sleep
+24060005	Leave
+24060006	Take her with you
+24060007	Leave
+24061000	Ask for power
+24061001	Ask about Bayle
+24061002	Ask about Igon
+24061003	Leave
+24090000	Tell her you were attacked by a Swordhand of Night underground
+24090001	Say nothing
+24090002	Use Iris of Grace
+24090003	Use Iris of Occultation
+24090004	Leave
+24121000	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121001	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121002	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121003	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121004	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121005	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121006	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121007	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121008	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121009	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121010	Usher Anna into Swordhand of Night Jolán's spirit ashes?
+24121011	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121012	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121013	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121014	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121015	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121016	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121017	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121018	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121019	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121020	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121021	Remove Anna from Swordhand of Night Jolán's spirit ashes?
+24121022	Swordhand of Night Jolán's spirit ashes not in inventory
+24121023	Neither Anna's nor Jolán's spirit ashes are in inventory
+24121024	Ushered Anna into Swordhand of Night Jolán's spirit ashes
+24121025	Removed Anna from Swordhand of Night Jolán's spirit ashes
+24121026	Puppet of Anna
+24130000	Use Iris of Grace
+24130001	Use Iris of Occultation
+24130002	Leave
+24140000	Give scorpion stew
+24140001	Leave
+24141000	Map of cross sites received.\nCheck in inventory.
+24141001	Map of cross sites received.\nCheck in inventory.
+24142000	Map to old ruins received.\nCheck in inventory.
+24142001	Map to old ruins received.\nCheck in inventory.
+24142002	Map to old ruins received.\nCheck in inventory.
+24150000	Put it behind you
+24150001	Remain sad forever
+24150002	I don't know
+24151000	Talk to Moore
+24151001	Talk to Moore
+24151002	Talk to Moore
+24151003	Talk to Moore
+24151004	Purchase
+24151005	Sell
+24151006	Leave
+24151007	Talk to Moore
+24151008	Talk to Moore
+24151009	Talk to Moore
+24151010	Talk to Moore
+24160000	Speak of the cross at the tower
+24160001	Speak of the cross where the eye was abandoned
+24160002	Leave
+24160003	Hand over Secret Rite Scroll
+24160004	Leave
+24160005	Pass on Freyja's message
+24160006	Leave
+24160007	Ask about the person in verdigris armor
+24160008	Tell him about Freyja's decision
+24160009	Ask about Thiollier
+24160010	Ask about Mohg's death
+24160011	Leave
+24160012	Speak of the cross at the coast
+24170000	What do you intend to look into?
+24170001	What if you become our enemy?
+24170002	Leave
+24170003	Pass on Letter for Freyja
+24170004	Leave
+24170005	Ask about that other man
+24170006	Leave
+24170007	Ask about the damage to her helm
+24170008	Leave
+24170009	Ask about the missing man
+24180000	Suggest Thiollier
+24180001	Suggest the hornsent
+24180002	Make no suggestion
+24181002	Ask about the hornsent
+24181003	
+24181004	
+24181005	
+24181006	Leave
+24181007	Ask about the silent monk
+24190004	Pass on St. Trina's words
+24190005	Leave
+24190006	Try to pass on St. Trina's words again
+24190007	Leave
+24190008	Pass on St. Trina's words
+24190009	Leave
+24191000	Purchase
+24191001	Sell
+24191002	Give black syrup
+24191003	Ask about black syrup
+24191004	I'm weary of life
+24191005	Tell him St. Trina's whereabouts
+24191006	Leave
+24201000	Study sorcery
+24201001	Ask about glintstone sorcery
+24201002	Ask about the knight in black armor
+24201003	Ask about the nature of the world
+24201004	Ask about Miquella
+24201005	Ask about the nature of the world
+24201006	Leave
+26002000	Bell Bearing Shop 5
+26002001	
+26002002	
+26002003	
+26002004	
+26002005	
+26002006	
+26002007	
+26002008	
+26002009	
+26002010	Moore's Bell Bearing
+26002011	Ymir's Bell Bearing
+26002110	Offer Moore's Bell Bearing
+26002111	Offer Ymir's Bell Bearing
+26002112	Offer Herbalist's Bell Bearing
+26002113	Offer Mushroom-Seller's Bell Bearing [1]
+26002114	Offer Mushroom-Seller's Bell Bearing [2]
+26002115	Offer Greasemonger's Bell Bearing
+26002116	Offer Moldmonger's Bell Bearing
+26002117	Offer Igon's Bell Bearing
+26002118	Offer Spellmachinist's Bell Bearing
+26002119	Offer String-Seller's Bell Bearing
+26002210	Offered Moore's Bell Bearing
+26002211	Offered Ymir's Bell Bearing
+26002212	Offered Herbalist's Bell Bearing
+26002213	Offered Mushroom-Seller's Bell Bearing [1]
+26002214	Offered Mushroom-Seller's Bell Bearing [2]
+26002215	Offered Greasemonger's Bell Bearing
+26002216	Offered Moldmonger's Bell Bearing
+26002217	Offered Igon's Bell Bearing
+26002218	Offered Spellmachinist's Bell Bearing
+26002219	Offered String-Seller's Bell Bearing
+26302000	Communion with Bayle
+26302001	
+26302002	
+26302003	
+26302004	
+26302005	
+26302006	
+26302007	
+26302008	
+26302009	
+26302010	Ritual of Dragon Communion

@@ -1,0 +1,9 @@
+111108	The frame rate limit setting will be changed, as the previous value is now invalid.
+225001	Offer Heart of Bayle\nto make <?itemName?> thine own
+236031	Cannot craft this item as you do not have enough hefty cracked pots
+236061	Cannot craft this item as you do not have any hefty cracked pots
+241200	A new map has been found.\n(Gravesite Plain)
+241201	A new map has been found.\n(Scadu Altus)
+241202	A new map has been found.\n(Southern Shore)
+241203	A new map has been found.\n(Rauh Ruins)
+241204	A new map has been found.\n(Abyss)

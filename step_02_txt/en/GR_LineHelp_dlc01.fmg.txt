@@ -1,0 +1,12 @@
+110601	Choose whether or not to mark new items with an icon
+110602	
+110603	Display/hide the Recent Items tab in the inventory menu
+111024	Configure cursor movement on the map menu
+111025	Change value of the mouse sensitivity when changing targets
+225001	Choose an ability of Bayle's to make thine own
+241501	Configure multiplayer status display
+241502	View summoning pool list and enable or disable pools
+241503	View list of controls
+241504	View explanation of the map menu
+241600	Select summoning pools to enable/disable
+280600	Display the map menu

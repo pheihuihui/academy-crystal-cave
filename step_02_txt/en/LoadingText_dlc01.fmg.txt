@@ -1,0 +1,5 @@
+80	Consume Scadutree Fragments at sites of grace to bolster your Scadutree Blessing.\n\nThe Scadutree Blessing bolsters the recipient's abilities to deal and negate damage, but has no influence outside the realm of shadow.
+81	Consume Revered Spirit Ash at sites of grace to bolster your Revered Spirit Ash Blessing.\n\nThe Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow.
+205	Items acquired for the first time can be marked with <?newItemIcon?>.\n\nDisplay of this mark can be enabled or disabled in the display tab within the system menu.
+206	Recently acquired items can be viewed on a dedicated tab.\n\nYou can turn this tab on or off in the display tab within the system menu.
+207	Activated summoning pools will be carried over into subsequent playthroughs.\n\nYou can enable or disable summoning pools individually using the list on the map functions menu.

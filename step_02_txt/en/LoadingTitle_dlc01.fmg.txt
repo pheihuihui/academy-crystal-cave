@@ -1,0 +1,5 @@
+80	Scadutree Blessing
+81	Revered Spirit Ash Blessing
+205	Keeping Track of New Items
+206	Keeping Track of Recent Items
+207	Carrying Over Summoning Pools

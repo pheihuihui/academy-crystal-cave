@@ -3,11 +3,12 @@ const { readdir, readFileSync, readdirSync, copyFile, copyFileSync, writeFileSyn
 const { json } = require("stream/consumers");
 
 const BinderToolPath = "D:\\eldenringdump\\BinderTool.v0.7.0-pre4\\BinderTool.exe";
-const MsgPath = "D:\\eldenringdump\\Data0\\msg";
 const args = process.argv;
 const Language = ["engUS", "jpnJP", "zhoCN"];
-const ItemDirs = Language.map((lang) => `${MsgPath}\\${lang}\\item\\msg\\${lang}`);
-const MenuDirs = Language.map((lang) => `${MsgPath}\\${lang}\\menu\\msg\\${lang}`);
+const ItemMiddleDir = "item_dlc02-msgbnd-dcx/GR/data/INTERROOT_win64/msg";
+const MenuMiddleDir = "menu_dlc02-msgbnd-dcx/GR/data/INTERROOT_win64/msg";
+const ItemDirs = Language.map((lang) => `./step_01_fmg/${lang}/${ItemMiddleDir}/${lang}`);
+const MenuDirs = Language.map((lang) => `./step_01_fmg/${lang}/${MenuMiddleDir}/${lang}`);
 const AllDirs = [...ItemDirs, ...MenuDirs];
 const FilesNeeded = {
     item: [
@@ -58,7 +59,6 @@ const AllFileNames = [...FilesNeeded.item, ...FilesNeeded.menu];
 
 if (args[2] && args[2] == "txt") {
     extractTextFromFmg();
-    copyTexts();
 } else if (args[2] && args[2] == "json") {
     convertAllTextFilesToJson();
     // convertSingleTextFileToJson("EventTextForMap", "en");
@@ -68,15 +68,31 @@ function extractTextFromFmg() {
     for (let itemDir of ItemDirs) {
         let fmgs = readdirSync(itemDir);
         for (let fmg of fmgs) {
-            let fmgPath = `${itemDir}\\${fmg}`;
-            exec(`${BinderToolPath} ${fmgPath}`);
+            let fmgPath = `${itemDir}/${fmg}`;
+            if (fmgPath.includes("engUS")) {
+                exec(`${BinderToolPath} ${fmgPath} ./step_02_txt/en/${fmg}`);
+            }
+            if (fmgPath.includes("jpnJP")) {
+                exec(`${BinderToolPath} ${fmgPath} ./step_02_txt/jp/${fmg}`);
+            }
+            if (fmgPath.includes("zhoCN")) {
+                exec(`${BinderToolPath} ${fmgPath} ./step_02_txt/zh/${fmg}`);
+            }
         }
     }
     for (let menuDir of MenuDirs) {
         let fmgs = readdirSync(menuDir);
         for (let fmg of fmgs) {
-            let fmgPath = `${menuDir}\\${fmg}`;
-            exec(`${BinderToolPath} ${fmgPath}`);
+            let fmgPath = `${menuDir}/${fmg}`;
+            if (fmgPath.includes("engUS")) {
+                exec(`${BinderToolPath} ${fmgPath} ./step_02_txt/en/${fmg}`);
+            }
+            if (fmgPath.includes("jpnJP")) {
+                exec(`${BinderToolPath} ${fmgPath} ./step_02_txt/jp/${fmg}`);
+            }
+            if (fmgPath.includes("zhoCN")) {
+                exec(`${BinderToolPath} ${fmgPath} ./step_02_txt/zh/${fmg}`);
+            }
         }
     }
 }
