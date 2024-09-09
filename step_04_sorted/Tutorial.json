@@ -1,0 +1,1009 @@
+{
+  "1": {
+    "TutorialTitle": { "jp": "\tチュートリアル１のタイトル\r" },
+    "TutorialBody": {
+      "jp": "\tチュートリアル１の本文\\n2行目\\n3行目\\n4行目\\n5行目\\n6行目\\n7行目\\n8行目\\n9行目\\n10行目\r"
+    }
+  },
+  "101000": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyControlCamera?>: <?keyActFullName@10?>\r",
+      "jp": "\t<?keyControlCamera?>：<?keyActFullName@10?>\r",
+      "zh": "\t<?keyControlCamera?>：<?keyActFullName@10?>\r"
+    }
+  },
+  "101030": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyicon@15?>: <?keyActName@15?>\r",
+      "jp": "\t<?keyicon@15?>：<?keyActName@15?>\r",
+      "zh": "\t<?keyicon@15?>：<?keyActName@15?>\r"
+    }
+  },
+  "101040": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyicon@22?>: <?keyActName@22?>\r",
+      "jp": "\t<?keyicon@22?>：<?keyActName@22?>\r",
+      "zh": "\t<?keyicon@22?>：<?keyActName@22?>\r"
+    }
+  },
+  "101050": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyicon@23?>: <?keyActName@23?>\r",
+      "jp": "\t<?keyicon@23?>：<?keyActName@23?>\r",
+      "zh": "\t<?keyicon@23?>：<?keyActName@23?>\r"
+    }
+  },
+  "101080": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyicon@8?>: <?keyActName@8?>\r",
+      "jp": "\t<?keyicon@8?>：<?keyActName@8?>\r",
+      "zh": "\t<?keyicon@8?>：<?keyActName@8?>\r"
+    }
+  },
+  "101090": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\tHold <?keyMove?>+<?keyicon@7?>: Dash\r",
+      "jp": "\t<?keyMove?>+<?keyicon@7?>長押し：ダッシュ\r",
+      "zh": "\t<?keyMove?>＋按住<?keyicon@7?>：冲刺\r"
+    }
+  },
+  "101110": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyControlCamera?> while locked-on to a target: Change target\r",
+      "jp": "\tターゲット固定中に<?keyControlCamera?>：ターゲットの変更\r",
+      "zh": "\t锁定目标时<?keyControlCamera?>：切换目标\r"
+    }
+  },
+  "101120": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyicon@24?>: Guard\r",
+      "jp": "\t<?keyicon@24?>：ガード\r",
+      "zh": "\t按下<?keyicon@24?>：防御\r"
+    }
+  },
+  "101130": {
+    "TutorialTitle": { "en": "", "jp": "\t素材\r", "zh": "" },
+    "TutorialBody": {
+      "en": "\tMaterials can be used to craft items.\r",
+      "jp": "\t素材アイテムは、アイテム製作に使用できる\r",
+      "zh": "\t材料道具会在制作道具时使用\r"
+    }
+  },
+  "101150": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyicon@22?> near a backturned enemy: Critical hit\r",
+      "jp": "\t敵の背後をとって近づき<?keyicon@22?>：致命の一撃\r",
+      "zh": "\t靠近敌人背后，按下<?keyicon@22?>：致命一击\r"
+    }
+  },
+  "101170": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyicon@27?>: HUD display\r",
+      "jp": "\t<?keyicon@27?>：各種ゲージなどの表示\r",
+      "zh": "\t按下<?keyicon@27?>：显示各类量表\r"
+    }
+  },
+  "101180": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": {
+      "en": "\t<?keyicon@8?> during mounted jump: Double jump\r",
+      "jp": "\t騎乗ジャンプ中にもう一度<?keyicon@8?>：二段ジャンプ\r",
+      "zh": "\t骑马跳跃时再按下<?keyicon@8?>：二段跳跃\r"
+    }
+  },
+  "201010": {
+    "TutorialTitle": {
+      "en": "\tUsing Items\r",
+      "jp": "\tアイテムの使用\r",
+      "zh": "\t使用道具\r"
+    },
+    "TutorialBody": {
+      "en": "\t<?keyicon@26?>: <?keyActName@26?>\\n<?keyicon@18?>: <?keyActName@18?>\r",
+      "jp": "\t<?keyicon@26?>：<?keyActName@26?>\\n<?keyicon@18?>：<?keyActName@18?>\r",
+      "zh": "\t<?keyicon@26?>：<?keyActName@26?>\\n<?keyicon@18?>：<?keyActName@18?>\r"
+    }
+  },
+  "201070": {
+    "TutorialTitle": { "jp": "" },
+    "TutorialBody": {
+      "jp": "\t<?kgLStick?>+<?kgRR?>：ローリング\\n<?kgRR?>：バックステップ\r"
+    }
+  },
+  "201100": {
+    "TutorialTitle": {
+      "en": "\tWielding Armaments\r",
+      "jp": "\t武器の持ち替え\r",
+      "zh": "\t切换武器\r"
+    },
+    "TutorialBody": {
+      "en": "\tEach hand can be equipped with up to three armaments, allowing you to toggle between them.\\n\\nArmaments can also be two-handed, making attacks more difficult to repel with shields and boosting effective strength by 50%.\\n\\n<?keyicon@19?>: <?keyActName@19?>\\n<?keyicon@20?>: <?keyActName@20?>\\n<?keyicon@27?>+<?keyicon@24?>/<?keyicon@22?>: Wield with two hands\r",
+      "jp": "\t武器は、右手と左手に３個ずつ装備でき\\n切り替えて使用することができる\\n\\nまた、武器を両手持ちすることもできる\\n両手持ちにより、攻撃が盾に弾かれ難くなり\\n筋力も１．５倍の扱いとなる\\n\\n<?keyicon@19?>：<?keyActName@19?>\\n<?keyicon@20?>：<?keyActName@20?>\\n<?keyicon@27?>+<?keyicon@24?>/<?keyicon@22?>：武器両手持ち\\n\r",
+      "zh": "\t左手与右手各能装备３把武器，\\n自由切换使用。\\n\\n此外，也能以双手共持武器。\\n双手共持武器时，攻击比较不会被盾牌弹开，\\n力气会以１.５倍计算。\\n\\n<?keyicon@19?>：<?keyActName@19?>\\n<?keyicon@20?>：<?keyActName@20?>\\n<?keyicon@27?>＋<?keyicon@24?>／<?keyicon@22?>：双手共持武器\r"
+    }
+  },
+  "301020": {
+    "TutorialTitle": {
+      "en": "\tSites of Grace\r",
+      "jp": "\t祝福\r",
+      "zh": "\t赐福\r"
+    },
+    "TutorialBody": {
+      "en": "\tResting at a site of grace will restore your HP, FP, and cleanse any status ailments.\\nIt will also refill your sacred flasks.\\nHowever, most of the enemies you've defeated will be revived.\\n\\nYou can find sites of grace by going where light converges.\\n\\n*These explanations are acquired in the form of info items and can be accessed from the inventory at any time.\r",
+      "jp": "\t祝福で休むことで\\nＨＰ、ＦＰ、状態異常などが全て回復し\\n聖杯瓶も補充される\\n\\nただし、一部を除いて全ての敵が復活する\\n\\n祝福は光の集まる先で発見できる\\n\\n※こうした説明は、情報アイテムとして取得され\\n　インベントリからいつでも再読できる\\n\r",
+      "zh": "\t在赐福休息能完全恢复血量、专注值，\\n治愈异常状态等等，也能补充圣杯瓶。\\n\\n但是大部分的敌人也会随之复活。\\n\\n能够在光芒聚集的地方发现赐福。\\n\\n※此类说明会变成情报道具\\n　留在置物包，方便随时重温。\r"
+    }
+  },
+  "301060": {
+    "TutorialTitle": {
+      "en": "\tSorceries and Incantations\r",
+      "jp": "\t魔術と祈祷\r",
+      "zh": "\t魔法与祷告\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou can memorize sorceries and incantations at sites of grace.\\n\\nYou must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.\\nCasting sorceries and incantations consumes FP.\\n\\n<?keyicon@0017?>: <?keyActName@17?>\r",
+      "jp": "\t魔術／祈祷は、祝福で記憶できる\\n\\n記憶した魔術／祈祷は\\n魔術であれば杖を、祈祷であれば聖印を装備し\\nＦＰを消費することで使用できる\\n\\n<?keyicon@0017?>：<?keyActName@17?>\\n\r",
+      "zh": "\t能在赐福记忆魔法、祷告。\\n\\n在装备手杖、圣印记之后，\\n能够消耗专注值使用先行记忆的魔法、祷告。\\n\\n<?keyicon@0017?>：<?keyActName@17?>\r"
+    }
+  },
+  "301130": {
+    "TutorialTitle": { "en": "\tBows\r", "jp": "\t弓\r", "zh": "\t弓\r" },
+    "TutorialBody": {
+      "en": "\tEquip a bow to fire arrows.\\nYou can equip up to two types of arrows to choose from at once.\\n\\nWhen wielding a bow with two hands, hold <?keyicon@24?> for precision aiming.\\nUse <?keyControlCamera?> to adjust your aim.\\n\\n<?keyicon@22?>: Fire arrow type 1\\n<?keyicon@23?>: Fire arrow type 2\\n<?keyicon@24?>: Precision aiming\r",
+      "jp": "\t弓を装備し、矢を撃つことができる\\n矢は２つまで装備でき、使い分けることができる\\n\\nまた、弓を両手持ちしている間\\n<?keyicon@24?>長押しで精密射撃ができる\\n狙いは<?keyControlCamera?>で定める\\n\\n<?keyicon@22?>：矢１を撃つ\\n<?keyicon@23?>：矢２を撃つ\\n<?keyicon@24?>：精密射撃\\n\r",
+      "zh": "\t能够装备弓，射出箭矢攻击。\\n总共能装备２种箭，可以依照情况切换使用。\\n\\n双手共持弓，按住<?keyicon@24?>能精密射击。\\n用<?keyControlCamera?>能移动准心。\\n\\n按下<?keyicon@22?>：射出“箭１”的箭\\n按下<?keyicon@23?>：射出“箭２”的箭\\n按住<?keyicon@24?>：精密射击\r"
+    }
+  },
+  "301140": {
+    "TutorialTitle": {
+      "en": "\tCrouching\r",
+      "jp": "\tしゃがみ\r",
+      "zh": "\t蹲下\r"
+    },
+    "TutorialBody": {
+      "en": "\tCrouch to make it harder for enemies to discover you.\\nEspecially effective in tall grass.\\n\\nAttacking an enemy that hasn't noticed you will cause more damage than usual.\\n\\n<?keyicon@9?>: <?keyActName@9?>\r",
+      "jp": "\tしゃがむと敵に見つかり難くなる\\n草むらではその効果がより大きい\\n\\n敵に見つかっていない状態からの攻撃は\\n通常よりもダメージが大きくなる\\n\\n<?keyicon@9?>：<?keyActName@9?>\\n\r",
+      "zh": "\t蹲下后较不容易被敌人发现。\\n在草丛蹲下，藏身效果更佳。\\n\\n在没有被敌人发现的情况下攻击，\\n能够比一般攻击给予更多的伤害。\\n\\n<?keyicon@9?>：<?keyActName@9?>\r"
+    }
+  },
+  "301160": {
+    "TutorialTitle": {
+      "en": "\tStance-Breaking\r",
+      "jp": "\t体勢を崩す\r",
+      "zh": "\t失去平衡\r"
+    },
+    "TutorialBody": {
+      "en": "\tSome attacks may break an enemy's stance, giving you a chance to perform a critical hit.\\n\\nCharge attacks and jump attacks make it particularly easy to break an enemy's stance.\\n\\nHold <?keyicon@23?>: Charge attack\\n<?keyicon@23?> while jumping: Jump attack\r",
+      "jp": "\t攻撃により、敵の体勢が崩れることがあり\\n致命の一撃のチャンスとなる\\n\\nタメ攻撃やジャンプ攻撃は\\n特に敵の体勢を崩しやすい\\n\\n<?keyicon@23?>長押し：タメ攻撃\\nジャンプ中に<?keyicon@23?>：ジャンプ攻撃\\n\r",
+      "zh": "\t敌人会因为我方的攻击而失去平衡，\\n此时就有机会使出致命一击。\\n\\n蓄力攻击、跳跃攻击\\n特别容易让敌人失去平衡。\\n\\n按住<?keyicon@23?>：蓄力攻击\\n跳跃时按下<?keyicon@23?>：跳跃攻击\r"
+    }
+  },
+  "301500": {
+    "TutorialTitle": {
+      "en": "\tThe Map\r",
+      "jp": "\t地図\r",
+      "zh": "\t地图\r"
+    },
+    "TutorialBody": {
+      "en": "\tUse your map to check your current position, as well as the terrain and surrounding structures.\\n\\nYou can update your map with new information by finding map fragments at steles along the road.\\n\\nYou can also use the map to freely place beacons of light to serve as landmarks as you explore.\\n\\n<?keyicon@29?>: <?keyActName@29?>\r",
+      "jp": "\t地図では、自分の現在位置や\\n地形や建築物などの情報を確認できる\\n\\n地図情報は、街道沿いの石碑で\\n「地図断片」を手に入れることで更新される\\n\\nまた、任意の場所に光の柱を配置し\\n探索の目印にすることもできる\\n\\n<?keyicon@29?>：<?keyActName@29?>\\n\r",
+      "zh": "\t透过地图能确认自己的所在位置、\\n地形以及建筑物等等资讯。\\n\\n座落路边的石碑放有“地图碎片”，\\n取得后能更新地图。\\n\\n另外，也能在地图上放置光柱，\\n作为探索时的标记。\\n\\n<?keyicon@29?>：<?keyActName@29?>\r"
+    }
+  },
+  "301510": {
+    "TutorialTitle": {
+      "en": "\tGuidance of Grace\r",
+      "jp": "\t祝福の導き\r",
+      "zh": "\t赐福的指引\r"
+    },
+    "TutorialBody": {
+      "en": "\tGrace exists to guide the Tarnished and lead them along the proper path.\\n\\nEven now, some sites of grace retain that power. Their golden rays will guide you along your way.\r",
+      "jp": "\t祝福は本来、褪せ人を導き\\n進むべき道を指し示すものである\\n\\nそして今でも、一部の祝福はその力を残し\\n黄金の光跡で道を指し示している\\n\r",
+      "zh": "\t赐福原本是引导褪色者前进，\\n替褪色者指路的存在。\\n\\n如今仍有部分赐福留有指引的力量，\\n会以金黄色的光芒轨迹，\\n指出褪色者该前进的方向。\r"
+    }
+  },
+  "301520": {
+    "TutorialTitle": {
+      "en": "\tHorseback Riding\r",
+      "jp": "\t騎乗\r",
+      "zh": "\t骑马\r"
+    },
+    "TutorialBody": {
+      "en": "\tUse the Spectral Steed Whistle to summon and ride your spectral steed.\\n\\nIf your spectral steed dies, you can summon it again, but it will cost one Flask of Crimson Tears to do so.\\n\\nYou can dismount by using the whistle again or by pressing <?keyicon@0009?>.\r",
+      "jp": "\t「霊馬の指笛」を使用することで\\n霊馬を召喚し、騎乗することができる\\n\\n霊馬が死亡しても、再召喚できるが\\n緋雫の聖杯瓶が１つ消費される\\n\\n騎乗中、もう一度指笛を使用するか\\n<?keyicon@0009?>で霊馬から降りる\\n\r",
+      "zh": "\t使用“灵马哨笛”能召唤出灵马，\\n骑马行动。\\n\\n灵马死亡后能再一次召唤，\\n但必须消耗１瓶“红露滴圣杯瓶”。\\n\\n骑马时再次使用灵马哨笛，\\n或是按下<?keyicon@0009?>能够下马。\r"
+    }
+  },
+  "301530": {
+    "TutorialTitle": { "en": "\tDeath\r", "jp": "\t死亡\r", "zh": "\t死亡\r" },
+    "TutorialBody": {
+      "en": "\tUpon dying, you will be revived at the last site of grace that you visited.\\n\\nYou will drop any runes in your possession at the site of your death.\\nIf you die again before reclaiming those runes, they will be lost forever.\\n\\nThe compass at the top of the screen indicates the direction of the lost runes.\r",
+      "jp": "\t死亡すると、最後に訪れた祝福で復活する\\n\\n死亡した場所に、所持ルーンを落とし\\n回収前にもう一度死亡すると、失われてしまう\\n\\n落としたルーンの方角は\\n画面上部の方位計に表示される\\n\r",
+      "zh": "\t死亡之后，会在最后停留的赐福复活。\\n\\n持有卢恩会留在死亡地点。\\n在拿回卢恩之前再次死亡，卢恩将会消失。\\n\\n留在死亡地点的卢恩，\\n所在方向会显示在画面上方的方位条。\r"
+    }
+  },
+  "301540": {
+    "TutorialTitle": {
+      "en": "\tStakes of Marika\r",
+      "jp": "\tマリカの楔\r",
+      "zh": "\t玛莉卡楔石\r"
+    },
+    "TutorialBody": {
+      "en": "\tUpon dying, you will be revived at the last site of grace that you visited.\\n\\nHowever, if there is a Stake of Marika near where you died, you can choose to be revived there instead.\r",
+      "jp": "\t死亡すると、最後に訪れた祝福で復活する\\n\\n死亡した場所の近くに「マリカの楔」があれば\\nそこから復活することも選択できる\\n\r",
+      "zh": "\t死亡之后，会在最后停留的赐福复活。\\n\\n如果死亡地点附近有“玛莉卡楔石”，\\n也能选择在那里复活。\r"
+    }
+  },
+  "301550": {
+    "TutorialTitle": {
+      "en": "\tSummoning Spirits\r",
+      "jp": "\t霊体の召喚\r",
+      "zh": "\t召唤灵魂\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith a Spirit Calling Bell, you can use ashes to summon various spirits.\\nSummoning typically consumes FP.\\n\\nYou can only summon one type of spirit at a time.\\nYou cannot summon spirits during multiplayer.\r",
+      "jp": "\t「霊喚びの鈴」があれば\\n遺灰から、様々な霊体を召喚できる\\n召喚は基本的にＦＰを消費する\\n\\n霊体は、同時に１種類しか召喚できず\\nマルチプレイ中は召喚できない\\n\r",
+      "zh": "\t拥有“召魂铃”之后，\\n能透过骨灰道具召唤各种灵魂。\\n召唤时基本上需要消耗专注值。\\n\\n在同一时间内，只能召唤１种灵魂。\\n多人联机游玩时无法召唤灵魂。\r"
+    }
+  },
+  "301560": {
+    "TutorialTitle": {
+      "en": "\tMaterials\r",
+      "jp": "\t素材アイテム\r",
+      "zh": "\t材料道具\r"
+    },
+    "TutorialBody": {
+      "en": "\tIn every corner of the Lands Between, you will find fruits and flowers, mushrooms and butterflies, and various other useful materials.\\n\\nThese materials can be used for item crafting.\r",
+      "jp": "\t狭間の地の各所で、木の実や花、キノコや蝶など\\n様々な素材アイテムが入手できる\\n\\n素材アイテムは、アイテム製作に使用できる\\n\r",
+      "zh": "\t交界地各处生长的果实、花朵、菇类，\\n或是蝴蝶等等生物，皆能作为材料道具。\\n\\n材料道具会在制作道具时使用。\r"
+    }
+  },
+  "301570": {
+    "TutorialTitle": {
+      "en": "\tItem Crafting\r",
+      "jp": "\tアイテム製作\r",
+      "zh": "\t制作道具\r"
+    },
+    "TutorialBody": {
+      "en": "\tIf you have a Crafting Kit, you can make various items from materials that you find.\\n\\nSelect \"Item Crafting\" from the main menu to make items.\\n\\nYou can learn to craft more items by finding cookbooks.\\n\\n<?keyicon@28?>: <?keyActName@28?>\r",
+      "jp": "\t「ツール鞄」があれば、素材アイテムを用いて\\n様々なアイテムを製作できる\\n\\nメインメニューの「アイテム製作」から行う\\n\\n製作できるアイテムの種類は\\n「製法書」を手に入れることで増えていく\\n\\n<?keyicon@28?>：<?keyActName@28?>\\n\r",
+      "zh": "\t拥有“工具皮袋”之后，\\n能用材料道具制作各种道具。\\n\\n从主选单的“制作道具”选单能制作道具。\\n\\n取得“制作笔记”之后，\\n能制作的道具种类也会随之增加。\\n\\n<?keyicon@28?>：<?keyActName@28?>\r"
+    }
+  },
+  "301580": {
+    "TutorialTitle": {
+      "en": "\tContainers\r",
+      "jp": "\t容器アイテム\r",
+      "zh": "\t容器道具\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou will need cracked pots or other containers to craft certain items.\\nYou will not be able to make more of those items than you have containers.\\n\\nContainer items will run out with use, but the containers themselves will remain.\r",
+      "jp": "\t製作できるアイテムには\\nヒビ壺など、特定の容器が必要なものがあり\\n容器数を超える製作はできない\\n\\n容器アイテムは使用により消費されるが\\n容器自体は無くならない\\n\r",
+      "zh": "\t在能够制作的道具之中，\\n部分道具需要有特定的容器\\n（例如龟裂壶等等）才能制作。\\n\\n制作的数量无法超过容器道具的数量。\\n\\n制作道具会消耗容器道具，\\n但容器本身不会不见。\r"
+    }
+  },
+  "301590": {
+    "TutorialTitle": {
+      "en": "\tFlask of Wondrous Physick\r",
+      "jp": "\t霊薬の聖杯瓶\r",
+      "zh": "\t灵药圣杯瓶\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou can find crystal tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between.\\n\\nAt sites of grace, you can mix two crystal tears in the Flask of Wondrous Physick.\\nThis will allow you to create elixirs with various custom effects.\r",
+      "jp": "\t狭間の地の各所、小黄金樹の麓などでは\\n結晶雫と呼ばれるアイテムが入手できる\\n\\n結晶雫は「霊薬の聖杯瓶」に２つ配合でき\\n霊薬の効果を様々にカスタマイズできる\\n\\n配合は祝福で行う\\n\r",
+      "zh": "\t在交界地各处，\\n例如小黄金树的树脚等等地方，\\n会找到名为结晶露滴的道具。\\n\\n将２块结晶露滴加入“灵药圣杯瓶”调配，\\n灵药会产生各式各样的效用。\\n\\n能在赐福进行调配。\r"
+    }
+  },
+  "301600": {
+    "TutorialTitle": {
+      "en": "\tAdding Skills\r",
+      "jp": "\t戦技の付与\r",
+      "zh": "\t赋予战技\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith a Whetstone Knife, you can use ashes of war to grant your armaments new skills at sites of grace.\\n\\nAn armament can only have one skill.\\nAny skill it previously had will be removed.\\n\\nAn armament's type determines what skills it can have. Some special armaments have unique skills and cannot be granted new ones.\r",
+      "jp": "\t「砥石の小刀」があれば\\n祝福で「戦灰」を用い、武器に戦技を付与できる\\n\\n戦技は武器ごとに1つであり\\n付与により、古い戦技は外れてしまう\\n\\n付与は武器種別により制限され\\n固有の戦技を持つなどの、特別な武器には\\n戦技の付与はできない\\n\r",
+      "zh": "\t拥有“砥石小刀”之后，\\n能在赐福使用“战灰”，赋予武器战技。\\n\\n每一把武器只能有一个战技，\\n赋予战技之后，会移除旧有的战技。\\n\\n能赋予的战技会依照武器类别有所限制。\\n部分特殊武器（例如具备固有战技的武器），\\n无法赋予战技。\r"
+    }
+  },
+  "301610": {
+    "TutorialTitle": {
+      "en": "\tBirdseye Telescopes\r",
+      "jp": "\t鳥の遠見\r",
+      "zh": "\t鸟瞰镜\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou can use the Birdseye Telescopes found in various areas to get a bird's-eye view of the terrain in the direction that the telescope is facing.\\n\\n<?keyicon@17?>: Zoom in\\n<?keyicon@18?>: Zoom out\r",
+      "jp": "\t各地に残る「鳥の遠見」を使用すると\\n鳥の視点で、向かう先を観察することができる\\n\\n<?keyicon@17?>：ズームイン\\n<?keyicon@18?>：ズームアウト\\n\r",
+      "zh": "\t使用散置各地的“鸟瞰镜”，\\n能以鸟类的视野观察前方道路。\\n\\n<?keyicon@17?>：放大影像\\n<?keyicon@18?>：缩小影像\r"
+    }
+  },
+  "301620": {
+    "TutorialTitle": {
+      "en": "\tSpiritspring Jumping\r",
+      "jp": "\t霊気流ジャンプ\r",
+      "zh": "\t灵魂气流跳跃\r"
+    },
+    "TutorialBody": {
+      "en": "\tJump while on horseback near a spiritspring to ride its current high into the air.\\n\\nYou won't take damage from jumping into a spiritspring while on horseback, even from a great height.\\n\\n<?keyicon@8?> at a spiritspring while on horseback: Spiritspring jump\r",
+      "jp": "\t「霊気流」のある場所で、騎乗してジャンプすると\\n気流に乗り大きく跳び上がる\\n\\nまた、騎乗して「霊気流」に飛び降りると\\n高所からでもダメージを受けない\\n\\n騎乗中に霊気流で<?keyicon@8?>：霊気流ジャンプ\\n\r",
+      "zh": "\t骑马时靠近有“灵魂气流”的地方跳跃，\\n能够顺着气流往上大幅跳跃。\\n\\n骑马状态下顺着“灵魂气流”落地时，\\n即使是从高处坠落，也不会受到损伤。\\n\\n骑马时靠近灵魂气流，\\n按下<?keyicon@8?>：灵魂气流跳跃\r"
+    }
+  },
+  "301630": {
+    "TutorialTitle": {
+      "en": "\tVanquishing Enemy Groups\r",
+      "jp": "\t敵集団の撃破\r",
+      "zh": "\t打败敌对团体\r"
+    },
+    "TutorialBody": {
+      "en": "\tVanquishing an enemy group will replenish your flasks.\\n\\nThe number and type of flasks to be replenished varies, depending on the enemy group.\\n\\nYou cannot replenish more flasks than your maximum amount allows.\r",
+      "jp": "\t敵集団を撃破すると、聖杯瓶が回復する\\n\\n回復する聖杯瓶の種類、回数は\\n敵集団により異なる\\n\\nただし、上限を超えて回復することはない\\n\r",
+      "zh": "\t打败敌对团体之后，\\n能恢复圣杯瓶的使用次数。\\n\\n恢复的圣杯瓶种类、次数，\\n会依照敌对团体而不同。\\n\\n如果恢复前使用次数已达上限，\\n则不能累加。\r"
+    }
+  },
+  "301640": {
+    "TutorialTitle": {
+      "en": "\tTeardrop Scarabs\r",
+      "jp": "\t雫スカラベ\r",
+      "zh": "\t露滴粪金龟\r"
+    },
+    "TutorialBody": {
+      "en": "\tThere are both Crimson and Cerulean Teardrop Scarabs.\\nDefeat them to replenish the flasks that match their type.\\n\\nHowever, you cannot replenish more flasks than your maximum amount allows.\r",
+      "jp": "\t雫スカラベには、緋色と青色が存在し\\n倒すことで、それぞれの聖杯瓶が回復する\\n\\nただし、上限を超えて回復することはない\\n\r",
+      "zh": "\t露滴粪金龟有红色、蓝色之分，\\n打败它之后能恢复与颜色对应的圣杯瓶。\\n\\n如果恢复前使用次数已达上限，则不能累加。\r"
+    }
+  },
+  "301650": {
+    "TutorialTitle": {
+      "en": "\tSummoning Other Players\r",
+      "jp": "\t他プレイヤーの召喚\r",
+      "zh": "\t召唤其他玩家\r"
+    },
+    "TutorialBody": {
+      "en": "\tUse Furlcalling Finger Remedy to reveal summon signs of players from other worlds.\\n\\nGold signs indicate an ally.\\nRed signs indicate an adversary.\\nThe multiplayer session will begin once either type has been summoned.\\n(You will take the role of the Host of Fingers.)\r",
+      "jp": "\t「鉤呼びの指薬」を使用し\\n他世界のプレイヤーの召喚サインを可視化できる\\n\\n金色のサインからは協力者を\\n赤色のサインからは敵対者を\\nそれぞれ召喚でき、マルチプレイが開始される\\n（貴方は「鉤指の主」となる）\\n\r",
+      "zh": "\t使用“唤勾指药”\\n能看见其他世界玩家的召唤记号。\\n\\n召唤记号有下列种类：\\n金色记号能召唤协助者；\\n红色记号能召唤敌对者。\\n\\n召唤后，会开始多人联机游玩。\\n多人联机游玩时，您将成为“勾指主人”。\r"
+    }
+  },
+  "301660": {
+    "TutorialTitle": {
+      "en": "\tCooperative Multiplayer\r",
+      "jp": "\t協力マルチプレイ\r",
+      "zh": "\t协力多人联机游玩\r"
+    },
+    "TutorialBody": {
+      "en": "\tUse Tarnished's Furled Finger to write a gold summon sign.\\n\\nCooperative multiplayer will begin once you have been summoned by a player from another world.\\n\\nYou will take the role of an ally (Furled Finger) and your objective is to defeat the area boss.\\n\\nThe compass at the top of the screen indicates the direction of the summoner (Host of Fingers).\r",
+      "jp": "\t「褪せ人の鉤指」を使用し\\n金色の召喚サインを書くことができる\\n\\nサインから、他世界のプレイヤーに召喚されると\\n協力マルチプレイが開始される\\n\\n貴方は協力者（鉤指）となり\\nエリアボスの撃破が目的となる\\n\\n召喚主（鉤指の主）の方角が\\n画面上部の方位計に表示される\\n\r",
+      "zh": "\t使用“褪色者勾指”\\n能写下金色召唤记号。\\n\\n当其他世界的玩家透过记号召唤您，\\n会开始协力多人联机游玩。\\n\\n您将成为协助者（勾指），\\n目标是打败区域头目。\\n\\n召唤主方（勾指主人）的所在方向\\n会显示在画面上方的方位条。\r"
+    }
+  },
+  "301670": {
+    "TutorialTitle": {
+      "en": "\tCompetitive Multiplayer\r",
+      "jp": "\t敵対マルチプレイ\r",
+      "zh": "\t敌对多人联机游玩\r"
+    },
+    "TutorialBody": {
+      "en": "\tUse Duelist's Furled Finger to write a red summon sign.\\n\\nCompetitive multiplayer will begin once you have been summoned by a player from another world.\\n\\nYou will take the role of an adversary (Duelist) and your objective is to defeat the Host of Fingers who summoned you.\r",
+      "jp": "\t「闘士の鉤指」を使用し\\n赤色の召喚サインを書くことができる\\n\\nサインから、他世界のプレイヤーに召喚されると\\n敵対マルチプレイが開始される\\n\\n貴方は敵対者（闘士）となり\\n召喚者たる「鉤指の主」の撃破が目的となる\\n\r",
+      "zh": "\t使用“斗士勾指”\\n能写下红色召唤记号。\\n\\n当其他世界的玩家透过记号召唤您，\\n会开始敌对多人联机游玩。\\n\\n您将成为敌对者（斗士），\\n目标是打败召唤您的“勾指主人”。\r"
+    }
+  },
+  "301680": {
+    "TutorialTitle": {
+      "en": "\tInvasion Multiplayer\r",
+      "jp": "\t侵入マルチプレイ\r",
+      "zh": "\t入侵多人联机游玩\r"
+    },
+    "TutorialBody": {
+      "en": "\tUse Festering Bloody Finger to attempt to invade the world of another player.\\n\\nThe multiplayer session will begin once the invasion succeeds.\\n\\nYou will take the role of an invader (Bloody Finger) and your objective is to defeat the Host of Fingers of that world.\\n\\nIf you stray far from the Host of Fingers, the compass at the top of the screen points to their location.\r",
+      "jp": "\t「爛れた血指」などを使用し\\n他プレイヤーの世界に侵入を試みることができる\\n\\n侵入に成功すると、侵入マルチプレイが開始される\\n\\n貴方は侵入者（血の指）となり\\n世界の主たる「鉤指の主」の撃破が目的となる\\n\\n鉤指の主が遠くにいる時は\\nその方角が、画面上部の方位計に表示される\\n\r",
+      "zh": "\t使用“溃烂血指”等等道具，\\n能入侵其他玩家的世界。\\n\\n入侵成功后，会开始入侵多人联机游玩。\\n\\n您将成为入侵者（血指），\\n目标是打败入侵世界的主人“勾指主人”。\\n\\n当勾指主人位在远方，\\n所在方向会显示在画面上方的方位条。\r"
+    }
+  },
+  "301690": {
+    "TutorialTitle": {
+      "en": "\tSummoning Pools\r",
+      "jp": "\tサイン溜まり\r",
+      "zh": "\t记号聚集处\r"
+    },
+    "TutorialBody": {
+      "en": "\tIn each area, you may find effigies of martyrs.\\nThese effigies are summoning pools.\\n\\nYou'll find it easy to summon other players at these locations, as co-op and hostile summoning signs created with small effigies gather at summoning pools.\r",
+      "jp": "\t各地にある殉教者の偶像は、サイン溜まりである\\n\\n小偶像を使用した協力サイン、敵対サインは\\nサイン溜まりに集積するため\\n他プレイヤーを召喚しやすい場所となる\\n\r",
+      "zh": "\t散布各地的殉教者雕像，\\n是记号的聚集处。\\n\\n使用小雕像写下的协力记号、\\n敌对记号会汇集在记号聚集处，\\n方便召唤其他玩家。\r"
+    }
+  },
+  "302000": {
+    "TutorialTitle": {
+      "en": "\tAdding Affinities\r",
+      "jp": "\t属性の付与\r",
+      "zh": "\t赋予属性\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith a Whetstone Knife, you can use ashes of war to grant affinities to your armaments at sites of grace.\\n\\nThis way, you can alter an armament's attack affinity, boost attribute scaling, and more.\\n\\nAn armament's type determines what affinities it can have. Some special armaments, like those with unique skills, cannot be granted new affinities.\r",
+      "jp": "\t「砥石の小刀」があれば\\n祝福で「戦灰」を用い、武器に属性を付与できる\\n\\n付与された属性により、その武器の\\n攻撃力属性、能力補正などが変化する\\n\\n付与は武器種別により制限され\\n固有の戦技を持つなどの、特別な武器には\\n属性の付与はできない\\n\r",
+      "zh": "\t拥有“砥石小刀”之后，\\n能在赐福使用“战灰”，赋予武器属性。\\n\\n根据赋予的属性，\\n武器的攻击属性、能力加成\\n会随之产生变化。\\n\\n能赋予的属性会依照武器类别有所限制。\\n部分特殊武器（例如具备固有战技的武器），\\n无法赋予属性。\r"
+    }
+  },
+  "302380": {
+    "TutorialTitle": {
+      "en": "\tHunter Multiplayer\r",
+      "jp": "\t狩人マルチプレイ\r",
+      "zh": "\t猎人多人联机游玩\r"
+    },
+    "TutorialBody": {
+      "en": "\tIf you use a Blue Cipher Ring, you will make yourself open to summons for rescue from other worlds.\\n\\nThe multiplayer session will begin once you have been summoned as a hunter, and your objective is to defeat the invader of that world.\\n\\nThe compass at the top of the screen indicates the direction of the summoner (Host of Fingers).\r",
+      "jp": "\t「青い秘文字の指環」を使用すると\\n他世界から狩人の召喚要請があった時\\nそれに応え、召喚される状態となる\\n\\n狩人として召喚されると\\n狩人マルチプレイが開始される\\nその目的は、侵入者の撃破となる\\n\\n召喚主（鉤指の主）の方角が\\n画面上部の方位計に表示される\\n\r",
+      "zh": "\t使用“蓝秘文戒指”，\\n在收到其他世界召唤猎人的请求时，\\n能回应要求，接受召唤。\\n\\n作为猎人受召唤之后，\\n将开始猎人多人联机游玩。\\n目标是打败入侵者。\\n\\n召唤主方（勾指主人）的所在方向\\n会显示在画面上方的方位条。\r"
+    }
+  },
+  "302390": {
+    "TutorialTitle": {
+      "en": "\tMonument Icon\r",
+      "jp": "\t碑文アイコン\r",
+      "zh": "\t碑文图案\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou must be near a rebirth monument to summon spirits from ashes.\\n\\nWhen you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.\r",
+      "jp": "\t遺灰を使った霊体召喚は\\n還魂碑の周辺でしか行うことはできない\\n\\n還魂碑の周辺、霊体召喚が可能な場所では\\n画面左に碑文アイコンが表示される\\n\r",
+      "zh": "\t透过骨灰道具进行的灵魂召唤，\\n只能在还魂碑附近进行。\\n\\n当身在还魂碑附近，\\n或是在能召唤灵魂的地方时，\\n画面左侧会出现碑文图案。\r"
+    }
+  },
+  "302400": {
+    "TutorialTitle": {
+      "en": "\tGuard Counters\r",
+      "jp": "\tガードカウンター\r",
+      "zh": "\t防御反击\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou can perform a counterattack immediately after blocking an enemy attack.\\n\\nGuard counters make it easy to break an enemy's stance.\\n\\n<?keyicon@23?> immediately after blocking an attack: Guard Counter\r",
+      "jp": "\t敵の攻撃をガードした直後に\\nカウンター攻撃ができる\\n\\nガードカウンターは、敵の体勢を崩しやすい\\n\\n攻撃をガード直後に<?keyicon@23?>：ガードカウンター\\n\r",
+      "zh": "\t防住敌人攻击的当下，能立刻使出防御反击。\\n防御反击容易让敌人失去平衡。\\n\\n防住敌人攻击后\\n立刻按下<?keyicon@23?>：防御反击\r"
+    }
+  },
+  "302410": {
+    "TutorialTitle": {
+      "en": "\tGuarding\r",
+      "jp": "\tガード\r",
+      "zh": "\t防御\r"
+    },
+    "TutorialBody": {
+      "en": "\tUse an armament in your left hand or both hands to guard against incoming attacks.\\nGuarding is especially effective when done with a shield.\\n\\nGuarding consumes stamina.\\nIf your stamina runs out, your stance will be broken.\\n\\n<?keyicon@24?>: Guard\r",
+      "jp": "\t左手の武器、あるいは両手持ちの武器で\\n敵の攻撃をガードできる\\n\\n特に、盾によるガードは効果が大きい\\n\\nガードはスタミナを消費し\\nスタミナが尽きると、体勢が崩れてしまう\\n\\n<?keyicon@24?>：ガード\\n\r",
+      "zh": "\t能用左手武器，\\n或是以双手共持的武器防御敌人攻击。\\n\\n用盾牌防御的效果尤佳。\\n\\n防御攻击时会消耗精力，\\n精力耗尽后会失去平衡。\\n\\n按下<?keyicon@24?>：防御\r"
+    }
+  },
+  "302420": {
+    "TutorialTitle": {
+      "en": "\tRequesting Aid from a Hunter\r",
+      "jp": "\t狩人の召喚要請\r",
+      "zh": "\t召唤猎人\r"
+    },
+    "TutorialBody": {
+      "en": "\tIf you use a White Cipher Ring, you will automatically request for a hunter from another world to come to your rescue when your world is invaded.\\n(Can also be used after you are invaded.)\\n\\nThe hunter will be summoned once the request succeeds, and their objective is to defeat the invader of your world.\r",
+      "jp": "\t「白い秘文字の指環」を使用すると\\n侵入者に侵入された時、自動的に\\n他世界に狩人の召喚を要請する状態となる\\n（侵入された後に使用してもよい）\\n\\n要請に成功すると、狩人が召喚され\\nその目的は侵入者の撃破となる\\n\r",
+      "zh": "\t使用“白秘文戒指”，\\n在被入侵者入侵时，能自动发出请求，\\n召唤其他世界的猎人。\\n（也能在被入侵后再使用。）\\n\\n成功后能召唤猎人，\\n猎人的目标是打败入侵者。\r"
+    }
+  },
+  "302430": {
+    "TutorialTitle": { "en": "\tSkills\r", "jp": "\t戦技\r", "zh": "\t战技\r" },
+    "TutorialBody": {
+      "en": "\tArmaments have special abilities called skills.\\n\\nSkills are highly varied, and range from powerful attacks to temporary effects.\\nUsing skills consumes FP.\\n\\n<?keyicon@25?>: <?keyActName@25?>\r",
+      "jp": "\t戦技とは、武器の持つ特殊な技である\\n\\n強力な攻撃から、一時的特殊効果まで幅広く\\nその使用にはＦＰが消費される\\n\\n<?keyicon@25?>：<?keyActName@25?>\\n\r",
+      "zh": "\t战技是武器具备的特殊招式。\\n\\n战技的种类繁多，从使出强大攻击，\\n到产生短暂特殊效果皆有。\\n使用时会消耗专注值。\\n\\n<?keyicon@25?>：<?keyActName@25?>\r"
+    }
+  },
+  "302440": {
+    "TutorialTitle": {
+      "en": "\tFast Travel to Sites of Grace\r",
+      "jp": "\t祝福への移動\r",
+      "zh": "\t传送至赐福\r"
+    },
+    "TutorialBody": {
+      "en": "\tThrough your map, you can instantly travel to any sites of grace that you've discovered.\\n\\nHowever, there are some dungeons and other areas where this cannot be done.\r",
+      "jp": "\t地図から、発見済の祝福を選択し\\nそこに瞬時に移動することができる\\n\\nただし、一部ダンジョンなどでは\\nそれができないことがある\\n\r",
+      "zh": "\t能够从地图点选已知的赐福，瞬间移动过去。\\n\\n但是部分区域（例如地下迷宫等等），\\n无法进行瞬间移动。\r"
+    }
+  },
+  "302450": {
+    "TutorialTitle": {
+      "en": "\tStrengthening Armaments\r",
+      "jp": "\t武器の強化\r",
+      "zh": "\t强化武器\r"
+    },
+    "TutorialBody": {
+      "en": "\tAt a smithing table, you can spend runes and smithing stones to strengthen your armaments.\\n\\nSomewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.\r",
+      "jp": "\t鍛冶台で「鍛石」とルーンを消費して\\n武器を強化できる\\n\\n狭間の地のどこかで、鍛冶屋を見つければ\\nさらに上の段階の強化も可能になる\\n\r",
+      "zh": "\t在锻造台消耗“锻造石”与花费卢恩，\\n能够强化武器。\\n\\n如果在交界地之中找到铁匠，\\n武器就能得到更进一步的强化。\r"
+    }
+  },
+  "302460": {
+    "TutorialTitle": {
+      "en": "\tRoundtable Hold\r",
+      "jp": "\t円卓\r",
+      "zh": "\t圆桌厅堂\r"
+    },
+    "TutorialBody": {
+      "en": "\tThe Roundtable Hold is a place where Tarnished gather, guided by grace. Combat is prohibited on the premises due to a pact of non-aggression. (This rule is in effect when the Roundtable icon is displayed.)\\nThe Roundtable Hold is located outside of this world, and fast travel by grace is the only means of reaching it. (Use the map to travel there.)\\n\\n<?keyicon@29?>: <?keyActName@29?>\r",
+      "jp": "\t円卓は、祝福に導かれた褪せ人が集う場所であり\\n不戦の約定により、戦闘行為が禁止されている\\n（円卓のアイコンは、不戦の約定を示す）\\n\\nこの世界でないどこかにあり\\n祝福の移動でのみ、行き来ができる\\n（地図から移動できる）\\n\\n<?keyicon@29?>：<?keyActName@29?>\\n\r",
+      "zh": "\t圆桌厅堂是受赐福引导的褪色者聚集的地方。\\n基于非战的约定，不得于此械斗。\\n（圆桌厅堂的图案代表着非战的约定。）\\n\\n圆桌厅堂不存在于现世，\\n只能透过赐福往来，但也能透过地图传送。\\n\\n<?keyicon@29?>：<?keyActName@29?>\r"
+    }
+  },
+  "302470": {
+    "TutorialTitle": { "en": "\tDense Fog of Sleep\r", "jp": "\t眠りの濃霧\r" },
+    "TutorialBody": {
+      "en": "\tMonk Jiko seeks the deep fog of sleep.\\n\\nFind someone in a deep sleep, and capture their Dream Mist by using St. Trina's Crystal Ball.\\n\\nThose in a deep sleep can be identified by the mist surrounding them.\\n\\n<?keyicon@27?> when near someone in a deep sleep: Capture Dream Mist\r",
+      "jp": "\tジコ坊は、精酒のため\\n眠りの濃霧を求めている\\n\\n深く眠る者を見つけ出し、\\nトリーナの水晶玉を用いれば\\n眠りの濃霧を写し取ることができる\\n\\nただ眠っている者と違い、\\n深く眠る者は霧がかかって見える\\n\\n深く眠る者に近付き<?keyicon@27?>：濃霧を写し取る\\n\r"
+    }
+  },
+  "302480": {
+    "TutorialTitle": {
+      "en": "\tPouches\r",
+      "jp": "\tポーチ\r",
+      "zh": "\t随身包包\r"
+    },
+    "TutorialBody": {
+      "en": "\tFrom \"Pouch\" in the main menu, you can equip six items to your pouches.\\n\\nFour of those items can be used without opening the main menu.\\n\\n<?keyicon@27?>+<?keyicon@17?>: Use item in Pouch 1\\n<?keyicon@27?>+<?keyicon@19?>: Use item in Pouch 2\\n<?keyicon@27?>+<?keyicon@20?>: Use item in Pouch 3\\n<?keyicon@27?>+<?keyicon@18?>: Use item in Pouch 4\r",
+      "jp": "\tメインメニューの「ポーチ」に\\n６つのアイテムを装備し、そこから使うことができる\\n\\nその内の４つのアイテムについては\\nメインメニューを開くことなく使用することもできる\\n\\n<?keyicon@27?>+<?keyicon@17?>：ポーチ１のアイテムを使用\\n<?keyicon@27?>+<?keyicon@19?>：ポーチ２のアイテムを使用\\n<?keyicon@27?>+<?keyicon@20?>：ポーチ３のアイテムを使用\\n<?keyicon@27?>+<?keyicon@18?>：ポーチ４のアイテムを使用\\n\r",
+      "zh": "\t在主选单的“随身包包”能配置６项道具，\\n直接从主选单使用。\\n\\n此外，随身包包中配置于前４项的道具，\\n能不打开主选单直接使用。\\n\\n<?keyicon@27?>＋<?keyicon@17?>：使用“随身包包１”的道具\\n<?keyicon@27?>＋<?keyicon@19?>：使用“随身包包２”的道具\\n<?keyicon@27?>＋<?keyicon@20?>：使用“随身包包３”的道具\\n<?keyicon@27?>＋<?keyicon@18?>：使用“随身包包４”的道具\r"
+    }
+  },
+  "302490": {
+    "TutorialTitle": {
+      "en": "\tDodging\r",
+      "jp": "\t回避\r",
+      "zh": "\t闪避\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou can avoid enemy attacks with a dodge roll or backstep.\\nBoth of these actions consume stamina.\\n\\n<?keyMove?>+<?keyicon@7?>: Dodge roll\\n<?keyicon@7?>: Backstep\r",
+      "jp": "\tローリングあるいはバックステップで\\n敵の攻撃を回避できる\\n\\nただし、どちらもスタミナを消費する\\n\\n<?keyMove?>+<?keyicon@7?>：ローリング\\n<?keyicon@7?>：バックステップ\\n\r",
+      "zh": "\t利用翻滚或是后跃，能闪避敌人的攻击。\\n只是做出这两种行动都需要消耗精力。\\n\\n<?keyMove?>＋<?keyicon@7?>：翻滚\\n<?keyicon@7?>：后跃\r"
+    }
+  },
+  "302500": {
+    "TutorialTitle": {
+      "en": "\tGreat Runes\r",
+      "jp": "\t大ルーン\r",
+      "zh": "\t大卢恩\r"
+    },
+    "TutorialBody": {
+      "en": "\tThe Great Runes you receive by defeating shardbearers have lost their beneficial power.\\nHowever, their power can be restored at Divine Towers throughout the Lands Between.\\n\\nSee the description of each Great Rune to discover which Divine Tower you should visit.\r",
+      "jp": "\t破片の君主を倒して得た大ルーンは\\n恩恵の力を失っており、各地の神授塔で\\nそれを再び得ることができる\\n\\n向かうべき神授塔は\\n大ルーンアイテムに記されている\\n\r",
+      "zh": "\t打败碎片君王获得的大卢恩\\n失去了恩惠的力量。\\n到各处的神授塔，能让它再次获得力量。\\n\\n相对应的神授塔，\\n写在各个大卢恩的道具说明内。\r"
+    }
+  },
+  "302510": {
+    "TutorialTitle": {
+      "en": "\tThe Cave of Knowledge\r",
+      "jp": "\t学びの洞窟\r",
+      "zh": "\t求学洞窟\r"
+    },
+    "TutorialBody": {
+      "en": "\tJump down the hole ahead, and you will find the Cave of Knowledge.\\n\\nThere, you can learn more about game controls and basic actions, as well as other tips that may be helpful during your adventures in the Lands Between.\r",
+      "jp": "\tこの先の穴に飛び降りると\\n「学びの洞窟」がある\\n\\n学びの洞窟では\\n基本的なアクションや操作方法を学ぶことができ\\n狭間の地の冒険に有用な知識も得られる\\n\r",
+      "zh": "\t跳下前方的地洞之后，就是“求学洞窟”。\\n\\n在求学洞窟能学习各类基本行动与操作，\\n也能获得在交界地冒险时的实用知识。\r"
+    }
+  },
+  "302550": {
+    "TutorialTitle": { "en": "\tDuels\r", "jp": "\t決闘\r", "zh": "\t决斗\r" },
+    "TutorialBody": {
+      "en": "\tTo engage in combat with other players, touch the effigy of Marika in a Colosseum.\\n\\nDuels, in which combatants fight one on one, can be undertaken in this venue.\r",
+      "jp": "\t闘技場のマリカ像に触れることで\\n闘技に参戦し、他プレイヤーと対戦できる\\n\\nこの闘技場では「決闘」形式で対戦を行う\\n「決闘」は１対１での戦いとなる\\n\r",
+      "zh": "\t触碰竞技场的玛莉卡雕像\\n能参加竞技，与其他玩家对战。\\n\\n此竞技场采取的规则\\n为“决斗”，是１对１的战斗。\r"
+    }
+  },
+  "302560": {
+    "TutorialTitle": {
+      "en": "\tUnited Combat and Combat Ordeals\r",
+      "jp": "\t共闘／乱闘\r",
+      "zh": "\t组队战、乱战\r"
+    },
+    "TutorialBody": {
+      "en": "\tTo engage in combat with other players, touch the effigy of Marika in a Colosseum.\\n\\nUnited Combat and Combat Ordeals can be undertaken in this venue.\\n\\nIn United Combat two teams of fighters clash. Combat Ordeals are all-out brawls in which every combatant is out for themselves.\r",
+      "jp": "\t闘技場のマリカ像に触れることで\\n闘技に参戦し、他プレイヤーと対戦できる\\n\\nこの闘技場では\\n「共闘」あるいは「乱闘」形式で対戦を行う\\n\\n「共闘」は２チームに分かれて戦い\\n「乱闘」は全員が敵となり戦う\\n\r",
+      "zh": "\t触碰竞技场的玛莉卡雕像\\n能参加竞技，与其他玩家对战。\\n\\n此竞技场采取的规则\\n为“组队战”或是“乱战”。\\n\\n“组队战”是分成２队交战；\\n“乱战”是全部玩家互相为敌而战。\r"
+    }
+  },
+  "302570": {
+    "TutorialTitle": {
+      "en": "\tCombat with Spirit Ashes\r",
+      "jp": "\t遺灰有りの闘技\r",
+      "zh": "\t使用骨灰的竞技\r"
+    },
+    "TutorialBody": {
+      "en": "\tTo engage in combat with other players, touch the effigy of Marika in a Colosseum.\\n\\nIn this venue, spirit ashes are permitted for use in battle.\r",
+      "jp": "\t闘技場のマリカ像に触れることで\\n闘技に参戦し、他プレイヤーと対戦できる\\n\\nこの闘技場では、対戦で遺灰を使用できる\\n\r",
+      "zh": "\t触碰竞技场的玛莉卡雕像\\n能参加竞技，与其他玩家对战。\\n\\n此竞技场在战斗时能使用骨灰。\r"
+    }
+  },
+  "302580": {
+    "TutorialTitle": {
+      "en": "\tMarika's Effigy at the Roundtable\r",
+      "jp": "\t円卓のマリカ像\r",
+      "zh": "\t圆桌厅堂的玛莉卡雕像\r"
+    },
+    "TutorialBody": {
+      "en": "\tThe effigy of Marika at the Roundtable Hold can be used to enter Colosseum combat.\\n\\nYour preferred format may be chosen from those of Colosseums already visited.\r",
+      "jp": "\t闘技には、円卓のマリカ像からも参戦できる\\n\\nそこでは、一度訪れた闘技場のルールだけが\\n選択できる\\n\r",
+      "zh": "\t透过圆桌厅堂的玛莉卡雕像也能参加竞技。\\n\\n以此方法参战时，只能选择\\n过去造访的竞技场所使用的规则。\r"
+    }
+  },
+  "302600": {
+    "TutorialTitle": {
+      "en": "\tScadutree Blessing\r",
+      "jp": "\t影樹の加護\r",
+      "zh": "\t幽影树庇佑\r"
+    },
+    "TutorialBody": {
+      "en": "\tScadutree Fragments can be found across the realm of shadow.\\n\\nConsume these at sites of grace to bolster your Scadutree Blessing.\\n\\nThe Scadutree Blessing bolsters the recipient's abilities to deal and negate damage, but has no influence outside the realm of shadow.\r",
+      "jp": "\t影の地の各所で、影樹の破片を入手できる\\n\\n祝福で、それを消費することで\\n「影樹の加護」を上げることができる\\n\\n影樹の加護は、それを受けた者の\\n攻撃力とカット率を高めるが\\n影の地の外では効果を発揮しない\\n\r",
+      "zh": "\t在幽影之地各处，能获得幽影树碎片。\\n于赐福消耗后，能加强“幽影树庇佑”。\\n\\n接受“幽影树庇佑”\\n能强化自身的攻击力与减伤率，\\n但有效范围仅限于幽影之地。\r"
+    }
+  },
+  "302610": {
+    "TutorialTitle": {
+      "en": "\tRevered Spirit Ash Blessing\r",
+      "jp": "\t霊灰の加護\r",
+      "zh": "\t灵灰庇佑\r"
+    },
+    "TutorialBody": {
+      "en": "\tRevered Spirit Ash can be found across the realm of shadow.\\n\\nConsume this Ash at sites of grace to bolster your Revered Spirit Ash Blessing.\\n\\nThe Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow.\r",
+      "jp": "\t影の地の各所で、霊灰を入手できる\\n\\n祝福で、それを消費することで\\n「霊灰の加護」を上げることができる\\n\\n霊灰の加護は、召喚する霊体と霊馬の\\n攻撃力とカット率を高めるが\\n影の地の外では効果を発揮しない\\n\r",
+      "zh": "\t在幽影之地各处，能获得灵灰。\\n于赐福消耗后，能加强“灵灰庇佑”。\\n\\n接受“灵灰庇佑”\\n能强化受召唤灵魂与灵马的攻击力与减伤率，\\n但有效范围仅限于幽影之地。\r"
+    }
+  },
+  "302620": {
+    "TutorialTitle": {
+      "en": "\tNew Inventory Features\r",
+      "jp": "\tインベントリの新機能\r",
+      "zh": "\t置物包的新功能\r"
+    },
+    "TutorialBody": {
+      "en": "\tNew features can be enabled in the display tab within the system menu.\\n\\n- Items obtained for the first time can be marked with <?newItemIcon?>.\\n- A dedicated tab has been created to view the items obtained most recently.\r",
+      "jp": "\tシステムメニューの表示タブから\\n以下の新機能を設定することができる\\n\\n・初めて入手したアイテムに<?newItemIcon?>を表示する\\n・最近入手したアイテムを専用のタブで確認する\\n\r",
+      "zh": "\t从系统选单的显示配置，\\n能够详细配置下列新功能：\\n\\n·初次获得的道具，能以<?newItemIcon?>标示。\\n·最近获得的道具，能从专用的标签进行确认。\r"
+    }
+  },
+  "309000": {
+    "TutorialTitle": {
+      "en": "\tMultiplayer\r",
+      "jp": "\tマルチプレイ\r",
+      "zh": "\t多人联机游玩\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou will need certain items to participate in each type of multiplayer:\\ncooperative, invasion, or competitive.\\n\\nSelect \"Multiplayer\" from the main menu to see your multiplayer items.\\nYou can also use them directly from this menu.\\n\\n<?keyicon@28?>: <?keyActName@28?>\r",
+      "jp": "\t協力、侵入、敵対マルチプレイには\\nそれぞれ対応したアイテムが必要になる\\n\\nマルチプレイ用のアイテムは\\nメインメニュー「マルチプレイ」で確認でき\\nそこから直接使用することもできる\\n\\n<?keyicon@28?>：<?keyActName@28?>\\n\r",
+      "zh": "\t要进行协力、入侵、敌对多人联机游玩，\\n必须先取得各自所需的道具。\\n\\n多人联机游玩的相关道具，\\n能在主选单的“多人联机游玩”选单确认，\\n也能从选单直接使用。\\n\\n<?keyicon@28?>：<?keyActName@28?>\r"
+    }
+  },
+  "402000": {
+    "TutorialTitle": {
+      "en": "\tEquipment Menu\r",
+      "jp": "\t装備メニュー\r",
+      "zh": "\t装备选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Equipment menu, you can equip armaments, arrows, bolts, armor, talismans, and items.\\n\\nYou can equip up to three armaments each to your left and right hands.\\nThe actions each armament performs will vary based on which hand is wielding it.\r",
+      "jp": "\t装備メニューでは、武器、矢、ボルト\\n防具、タリスマン、アイテムを装備できる\\n\\n武器は左手と右手に３個ずつ装備でき\\nどちらの手に装備するのかで、アクションは変化する\\n\r",
+      "zh": "\t在装备选单，能选择想装备的\\n武器、箭、弩箭、防具、护符，以及道具。\\n\\n左手与右手各能装备３把武器。\\n武器装备在不同手，动作各有不同。\r"
+    }
+  },
+  "402010": {
+    "TutorialTitle": {
+      "en": "\tItem Crafting Menu\r",
+      "jp": "\tアイテム製作メニュー\r",
+      "zh": "\t制作道具选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Item Crafting menu, you can make various items from materials that you find.\\n\\nYou can learn to craft more items by finding cookbooks.\r",
+      "jp": "\tアイテム製作メニューでは\\n素材アイテムを用いて、様々なアイテムを製作できる\\n\\n製作できるアイテムの種類は\\n「製法書」を手に入れることで増えていく\\n\r",
+      "zh": "\t在制作道具选单，\\n能用材料道具制作各种道具。\\n\\n取得“制作笔记”之后，\\n能制作的道具种类也会随之增加。\r"
+    }
+  },
+  "402020": {
+    "TutorialTitle": {
+      "en": "\tInventory Menu\r",
+      "jp": "\tインベントリメニュー\r",
+      "zh": "\t置物包选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Inventory menu, you can browse the items you're carrying, drop them on the ground, or throw them away.\\n\\nYou can also use tools from the Inventory menu.\\n\\n<?keyicon@31?>: Show large image and explanation.\\n<?keyicon@30?>: Toggle character data\r",
+      "jp": "\tインベントリメニューでは\\n所持しているアイテムを確認することができ\\nそれらをその場に置いたり、破棄したりできる\\n\\nまた道具については、このメニューから使用できる\\n\\n<?keyicon@31?>：大きな画像と説明文の表示\\n<?keyicon@30?>：キャラクターデータ表示の切替\\n\r",
+      "zh": "\t在置物包选单，能确认持有的物品，\\n选择将物品放置原地，或是丢弃。\\n\\n也能从置物包选单使用道具。\\n\\n<?keyicon@31?>：显示大图片与说明文\\n<?keyicon@30?>：切换显示角色数据\r"
+    }
+  },
+  "402030": {
+    "TutorialTitle": {
+      "en": "\tStatus Menu\r",
+      "jp": "\tステータスメニュー\r",
+      "zh": "\t状态选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Status menu, you can check your level, attributes, base stats, and more.\\n\\nThe information shown here also reflects changes to your attack, defense, and resistances bestowed by armaments and armor that you have equipped.\r",
+      "jp": "\tステータスメニューでは\\n自分のレベル、能力値、基礎力などを確認できる\\n\\n攻撃力や防御力、耐性値などは\\n装備中の武器、防具の数値も反映される\\n\r",
+      "zh": "\t在状态选单，能确认自己的等级、能力值，\\n以及基本能力等等资讯。\\n\\n攻击力、防御力、抵抗力等等，\\n会根据装备的武器、防具的数值变化。\r"
+    }
+  },
+  "402040": {
+    "TutorialTitle": {
+      "en": "\tMessage Menu\r",
+      "jp": "\tメッセージメニュー\r",
+      "zh": "\t讯息选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Messages menu, you can write messages that players in other worlds can read at the spot where you left them.\\n\\nYou can change the message format to leave more complex messages and also attach gestures to your messages.\\n\\nYou can rate other players' messages.\\nWhenever another player rates a message that you've written, your HP will be replenished.\r",
+      "jp": "\tメッセージメニューでは\\nその場にメッセージを書くことができる\\nそれは他世界に伝播する\\n\\nメッセージの形式を切り替えることで\\nより複雑なメッセージを書くことができ\\nジェスチャーを添付することもできる\\n\\n他プレイヤーのメッセージを評価することができ\\n貴方のメッセージが評価された時は、ＨＰが回復する\\n\r",
+      "zh": "\t在讯息选单，能够当场写下讯息，\\n传布到其他世界。\\n\\n切换讯息的格式，就能留下更为复杂的讯息。\\n此外，也能替讯息搭配肢体动作。\\n\\n能对其他玩家留下的讯息给予评价，\\n当自己的讯息收到好评，能够恢复血量。\r"
+    }
+  },
+  "402050": {
+    "TutorialTitle": {
+      "en": "\tMultiplayer Menu\r",
+      "jp": "\tマルチプレイメニュー\r",
+      "zh": "\t多人联机游玩选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Multiplayer menu, you can use various multiplayer items.\\n\\nIf you set a group password, you'll be more likely to see messages, summon signs, bloodstains, phantoms, and so on from others using the same password.\\n\\nIf you set a multiplayer password, you'll only be matched with other players using the same password for most multiplayer features.\\nHowever, multiplayer passwords do not apply to invasion multiplayer.\r",
+      "jp": "\tマルチプレイメニューでは\\n様々なマルチプレイ用のアイテムを使用できる\\n\\nまた、グループ合言葉を設定すると\\n同じ合言葉を設定しているプレイヤーの\\nメッセージや召喚サイン、血痕、幻影などが\\n優先的に表示されるようになる\\n\\nマルチプレイ合言葉を設定すると\\n同じ合言葉を設定したプレイヤーとだけマッチングする\\nただし侵入マルチプレイでは、この合言葉は機能しない\\n\r",
+      "zh": "\t在多人联机游玩选单，\\n能使用各种多人联机游玩所需的道具。\\n\\n另外，配置群组暗号之后，\\n会优先显示使用同一组暗号玩家的下列状态：\\n讯息、召唤记号、血迹、幻影等等。\\n\\n配置多人联机游玩的暗号之后，\\n会和配置同一组暗号的玩家进行联机配对。\\n但在入侵多人联机游玩中，不适用暗号功能。\r"
+    }
+  },
+  "402100": {
+    "TutorialTitle": {
+      "en": "\tMap Menu\r",
+      "jp": "\t地図メニュー\r",
+      "zh": "\t地图选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Map menu, you can check your current position and terrain and buildings in the surrounding area.\\n\\nYou can also freely place beacons of light to serve as landmarks as you explore.\\n\\nLastly, through your map, you can select any site of grace that you've discovered and travel there instantaneously.\\nHowever, there are some dungeons and other areas where this cannot be done.\r",
+      "jp": "\t地図メニューでは、自分の現在位置や\\n地形や建築物などの情報を確認できる\\n\\n任意の場所に光の柱を配置し\\n探索の目印にすることもできる\\n\\nまた、発見済の祝福を選択し\\nそこに瞬時に移動することができる\\nただし、一部ダンジョンなどでは\\nそれができないことがある\\n\r",
+      "zh": "\t在地图选单，能确认自己的所在位置、\\n地形以及建筑物等等资讯。\\n\\n能在地图上放置光柱，作为探索时的标记。\\n\\n另外，也能从地图点选已知的赐福，瞬间移动过去。\\n但是部分区域（例如地下迷宫等等），无法进行瞬间移动。\r"
+    }
+  },
+  "402200": {
+    "TutorialTitle": {
+      "en": "\tLevel Up Menu\r",
+      "jp": "\tレベルアップメニュー\r",
+      "zh": "\t升级选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Level Up menu, you can spend runes to increase your attributes.\\n\\nWith each attribute increase, your level rises by one.\\nAs your level rises, so does the amount of runes required for your next attribute increase.\r",
+      "jp": "\tレベルアップメニューでは\\nルーンを消費して能力値を成長できる\\n\\n能力値が１成長すると、レベルも１上がり\\nレベルが高くなるほど\\n能力値の成長に必要なルーンは多くなる\\n\r",
+      "zh": "\t在升级选单，能花费卢恩提升能力值。\\n\\n提升能力值１点，等级也会提升１等。\\n当等级越来越高，提升能力值所需的卢恩也会越来越多。\r"
+    }
+  },
+  "402210": {
+    "TutorialTitle": {
+      "en": "\tMenu: Additional Healing Flasks\r",
+      "jp": "\tメニュー説明：聖杯瓶の回数増加\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou can increase the number of flasks available.\\n\\nLocate Flask Shards in order to increase the number of flasks.\r",
+      "jp": "\t聖杯瓶の使用回数を増やすことができる\\n\\n使用回数を増やすには、聖杯の欠片が必要になる\r"
+    }
+  },
+  "402220": {
+    "TutorialTitle": {
+      "en": "\tMenu: Increasing Healing Amount\r",
+      "jp": "\tメニュー説明：聖杯瓶の回復量増加\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou can increase the healing amount of each flask.\\n\\nLocate \"Immortal Ashes\" in order to increase the healing amount.\r",
+      "jp": "\t聖杯瓶の回復量を増やすことができる\\n\\n回復量を増やすには、【不死の遺骨】が必要になる\r"
+    }
+  },
+  "402230": {
+    "TutorialTitle": {
+      "en": "\tAllocating Flask Uses\r",
+      "jp": "\t使用回数の振り分け\r",
+      "zh": "\t分配使用次数\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith this menu, you can allocate the number of uses in each of your flasks.\\n\\nYou have a set total of maximum flask uses.\\nYou can decide how many of those uses are for the HP-replenishing Flask of Crimson Tears, and how many are for the FP-replenishing Flask of Cerulean Tears.\r",
+      "jp": "\tこのメニューでは\\n聖杯瓶の使用回数を振り分けることができる\\n\\n聖杯瓶全体の最大使用回数を\\nＨＰを回復する緋雫の聖杯瓶と\\nＦＰを回復する青雫の聖杯瓶に振り分ける\\n\r",
+      "zh": "\t在这个选单，能分配圣杯瓶的使用次数。\\n\\n能将２种圣杯瓶合计的使用次数，\\n依照需求分配给恢复血量的红露滴圣杯瓶，\\n以及恢复专注值的蓝露滴圣杯瓶。\r"
+    }
+  },
+  "402240": {
+    "TutorialTitle": {
+      "en": "\tMemorize Spells Menu\r",
+      "jp": "\t記憶メニュー\r",
+      "zh": "\t记忆选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Memorize Spells menu, you can memorize sorceries and incantations.\\n\\nYou must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.\\nCasting sorceries and incantations consumes FP.\\n\\nYour memory slots determine the number of sorceries and incantations you can memorize.\\nYou can increase your memory slots by obtaining a Memory Stone.\r",
+      "jp": "\t記憶メニューでは、魔術と祈祷を記憶できる\\n\\n記憶した魔術／祈祷は\\n魔術であれば杖を、祈祷であれば聖印を装備し\\nＦＰを消費することで使用できる\\n\\n記憶できる最大数は、記憶スロットで決まり\\n「メモリ・ストーン」で増やすことができる\\n\r",
+      "zh": "\t在记忆选单，能够记忆魔法、祷告。\\n\\n在装备手杖、圣印记之后，\\n能够消耗专注值使用先行记忆的魔法、祷告。\\n\\n记忆空格的数量，代表能记忆的魔法、祷告数量上限。\\n利用“记忆石”能增加记忆空格的数量。\r"
+    }
+  },
+  "402250": {
+    "TutorialTitle": {
+      "en": "\tSorting the Chest\r",
+      "jp": "\t木箱の整理\r",
+      "zh": "\t整理木箱\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith this menu, you can place items that you're carrying into the chest for storage, or take stored items out of the chest.\\n\\nIf you are already carrying the maximum number of items when you pick up a new item, it will be stored in the chest automatically.\r",
+      "jp": "\tこのメニューでは\\n所持しているアイテムを木箱に格納したり\\n格納したアイテムを取り出したりできる\\n\\n所持数の上限を超えてアイテムを取得すると\\nそれらは自動的に木箱に格納される\\n\r",
+      "zh": "\t在这个选单，能将持有道具收进木箱，\\n或是从木箱拿出道具。\\n\\n当获得的道具超过可持有数量的上限，\\n会被自动收进木箱。\r"
+    }
+  },
+  "402300": {
+    "TutorialTitle": {
+      "en": "\tShop Menu\r",
+      "jp": "\t商いメニュー\r",
+      "zh": "\t交易选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the shop menu, you can spend runes to purchase various items.\\n\\nYou can also sell items for runes.\\n\\nEach merchant stocks a different variety of items for purchase.\r",
+      "jp": "\t商いメニューでは、ルーンを消費して\\nアイテムを購入することができる\\n\\nまた、アイテムを売却し\\nルーンを得ることもできる\\n\\n商人により、販売されているアイテムは異なる\\n\r",
+      "zh": "\t在交易选单，能花费卢恩购买道具。\\n另外，卖出道具能获得卢恩。\\n\\n每一位商人贩卖的道具会不太一样。\r"
+    }
+  },
+  "402310": {
+    "TutorialTitle": {
+      "en": "\tMenu: Weapon Upgrades\r",
+      "jp": "\t鍛治屋メニュー\r"
+    },
+    "TutorialBody": {
+      "en": "\tWeapons and shields can be upgraded by using upgrade materials.\\n\\nHigher ranked upgrade materials are required for highler level weapons.\r",
+      "jp": "\t鍛治屋メニューでは\\n「鍛石」とルーンを消費して武器を強化できる\\n\\n武器のレベルが上がるほど\\n強化に必要な素材のランクが上がり、\\n数も多く必要になる\r"
+    }
+  },
+  "402320": {
+    "TutorialTitle": {
+      "en": "\tAshes of War Menu\r",
+      "jp": "\t戦灰メニュー\r",
+      "zh": "\t战灰选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Ashes of War menu, you can use Ashes of War to grant skills and affinities to your armaments at sites of grace.\\n\\nAn armament can only have one skill.\\nAny skill it previously had will be lost.\\n\\nBy adding an affinity, you can alter an armament's attack affinity, boost attribute scaling, and more.\\n\\nAn armament's type determines what skills and affinities it can have. Some special armaments cannot be granted new skills or affinities using Ashes of War.\r",
+      "jp": "\t戦灰メニューでは、「戦灰」を用いて\\n武器に新しい戦技と属性を付与できる\\n\\n戦技は武器ごとに1つであり\\n付与により、古い戦技は失われる\\n\\nまた付与された属性により、その武器の\\n攻撃力属性、能力補正などが変化する\\n\\n付与は武器種別により制限され\\n固有の戦技を持つなどの、特別な武器には\\n戦灰を用いた戦技／属性の付与はできない\\n\r",
+      "zh": "\t在战灰选单，能使用“战灰”，\\n赋予武器战技、属性。\\n\\n每一把武器只能有一个战技，\\n赋予战技之后，会移除旧有的战技。\\n\\n根据赋予的属性，武器的攻击属性、能力加成\\n会随之产生变化。\\n\\n能赋予的战技、属性会依照武器类别有所限制。\\n部分特殊武器（例如具备固有战技的武器），\\n无法用战灰赋予战技、属性。\r"
+    }
+  },
+  "402330": {
+    "TutorialTitle": {
+      "en": "\tSpirit Tuning Menu\r",
+      "jp": "\t調霊メニュー\r",
+      "zh": "\t调灵选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Spirit Tuning menu, you can spend runes and Grave Gloveworts to strengthen the spirits you summon from ashes.\\n\\nTo strengthen named spirits, you'll need Ghost Gloveworts.\r",
+      "jp": "\t調霊メニューでは\\n「墓すずらん」とルーンを消費して\\n遺灰から召喚する霊体を強化できる\\n\\nまた、名前付きの霊体の強化には\\n「霊姿の墓すずらん」が必要となる\\n\r",
+      "zh": "\t在调灵选单，\\n能花费卢恩与消耗“墓地铃兰”，\\n强化透过骨灰召唤的灵魂。\\n\\n但如果是有名字的灵魂，\\n必须使用“灵依墓地铃兰”才能强化。\r"
+    }
+  },
+  "402340": {
+    "TutorialTitle": {
+      "en": "\tMenu: Dragon Communion Shop\r",
+      "jp": "\tメニュー説明：竜餐SHOP\r"
+    },
+    "TutorialBody": {
+      "en": "\tYou can learn magic from the Dragon Communion.\\n\\nMemorize these spells by offering Dragon Communion Seeds.\r",
+      "jp": "\t竜餐魔法を会得することができる\\n\\n竜餐魔法を会得するには、竜餐の種を納める必要がある\r"
+    }
+  },
+  "402350": {
+    "TutorialTitle": {
+      "en": "\tGreat Rune Menu\r",
+      "jp": "\t大ルーンメニュー\r",
+      "zh": "\t大卢恩选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Great Rune menu, you can equip Great Runes that\\nhave had their power restored.\\n\\nYou can use a Rune Arc to give even greater benefits to\\nyour equipped Great Runes.\r",
+      "jp": "\t大ルーンメニューでは\\n再び力を得た大ルーンを装備できる\\n\\n装備した大ルーンは\\n「ルーンの弧」を使用することで\\n大いなる恩恵をもたらす\\n\r",
+      "zh": "\t在大卢恩选单，\\n能装备再次获得力量的大卢恩。\\n\\n使用“卢恩弯弧”，\\n能让所装备的大卢恩带来强大的恩惠。\r"
+    }
+  },
+  "402360": {
+    "TutorialTitle": {
+      "en": "\tMixing Physicks\r",
+      "jp": "\t霊薬の配合\r",
+      "zh": "\t调配灵药\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith this menu, you can mix two crystal tears in the Flask of Wondrous Physick.\\n\\nThis will allow you to create physicks with various custom effects.\r",
+      "jp": "\tこのメニューでは、霊薬の聖杯瓶に\\n２つの結晶雫を配合できる\\n\\n配合により、霊薬は様々な特別な効果をもたらす\\n\r",
+      "zh": "\t在这个选单，能将２块结晶露滴\\n加入灵药圣杯瓶进行调配。\\n\\n经过调配，灵药会产生各式各样的效用。\r"
+    }
+  },
+  "402370": {
+    "TutorialTitle": {
+      "en": "\tRebirth Menu\r",
+      "jp": "\t産まれ直しメニュー\r",
+      "zh": "\t重新诞生选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Rebirth menu, you can spend Larval Tears to clear\\nyour levels and reassign them from square one.\\n\\nYou must reassign all levels until you reach your present\\nlevel and you cannot make any attributes lower than\\ntheir initial level determined by your origin.\r",
+      "jp": "\t産まれ直しメニューでは\\n「雫の幼生」を消費して\\nレベルアップを最初からやり直すことができる\\n\\n最終的なレベルを低くすることはできず\\n能力値を、素性の初期値以下にもできない\\n\r",
+      "zh": "\t在重新诞生选单，能消耗“泪滴幼体”\\n重置自己升级时所提升的能力值。\\n\\n重置后，等级必须提升至原有等级，\\n能力值也不能低于出身固有的数值。\r"
+    }
+  },
+  "402380": {
+    "TutorialTitle": {
+      "en": "\tPower of Remembrance Menu\r",
+      "jp": "\t追憶の力メニュー\r",
+      "zh": "\t追忆力量选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Power of Remembrance menu, you can draw out the power of a remembrance's namesake.\\n\\nEach remembrance can provide one power. Once that power is claimed, the remembrance will be lost.\r",
+      "jp": "\t追憶の力メニューでは\\n追憶から、その主の力を得ることができる\\n\\nひとつの追憶から、得られる力はひとつであり\\n力を得ると、追憶は失われてしまう\\n\r",
+      "zh": "\t在追忆力量选单，能透过追忆\\n获得追忆之主拥有的力量。\\n\\n一个追忆能获得的力量只限一个。\\n在获得力量之后，追忆会消失。\r"
+    }
+  },
+  "402390": {
+    "TutorialTitle": {
+      "en": "\tSmithing Menu\r",
+      "jp": "\t鍛冶台メニュー\r",
+      "zh": "\t锻造台选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the smithing menu, you can spend runes and smithing stones to strengthen your armaments.\\n\\nYou can strengthen your armaments up to +3 at a smithing table.\\n\\nSomewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.\r",
+      "jp": "\t鍛冶台メニューでは\\n「鍛石」とルーンを消費して武器を強化できる\\n\\n鍛冶台で強化できるのは「＋３」が上限となる\\n\\n狭間の地のどこかで、鍛冶屋を見つければ\\nさらに上の段階の強化も可能になる\\n\r",
+      "zh": "\t在锻造台选单，\\n能消耗“锻造石”与花费卢恩强化武器。\\n\\n使用锻造台的强化上限为“＋３”。\\n\\n如果在交界地之中找到铁匠，\\n武器就能得到更进一步的强化。\r"
+    }
+  },
+  "402400": {
+    "TutorialTitle": {
+      "en": "\tRemembrance Duplication Menu\r",
+      "jp": "\t追憶の複製メニュー\r",
+      "zh": "\t复制追忆选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Remembrance Duplication menu, you can duplicate remembrances you've previously acquired.\\n(This includes remembrances from which you've already drawn out power.)\\n\\nDuplication can only be performed once per mausoleum.\r",
+      "jp": "\t追憶の複製メニューでは\\n過去に手に入れた、追憶を複製できる\\n（既に、主の力を得たものも含まれる）\\n\\nひとつの霊廟につき、複製は一度だけ可能となる\\n\r",
+      "zh": "\t在复制追忆选单，\\n能复制过去曾经获得的追忆。\\n（已经用在获得追忆之主力量的追忆，也能进行复制。）\\n\\n一座灵庙能进行的复制，只限一次。\r"
+    }
+  },
+  "402500": {
+    "TutorialTitle": {
+      "en": "\tColosseum Menu\r",
+      "jp": "\t闘技場メニュー\r",
+      "zh": "\t竞技场选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tWith the Colosseum menu, you can adjust the rules for Colosseum combat, such as the format, player count, and use of spirit ashes, etc. You may also set your Colosseum password here.\\n\\nYou can jump straight into combat from this menu.\r",
+      "jp": "\t闘技場メニューでは\\n闘技形式、人数、遺灰の有無など\\n対戦ルールを設定し、闘技に参戦できる\\n\\nまた、闘技場専用の合言葉を設定できる\\n\r",
+      "zh": "\t在竞技场选单，\\n能选择各种对战规则，例如竞技方式、\\n人数、骨灰使用限制等等，参加竞技。\\n\\n也能配置竞技场专用的暗号。\r"
+    }
+  },
+  "402600": {
+    "TutorialTitle": {
+      "en": "\tScadutree Blessing Menu\r",
+      "jp": "\t影樹の加護メニュー\r",
+      "zh": "\t幽影树庇佑选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tConsume Scadutree Fragments to bolster your Scadutree Blessing.\\n\\nThe Scadutree Blessing bolsters the recipient's abilities to deal and negate damage, but has no influence outside the realm of shadow.\r",
+      "jp": "\t影樹の破片を消費して\\n「影樹の加護」を上げることができる\\n\\n影樹の加護は、それを受けた者の\\n攻撃力とカット率を高めるが\\n影の地の外では効果を発揮しない\\n\r",
+      "zh": "\t消耗幽影树碎片，能加强“幽影树庇佑”。\\n\\n接受“幽影树庇佑”\\n能强化自身的攻击力与减伤率，\\n但有效范围仅限于幽影之地。\r"
+    }
+  },
+  "402610": {
+    "TutorialTitle": {
+      "en": "\tRevered Spirit Ash Blessing Menu\r",
+      "jp": "\t霊灰の加護メニュー\r",
+      "zh": "\t灵灰庇佑选单\r"
+    },
+    "TutorialBody": {
+      "en": "\tConsume Revered Spirit Ash to bolster your Revered Spirit Ash Blessing.\\n\\nThe Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow.\r",
+      "jp": "\t霊灰を消費して\\n「霊灰の加護」を上げることができる\\n\\n霊灰の加護は、召喚する霊体と霊馬の\\n攻撃力とカット率を高めるが\\n影の地の外では効果を発揮しない\\n\r",
+      "zh": "\t消耗灵灰，能加强“灵灰庇佑”。\\n\\n接受“灵灰庇佑”\\n能强化受召唤灵魂与灵马的攻击力与减伤率，\\n但有效范围仅限于幽影之地。\r"
+    }
+  },
+  "": {
+    "TutorialTitle": { "en": "", "jp": "", "zh": "" },
+    "TutorialBody": { "en": "", "jp": "", "zh": "" }
+  }
+}

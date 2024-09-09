@@ -1,0 +1,916 @@
+{
+  "1": {
+    "LoadingTitle": {
+      "en": "\tCrouching\r",
+      "jp": "\tしゃがみ\r",
+      "zh": "\t蹲下\r"
+    },
+    "LoadingText": {
+      "en": "\tCrouch to make it harder for enemies to discover you.\\nEspecially effective in tall grass.\\nAttacking an enemy that hasn't noticed you will cause more damage than usual.\\n\\n<?keyicon@9?>: <?keyActName@9?>\r",
+      "jp": "\tしゃがむと敵に見つかり難くなる。草むらではその効果がより大きい\\n敵に見つかっていない状態からの攻撃は、通常よりもダメージが大きくなる\\n\\n<?keyicon@9?>：<?keyActName@9?>\\n\r",
+      "zh": "\t蹲下后较不容易被敌人发现。\\n在草丛蹲下，藏身效果更佳。\\n\\n在没有被敌人发现的情况下攻击，\\n能够比一般攻击给予更多的伤害。\\n\\n<?keyicon@9?>：<?keyActName@9?>\r"
+    }
+  },
+  "2": {
+    "LoadingTitle": {
+      "en": "\tGuarding\r",
+      "jp": "\tガード\r",
+      "zh": "\t防御\r"
+    },
+    "LoadingText": {
+      "en": "\tUse an armament in your left hand or both hands to guard against incoming attacks.\\nShields are particularly effective for guarding.\\nGuarding consumes stamina.\\nIf your stamina runs out, your stance will be broken.\\n\\n<?keyicon@24?>: Guard\r",
+      "jp": "\t左手の武器、あるいは両手持ちの武器で、敵の攻撃をガードできる。特に盾が有効\\nガードはスタミナを消費し、スタミナが尽きると体勢が崩れてしまう\\n\\n<?keyicon@24?>：ガード\\n\r",
+      "zh": "\t能用左手武器，或是以双手共持的武器防御敌人攻击。\\n用盾牌防御的效果尤佳。\\n\\n防御攻击时会消耗精力，精力耗尽后会失去平衡。\\n\\n按下<?keyicon@24?>：防御\r"
+    }
+  },
+  "3": {
+    "LoadingTitle": {
+      "en": "\tGuard Counters\r",
+      "jp": "\tガードカウンター\r",
+      "zh": "\t防御反击\r"
+    },
+    "LoadingText": {
+      "en": "\tYou can perform a counterattack immediately after blocking an enemy attack.\\nGuard counters make it easy to break an enemy's stance.\\n\\n<?keyicon@23?> immediately after blocking an attack: Guard Counter\r",
+      "jp": "\t敵の攻撃をガードした直後に、カウンター攻撃ができる\\nガードカウンターは、敵の体勢を崩しやすい\\n\\n攻撃をガード直後に<?keyicon@23?>：ガードカウンター\\n\r",
+      "zh": "\t防住敌人攻击的当下，能立刻使出防御反击。\\n防御反击容易让敌人失去平衡。\\n\\n防住敌人攻击后立刻按下<?keyicon@23?>：防御反击\r"
+    }
+  },
+  "4": {
+    "LoadingTitle": {
+      "en": "\tTwo-Handing Armaments\r",
+      "jp": "\t両手持ち\r",
+      "zh": "\t双手共持\r"
+    },
+    "LoadingText": {
+      "en": "\tWielding an armament in two hands will increase your effective strength for that armament by 50%.\\nThis eases attribute requirements, and armaments that scale with strength will do more damage.\\nIn addition, attacks with that armament are more difficult to repel with shields.\\n\\n<?keyicon@27?>+<?keyicon@24?>/<?keyicon@22?>: Wield with two hands\r",
+      "jp": "\t武器を両手持ちすると筋力が１．５倍の扱いとなる\\n（必要能力値に影響し、筋力補正のある武器は攻撃力も高くなる）\\nまた、その攻撃は盾に弾かれ難くなる\\n\\n<?keyicon@27?>+<?keyicon@24?>/<?keyicon@22?>：武器両手持ち\\n\r",
+      "zh": "\t双手共持武器，力气会以１.５倍计算。\\n（会影响必需能力值，使用力气加成的武器会提升攻击力。）\\n\\n以此状态进攻时，攻击比较不会被盾牌弹开。\\n\\n<?keyicon@27?>＋<?keyicon@24?>／<?keyicon@22?>：双手共持武器\r"
+    }
+  },
+  "5": {
+    "LoadingTitle": {
+      "en": "\tCharge and Jump Attacks\r",
+      "jp": "\tタメ攻撃、ジャンプ攻撃\r",
+      "zh": "\t蓄力攻击、跳跃攻击\r"
+    },
+    "LoadingText": {
+      "en": "\tCharge attacks and jump attacks are powerful.\\nUsing them makes it easy to break an enemy's stance.\\nThey are also likely to knock mounted enemies off of their mounts.\\n\\nHold <?keyicon@23?>: Charge attack\\n<?keyicon@23?> while jumping: Jump attack\r",
+      "jp": "\tタメ攻撃やジャンプ攻撃は、威力が高く敵の体勢を崩しやすい\\nまた騎乗敵に対しては、落馬も狙いやすい\\n\\n<?keyicon@23?>長押し：タメ攻撃\\nジャンプ中に<?keyicon@23?>：ジャンプ攻撃\\n\r",
+      "zh": "\t蓄力攻击、跳跃攻击的攻击力较高，\\n容易让敌人失去平衡。\\n当敌人骑马时，则是容易让对方坠马。\\n\\n按住<?keyicon@23?>：蓄力攻击\\n跳跃时按下<?keyicon@23?>：跳跃攻击\r"
+    }
+  },
+  "6": {
+    "LoadingTitle": { "en": "\tSkill\r", "jp": "\t戦技\r", "zh": "\t战技\r" },
+    "LoadingText": {
+      "en": "\tArmaments have special abilities called skills.\\nSkills are highly varied, and range from powerful attacks to temporary effects.\\nUsing skills consumes FP.\\n\\n<?keyicon@25?>: <?keyActName@25?>\r",
+      "jp": "\t戦技とは、武器の持つ特殊な技である\\n強力な攻撃から、一時的特殊効果まで幅広く、その使用にはＦＰが消費される\\n\\n<?keyicon@25?>：<?keyActName@25?>\\n\r",
+      "zh": "\t战技是武器具备的特殊招式。\\n\\n战技的种类繁多，从使出强大攻击，到产生短暂特殊效果皆有。\\n使用时会消耗专注值。\\n\\n<?keyicon@25?>：<?keyActName@25?>\r"
+    }
+  },
+  "7": {
+    "LoadingTitle": {
+      "en": "\tParrying\r",
+      "jp": "\tパリィ\r",
+      "zh": "\t格挡\r"
+    },
+    "LoadingText": {
+      "en": "\tShields allow you to use the \"Parry\" skill to deflect enemies' close-range attacks.\\nA successful parry will break the attacker's stance, giving you a chance to perform a critical hit.\\n\\n<?keyicon@25?> in time with an enemy attack: Parry\r",
+      "jp": "\t盾の戦技のひとつ「パリィ」は、敵の近接攻撃に合わせて使用する\\n成功すると敵の体勢は崩れ「致命の一撃」のチャンスとなる\\n\\n敵の攻撃タイミングに合わせて<?keyicon@25?>：パリィ\\n\r",
+      "zh": "\t盾牌的其中一项战技“格挡”，\\n需要在敌人近距离攻击时配合使用。\\n\\n格挡成功后，敌人会失去平衡，\\n使出“致命一击”的机会随之到来。\\n\\n配合敌人的攻势按下<?keyicon@25?>：格挡\r"
+    }
+  },
+  "8": {
+    "LoadingTitle": {
+      "en": "\tSetting a Target\r",
+      "jp": "\tターゲット固定\r",
+      "zh": "\t锁定目标\r"
+    },
+    "LoadingText": {
+      "en": "\tLock-on to an enemy to keep it targeted, making it easier to focus on it as you fight.\\n\\n<?keyicon@15?>: <?keyActName@15?>\\n<?keyControlCamera?> while locked-on to a target: Change target\r",
+      "jp": "\tターゲットを固定することで、目標の敵と正対しやすくなる\\n\\n<?keyicon@15?>：<?keyActName@15?>\\nターゲット固定中に<?keyControlCamera?>：ターゲットの変更\\n\r",
+      "zh": "\t锁定目标后，比较容易和锁定的敌人正面相对。\\n\\n<?keyicon@15?>：<?keyActName@15?>\\n锁定目标时<?keyControlCamera?>：切换目标\r"
+    }
+  },
+  "9": {
+    "LoadingTitle": {
+      "en": "\tPrecision Aiming\r",
+      "jp": "\t精密射撃\r",
+      "zh": "\t精密射击\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen wielding a bow with two hands, you can hold <?keyicon@24?> for precision aiming.\\nThis lets you aim more precisely with <?keyControlCamera?>.\\nYou can do major damage to foes of human or similar build by aiming for their heads.\\n\\n<?keyicon@24?> while wielding a bow with two hands: Precision aiming\r",
+      "jp": "\t弓を両手持ちしている間、<?keyicon@24?>長押しで精密射撃ができる。狙いは<?keyControlCamera?>で定める\\n射撃を、人型敵の頭に当てると、大ダメージを与えられることがある\\n\\n弓を両手持ちして<?keyicon@24?>：精密射撃\\n\r",
+      "zh": "\t双手共持弓，按住<?keyicon@24?>能精密射击。\\n用<?keyControlCamera?>能移动准心。\\n\\n对人形敌人瞄准头部射击，通常会给予较多伤害。\\n\\n双手共持弓时按住<?keyicon@24?>：精密射击\r"
+    }
+  },
+  "10": {
+    "LoadingTitle": {
+      "en": "\tEquipping Armaments\r",
+      "jp": "\t武器の装備\r",
+      "zh": "\t装备武器\r"
+    },
+    "LoadingText": {
+      "en": "\tYou can equip up to three armaments each to your left and right hands.\\n\\nSome armaments, such as shields, have different actions depending on which hand equips them.\r",
+      "jp": "\t武器は、右手と左手にそれぞれ３個ずつ装備することができる\\n盾などの一部の装備は、どちらの手に装備するかでアクションが変化する\\n\r",
+      "zh": "\t左手与右手各能装备３把武器。\\n部分武器例如盾牌，装备在不同手，动作各有不同。\r"
+    }
+  },
+  "11": {
+    "LoadingTitle": {
+      "en": "\tUsing Items\r",
+      "jp": "\tアイテム使用\r",
+      "zh": "\t使用道具\r"
+    },
+    "LoadingText": {
+      "en": "\tYou can equip up to ten items at a time.\\nEquipped items can be used without accessing the item menu.\\nYou can also assign items to your pouch to use them directly from the main menu.\\n\\n<?keyicon@18?>: <?keyActName@18?>\\n<?keyicon@26?>: <?keyActName@26?>\r",
+      "jp": "\tアイテムは１０個まで装備することができ、メニューを開かずに使用できる\\n「ポーチ」に登録することで、メインメニューから使用することもできる\\n\\n<?keyicon@18?>：<?keyActName@18?>\\n<?keyicon@26?>：<?keyActName@26?>\\n\r",
+      "zh": "\t道具最多能装备１０种，不必开启选单就能直接使用。\\n配置在“随身包包”内的道具，能从主选单使用。\\n\\n<?keyicon@18?>：<?keyActName@18?>\\n<?keyicon@26?>：<?keyActName@26?>\r"
+    }
+  },
+  "12": {
+    "LoadingTitle": {
+      "en": "\tUsing Torches\r",
+      "jp": "\t松明\r",
+      "zh": "\t火把\r"
+    },
+    "LoadingText": {
+      "en": "\tRaise your torch to see further into dark spaces.\\n\\n<?keyicon@24?> with torch equipped in left hand: Raise torch\r",
+      "jp": "\t松明を掲げることで、より遠くまで照らすことができる\\n\\n松明を左手に装備して<?keyicon@24?>：松明を掲げる\\n\r",
+      "zh": "\t高举火把，能照亮较远的地方。\\n\\n左手装备火把，按下<?keyicon@24?>：高举火把\r"
+    }
+  },
+  "13": {
+    "LoadingTitle": {
+      "en": "\tCritical Hits\r",
+      "jp": "\t致命の一撃\r",
+      "zh": "\t致命一击\r"
+    },
+    "LoadingText": {
+      "en": "\tIf you get behind an enemy, you'll have a chance to perform a critical hit.\\nYou can also perform a critical hit after breaking an enemy's stance.\\nStance-break critical hits cause more damage than critical hits from behind.\\n\\n<?keyicon@22?> when near a backturned enemy: Critical hit\\n<?keyicon@22?> when near a stance-broken enemy: Critical hit\r",
+      "jp": "\t敵の背後をとれば「致命の一撃」のチャンスとなる\\n体勢を崩した敵に対しても同様で、こちらの方がよりダメージが大きい\\n\\n敵の背後をとって近づき<?keyicon@22?> ：致命の一撃\\n体勢を崩した敵に近づいて<?keyicon@22?> ：致命の一撃\\n\r",
+      "zh": "\t当靠近敌人的背后，或是敌人失去平衡的时候，\\n就有机会使出“致命一击”。\\n\\n致命一击给予敌人的伤害较高。\\n\\n靠近敌人背后，按下<?keyicon@22?>：致命一击\\n靠近失去平衡的敌人，按下<?keyicon@22?>：致命一击\r"
+    }
+  },
+  "14": {
+    "LoadingTitle": {
+      "en": "\tGestures\r",
+      "jp": "\tジェスチャー\r",
+      "zh": "\t肢体动作\r"
+    },
+    "LoadingText": {
+      "en": "\tUse \"Gestures\" from the main menu to perform a variety of basic poses.\r",
+      "jp": "\tメインメニューの「ジェスチャー」で、簡単なポーズをとることができる\\n\r",
+      "zh": "\t从主选单的“肢体动作”选单，能够挑选、做出简单的姿势。\r"
+    }
+  },
+  "15": {
+    "LoadingTitle": { "en": "\tThe Map\r", "jp": "\t地図\r", "zh": "\t地图\r" },
+    "LoadingText": {
+      "en": "\tUse your map to check your current position, as well as the terrain and surrounding structures.\\nYou can update your map with new information by finding map fragments at steles along the road.\\n\\n<?keyicon@29?>: <?keyActName@29?>\r",
+      "jp": "\t地図では、自分の現在位置と、地形や建築物などの情報を確認できる\\n地図情報は、街道沿いの石碑で「地図断片」を手に入れることで更新される\\n\\n<?keyicon@29?>：<?keyActName@29?>\\n\r",
+      "zh": "\t透过地图能确认自己的所在位置、地形以及建筑物等等资讯。\\n座落路边的石碑放有“地图碎片”，取得后能更新地图。\\n\\n<?keyicon@29?>：<?keyActName@29?>\r"
+    }
+  },
+  "16": {
+    "LoadingTitle": {
+      "en": "\tSpiritspring Jumping\r",
+      "jp": "\t霊気流ジャンプ\r",
+      "zh": "\t灵魂气流跳跃\r"
+    },
+    "LoadingText": {
+      "en": "\tJump while on horseback near a spiritspring to ride its current high into the air.\\nYou won't take damage from jumping into a spiritspring while on horseback, even from a great height.\\n\\n<?keyicon@8?> at a spiritspring while on horseback: Spiritspring jump\r",
+      "jp": "\t「霊気流」のある場所で騎乗してジャンプすると、気流に乗り大きく跳び上がる\\nまた、騎乗して「霊気流」に飛び降りると、高所からでもダメージを受けない\\n\\n騎乗中に霊気流で<?keyicon@8?>：霊気流ジャンプ\\n\r",
+      "zh": "\t骑马时靠近有“灵魂气流”的地方跳跃，\\n能够顺着气流往上大幅跳跃。\\n\\n骑马状态下顺着“灵魂气流”落地时，\\n即使是从高处坠落，也不会受到损伤。\\n\\n骑马时靠近灵魂气流，按下<?keyicon@8?>：灵魂气流跳跃\r"
+    }
+  },
+  "17": {
+    "LoadingTitle": {
+      "en": "\tItem Shortcut\r",
+      "jp": "\t使用アイテムの素早い選択\r",
+      "zh": "\t快选使用道具\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen you have multiple items equipped, you can hold <?keyicon@18?> to quickly select the item in your first item slot.\\n\\nHold <?keyicon@18?>: Select first equipped item\r",
+      "jp": "\t複数のアイテムを装備している場合、<?keyicon@18?>を長押しすることで\\n一つ目のスロットに装備したアイテムを、すぐに選択することができる\\n\\n<?keyicon@18?>長押し：一つ目の装備アイテムを選択\\n\r",
+      "zh": "\t在装备多个道具的情况下，按住<?keyicon@18?>会切换至第一个道具空格，\\n能够立刻选用所装备的道具。\\n\\n按住<?keyicon@18?>：切换至第一个道具空格\r"
+    }
+  },
+  "50": {
+    "LoadingTitle": {
+      "en": "\tDying and Dropping Runes\r",
+      "jp": "\t死亡と所持ルーン\r",
+      "zh": "\t死亡与持有卢恩\r"
+    },
+    "LoadingText": {
+      "en": "\tUpon dying, you will drop any runes in your possession at the site of your death.\\nYou can reclaim those runes by reaching that same spot again.\\nHowever, if you die again before reclaiming those dropped runes, they will be lost forever.\r",
+      "jp": "\t死亡すると、所持ルーンを落としてしまう\\nそれは死亡した場所で回収できるが、回収前にもう一度死亡すると失われる\\n\r",
+      "zh": "\t死亡之后，持有的卢恩会留在原地。\\n\\n重回死亡地点能拿回卢恩，\\n但如果在那之前再次死亡，卢恩将会消失。\r"
+    }
+  },
+  "52": {
+    "LoadingTitle": {
+      "en": "\tSummoning Spirits\r",
+      "jp": "\t霊体の召喚\r",
+      "zh": "\t召唤灵魂\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen the monument icon is shown on the left side of the screen, you can summon spirits from ashes.\\nThere are several different types of spirits that can be summoned.\\nSummoning spirits typically consumes FP.\r",
+      "jp": "\t画面左に碑文アイコンが表示されているとき、遺灰から霊体を召喚できる\\n霊体には様々な種類が存在し、召喚は基本的にFPを消費する\\n\r",
+      "zh": "\t当画面左侧出现碑文图案时，\\n能够透过骨灰召唤灵魂。\\n\\n灵魂的种类繁多，召唤时基本上需要消耗专注值。\r"
+    }
+  },
+  "53": {
+    "LoadingTitle": {
+      "en": "\tResting at Sites of Grace\r",
+      "jp": "\t祝福で休む\r",
+      "zh": "\t在赐福休息\r"
+    },
+    "LoadingText": {
+      "en": "\tResting at a site of grace will restore your HP, FP, and cleanse any status ailments.\\nIt will also refill your sacred flasks.\\n\\nHowever, most of the enemies you've defeated will be revived.\r",
+      "jp": "\t祝福で休むことで、ＨＰ、ＦＰ、状態異常などが全て回復し、聖杯瓶も補充される\\nただし、一部を除いて全ての敵が復活する\\n\r",
+      "zh": "\t在赐福休息能完全恢复血量、专注值，\\n治愈异常状态等等，也能补充圣杯瓶。\\n\\n但是大部分的敌人也会随之复活。\r"
+    }
+  },
+  "54": {
+    "LoadingTitle": {
+      "en": "\tFinding Sites of Grace\r",
+      "jp": "\t祝福の発見\r",
+      "zh": "\t发现赐福\r"
+    },
+    "LoadingText": {
+      "en": "\tSites of grace that you haven't discovered yet illuminate their surroundings.\\nIf you see light while exploring, seek it out—you might find a site of grace.\r",
+      "jp": "\tまだ発見していない祝福は、周囲に光を発している\\n移動中に光が見えたら、その集まる先に祝福があるかもしれない\\n\r",
+      "zh": "\t还没有被发现的赐福会散发光芒。\\n\\n如果在旅途中看见光芒，\\n朝光芒汇集的方向前进，可能会有赐福。\r"
+    }
+  },
+  "55": {
+    "LoadingTitle": {
+      "en": "\tGuidance of Grace\r",
+      "jp": "\t祝福の導き\r",
+      "zh": "\t赐福的指引\r"
+    },
+    "LoadingText": {
+      "en": "\tGrace exists to guide the Tarnished and lead them along the proper path.\\nEven now, some sites of grace retain that power.\\nTheir golden rays will guide you along your way.\r",
+      "jp": "\t祝福とは、本来褪せ人を導き、進むべき道を指し示すものである\\nそして今でも、一部の祝福はその力を残し、黄金の光跡で道を指し示している\\n\r",
+      "zh": "\t赐福原本是引导褪色者前进，\\n替褪色者指路的存在。\\n\\n如今仍有部分赐福留有指引的力量，\\n会以金黄色的光芒轨迹，指出褪色者该前进的方向。\r"
+    }
+  },
+  "56": {
+    "LoadingTitle": {
+      "en": "\tSacred Flasks\r",
+      "jp": "\t聖杯瓶\r",
+      "zh": "\t圣杯瓶\r"
+    },
+    "LoadingText": {
+      "en": "\tThe Flask of Crimson Tears replenishes your HP.\\nThe Flask of Cerulean Tears replenishes your FP.\\n\\nAt sites of grace, you can allocate portions of doses to each flask.\\nYou can also use certain items to upgrade your flasks at sites of grace.\r",
+      "jp": "\t緋雫の聖杯瓶はHPを回復し、青雫の聖杯瓶はFPを回復する\\n祝福では、それぞれの使用数の振り分けや、特別なアイテムによる強化ができる\\n\r",
+      "zh": "\t红露滴圣杯瓶能恢复血量；蓝露滴圣杯瓶能恢复专注值。\\n\\n在赐福能够配置各个圣杯瓶的使用次数，\\n也能用特殊道具强化圣杯瓶。\r"
+    }
+  },
+  "57": {
+    "LoadingTitle": {
+      "en": "\tFast Travel to Sites of Grace\r",
+      "jp": "\t祝福への移動\r",
+      "zh": "\t传送至赐福\r"
+    },
+    "LoadingText": {
+      "en": "\tThrough your map, you can instantly travel to any sites of grace that you've discovered.\\nHowever, there are some dungeons and other areas where this cannot be done.\r",
+      "jp": "\t地図から、発見済の祝福に瞬時に移動することができる\\nただし一部ダンジョンなどでは、それができないことがある\\n\r",
+      "zh": "\t能够从地图点选已知的赐福，瞬间移动过去。\\n但是部分区域（例如地下迷宫等等），无法进行瞬间移动。\r"
+    }
+  },
+  "58": {
+    "LoadingTitle": {
+      "en": "\tMounted Attacks\r",
+      "jp": "\t騎乗時の攻撃\r",
+      "zh": "\t骑马攻击\r"
+    },
+    "LoadingText": {
+      "en": "\tWhile on horseback, you can attack with armaments equipped in your right hand or in both hands.\\nIf you take a certain amount of damage while on horseback, you will fall from your horse.\\nThis will leave you greatly vulnerable.\r",
+      "jp": "\t騎乗時は、右手に装備した武器か、両手持ちした武器で攻撃する\\n騎乗中に一定以上のダメージを受けると、落馬して無防備になってしまう\\n\r",
+      "zh": "\t骑马时会用装备在右手，或是双手共持的武器进行攻击。\\n\\n在骑马时受到一定程度的损伤，\\n会摔下马背，陷入毫无防备的状态。\r"
+    }
+  },
+  "59": {
+    "LoadingTitle": {
+      "en": "\tNo-Riding Areas\r",
+      "jp": "\t騎乗禁止エリア\r",
+      "zh": "\t无法骑马的地方\r"
+    },
+    "LoadingText": {
+      "en": "\tYou cannot enter large buildings, caves, catacombs, or similar spaces while on horseback.\\nYou also cannot summon your horse while inside such spaces.\r",
+      "jp": "\t大規模な建造物や、洞窟や地下墓地などには、騎乗したまま入ることはできない\\nそうした場所では霊馬を召喚することもできなくなる\\n\r",
+      "zh": "\t无法骑马进入大型建筑物、洞窟，或是地下墓地等等地方，\\n也无法在这些地方召唤灵马。\r"
+    }
+  },
+  "60": {
+    "LoadingTitle": {
+      "en": "\tItem Crafting\r",
+      "jp": "\tアイテム製作\r",
+      "zh": "\t制作道具\r"
+    },
+    "LoadingText": {
+      "en": "\tIf you have a Crafting Kit, you can make various items from materials that you find.\\nSelect \"Item Crafting\" from the main menu to make items.\\n\\n<?keyicon@28?>: <?keyActName@28?>\r",
+      "jp": "\t「ツール鞄」があれば、素材アイテムを用いて、様々なアイテムを製作できる\\nメインメニューの「アイテム製作」から行う\\n\\n<?keyicon@28?>：<?keyActName@28?>\\n\r",
+      "zh": "\t拥有“工具皮袋”之后，能用材料道具制作各种道具。\\n从主选单的“制作道具”选单能制作道具。\\n\\n<?keyicon@28?>：<?keyActName@28?>\r"
+    }
+  },
+  "61": {
+    "LoadingTitle": {
+      "en": "\tContainer Items\r",
+      "jp": "\t容器アイテム\r",
+      "zh": "\t容器道具\r"
+    },
+    "LoadingText": {
+      "en": "\tYou will need cracked pots or other containers to craft certain items.\\nContainer items will run out with use, but the containers themselves will remain.\r",
+      "jp": "\t製作できるアイテムには、ヒビ壺など、特定の容器が必要なものがある\\n容器アイテムは使用により消費されるが、容器自体は無くならない\\n\r",
+      "zh": "\t在能够制作的道具之中，\\n部分道具需要有特定的容器（例如龟裂壶等等）才能制作。\\n\\n制作出来的道具使用后会消失，但容器不会不见。\r"
+    }
+  },
+  "62": {
+    "LoadingTitle": {
+      "en": "\tArmament Customization\r",
+      "jp": "\t武器のカスタマイズ\r",
+      "zh": "\t自定义武器\r"
+    },
+    "LoadingText": {
+      "en": "\tAshes of War are memories of the affinities and skills imbued in armaments wielded long ago.\\nWith a Whetstone Knife, you can use Ashes of War to customize your armaments at sites of grace.\r",
+      "jp": "\t「戦灰」は、かつて戦った者たちの、その振るった武器の属性と戦技の記憶である\\n「砥石の小刀」があれば、祝福で「戦灰」を武器のカスタマイズに使用できる\\n\r",
+      "zh": "\t来自过去战士持有的武器，\\n关于属性与战技的记忆，称作“战灰”。\\n\\n只要有“砥石小刀”，就能在赐福使用“战灰”自定义武器。\r"
+    }
+  },
+  "64": {
+    "LoadingTitle": {
+      "en": "\tReviving After Dying\r",
+      "jp": "\t死亡後の復活\r",
+      "zh": "\t死后复活时\r"
+    },
+    "LoadingText": {
+      "en": "\tUpon dying, you will be revived at the last site of grace that you visited.\\n\\nHowever, if there is a Stake of Marika near where you died, you can choose to be revived there instead.\r",
+      "jp": "\t死亡すると、最後に訪れた祝福で復活する\\n死亡した場所の近くに「マリカの楔」があれば、そこから復活することも選択できる\\n\r",
+      "zh": "\t死亡之后，会在最后停留的赐福复活。\\n\\n如果死亡地点附近有“玛莉卡楔石”，\\n也能选择在那里复活。\r"
+    }
+  },
+  "65": {
+    "LoadingTitle": {
+      "en": "\tEquip Load\r",
+      "jp": "\t装備重量\r",
+      "zh": "\t装备重量\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen you carry more than 70% of your maximum equipment load, your dodge rolling will become slower and clumsier.\\nIf you exceed your maximum equipment load entirely, you will be unable to roll at all.\r",
+      "jp": "\t装備重量が上限値の７割を超えると、ローリングが鈍くなる\\nそして上限値を超えると、ローリング自体ができなくなる\\n\r",
+      "zh": "\t当装备重量超过上限值的７成，翻滚动作会变得迟钝。\\n如果超过上限值，就会无法翻滚。\r"
+    }
+  },
+  "66": {
+    "LoadingTitle": {
+      "en": "\tWhile in Combat\r",
+      "jp": "\t交戦状態\r",
+      "zh": "\t交战时\r"
+    },
+    "LoadingText": {
+      "en": "\tWhile in combat, you are unable to craft items or open your map.\r",
+      "jp": "\t敵との交戦状態では、アイテム製作ができず、地図も開けない\\n\r",
+      "zh": "\t和敌人战斗时无法制作道具，也无法打开地图。\r"
+    }
+  },
+  "67": {
+    "LoadingTitle": {
+      "en": "\tStrengthening Spirits\r",
+      "jp": "\t霊体の強化\r",
+      "zh": "\t强化灵魂\r"
+    },
+    "LoadingText": {
+      "en": "\tSpirits that you've summoned from ashes can be made more powerful by a spirit tuner.\\nYou'll need glovewort to upgrade spirits.\r",
+      "jp": "\t調霊師は、遺灰で召喚する霊体を強化できる\\n強化にはスズランが必要となる\\n\r",
+      "zh": "\t调灵师能强化透过骨灰召唤的灵魂。\\n强化时需要用到铃兰。\r"
+    }
+  },
+  "68": {
+    "LoadingTitle": {
+      "en": "\tLeveling Up\r",
+      "jp": "\tレベルアップ\r",
+      "zh": "\t升级\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen you level up, you can spend runes to increase your attributes.\\nAs your attributes increase, your level rises—and so does the amount of runes required for your next attribute increase.\r",
+      "jp": "\tレベルアップでは、ルーンを消費して能力値を成長できる\\n能力値が成長するとレベルも上がり、レベルが高くなるほど\\n能力値の成長に必要なルーンは多くなる\\n\r",
+      "zh": "\t所谓的升级，指的是花费卢恩提升能力值。\\n\\n提升能力值也会连带提升等级。\\n当等级越来越高，提升能力值所需的卢恩也会越来越多。\r"
+    }
+  },
+  "70": {
+    "LoadingTitle": {
+      "en": "\tStatus: Poison\r",
+      "jp": "\t状態異常：毒\r",
+      "zh": "\t异常状态：中毒\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen the poison gauge is full, you will become poisoned and take continuous damage.\\nThe higher your immunity, the longer it takes for the poison gauge to fill.\r",
+      "jp": "\t毒の状態異常は、ゲージが溜まりきると発症し、継続ダメージを与える\\n免疫の耐性が高いほど、毒ゲージは溜まり難くなる\\n\r",
+      "zh": "\t中毒的量表会持续累积，\\n突破界限后会引发异常状态“中毒”。\\n中毒后会持续受到损伤。\\n\\n免疫力越高，量表累积的速度就越慢。\r"
+    }
+  },
+  "71": {
+    "LoadingTitle": {
+      "en": "\tStatus: Scarlet Rot\r",
+      "jp": "\t状態異常：朱い腐敗\r",
+      "zh": "\t异常状态：猩红腐败\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen the scarlet rot gauge is full, you will become sick and take continuous damage.\\nThe scarlet rot is a very dangerous status ailment, but the higher your immunity, the longer it takes for the gauge to fill.\r",
+      "jp": "\t朱い腐敗の状態異常は、ゲージが溜まりきると発症し、継続ダメージを与える\\nそれは恐ろしい状態異常であり、免疫の耐性が高いほどゲージは溜まり難くなる\\n\r",
+      "zh": "\t猩红腐败的量表会持续累积，\\n突破界限后会引发异常状态“猩红腐败”。\\n病发后会持续受到损伤。\\n\\n此为非常恐怖的异常状态。\\n免疫力越高，量表累积的速度就越慢。\r"
+    }
+  },
+  "72": {
+    "LoadingTitle": {
+      "en": "\tStatus: Blood Loss\r",
+      "jp": "\t状態異常：出血\r",
+      "zh": "\t异常状态：出血\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen the blood loss gauge is full, you will hemorrhage blood.\\nThis causes a large amount of damage relative to your maximum HP.\\nThe higher your robustness, the longer it takes for the blood loss gauge to fill.\r",
+      "jp": "\t出血の状態異常は、ゲージが溜まりきると発現し、HP最大値に比例した大ダメージを与える\\n頑健の耐性が高いほど、出血ゲージは溜まり難くなる\\n\r",
+      "zh": "\t出血的量表会持续累积，\\n突破界限后会引发异常状态“出血”。\\n会根据血量上限的比例受到大损伤。\\n\\n健壮度越高，量表累积的速度就越慢。\r"
+    }
+  },
+  "73": {
+    "LoadingTitle": {
+      "en": "\tStatus: Frost/Frostbite\r",
+      "jp": "\t状態異常：凍傷／冷気\r",
+      "zh": "\t异常状态：冻伤\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen the frost gauge is full, you will take damage and become frostbitten for a while.\\nWhile suffering from frostbite, you will take increased damage from other sources.\\nThe higher your robustness, the longer it takes for the frost gauge to fill.\r",
+      "jp": "\t凍傷の状態異常は、冷気ゲージが溜まりきると発現し、ダメージを与えると共に\\n一定時間被ダメージを増加させる。頑健の耐性が高いほど、ゲージは溜まり難くなる\\n\r",
+      "zh": "\t冻伤的量表会持续累积，\\n突破界限后会引发异常状态“冻伤”。\\n冻伤后会受到损伤，并在一定时间内，受到攻击时的损伤加剧。\\n\\n健壮度越高，量表累积的速度就越慢。\r"
+    }
+  },
+  "74": {
+    "LoadingTitle": {
+      "en": "\tStatus: Sleep\r",
+      "jp": "\t状態異常：睡眠\r",
+      "zh": "\t异常状态：催眠\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen the sleep gauge is full, you will become drowsy.\\nWeaker characters will fall asleep entirely.\\nThe higher your focus, the longer it takes for the sleep gauge to fill.\r",
+      "jp": "\t睡眠の状態異常は、ゲージが溜まりきると発症し、弱い者たちを眠りに落とす\\n正気の耐性が高いほど、睡眠ゲージは溜まり難くなる\\n\r",
+      "zh": "\t催眠的量表会持续累积，\\n突破界限后会引发异常状态“催眠”。\\n不敌睡意的人物会陷入酣眠。\\n\\n理智度越高，量表累积的速度就越慢。\r"
+    }
+  },
+  "75": {
+    "LoadingTitle": {
+      "en": "\tStatus: Madness\r",
+      "jp": "\t状態異常：発狂\r",
+      "zh": "\t异常状态：发狂\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen the madness gauge is full, you will go mad and lose a great deal of both HP and FP.\\nOnly humans can be afflicted with madness.\\nThe higher your focus, the longer it takes for the madness gauge to fill.\r",
+      "jp": "\t発狂の状態異常は、ゲージが溜まりきると発症し、HP、FPに大ダメージを与える\\nそれは人にしか効果がなく、正気の耐性が高いほどゲージは溜まり難くなる\\n\r",
+      "zh": "\t发狂的量表会持续累积，\\n突破界限后会引发异常状态“发狂”。\\n血量、专注值会受到大损伤。\\n\\n此异常状态只对人类有作用。\\n理智度越高，量表累积的速度就越慢。\r"
+    }
+  },
+  "76": {
+    "LoadingTitle": {
+      "en": "\tStatus: Death\r",
+      "jp": "\t状態異常：死\r",
+      "zh": "\t异常状态：死亡\r"
+    },
+    "LoadingText": {
+      "en": "\tWhen your death gauge is full, you will be struck with instant death.\\nThis is a very dangerous status ailment, but the higher your resistance to death,\\nthe longer it takes for the death gauge to fill.\r",
+      "jp": "\t死の状態異常は、ゲージが溜まりきると発症し、対象は即死する\\nそれは恐ろしい状態異常であり、死の耐性が高いほどゲージは溜まり難くなる\\n\r",
+      "zh": "\t死亡的量表会持续累积，\\n突破界限后会引发异常状态“死亡”。\\n承受异常状态的人物会立刻死亡。\\n\\n此为非常恐怖的异常状态。\\n对死属性的抵抗力越高，量表累积的速度就越慢。\r"
+    }
+  },
+  "77": {
+    "LoadingTitle": {
+      "en": "\tPoise\r",
+      "jp": "\t強靭度\r",
+      "zh": "\t强韧度\r"
+    },
+    "LoadingText": {
+      "en": "\tHeavy armor provides high poise, making you less likely to recoil from enemy attacks.\\nWielding a heavy weapon with two hands may also provide similar effects.\r",
+      "jp": "\t重厚な防具は強靭度が高く、敵の攻撃に怯み難くなる\\n重い武器を両手で振るうときなどにも、同様の効果があることがある\\n\r",
+      "zh": "\t厚重的装备强韧度较高，\\n不容易因为敌人的攻击而产生硬直。\\n\\n用双手共持挥舞沉重武器等等行动，也能有相同效果。\r"
+    }
+  },
+  "80": {
+    "LoadingTitle": {
+      "en": "\tScadutree Blessing\r",
+      "jp": "\t影樹の加護\r",
+      "zh": "\t幽影树庇佑\r"
+    },
+    "LoadingText": {
+      "en": "\tConsume Scadutree Fragments at sites of grace to bolster your Scadutree Blessing.\\n\\nThe Scadutree Blessing bolsters the recipient's abilities to deal and negate damage, but has no influence outside the realm of shadow.\r",
+      "jp": "\t祝福で、影樹の破片を消費することで「影樹の加護」を上げることができる\\n影樹の加護は、それを受けた者の攻撃力とカット率を高めるが\\n影の地の外では効果を発揮しない\\n\r",
+      "zh": "\t在赐福消耗幽影树碎片，能加强“幽影树庇佑”。\\n\\n接受“幽影树庇佑”能强化自身的攻击力与减伤率，\\n但有效范围仅限于幽影之地。\r"
+    }
+  },
+  "81": {
+    "LoadingTitle": {
+      "en": "\tRevered Spirit Ash Blessing\r",
+      "jp": "\t霊灰の加護\r",
+      "zh": "\t灵灰庇佑\r"
+    },
+    "LoadingText": {
+      "en": "\tConsume Revered Spirit Ash at sites of grace to bolster your Revered Spirit Ash Blessing.\\n\\nThe Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow.\r",
+      "jp": "\t祝福で、霊灰を消費することで「霊灰の加護」を上げることができる\\n霊灰の加護は、召喚する霊体と霊馬の攻撃力とカット率を高めるが\\n影の地の外では効果を発揮しない\\n\r",
+      "zh": "\t在赐福消耗灵灰，能加强“灵灰庇佑”。\\n\\n接受“灵灰庇佑”能强化受召唤灵魂与灵马的攻击力与减伤率，\\n但有效范围仅限于幽影之地。\r"
+    }
+  },
+  "100": {
+    "LoadingTitle": {
+      "en": "\tCooperator's Objective (Furled Finger)\r",
+      "jp": "\t協力者（鉤指）の目的\r",
+      "zh": "\t协助者（勾指）的目标\r"
+    },
+    "LoadingText": {
+      "en": "\tDuring cooperative multiplayer, a Furled Finger's objective is to help the Host of Fingers defeat the boss of the area.\\nA Furled Finger will return to their own world when they die or the boss is defeated, whichever happens first.\r",
+      "jp": "\t協力マルチプレイにおける協力者（鉤指）の目的は、エリアボスの撃破となる\\n目的を達成するか、達成できず死亡した場合、協力者は自分の世界に帰還する\\n\r",
+      "zh": "\t在协力多人联机游玩中，\\n协助者（勾指）的目标是打败区域内的头目。\\n\\n在达成目标，或是没达成目标就死亡的时候，\\n协助者会回到自己的世界。\r"
+    }
+  },
+  "101": {
+    "LoadingTitle": {
+      "en": "\tAdversary's Objective (Duelist)\r",
+      "jp": "\t敵対者（闘士）の目的\r",
+      "zh": "\t敌对者（斗士）的目标\r"
+    },
+    "LoadingText": {
+      "en": "\tDuring competitive multiplayer, a duelist's objective is to defeat the Host of Fingers.\\nA duelist will return to their own world when they die or the Host of Fingers is defeated, whichever happens first.\r",
+      "jp": "\t敵対マルチプレイにおける敵対者（闘士）の目的は、「鉤指の主」の撃破となる\\n目的を達成するか、達成できず死亡した場合、敵対者は自分の世界に帰還する\\n\r",
+      "zh": "\t在敌对多人联机游玩中，\\n敌对者（斗士）的目标是打败“勾指主人”。\\n\\n在达成目标，或是没达成目标就死亡的时候，\\n敌对者会回到自己的世界。\r"
+    }
+  },
+  "102": {
+    "LoadingTitle": {
+      "en": "\tMultiplayer Maximums\r",
+      "jp": "\tマルチプレイの最大人数\r",
+      "zh": "\t多人联机游玩的人数上限\r"
+    },
+    "LoadingText": {
+      "en": "\tIn typical multiplayer, there can be up to two cooperators and one invader or adversary present at once.\\n\\nThe host player can use a Taunter's Tongue to increase the maximum number of invaders or adversaries.\r",
+      "jp": "\tマルチプレイは、協力者最大２人、侵入者あるいは敵対者最大１人で行える\\n「嘲弄者の舌」を使用した場合は、侵入者あるいは敵対者の最大人数が増える\\n\r",
+      "zh": "\t在多人联机游玩中，协助者人数最多２人，\\n入侵者、敌对者最多共１人。\\n\\n使用“嘲弄者舌头”之后，\\n会提升入侵者、敌对者的人数上限。\r"
+    }
+  },
+  "103": {
+    "LoadingTitle": {
+      "en": "\tSeeing Summon Signs\r",
+      "jp": "\t召喚サインの可視化\r",
+      "zh": "\t看见召唤记号\r"
+    },
+    "LoadingText": {
+      "en": "\tWith a Furlcalling Finger Remedy, you can see summon signs left by players in other worlds.\\n\\nIf you summon another player through their sign, multiplayer will begin, with you as the Host of Fingers.\r",
+      "jp": "\t「鉤呼びの指薬」を使用すると、他世界のプレイヤーが書いた召喚サインが見えるようになり\\nそのサインから他プレイヤーを召喚すると、自身は「鉤指の主」となり、マルチプレイが開始される\\n\r",
+      "zh": "\t使用“唤勾指药”能看见其他世界的玩家写下的召唤记号。\\n\\n利用记号召唤玩家后，自己会变成“勾指主人”，\\n开始多人联机游玩。\r"
+    }
+  },
+  "104": {
+    "LoadingTitle": {
+      "en": "\tLeaving Co-op Signs\r",
+      "jp": "\t協力サインを書く\r",
+      "zh": "\t写下协力记号\r"
+    },
+    "LoadingText": {
+      "en": "\tWith a Tarnished's Furled Finger, you can leave a gold summon sign.\\nThis sign will appear in other players' worlds and allow them to summon you\\nas a Furled Finger for cooperative multiplayer.\r",
+      "jp": "\t「褪せ人の鉤指」で金の召喚サインを書くことができる。それは他世界に伝播する\\n他世界のプレイヤーに召喚されると、協力者（鉤指）としてマルチプレイが開始される\\n\r",
+      "zh": "\t使用“褪色者勾指”能写下金色召唤记号。\\n记号会传布到其他世界。\\n\\n被其他世界的玩家召唤后，自己会变成协助者（勾指），\\n开始多人联机游玩。\r"
+    }
+  },
+  "105": {
+    "LoadingTitle": {
+      "en": "\tLeaving Hostile Signs\r",
+      "jp": "\t敵対サインを書く\r",
+      "zh": "\t写下敌对记号\r"
+    },
+    "LoadingText": {
+      "en": "\tWith a Duelist's Furled Finger, you can leave a red summon sign.\\nThis sign will appear in other players' worlds and allow them to summon you\\nas a duelist adversary for competitive multiplayer.\r",
+      "jp": "\t「闘士の鉤指」で赤の召喚サインを書くことができる。それは他世界に伝播する\\n他世界のプレイヤーに召喚されると、敵対者（闘士）としてマルチプレイが開始される\\n\r",
+      "zh": "\t使用“斗士勾指”能写下红色召唤记号。\\n记号会传布到其他世界。\\n\\n被其他世界的玩家召唤后，自己会变成敌对者（斗士），\\n开始多人联机游玩。\r"
+    }
+  },
+  "106": {
+    "LoadingTitle": {
+      "en": "\tInvasion\r",
+      "jp": "\t侵入\r",
+      "zh": "\t入侵\r"
+    },
+    "LoadingText": {
+      "en": "\tWith a Festering Bloody Finger, you can enter another player's world as an invading Bloody Finger.\\nThere are other items that allow you to invade other worlds as well.\r",
+      "jp": "\t「爛れた血指」を使用して、他プレイヤーの世界に侵入者（血の指）として侵入できる\\nこれ以外にも、幾つかの侵入アイテムが存在する\\n\r",
+      "zh": "\t使用“溃烂血指”自己会变成入侵者（血指），\\n入侵其他玩家的世界。\\n\\n除了这个道具以外，还有其他入侵用的道具。\r"
+    }
+  },
+  "107": {
+    "LoadingTitle": {
+      "en": "\tRequesting Support\r",
+      "jp": "\t救援の要請\r",
+      "zh": "\t请求支援\r"
+    },
+    "LoadingText": {
+      "en": "\tIf you use a White Cipher Ring, you will automatically request for a hunter from another world\\nto come to your rescue when your world is invaded.\\n(Summoning is not always possible.)\r",
+      "jp": "\t「白い秘文字の指環」を使用すると、侵入者に侵入された時\\n自動的に、他世界に救援者（狩人）の召喚を要請する状態になる\\n（召喚できないときもある）\\n\r",
+      "zh": "\t使用“白秘文戒指”之后，当受到入侵者入侵时，\\n能自动向其他世界发出请求，召唤支援者（猎人）前来。\\n\\n（但在部分场合无法进行召唤。）\r"
+    }
+  },
+  "108": {
+    "LoadingTitle": {
+      "en": "\tSupporting\r",
+      "jp": "\t救援\r",
+      "zh": "\t支援\r"
+    },
+    "LoadingText": {
+      "en": "\tIf you use a Blue Cipher Ring, you will make yourself open to summons for rescue from other worlds.\\nYou will be summoned to their world as a hunter.\r",
+      "jp": "\t「青い秘文字の指環」を使用すると、他世界からの要請があった時\\nそれに応え、救援者（狩人）として召喚される状態になる\\n\r",
+      "zh": "\t使用“蓝秘文戒指”能接收其他世界的召唤请求。\\n\\n收到请求之后能够回应，\\n作为支援者（猎人）接受召唤，前往其他世界。\r"
+    }
+  },
+  "109": {
+    "LoadingTitle": {
+      "en": "\tSummoning Pools\r",
+      "jp": "\tサイン溜まり\r",
+      "zh": "\t记号聚集处\r"
+    },
+    "LoadingText": {
+      "en": "\tIn each area, you may find effigies of martyrs.\\nThese effigies are summoning pools.\\n\\nSummon signs made with small effigies are gathered at these summoning pools.\\nYou'll find it easy to summon other players at these locations.\r",
+      "jp": "\t各地にある殉教者の偶像は、サイン溜まりである\\n小偶像を使用したサインはサイン溜まりに集積し、他プレイヤーを召喚しやすい場所となる\\n\r",
+      "zh": "\t散布各地的殉教者雕像，是记号的聚集处。\\n使用小雕像写下的记号会汇集在记号聚集处，方便召唤其他玩家。\r"
+    }
+  },
+  "110": {
+    "LoadingTitle": {
+      "en": "\tGroup Passwords\r",
+      "jp": "\tグループ合言葉\r",
+      "zh": "\t群组暗号\r"
+    },
+    "LoadingText": {
+      "en": "\tIf you set a group password, you'll be more likely to see messages, summon signs, bloodstains, and phantoms\\nfrom other players using the same password.\r",
+      "jp": "\tグループ合言葉を設定すると、同じ合言葉を設定しているプレイヤーの\\nメッセージや召喚サイン、血痕、幻影などが優先的に表示されるようになる\\n\r",
+      "zh": "\t在配置群组暗号之后，\\n会优先显示使用同一组暗号玩家的下列状态：\\n讯息、召唤记号、血迹、幻影等等。\r"
+    }
+  },
+  "111": {
+    "LoadingTitle": {
+      "en": "\tMultiplayer Passwords\r",
+      "jp": "\tマルチプレイ合言葉\r",
+      "zh": "\t多人联机游玩的暗号\r"
+    },
+    "LoadingText": {
+      "en": "\tIf you set a multiplayer password, you'll only be matched with other players using the same password\\nfor most multiplayer features.\\n\\nHowever, multiplayer passwords do not apply to invasion multiplayer.\r",
+      "jp": "\tマルチプレイ合言葉を設定すると、同じ合言葉を設定したプレイヤーとだけマッチングする\\nただし侵入マルチプレイでは、この合言葉は機能しない\\n\r",
+      "zh": "\t在配置多人联机游玩的暗号之后，\\n会和配置同一组暗号的玩家进行联机配对。\\n\\n在入侵多人联机游玩中，不适用暗号功能。\r"
+    }
+  },
+  "112": {
+    "LoadingTitle": {
+      "en": "\tMessages\r",
+      "jp": "\tメッセージ\r",
+      "zh": "\t讯息\r"
+    },
+    "LoadingText": {
+      "en": "\tYou can use the Messages menu to leave messages for other players.\\n\\nYour message will appear in other players' worlds at the spot where you stood when you wrote it.\r",
+      "jp": "\tメッセージメニューから、その場にメッセージを書くことができる\\nメッセージは他世界に伝播し、他プレイヤーがそれを読むことができる\\n\r",
+      "zh": "\t能从讯息选单，选择想留下的讯息。\\n讯息会传布到其他世界，让其他世界的玩家看见。\r"
+    }
+  },
+  "113": {
+    "LoadingTitle": {
+      "en": "\tMultiplayer Movement Limits\r",
+      "jp": "\tマルチプレイの移動制限\r",
+      "zh": "\t多人联机游玩的活动范围\r"
+    },
+    "LoadingText": {
+      "en": "\tDuring multiplayer, you can only explore a limited area.\\nAreas beyond those limits are blocked off with a wall of light.\\nThey will be accessible again after multiplayer ends.\r",
+      "jp": "\tマルチプレイ中は、光の壁で移動可能なエリアが制限される\\nマルチプレイが終了すると、移動制限は解除される\\n\r",
+      "zh": "\t在多人联机游玩时，会出现光墙分割出可活动的范围。\\n结束多人联机游玩后，会解除活动范围的限制。\r"
+    }
+  },
+  "114": {
+    "LoadingTitle": {
+      "en": "\tPhantoms\r",
+      "jp": "\t幻影\r",
+      "zh": "\t幻影\r"
+    },
+    "LoadingText": {
+      "en": "\tYou may occasionally see faint, white phantoms.\\nThese are traces of players in other worlds and the actions they recently performed.\r",
+      "jp": "\t一時的に現れる薄っすらとした白い幻影は\\nほんの少し前の、他世界のプレイヤーの姿である\\n\r",
+      "zh": "\t短暂现身的半透明白色幻影，\\n是在一段时间以前，其他世界的玩家活动的身影。\r"
+    }
+  },
+  "115": {
+    "LoadingTitle": {
+      "en": "\tBloodstains\r",
+      "jp": "\t血痕\r",
+      "zh": "\t血迹\r"
+    },
+    "LoadingText": {
+      "en": "\tBloodstains are left behind in spots where players in other worlds have died.\\nYou can examine them to see how those players died.\r",
+      "jp": "\t血痕は、他世界のプレイヤーが死亡した印である\\nそれを調べることで、そのプレイヤーの死に様が確認できる\\n\r",
+      "zh": "\t血迹是其他世界的玩家死亡时的痕迹。\\n调查血迹能确认玩家遭遇死亡时的情况。\r"
+    }
+  },
+  "116": {
+    "LoadingTitle": {
+      "en": "\tSupport Objective (Hunter)\r",
+      "jp": "\t救援者（狩人）の目的\r",
+      "zh": "\t支援者（猎人）的目标\r"
+    },
+    "LoadingText": {
+      "en": "\tDuring supportive multiplayer, a hunter's objective is to defeat an invader.\\nA hunter will return to their own world when they die or the invader is defeated, whichever happens first.\r",
+      "jp": "\t救援マルチプレイにおける救援者（狩人）の目的は、侵入者の撃破となる\\n目的を達成するか、達成できず死亡した場合、救援者は自分の世界に帰還する\\n\r",
+      "zh": "\t在支援多人联机游玩中，\\n支援者（猎人）的目标是打败入侵者。\\n\\n在达成目标，或是没达成目标就死亡的时候，\\n支援者会回到自己的世界。\r"
+    }
+  },
+  "117": {
+    "LoadingTitle": {
+      "en": "\tSummon Signs\r",
+      "jp": "\t召喚サイン\r",
+      "zh": "\t召唤记号\r"
+    },
+    "LoadingText": {
+      "en": "\tThere are two types of summon signs left by players in other worlds.\\n\\nGold signs will summon Furled Finger cooperators.\\nRed signs will summon duelist adversaries.\r",
+      "jp": "\t他世界のプレイヤーが書いた召喚サインは２種類が存在する\\n金のサインからは協力者「鉤指」を、赤のサインからは敵対者「闘士」を、それぞれ召喚できる\\n\r",
+      "zh": "\t其他世界的玩家写下的召唤记号，共有２种。\\n\\n金色记号能召唤协助者“勾指”；\\n红色记号能召唤敌对者“斗士”。\r"
+    }
+  },
+  "118": {
+    "LoadingTitle": {
+      "en": "\tAdvanced Messages\r",
+      "jp": "\tメッセージの拡張\r",
+      "zh": "\t切换讯息的格式\r"
+    },
+    "LoadingText": {
+      "en": "\tYou can change the message format to leave more complex messages.\\nYou can also attach gestures to your messages.\\n\\n<?keyicon@30?>: Change message format\r",
+      "jp": "\tメッセージの形式を切り替えることで、より複雑なメッセージを書くことができる\\nまた、メッセージにジェスチャーを添付することもできる\\n\\n<?keyicon@30?>：メッセージ形式の切り替え\\n\r",
+      "zh": "\t能够切换讯息的格式，留下更为复杂的讯息。\\n此外，也能替讯息搭配肢体动作。\\n\\n<?keyicon@30?>：切换讯息的格式\r"
+    }
+  },
+  "119": {
+    "LoadingTitle": {
+      "en": "\tInvader Objective\r",
+      "jp": "\t侵入者の目的\r",
+      "zh": "\t入侵者的目标\r"
+    },
+    "LoadingText": {
+      "en": "\tDuring invasion multiplayer, the invader's objective is to defeat the Host of Fingers.\\nAn invader will return to their own world when they die or the Host of Fingers is defeated, whichever happens first.\r",
+      "jp": "\t侵入マルチプレイにおける侵入者の目的は、「鉤指の主」の撃破となる\\n目的を達成するか、達成できず死亡した場合、侵入者は自分の世界に帰還する\\n\r",
+      "zh": "\t在入侵多人联机游玩中，\\n入侵者的目标是打败“勾指主人”。\\n\\n在达成目标，或是没达成目标就死亡的时候，\\n入侵者会回到自己的世界。\r"
+    }
+  },
+  "120": {
+    "LoadingTitle": {
+      "en": "\tColosseums\r",
+      "jp": "\t闘技場\r",
+      "zh": "\t竞技场\r"
+    },
+    "LoadingText": {
+      "en": "\tThe Colosseums found in the Lands Between are venues for combat against other players,\\neach with their own set of rules.\\n\\nIt's possible to initiate combat via the effigy of Marika at the Roundtable Hold,\\nusing the formats of Colosseums already visited.\r",
+      "jp": "\t狭間の各地にある闘技場では\\nそれぞれ異なるルールで、他プレイヤーと対戦できる\\n\\n闘技には、円卓のマリカ像からも参戦でき\\nそこでは、一度訪れた闘技場のルールを選択できる\\n\r",
+      "zh": "\t竞技场座落于交界地各处，\\n在此能以不同的规则与其他玩家对战。\\n\\n透过圆桌厅堂的玛莉卡雕像也能参加竞技。\\n以此方法参战时，只能选择过去造访的竞技场所使用的规则。\r"
+    }
+  },
+  "121": {
+    "LoadingTitle": {
+      "en": "\tColosseum Rankings\r",
+      "jp": "\t闘技場のランク\r",
+      "zh": "\t竞技场的阶级\r"
+    },
+    "LoadingText": {
+      "en": "\tThere are rankings in each colosseum which track the results of combatants fighting in\\nDuels, United Combat / Combat Ordeals, and with spirit ashes enabled.\\n\\nThere are five ranks for each category.\\nRepeated wins will see your rank increase, but repeated losses will have the opposite effect.\r",
+      "jp": "\t闘技場では「決闘」「共闘／乱闘」「遺灰有り」のそれぞれに\\n対戦結果により変動するランクが存在する\\n\\nランクは５段階あり、勝利を重ねることで上がる\\n一方で、敗北を重ねることで下がってしまう\\n\r",
+      "zh": "\t竞技场会根据“决斗”、“组队战、乱战”、“使用骨灰”，\\n各个规则下的对战结果，制定阶级。\\n\\n阶级分成５级，累积胜场能提升，\\n但如果连续败战，会降低阶级。\r"
+    }
+  },
+  "150": {
+    "LoadingTitle": {
+      "en": "\tLimits of Guarding\r",
+      "jp": "\tガードの弱み\r",
+      "zh": "\t防御的缺点\r"
+    },
+    "LoadingText": {
+      "en": "\tAttacks with certain affinities, such as fire or lightning, may make guarding less effective\\nthan it is against normal physical attacks.\\n\\nGuarding does not work against many grappling attacks.\r",
+      "jp": "\t炎や雷などの属性攻撃は、一般的に物理攻撃よりもガードの効果が弱い\\nまた掴みかかってくるような攻撃は、ガードできないことが多い\\n\r",
+      "zh": "\t一般而言，遇上火属性、雷属性等等属性攻击时，\\n和物理类攻击相比，即使防御，效果也不好。\\n\\n此外，当敌人使出抓技等等的攻击，时常会无法防御。\r"
+    }
+  },
+  "151": {
+    "LoadingTitle": {
+      "en": "\tStance-Breaking\r",
+      "jp": "\t体勢を崩す\r",
+      "zh": "\t失去平衡\r"
+    },
+    "LoadingText": {
+      "en": "\tSome attacks may break an enemy's stance, giving you a chance to perform a critical hit.\\nCharge attacks and jump attacks make it particularly easy to break an enemy's stance.\r",
+      "jp": "\t攻撃により、敵の体勢が崩れることがあり、致命の一撃のチャンスとなる\\nタメ攻撃やジャンプ攻撃は、特に敵の体勢を崩しやすい\\n\r",
+      "zh": "\t敌人会因为我方的攻击而失去平衡，\\n此时就有机会使出致命一击。\\n\\n蓄力攻击、跳跃攻击特别容易让敌人失去平衡。\r"
+    }
+  },
+  "152": {
+    "LoadingTitle": {
+      "en": "\tKnocking Down Mounted Enemies\r",
+      "jp": "\t落馬\r",
+      "zh": "\t坠马\r"
+    },
+    "LoadingText": {
+      "en": "\tRepeatedly attack a mounted enemy to knock them off of their mount and break their stance.\\nThis will give you a chance to perform a critical hit.\\nCharge attacks and jump attacks are particularly likely to knock enemies off of their mounts.\r",
+      "jp": "\t騎乗敵に攻撃を続けると、落馬し体勢を崩すことがあり、致命の一撃のチャンスとなる\\nタメ攻撃やジャンプ攻撃は、特に落馬を狙いやすい\\n\r",
+      "zh": "\t对骑马敌人持续展开攻势，能够让对方坠马、失去平衡，\\n就有机会使出致命一击。\\n\\n蓄力攻击、跳跃攻击特别容易让敌人坠马。\r"
+    }
+  },
+  "153": {
+    "LoadingTitle": {
+      "en": "\tHardened Foes\r",
+      "jp": "\t硬い敵\r",
+      "zh": "\t坚硬的敌人\r"
+    },
+    "LoadingText": {
+      "en": "\tThe slashing attacks of sharp weapons are largely ineffective against hardened armor and scales.\\nStrike attacks are likely to hit the mark.\r",
+      "jp": "\t硬い鎧やウロコなどに対しては、鋭い刃の斬撃は効果が低く\\n打撃属性の攻撃が有効となることが多い\r",
+      "zh": "\t对上穿着坚硬铠甲或有鳞片的敌人，\\n用利刃使出斩击，攻击效果不彰。\\n\\n改以打击属性攻击，通常比较有效。\r"
+    }
+  },
+  "154": {
+    "LoadingTitle": { "jp": "\t弱点部位\r" },
+    "LoadingText": {
+      "jp": "\t一部の敵には、弱点部位が存在する\\n頭や尻尾など、敵によって弱点部位は異なる\\n\\n弱点部位を攻撃すると、与えるダメージが大きくなる\r"
+    }
+  },
+  "200": {
+    "LoadingTitle": {
+      "en": "\tTeardrop Scarabs\r",
+      "jp": "\t雫スカラベ\r",
+      "zh": "\t露滴粪金龟\r"
+    },
+    "LoadingText": {
+      "en": "\tThere are both Crimson and Cerulean Teardrop Scarabs.\\nDefeat them to replenish the flasks that match their type.\\nHowever, you cannot replenish more flasks than your maximum amount allows.\r",
+      "jp": "\t雫スカラベには緋色と青色が存在し、倒すことでそれぞれの聖杯瓶が回復する\\nただし、上限を超えて回復することはない\\n\r",
+      "zh": "\t露滴粪金龟有红色、蓝色之分，\\n打败它之后能恢复与颜色对应的圣杯瓶。\\n\\n如果恢复前使用次数已达上限，则不能累加。\r"
+    }
+  },
+  "205": {
+    "LoadingTitle": {
+      "en": "\tKeeping Track of New Items\r",
+      "jp": "\t初めて入手したアイテム\r",
+      "zh": "\t初次获得的道具\r"
+    },
+    "LoadingText": {
+      "en": "\tItems acquired for the first time can be marked with <?newItemIcon?>.\\n\\nDisplay of this mark can be enabled or disabled in the display tab within the system menu.\r",
+      "jp": "\t初めて入手したアイテムに<?newItemIcon?>を表示することができる\\n\\nこの表示の有無は、システムメニューの表示タブから設定できる\\n\r",
+      "zh": "\t初次获得的道具，能以<?newItemIcon?>标示。\\n\\n从系统选单的显示配置，能选择是否显示此标示。\r"
+    }
+  },
+  "206": {
+    "LoadingTitle": {
+      "en": "\tKeeping Track of Recent Items\r",
+      "jp": "\t最近入手したアイテム\r",
+      "zh": "\t最近获得的道具\r"
+    },
+    "LoadingText": {
+      "en": "\tRecently acquired items can be viewed on a dedicated tab.\\n\\nYou can turn this tab on or off in the display tab within the system menu.\r",
+      "jp": "\t最近入手したアイテムを、専用のタブで確認することができる\\n\\nこのタブの表示有無は、システムメニューの表示タブから設定できる\\n\r",
+      "zh": "\t最近获得的道具，能从专用的标签进行确认。\\n\\n从系统选单的显示配置，能选择是否显示此标签。\r"
+    }
+  },
+  "207": {
+    "LoadingTitle": {
+      "en": "\tCarrying Over Summoning Pools\r",
+      "jp": "\tサイン溜まりの保持\r",
+      "zh": "\t记号聚集处的启用状态\r"
+    },
+    "LoadingText": {
+      "en": "\tActivated summoning pools will be carried over into subsequent playthroughs.\\n\\nYou can enable or disable summoning pools individually using the list on the map functions menu.\r",
+      "jp": "\t有効にしたサイン溜まりは、次の周の世界をはじめても有効なままとなる\\n\\nマップ機能メニューのサイン溜まり一覧から\\nサイン溜まりの有効／無効を、個別に設定することもできる\\n\r",
+      "zh": "\t目前已可使用的记号聚集处，\\n进入下一次的世界时，也能维持启用状态。\\n\\n从地图功能选单的记号聚集处一览，能个别配置为启用或不启用。\r"
+    }
+  },
+  "250": {
+    "LoadingTitle": { "jp": "\tテストデータ1 <?kgOk?> <?kgCancel?>\r" },
+    "LoadingText": {
+      "jp": "\t<?kgOk?>　A／○ボタン（プラット考慮した決定ボタン）\\n<?kgCancel?>　B／×ボタン（プラット考慮したキャンセルボタン）\\n<?kgRD?>　A／×ボタン\\n<?kgRR?>　B／○ボタン\\n<?kgRL?>　X／□ボタン\\n<?kgRU?>　Y／△ボタン\r"
+    }
+  },
+  "251": {
+    "LoadingTitle": { "jp": "\tテストデータ2 <?kgUDLR?>\r" },
+    "LoadingText": {
+      "jp": "\t<?kgU?>　十字キー：↑\\n<?kgD?>　十字キー：↓\\n<?kgL?>　十字キー：←\\n<?kgR?>　十字キー：→\\n<?kgUD?>　十字キー：↑↓\\n<?kgLR?>　十字キー：→↑\\n<?kgUDLR?>　十字キー：↑↓←→\r"
+    }
+  },
+  "252": {
+    "LoadingTitle": { "jp": "\tテストデータ3\r" },
+    "LoadingText": {
+      "jp": "\t<?kgL1?>　LB／L1ボタン\\n<?kgR1?>　RB／R1ボタン\\n<?kgL1R1?>　LB／L1ボタン、RB／R1ボタン両方\\n<?kgL2?>　LT／L2ボタン\\n<?kgR2?>　RT／R2ボタン\\n<?kgL2R2?>　LT／L2ボタン、RT／R2ボタン両方\r"
+    }
+  },
+  "253": {
+    "LoadingTitle": { "jp": "\tテストデータ4\r" },
+    "LoadingText": {
+      "jp": "\t<?kgL3?>　Lスティック押し込み（L3）\\n<?kgR3?>　Rスティック押し込み（R3）\\n<?kgLStick?>　Lスティック\\n<?kgRStick?>　Rスティック\\n<?kgTouchPadL?>　Backボタン／パッド左\\n<?kgTouchPadR?>　Startボタン／パッド右\\n<?kgStart?>　Startボタン／Startボタン\\n<?kgBack?>　Backボタン／パッド左\r"
+    }
+  },
+  "": {
+    "LoadingTitle": { "en": "", "jp": "", "zh": "" },
+    "LoadingText": { "en": "", "jp": "", "zh": "" }
+  }
+}

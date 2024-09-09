@@ -1,0 +1,2544 @@
+{
+  "2120000": {
+    "NetworkMessage": {
+      "en": "\tSummon this cooperator?\r",
+      "jp": "\tこの協力者を召喚しますか？\r",
+      "zh": "\t要召唤这名协助者吗？\r"
+    }
+  },
+  "2120100": {
+    "NetworkMessage": {
+      "en": "\tSummon this adversary?\r",
+      "jp": "\tこの敵対者を召喚しますか？\r",
+      "zh": "\t要召唤这名敌对者吗？\r"
+    }
+  },
+  "2120200": {
+    "NetworkMessage": {
+      "en": "\tHunters from other worlds will be automatically summoned to rescue\\nyou when your world is invaded\r",
+      "jp": "\t侵入者に侵入された時、自動的に\\n他世界に狩人の召喚を要請する状態になりました\r",
+      "zh": "\t受到入侵时，将自动发出请求，\\n召唤其他世界的猎人。\r"
+    }
+  },
+  "2120201": {
+    "NetworkMessage": {
+      "en": "\tHunters will no longer be summoned automatically\r",
+      "jp": "\t狩人の召喚を要請する状態を解除しました\r",
+      "zh": "\t已撤回召唤猎人的请求。\r"
+    }
+  },
+  "2120210": {
+    "NetworkMessage": {
+      "en": "\tYou will now respond to calls for rescue from other worlds\r",
+      "jp": "\t他世界から狩人の召喚要請があった時\\nそれに応える状態になりました\r",
+      "zh": "\t当其他世界的人想召唤猎人时，\\n能回应要求，接受召唤。\r"
+    }
+  },
+  "2120211": {
+    "NetworkMessage": {
+      "en": "\tYou are no longer responding to calls for rescue from other worlds\r",
+      "jp": "\t狩人の召喚要請に応える状態を解除しました\r",
+      "zh": "\t已撤回接受召唤的承诺。\r"
+    }
+  },
+  "2121000": {
+    "NetworkMessage": {
+      "en": "\tCancel summon sign?\r",
+      "jp": "\tこの召喚サインを取り消しますか？\r",
+      "zh": "\t要抹除这个召唤记号吗？\r"
+    }
+  },
+  "2200000": {
+    "NetworkMessage": {
+      "en": "\tYour summon sign disappeared\r",
+      "jp": "\tあなたの書いた召喚サインは取り消されました\r",
+      "zh": "\t您写下的召唤记号已消失。\r"
+    }
+  },
+  "2200200": {
+    "NetworkMessage": {
+      "en": "\tInvasion canceled\r",
+      "jp": "\t侵入は取り消されました\r",
+      "zh": "\t已取消入侵其他世界。\r"
+    }
+  },
+  "2200300": {
+    "NetworkMessage": {
+      "en": "\tFinger Remedy effects wore off\r",
+      "jp": "\t指薬の効果は解除されました\r",
+      "zh": "\t指药的效用已消失。\r"
+    }
+  },
+  "2210000": {
+    "NetworkMessage": {
+      "en": "\tFailed to create summon sign\r",
+      "jp": "\t召喚サインの作成に失敗しました\r",
+      "zh": "\t召唤记号建立失败。\r"
+    }
+  },
+  "2300000": {
+    "NetworkMessage": {
+      "en": "\tSummoning cooperator...\r",
+      "jp": "\t協力者を召喚しています\r",
+      "zh": "\t正在召唤协助者。\r"
+    }
+  },
+  "2300010": {
+    "NetworkMessage": {
+      "en": "\tSummoning cooperator...\r",
+      "jp": "\t協力者を召喚しています\r",
+      "zh": "\t正在召唤协助者。\r"
+    }
+  },
+  "2300100": {
+    "NetworkMessage": {
+      "en": "\tSummoning adversary...\r",
+      "jp": "\t敵対者を召喚しています\r",
+      "zh": "\t正在召唤敌对者。\r"
+    }
+  },
+  "2301000": {
+    "NetworkMessage": {
+      "en": "\tYou are being summoned to another world...\r",
+      "jp": "\t他世界に召喚されています\r",
+      "zh": "\t正在接受其他世界的召唤。\r"
+    }
+  },
+  "2301100": {
+    "NetworkMessage": {
+      "en": "\tYou are being summoned to another world...\r",
+      "jp": "\t他世界に召喚されています\r",
+      "zh": "\t正在接受其他世界的召唤。\r"
+    }
+  },
+  "2301200": {
+    "NetworkMessage": {
+      "en": "\tInvading another world...\r",
+      "jp": "\t他世界に侵入しています\r",
+      "zh": "\t正在入侵其他世界。\r"
+    }
+  },
+  "2301210": {
+    "NetworkMessage": {
+      "en": "\tInvading another world...\r",
+      "jp": "\t他世界に侵入しています\r",
+      "zh": "\t正在入侵其他世界。\r"
+    }
+  },
+  "2301304": {
+    "NetworkMessage": {
+      "en": "\tYou are being summoned to another world...\r",
+      "jp": "\t他世界に召喚されています\r",
+      "zh": "\t正在接受其他世界的召唤。\r"
+    }
+  },
+  "2302000": {
+    "NetworkMessage": {
+      "en": "\tSummoning another cooperator...\r",
+      "jp": "\t他の協力者が召喚されています\r",
+      "zh": "\t正在召唤其他协助者。\r"
+    }
+  },
+  "2302010": {
+    "NetworkMessage": {
+      "en": "\tSummoning another cooperator...\r",
+      "jp": "\t他の協力者が召喚されています\r",
+      "zh": "\t正在召唤其他协助者。\r"
+    }
+  },
+  "2302100": {
+    "NetworkMessage": {
+      "en": "\tSummoning another adversary...\r",
+      "jp": "\t他の敵対者が召喚されています\r",
+      "zh": "\t正在召唤其他敌对者。\r"
+    }
+  },
+  "2311000": {
+    "NetworkMessage": {
+      "en": "\tBeing summoned to another world as a cooperator...\r",
+      "jp": "\t協力者として、他世界に召喚されます\r",
+      "zh": "\t作为协助者，接受其他世界的召唤。\r"
+    }
+  },
+  "2311100": {
+    "NetworkMessage": {
+      "en": "\tBeing summoned to another world as an adversary...\r",
+      "jp": "\t敵対者として、他世界に召喚されます\r",
+      "zh": "\t作为敌对者，接受其他世界的召唤。\r"
+    }
+  },
+  "2311200": {
+    "NetworkMessage": {
+      "en": "\tInvading another world...\r",
+      "jp": "\t侵入者として、他世界に侵入します\r",
+      "zh": "\t作为入侵者，入侵其他世界。\r"
+    }
+  },
+  "2311210": {
+    "NetworkMessage": {
+      "en": "\tInvading another world...\r",
+      "jp": "\t侵入者として、他世界に侵入します\r",
+      "zh": "\t作为入侵者，入侵其他世界。\r"
+    }
+  },
+  "2311304": {
+    "NetworkMessage": {
+      "en": "\tBeing summoned to another world as a hunter...\r",
+      "jp": "\t狩人として、他世界に召喚されます\r",
+      "zh": "\t作为猎人，接受其他世界的召唤。\r"
+    }
+  },
+  "2311413": {
+    "NetworkMessage": {
+      "en": "\tAll combatants have assembled\r",
+      "jp": "\t全ての闘士が揃いました\r",
+      "zh": "\t所有斗士已到齐。\r"
+    }
+  },
+  "2331200": {
+    "NetworkMessage": {
+      "en": "\tAttempting to invade another world... (Bounds: Nearby only)\r",
+      "jp": "\t他世界への侵入を試みています（近辺のみ）\r",
+      "zh": "\t正在寻找可入侵的世界。（范围仅限附近）\r"
+    }
+  },
+  "2331201": {
+    "NetworkMessage": {
+      "en": "\tAttempting to invade another world... (Bounds: Near/far)\r",
+      "jp": "\t他世界への侵入を試みています（遠方を含む）\r",
+      "zh": "\t正在寻找可入侵的世界。（范围不分远近）\r"
+    }
+  },
+  "2331202": {
+    "NetworkMessage": {
+      "en": "\tRequesting the summons of a Broken Finger Stalker\r",
+      "jp": "\t潰れ狩りの召喚を要請しています\r",
+      "zh": "\t正在提出召唤崩指猎人的请求。\r"
+    }
+  },
+  "2331210": {
+    "NetworkMessage": {
+      "en": "\tAttempting to invade another world... (Bounds: Nearby only)\r",
+      "jp": "\t他世界への侵入を試みています（近辺のみ）\r",
+      "zh": "\t正在寻找可入侵的世界。（范围仅限附近）\r"
+    }
+  },
+  "2331211": {
+    "NetworkMessage": {
+      "en": "\tAttempting to invade another world... (Bounds: Near/far)\r",
+      "jp": "\t他世界への侵入を試みています（遠方を含む）\r",
+      "zh": "\t正在寻找可入侵的世界。（范围不分远近）\r"
+    }
+  },
+  "2331300": {
+    "NetworkMessage": {
+      "en": "\tSending co-op sign to summoning pools (Range: Nearby only)\r",
+      "jp": "\t協力サインをサイン溜まりに送っています（近辺のみ）\r",
+      "zh": "\t正在将协力记号送往记号聚集处。（范围仅限附近）\r"
+    }
+  },
+  "2331301": {
+    "NetworkMessage": {
+      "en": "\tSending hostile sign to summoning pools (Range: Nearby only)\r",
+      "jp": "\t敵対サインをサイン溜まりに送っています（近辺のみ）\r",
+      "zh": "\t正在将敌对记号送往记号聚集处。（范围仅限附近）\r"
+    }
+  },
+  "2331305": {
+    "NetworkMessage": {
+      "en": "\tSending co-op sign to summoning pools (Range: Near/far)\r",
+      "jp": "\t協力サインをサイン溜まりに送っています（遠方を含む）\r",
+      "zh": "\t正在将协力记号送往记号聚集处。（范围不分远近）\r"
+    }
+  },
+  "2331306": {
+    "NetworkMessage": {
+      "en": "\tSending hostile sign to summoning pools (Range: Near/far)\r",
+      "jp": "\t敵対サインをサイン溜まりに送っています（遠方を含む）\r",
+      "zh": "\t正在将敌对记号送往记号聚集处。（范围不分远近）\r"
+    }
+  },
+  "2341413": {
+    "NetworkMessage": {
+      "en": "\tPlease wait until all combatants are assembled.\\n(Remaining combatant(s): <?matchRemainingCount?> )\r",
+      "jp": "\t全ての闘士が揃うまでお待ちください\\n（あと<?matchRemainingCount?>名）\r",
+      "zh": "\t请静待所有斗士到齐。\\n（还剩<?matchRemainingCount?>位）\r"
+    }
+  },
+  "2351413": {
+    "NetworkMessage": {
+      "en": "\tPlease wait until all combatants are assembled.\\n(Remaining allies: <?matchRemainingMyCount?>, remaining foes: <?matchRemainingEnemyCount?>)\r",
+      "jp": "\t全ての闘士が揃うまでお待ちください\\n（あと味方<?matchRemainingMyCount?>名、敵<?matchRemainingEnemyCount?>名）\r",
+      "zh": "\t请静待所有斗士到齐。\\n（还剩我方<?matchRemainingMyCount?>位、敌方<?matchRemainingEnemyCount?>位）\r"
+    }
+  },
+  "2410000": {
+    "NetworkMessage": {
+      "en": "\tCould not summon cooperator.\\nCooperator was unable to join session.\r",
+      "jp": "\t協力者を召喚できませんでした\\nセッションに参加できませんでした\r",
+      "zh": "\t无法召唤协助者，\\n因此不能进行联机。\r"
+    }
+  },
+  "2410100": {
+    "NetworkMessage": {
+      "en": "\tCould not summon adversary.\\nAdversary was unable to join session.\r",
+      "jp": "\t敵対者を召喚できませんでした\\nセッションに参加できませんでした\r",
+      "zh": "\t无法召唤敌对者，\\n因此不能进行联机。\r"
+    }
+  },
+  "2411000": {
+    "NetworkMessage": {
+      "en": "\tSummoning aborted.\\nUnable to join session.\r",
+      "jp": "\t召喚されませんでした\\nセッションに参加できませんでした\r",
+      "zh": "\t无法接受召唤，\\n因此不能进行联机。\r"
+    }
+  },
+  "2411100": {
+    "NetworkMessage": {
+      "en": "\tSummoning aborted.\\nUnable to join session.\r",
+      "jp": "\t召喚されませんでした\\nセッションに参加できませんでした\r",
+      "zh": "\t无法接受召唤，\\n因此不能进行联机。\r"
+    }
+  },
+  "2411200": {
+    "NetworkMessage": {
+      "en": "\tCould not invade.\\nUnable to join session.\r",
+      "jp": "\t侵入できませんでした\\nセッションに参加できませんでした\r",
+      "zh": "\t无法入侵，\\n因此不能进行联机。\r"
+    }
+  },
+  "2411210": {
+    "NetworkMessage": {
+      "en": "\tCould not invade.\\nUnable to join session.\r",
+      "jp": "\t侵入できませんでした\\nセッションに参加できませんでした\r",
+      "zh": "\t无法入侵，\\n因此不能进行联机。\r"
+    }
+  },
+  "2411304": {
+    "NetworkMessage": {
+      "en": "\tSummoning aborted.\\nUnable to join session.\r",
+      "jp": "\t召喚されませんでした\\nセッションに参加できませんでした\r",
+      "zh": "\t无法接受召唤，\\n因此不能进行联机。\r"
+    }
+  },
+  "2450000": {
+    "NetworkMessage": {
+      "en": "\tSummoning of cooperator aborted.\\nCooperator died in their world.\r",
+      "jp": "\t元の世界で死亡したため\\n協力者の召喚は取り消されました\r",
+      "zh": "\t协助者在原本的世界死亡，\\n因此无法进行召唤。\r"
+    }
+  },
+  "2450100": {
+    "NetworkMessage": {
+      "en": "\tSummoning of adversary aborted.\\nAdversary died in their world.\r",
+      "jp": "\t元の世界で死亡したため\\n敵対者の召喚は取り消されました\r",
+      "zh": "\t敌对者在原本的世界死亡，\\n因此无法进行召唤。\r"
+    }
+  },
+  "2460000": {
+    "NetworkMessage": {
+      "en": "\tUnable to summon cooperator due to\\ntime out\r",
+      "jp": "\t協力者を召喚できませんでした\\n一定時間応答がありませんでした\r",
+      "zh": "\t一定时间内联机没有回应，\\n因此无法召唤协助者。\r"
+    }
+  },
+  "2460100": {
+    "NetworkMessage": {
+      "en": "\tUnable to summon adversary due to\\ntime out\r",
+      "jp": "\t敵対者を召喚できませんでした\\n一定時間応答がありませんでした\r",
+      "zh": "\t一定时间内联机没有回应，\\n因此无法召唤敌对者。\r"
+    }
+  },
+  "2461000": {
+    "NetworkMessage": {
+      "en": "\tSummoning aborted due to\\ntime out\r",
+      "jp": "\t召喚されませんでした\\n一定時間応答がありませんでした\r",
+      "zh": "\t一定时间内联机没有回应，\\n因此无法接受召唤。\r"
+    }
+  },
+  "2461100": {
+    "NetworkMessage": {
+      "en": "\tSummoning aborted due to\\ntime out\r",
+      "jp": "\t召喚されませんでした\\n一定時間応答がありませんでした\r",
+      "zh": "\t一定时间内联机没有回应，\\n因此无法接受召唤。\r"
+    }
+  },
+  "2461200": {
+    "NetworkMessage": {
+      "en": "\tInvasion aborted due to\\ntime out\r",
+      "jp": "\t侵入できませんでした\\n一定時間応答がありませんでした\r",
+      "zh": "\t一定时间内联机没有回应，\\n因此无法入侵。\r"
+    }
+  },
+  "2461210": {
+    "NetworkMessage": {
+      "en": "\tInvasion aborted due to\\ntime out\r",
+      "jp": "\t侵入できませんでした\\n一定時間応答がありませんでした\r",
+      "zh": "\t一定时间内联机没有回应，\\n因此无法入侵。\r"
+    }
+  },
+  "2461304": {
+    "NetworkMessage": {
+      "en": "\tSummoning aborted due to\\ntime out\r",
+      "jp": "\t召喚されませんでした\\n一定時間応答がありませんでした\r",
+      "zh": "\t一定时间内联机没有回应，\\n因此无法接受召唤。\r"
+    }
+  },
+  "2490000": {
+    "NetworkMessage": {
+      "en": "\tUnable to summon cooperator\r",
+      "jp": "\t協力者を召喚できませんでした\r",
+      "zh": "\t无法召唤协助者。\r"
+    }
+  },
+  "2490100": {
+    "NetworkMessage": {
+      "en": "\tUnable to summon adversary\r",
+      "jp": "\t敵対者を召喚できませんでした\r",
+      "zh": "\t无法召唤敌对者。\r"
+    }
+  },
+  "2491000": {
+    "NetworkMessage": {
+      "en": "\tUnable to be summoned\r",
+      "jp": "\t召喚されませんでした\r",
+      "zh": "\t无法接受召唤。\r"
+    }
+  },
+  "2491100": {
+    "NetworkMessage": {
+      "en": "\tUnable to be summoned\r",
+      "jp": "\t召喚されませんでした\r",
+      "zh": "\t无法接受召唤。\r"
+    }
+  },
+  "2491200": {
+    "NetworkMessage": {
+      "en": "\tUnable to invade\r",
+      "jp": "\t侵入できませんでした\r",
+      "zh": "\t无法入侵。\r"
+    }
+  },
+  "2491210": {
+    "NetworkMessage": {
+      "en": "\tUnable to invade\r",
+      "jp": "\t侵入できませんでした\r",
+      "zh": "\t无法入侵。\r"
+    }
+  },
+  "2491304": {
+    "NetworkMessage": {
+      "en": "\tUnable to be summoned\r",
+      "jp": "\t召喚されませんでした\r",
+      "zh": "\t无法接受召唤。\r"
+    }
+  },
+  "2510000": {
+    "NetworkMessage": {
+      "en": "\tCould not summon cooperator.\\nFailed to create session.\r",
+      "jp": "\t協力者を召喚できませんでした\\nセッション作成に失敗しました\r",
+      "zh": "\t联机失败，无法召唤协助者。\r"
+    }
+  },
+  "2510100": {
+    "NetworkMessage": {
+      "en": "\tCould not summon adversary.\\nFailed to create session.\r",
+      "jp": "\t敵対者を召喚できませんでした\\nセッション作成に失敗しました\r",
+      "zh": "\t联机失败，无法召唤敌对者。\r"
+    }
+  },
+  "2521000": {
+    "NetworkMessage": {
+      "en": "\tUnable to be summoned.\\nFailed to join session.\r",
+      "jp": "\t召喚されませんでした\\nセッション参加に失敗しました\r",
+      "zh": "\t联机失败，无法接受召唤。\r"
+    }
+  },
+  "2521100": {
+    "NetworkMessage": {
+      "en": "\tUnable to be summoned.\\nFailed to join session.\r",
+      "jp": "\t召喚されませんでした\\nセッション参加に失敗しました\r",
+      "zh": "\t联机失败，无法接受召唤。\r"
+    }
+  },
+  "2521200": {
+    "NetworkMessage": {
+      "en": "\tCould not invade.\\nFailed to join session.\r",
+      "jp": "\t侵入できませんでした\\nセッション参加に失敗しました\r",
+      "zh": "\t联机失败，无法入侵。\r"
+    }
+  },
+  "2521210": {
+    "NetworkMessage": {
+      "en": "\tCould not invade.\\nFailed to join session.\r",
+      "jp": "\t侵入できませんでした\\nセッション参加に失敗しました\r",
+      "zh": "\t联机失败，无法入侵。\r"
+    }
+  },
+  "2521304": {
+    "NetworkMessage": {
+      "en": "\tUnable to be summoned.\\nFailed to join session.\r",
+      "jp": "\t召喚されませんでした\\nセッション参加に失敗しました\r",
+      "zh": "\t联机失败，无法接受召唤。\r"
+    }
+  },
+  "2600000": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?joinName?> summoned as a cooperator\r",
+      "jp": "\t鉤指<?joinName?>を協力者として召喚しました\r",
+      "zh": "\t已召唤协助者，勾指<?joinName?>。\r"
+    }
+  },
+  "2600010": {
+    "NetworkMessage": {
+      "en": "\t<?joinName?> summoned as a cooperator\r",
+      "jp": "\t<?joinName?>を協力者として召喚しました\r",
+      "zh": "\t已召唤协助者<?joinName?>。\r"
+    }
+  },
+  "2600100": {
+    "NetworkMessage": {
+      "en": "\tDuelist <?joinName?> summoned as an adversary\r",
+      "jp": "\t闘士<?joinName?>を敵対者として召喚しました\r",
+      "zh": "\t已召唤敌对者，斗士<?joinName?>。\r"
+    }
+  },
+  "2600200": {
+    "NetworkMessage": {
+      "en": "\tInvaded by Bloody Finger <?joinName?>!\r",
+      "jp": "\t血の指<?joinName?>に侵入されました！\r",
+      "zh": "\t被血指<?joinName?>入侵了！\r"
+    }
+  },
+  "2600210": {
+    "NetworkMessage": {
+      "en": "\tInvaded by Recusant <?joinName?>!\r",
+      "jp": "\t背律者<?joinName?>に侵入されました！\r",
+      "zh": "\t被叛律者<?joinName?>入侵了！\r"
+    }
+  },
+  "2600220": {
+    "NetworkMessage": {
+      "en": "\tInvaded by <?joinName?>!\r",
+      "jp": "\t<?joinName?>に侵入されました！\r",
+      "zh": "\t被<?joinName?>入侵了！\r"
+    }
+  },
+  "2600230": {
+    "NetworkMessage": {
+      "en": "\tInvaded by <?joinName?>!\r",
+      "jp": "\t<?joinName?>に侵入されました！\r",
+      "zh": "\t被<?joinName?>入侵了！\r"
+    }
+  },
+  "2600240": {
+    "NetworkMessage": {
+      "en": "\tInvaded by <?joinName?>!\r",
+      "jp": "\t<?joinName?>に侵入されました！\r",
+      "zh": "\t被<?joinName?>入侵了！\r"
+    }
+  },
+  "2600304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?joinName?> summoned\r",
+      "jp": "\t狩人<?joinName?>が召喚されました\r",
+      "zh": "\t已召唤猎人<?joinName?>。\r"
+    }
+  },
+  "2601000": {
+    "NetworkMessage": {
+      "en": "\tSummoned as a Furled Finger cooperator.\\nHelp <?hostName?>, Host of Fingers,\\ndefeat the area boss!\r",
+      "jp": "\t協力者（鉤指）として召喚されました\\n鉤指の主<?hostName?>と共にエリアボスを倒してください\r",
+      "zh": "\t作为协助者（勾指），\\n受到勾指主人<?hostName?>的召唤。\\n请协助打倒区域头目。\r"
+    }
+  },
+  "2601100": {
+    "NetworkMessage": {
+      "en": "\tSummoned as a duelist adversary.\\nDefeat <?hostName?>, Host of Fingers!\r",
+      "jp": "\t敵対者（闘士）として召喚されました\\n鉤指の主<?hostName?>を倒してください\r",
+      "zh": "\t作为敌对者（斗士）接受召唤。\\n请打倒勾指主人<?hostName?>。\r"
+    }
+  },
+  "2601200": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat <?hostName?>, Host of Fingers!\r",
+      "jp": "\t他世界に侵入しました\\n鉤指の主<?hostName?>を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒勾指主人<?hostName?>。\r"
+    }
+  },
+  "2601210": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat <?hostName?>, Host of Fingers!\r",
+      "jp": "\t他世界に侵入しました\\n鉤指の主<?hostName?>を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒勾指主人<?hostName?>。\r"
+    }
+  },
+  "2601304": {
+    "NetworkMessage": {
+      "en": "\tSummoned to the world of <?hostName?>,\\nHost of Fingers, as a hunter.\\nHelp them defeat Bloody Finger <?joinName?>!\r",
+      "jp": "\t鉤指の主<?hostName?>の世界に、狩人として召喚されました\\n血の指<?joinName?>を倒してください\r",
+      "zh": "\t作为猎人，\\n受召唤至勾指主人<?hostName?>的世界。\\n请打倒血指<?joinName?>。\r"
+    }
+  },
+  "2601409": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\r",
+      "jp": "\t他世界に召喚されました\r",
+      "zh": "\t已接受其他世界的召唤。\r"
+    }
+  },
+  "2601410": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat <?hostName?>!\r",
+      "jp": "\t他世界に侵入しました\\n<?hostName?>を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒<?hostName?>。\r"
+    }
+  },
+  "2601411": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat <?hostName?>!\r",
+      "jp": "\t他世界に侵入しました\\n<?hostName?>を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒<?hostName?>。\r"
+    }
+  },
+  "2601412": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat White Mask Varré!\r",
+      "jp": "\t他世界に侵入しました\\n「白面のヴァレー」を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒“白面具”梵雷。\r"
+    }
+  },
+  "2601413": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat Old Knight Istvan!\r",
+      "jp": "\t他世界に侵入しました\\n「古騎士、イシュトバーン」を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒“古老骑士”伊修托邦。\r"
+    }
+  },
+  "2601414": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat Rileigh the Idle!\r",
+      "jp": "\t他世界に侵入しました\\n「暮れなずむライリー」を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒“黄昏将尽”莱利。\r"
+    }
+  },
+  "2601415": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat Juno Hoslow, Knight of Blood!\r",
+      "jp": "\t他世界に侵入しました\\n「血潮の騎士、ユーノ・ホスロー」を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒“血言骑士”尤诺·霍斯劳。\r"
+    }
+  },
+  "2601416": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat Vargram the Raging Wolf and Errant Sorcerer Wilhelm!\r",
+      "jp": "\t他世界に侵入しました\\n「狼の戦鬼、バルグラム」たちを倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒“白狼战鬼”巴格莱姆一行人。\r"
+    }
+  },
+  "2601417": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat Great Horned Tragoth!\r",
+      "jp": "\t他世界に侵入しました\\n「大角のトラゴス」を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒“大角”忒拉格斯。\r"
+    }
+  },
+  "2601418": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Bloody Finger Ravenmount Assassin!\r",
+      "jp": "\t他世界に召喚されました\\n「血の指、カラス山の凶手」を倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒“血指”鸦山的杀手。\r"
+    }
+  },
+  "2601419": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Sorceress Sellen!\r",
+      "jp": "\t他世界に召喚されました\\n「魔術師セレン」を倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒 魔法师瑟濂。\r"
+    }
+  },
+  "2601420": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Witch-Hunter Jerren!\r",
+      "jp": "\t他世界に召喚されました\\n「魔女狩り、ジェーレン」を倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒“魔女猎人”杰廉。\r"
+    }
+  },
+  "2601421": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Millicent's sisters!\r",
+      "jp": "\t他世界に召喚されました\\nミリセントの姉妹たちを倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒 米莉森的姊妹。\r"
+    }
+  },
+  "2601422": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Millicent!\r",
+      "jp": "\t他世界に召喚されました\\n「ミリセント」を倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒 米莉森。\r"
+    }
+  },
+  "2601423": {
+    "NetworkMessage": {
+      "en": "\tYou have been ambushed!\\nDefeat Ensha of the Royal Remains!\r",
+      "jp": "\t襲撃を受けました！\\n「王骸のエンシャ」を倒してください\r",
+      "zh": "\t受到袭击了！\\n请打倒“王骸”恩夏。\r"
+    }
+  },
+  "2601424": {
+    "NetworkMessage": {
+      "en": "\tInvading another world.\\nDefeat Magnus the Beast Claw!\r",
+      "jp": "\t他世界に侵入しました\\n「獣の爪、マグナス」を倒してください\r",
+      "zh": "\t已入侵其他世界。\\n请打倒“兽爪”玛格纳斯。\r"
+    }
+  },
+  "2601425": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Needle Knight Leda and her allies!\r",
+      "jp": "\t他世界に召喚されました\\n「針の騎士、レダ」と同志たちを倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒“金针骑士”蕾妲与其同伴。\r"
+    }
+  },
+  "2601426": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Sir Ansbach!\r",
+      "jp": "\t他世界に召喚されました\\n「老兵アンスバッハ」を倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒 老兵安帕赫。\r"
+    }
+  },
+  "2601427": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Needle Knight Leda!\r",
+      "jp": "\t他世界に召喚されました\\n「針の騎士、レダ」を倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒“金针骑士”蕾妲。\r"
+    }
+  },
+  "2601428": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Hornsent!\r",
+      "jp": "\t他世界に召喚されました\\n「角人」を倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒 角人。\r"
+    }
+  },
+  "2601429": {
+    "NetworkMessage": {
+      "en": "\tSummoned to another world.\\nDefeat Needle Knight Leda!\r",
+      "jp": "\t他世界に召喚されました\\n「針の騎士、レダ」を倒してください\r",
+      "zh": "\t已接受其他世界的召唤。\\n请打倒“金针骑士”蕾妲。\r"
+    }
+  },
+  "2602000": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?joinName?> summoned as a cooperator\r",
+      "jp": "\t鉤指<?joinName?>が協力者として召喚されました\r",
+      "zh": "\t已召唤协助者，勾指<?joinName?>。\r"
+    }
+  },
+  "2602010": {
+    "NetworkMessage": {
+      "en": "\t<?joinName?> summoned as a cooperator\r",
+      "jp": "\t<?joinName?>が協力者として召喚されました\r",
+      "zh": "\t已召唤协助者<?joinName?>。\r"
+    }
+  },
+  "2602100": {
+    "NetworkMessage": {
+      "en": "\tDuelist <?joinName?> summoned as an adversary\r",
+      "jp": "\t闘士<?joinName?>が敵対者として召喚されました\r",
+      "zh": "\t已召唤敌对者，斗士<?joinName?>。\r"
+    }
+  },
+  "2602200": {
+    "NetworkMessage": {
+      "en": "\tInvaded by Bloody Finger <?joinName?>!\r",
+      "jp": "\t血の指<?joinName?>に侵入されました！\r",
+      "zh": "\t被血指<?joinName?>入侵了！\r"
+    }
+  },
+  "2602210": {
+    "NetworkMessage": {
+      "en": "\tInvaded by Recusant <?joinName?>!\r",
+      "jp": "\t背律者<?joinName?>に侵入されました！\r",
+      "zh": "\t被叛律者<?joinName?>入侵了！\r"
+    }
+  },
+  "2602220": {
+    "NetworkMessage": {
+      "en": "\tInvaded by <?joinName?>!\r",
+      "jp": "\t<?joinName?>に侵入されました！\r",
+      "zh": "\t被<?joinName?>入侵了！\r"
+    }
+  },
+  "2602230": {
+    "NetworkMessage": {
+      "en": "\tInvaded by <?joinName?>!\r",
+      "jp": "\t<?joinName?>に侵入されました！\r",
+      "zh": "\t被<?joinName?>入侵了！\r"
+    }
+  },
+  "2602240": {
+    "NetworkMessage": {
+      "en": "\tInvaded by <?joinName?>!\r",
+      "jp": "\t<?joinName?>に侵入されました！\r",
+      "zh": "\t被<?joinName?>入侵了！\r"
+    }
+  },
+  "2602250": {
+    "NetworkMessage": {
+      "en": "\tBloody Finger <?joinName?> has invaded\r",
+      "jp": "\t血の指<?joinName?>が侵入しました\r",
+      "zh": "\t血指<?joinName?>已入侵。\r"
+    }
+  },
+  "2602260": {
+    "NetworkMessage": {
+      "en": "\tRecusant <?joinName?> has invaded\r",
+      "jp": "\t背律者<?joinName?>が侵入しました\r",
+      "zh": "\t叛律者<?joinName?>已入侵。\r"
+    }
+  },
+  "2602270": {
+    "NetworkMessage": {
+      "en": "\t<?joinName?> has invaded\r",
+      "jp": "\t<?joinName?>が侵入しました\r",
+      "zh": "\t<?joinName?>已入侵。\r"
+    }
+  },
+  "2602280": {
+    "NetworkMessage": {
+      "en": "\t<?joinName?> has invaded\r",
+      "jp": "\t<?joinName?>が侵入しました\r",
+      "zh": "\t<?joinName?>已入侵。\r"
+    }
+  },
+  "2602290": {
+    "NetworkMessage": {
+      "en": "\t<?joinName?> has invaded\r",
+      "jp": "\t<?joinName?>が侵入しました\r",
+      "zh": "\t<?joinName?>已入侵。\r"
+    }
+  },
+  "2602304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?joinName?> summoned\r",
+      "jp": "\t狩人<?joinName?>が召喚されました\r",
+      "zh": "\t已召唤猎人<?joinName?>。\r"
+    }
+  },
+  "2602354": {
+    "NetworkMessage": {
+      "en": "\tHunter <?joinName?> summoned\r",
+      "jp": "\t狩人<?joinName?>が召喚されました\r",
+      "zh": "\t已召唤猎人<?joinName?>。\r"
+    }
+  },
+  "2610304": {
+    "NetworkMessage": {
+      "en": "\tWith their objective accomplished,\\nHunter <?leaveName?> returned to their world\r",
+      "jp": "\t目的を果たし、狩人<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t猎人<?leaveName?>达成目标，\\n已返回原本的世界。\r"
+    }
+  },
+  "2611000": {
+    "NetworkMessage": {
+      "en": "\tObjective accomplished.\\nReturning to your world.\r",
+      "jp": "\t目的を達成しました。元の世界に戻ります\r",
+      "zh": "\t已达成目标，将返回原本的世界。\r"
+    }
+  },
+  "2611010": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers accomplished their objective in a distant location.\\nReturning to your world.\r",
+      "jp": "\t遠い場所で、鉤指の主が目的を達成しました\\n元の世界に戻ります\r",
+      "zh": "\t勾指主人已在远方达成目标。\\n将返回原本的世界。\r"
+    }
+  },
+  "2611100": {
+    "NetworkMessage": {
+      "en": "\tHost of Fingers defeated.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒勾指主人，将返回原本的世界。\r"
+    }
+  },
+  "2611200": {
+    "NetworkMessage": {
+      "en": "\tHost of Fingers defeated.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒勾指主人，将返回原本的世界。\r"
+    }
+  },
+  "2611210": {
+    "NetworkMessage": {
+      "en": "\tHost of Fingers defeated.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒勾指主人，将返回原本的世界。\r"
+    }
+  },
+  "2611304": {
+    "NetworkMessage": {
+      "en": "\tInvader defeated.\\nReturning to your world.\r",
+      "jp": "\t侵入者を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒入侵者，将返回原本的世界。\r"
+    }
+  },
+  "2611409": {
+    "NetworkMessage": {
+      "en": "\tObjective accomplished.\\nReturning to your world.\r",
+      "jp": "\t目的を達成しました。元の世界に戻ります\r",
+      "zh": "\t已达成目标，将返回原本的世界。\r"
+    }
+  },
+  "2611410": {
+    "NetworkMessage": {
+      "en": "\tObjective accomplished.\\nReturning to your world.\r",
+      "jp": "\t目的を達成しました。元の世界に戻ります\r",
+      "zh": "\t已达成目标，将返回原本的世界。\r"
+    }
+  },
+  "2611411": {
+    "NetworkMessage": {
+      "en": "\tObjective accomplished.\\nReturning to your world.\r",
+      "jp": "\t目的を達成しました。元の世界に戻ります\r",
+      "zh": "\t已达成目标，将返回原本的世界。\r"
+    }
+  },
+  "2611412": {
+    "NetworkMessage": {
+      "en": "\tWhite Mask Varré defeated.\\nReturning to your world.\r",
+      "jp": "\t「白面のヴァレー」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“白面具”梵雷，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611413": {
+    "NetworkMessage": {
+      "en": "\tOld Knight Istvan defeated.\\nReturning to your world.\r",
+      "jp": "\t「古騎士、イシュトバーン」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“古老骑士”伊修托邦，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611414": {
+    "NetworkMessage": {
+      "en": "\tRileigh the Idle defeated.\\nReturning to your world.\r",
+      "jp": "\t「暮れなずむライリー」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“黄昏将尽”莱利，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611415": {
+    "NetworkMessage": {
+      "en": "\tJuno Hoslow, Knight of Blood defeated.\\nReturning to your world.\r",
+      "jp": "\t「血潮の騎士、ユーノ・ホスロー」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“血言骑士”尤诺·霍斯劳，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611416": {
+    "NetworkMessage": {
+      "en": "\tVargram the Raging Wolf and Errant Sorcerer Wilhelm defeated.\\nReturning to your world.\r",
+      "jp": "\t「狼の戦鬼、バルグラム」たちを倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“白狼战鬼”巴格莱姆一行人，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611417": {
+    "NetworkMessage": {
+      "en": "\tGreat Horned Tragoth defeated.\\nReturning to your world.\r",
+      "jp": "\t「大角のトラゴス」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“大角”忒拉格斯，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611418": {
+    "NetworkMessage": {
+      "en": "\tBloody Finger Ravenmount Assassin defeated.\\nReturning to your world.\r",
+      "jp": "\t「血の指、カラス山の凶手」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“血指”鸦山的杀手，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611419": {
+    "NetworkMessage": {
+      "en": "\tSorceress Sellen defeated.\\nReturning to your world.\r",
+      "jp": "\t「魔術師セレン」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒 魔法师瑟濂，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611420": {
+    "NetworkMessage": {
+      "en": "\tWitch-Hunter Jerren defeated.\\nReturning to your world.\r",
+      "jp": "\t「魔女狩り、ジェーレン」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“魔女猎人”杰廉，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611421": {
+    "NetworkMessage": {
+      "en": "\tMillicent's sisters defeated.\\nReturning to your world.\r",
+      "jp": "\tミリセントの姉妹たちを倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒 米莉森的姊妹，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611422": {
+    "NetworkMessage": {
+      "en": "\tMillicent defeated.\\nReturning to your world.\r",
+      "jp": "\t「ミリセント」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒 米莉森，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611423": {
+    "NetworkMessage": {
+      "en": "\tDefeated Ensha of the Royal Remains.\r",
+      "jp": "\t「王骸のエンシャ」を倒しました\r",
+      "zh": "\t已打倒“王骸”恩夏。\r"
+    }
+  },
+  "2611424": {
+    "NetworkMessage": {
+      "en": "\tMagnus the Beast Claw defeated.\\nReturning to your world.\r",
+      "jp": "\t「獣の爪、マグナス」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“兽爪”玛格纳斯，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611425": {
+    "NetworkMessage": {
+      "en": "\tNeedle Knight Leda and her allies defeated.\\nReturning to your world.\r",
+      "jp": "\t「針の騎士、レダ」と同志たちを倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“金针骑士”蕾妲与其同伴，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611426": {
+    "NetworkMessage": {
+      "en": "\tSir Ansbach defeated.\\nReturning to your world.\r",
+      "jp": "\t「老兵アンスバッハ」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒 老兵安帕赫，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611427": {
+    "NetworkMessage": {
+      "en": "\tNeedle Knight Leda defeated.\\nReturning to your world.\r",
+      "jp": "\t「針の騎士、レダ」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“金针骑士”蕾妲，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611428": {
+    "NetworkMessage": {
+      "en": "\tHornsent defeated.\\nReturning to your world.\r",
+      "jp": "\t「角人」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒 角人，\\n将返回原本的世界。\r"
+    }
+  },
+  "2611429": {
+    "NetworkMessage": {
+      "en": "\tNeedle Knight Leda defeated.\\nReturning to your world.\r",
+      "jp": "\t「針の騎士、レダ」を倒しました。元の世界に戻ります\r",
+      "zh": "\t已打倒“金针骑士”蕾妲，\\n将返回原本的世界。\r"
+    }
+  },
+  "2612304": {
+    "NetworkMessage": {
+      "en": "\tWith their objective accomplished,\\nHunter <?leaveName?> returned to their world\r",
+      "jp": "\t目的を果たし、狩人<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t猎人<?leaveName?>达成目标，\\n已返回原本的世界。\r"
+    }
+  },
+  "2620000": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?deadName?> has died\r",
+      "jp": "\t鉤指<?deadName?>が死亡しました\r",
+      "zh": "\t勾指<?deadName?>已死亡。\r"
+    }
+  },
+  "2620010": {
+    "NetworkMessage": {
+      "en": "\t<?deadName?> has died\r",
+      "jp": "\t<?deadName?>が死亡しました\r",
+      "zh": "\t<?deadName?>已死亡。\r"
+    }
+  },
+  "2620100": {
+    "NetworkMessage": {
+      "en": "\tDuelist <?deadName?> has died\r",
+      "jp": "\t闘士<?deadName?>が死亡しました\r",
+      "zh": "\t斗士<?deadName?>已死亡。\r"
+    }
+  },
+  "2620200": {
+    "NetworkMessage": {
+      "en": "\tBloody Finger <?deadName?> has died\r",
+      "jp": "\t血の指<?deadName?>が死亡しました\r",
+      "zh": "\t血指<?deadName?>已死亡。\r"
+    }
+  },
+  "2620210": {
+    "NetworkMessage": {
+      "en": "\tRecusant <?deadName?> has died\r",
+      "jp": "\t背律者<?deadName?>が死亡しました\r",
+      "zh": "\t叛律者<?deadName?>已死亡。\r"
+    }
+  },
+  "2620220": {
+    "NetworkMessage": {
+      "en": "\t<?deadName?> has died\r",
+      "jp": "\t<?deadName?>が死亡しました\r",
+      "zh": "\t<?deadName?>已死亡。\r"
+    }
+  },
+  "2620230": {
+    "NetworkMessage": {
+      "en": "\t<?deadName?> has died\r",
+      "jp": "\t<?deadName?>が死亡しました\r",
+      "zh": "\t<?deadName?>已死亡。\r"
+    }
+  },
+  "2620240": {
+    "NetworkMessage": {
+      "en": "\t<?deadName?> has died\r",
+      "jp": "\t<?deadName?>が死亡しました\r",
+      "zh": "\t<?deadName?>已死亡。\r"
+    }
+  },
+  "2620304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?deadName?> has died\r",
+      "jp": "\t狩人<?deadName?>が死亡しました\r",
+      "zh": "\t猎人<?deadName?>已死亡。\r"
+    }
+  },
+  "2620430": {
+    "NetworkMessage": {
+      "en": "\t<?roleName?> <?deadName?>  has been defeated \r",
+      "jp": "\t<?roleName?> <?deadName?>が撃破されました\r",
+      "zh": "\t<?roleName?> <?deadName?>已倒下。\r"
+    }
+  },
+  "2621000": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621100": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621200": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621210": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621304": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621409": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621410": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621411": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621412": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621413": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621414": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621415": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621416": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621417": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621418": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621419": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621420": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621421": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621422": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621423": {
+    "NetworkMessage": {
+      "en": "\tYou died\r",
+      "jp": "\tあなたは死亡しました\r",
+      "zh": "\t您已死亡。\r"
+    }
+  },
+  "2621424": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621425": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621426": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621427": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621428": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621429": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2621430": {
+    "NetworkMessage": {
+      "en": "\tYou have been defeated.\\nYou will revive and return to combat.\r",
+      "jp": "\tあなたは撃破されました\\n復活し、再び参戦します\r",
+      "zh": "\t您已倒下。\\n将复活，再次参战。\r"
+    }
+  },
+  "2622000": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?deadName?> has died\r",
+      "jp": "\t鉤指<?deadName?>が死亡しました\r",
+      "zh": "\t勾指<?deadName?>已死亡。\r"
+    }
+  },
+  "2622010": {
+    "NetworkMessage": {
+      "en": "\t<?deadName?> has died\r",
+      "jp": "\t<?deadName?>が死亡しました\r",
+      "zh": "\t<?deadName?>已死亡。\r"
+    }
+  },
+  "2622100": {
+    "NetworkMessage": {
+      "en": "\tDuelist <?deadName?> has died\r",
+      "jp": "\t闘士<?deadName?>が死亡しました\r",
+      "zh": "\t斗士<?deadName?>已死亡。\r"
+    }
+  },
+  "2622200": {
+    "NetworkMessage": {
+      "en": "\tBloody Finger <?deadName?> has died\r",
+      "jp": "\t血の指<?deadName?>が死亡しました\r",
+      "zh": "\t血指<?deadName?>已死亡。\r"
+    }
+  },
+  "2622210": {
+    "NetworkMessage": {
+      "en": "\tRecusant <?deadName?> has died\r",
+      "jp": "\t背律者<?deadName?>が死亡しました\r",
+      "zh": "\t叛律者<?deadName?>已死亡。\r"
+    }
+  },
+  "2622220": {
+    "NetworkMessage": {
+      "en": "\t<?deadName?> has died\r",
+      "jp": "\t<?deadName?>が死亡しました\r",
+      "zh": "\t<?deadName?>已死亡。\r"
+    }
+  },
+  "2622230": {
+    "NetworkMessage": {
+      "en": "\t<?deadName?> has died\r",
+      "jp": "\t<?deadName?>が死亡しました\r",
+      "zh": "\t<?deadName?>已死亡。\r"
+    }
+  },
+  "2622240": {
+    "NetworkMessage": {
+      "en": "\t<?deadName?> has died\r",
+      "jp": "\t<?deadName?>が死亡しました\r",
+      "zh": "\t<?deadName?>已死亡。\r"
+    }
+  },
+  "2622304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?deadName?> has died\r",
+      "jp": "\t狩人<?deadName?>が死亡しました\r",
+      "zh": "\t猎人<?deadName?>已死亡。\r"
+    }
+  },
+  "2622425": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has died.\\nReturning to world of host.\r",
+      "jp": "\t鉤指の主が死亡しました。主の世界に戻ります\r",
+      "zh": "\t勾指主人已死亡，将返回勾指主人的世界。\r"
+    }
+  },
+  "2630000": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?leaveName?> has returned to their world\r",
+      "jp": "\t鉤指<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t勾指<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2630010": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2630100": {
+    "NetworkMessage": {
+      "en": "\tDuelist <?leaveName?> has returned to their world\r",
+      "jp": "\t闘士<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t斗士<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2630200": {
+    "NetworkMessage": {
+      "en": "\tBloody Finger <?leaveName?> has returned to their world\r",
+      "jp": "\t血の指<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t血指<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2630210": {
+    "NetworkMessage": {
+      "en": "\tRecusant <?leaveName?> has returned to their world\r",
+      "jp": "\t背律者<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t叛律者<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2630220": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2630230": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2630240": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2630304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?leaveName?> has returned to their world\r",
+      "jp": "\t狩人<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t猎人<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2631000": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631100": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631200": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631210": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631304": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631409": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631410": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631411": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631412": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631413": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631414": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631415": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631416": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631417": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631418": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631419": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631420": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631421": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631422": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631424": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631425": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631426": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631427": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631428": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2631429": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2632000": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?leaveName?> has returned to their world\r",
+      "jp": "\t鉤指<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t勾指<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2632010": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2632100": {
+    "NetworkMessage": {
+      "en": "\tDuelist <?leaveName?> has returned to their world\r",
+      "jp": "\t闘士<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t斗士<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2632200": {
+    "NetworkMessage": {
+      "en": "\tBloody Finger <?leaveName?> has returned to their world\r",
+      "jp": "\t血の指<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t血指<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2632210": {
+    "NetworkMessage": {
+      "en": "\tRecusant <?leaveName?> has returned to their world\r",
+      "jp": "\t背律者<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t叛律者<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2632220": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2632230": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2632240": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2632304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?leaveName?> has returned to their world\r",
+      "jp": "\t狩人<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t猎人<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2632425": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers returned to their world. Returning to world of host.\r",
+      "jp": "\t鉤指の主が元の世界に戻りました。主の世界に戻ります\r",
+      "zh": "\t勾指主人已返回原本的世界，\\n将返回勾指主人的世界。\r"
+    }
+  },
+  "2640000": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?leaveName?> was sent back to their world\r",
+      "jp": "\t鉤指<?leaveName?>を元の世界に送還しました\r",
+      "zh": "\t已将勾指<?leaveName?>遣返至原本的世界。\r"
+    }
+  },
+  "2640010": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> was sent back to their world\r",
+      "jp": "\t<?leaveName?>を元の世界に送還しました\r",
+      "zh": "\t已将<?leaveName?>遣返至原本的世界。\r"
+    }
+  },
+  "2640304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?leaveName?> was sent back to their world\r",
+      "jp": "\t狩人<?leaveName?>を元の世界に送還しました\r",
+      "zh": "\t已将猎人<?leaveName?>遣返至原本的世界。\r"
+    }
+  },
+  "2640305": {
+    "NetworkMessage": {
+      "en": "\tDuelist <?leaveName?> was sent back to their world\r",
+      "jp": "\t闘士<?leaveName?>を元の世界に送還しました\r",
+      "zh": "\t已将斗士<?leaveName?>遣返至原本的世界。\r"
+    }
+  },
+  "2640425": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?leaveName?> was sent back to their world\r",
+      "jp": "\t鉤指<?leaveName?>を元の世界に送還しました\r",
+      "zh": "\t已将勾指<?leaveName?>遣返至原本的世界。\r"
+    }
+  },
+  "2641000": {
+    "NetworkMessage": {
+      "en": "\tSent home by the Host of Fingers.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主に送還されました。元の世界に戻ります\r",
+      "zh": "\t受勾指主人遣返，将返回原本的世界。\r"
+    }
+  },
+  "2641304": {
+    "NetworkMessage": {
+      "en": "\tSent home by the Host of Fingers.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主に送還されました。元の世界に戻ります\r",
+      "zh": "\t受勾指主人遣返，将返回原本的世界。\r"
+    }
+  },
+  "2641305": {
+    "NetworkMessage": {
+      "en": "\tSent home by the Host of Fingers.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主に送還されました。元の世界に戻ります\r",
+      "zh": "\t受勾指主人遣返，将返回原本的世界。\r"
+    }
+  },
+  "2641425": {
+    "NetworkMessage": {
+      "en": "\tSent home by the Host of Fingers.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主に送還されました。元の世界に戻ります\r",
+      "zh": "\t受勾指主人遣返，将返回原本的世界。\r"
+    }
+  },
+  "2642000": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?leaveName?> has been sent back to their world\r",
+      "jp": "\t鉤指<?leaveName?>が元の世界に送還されました\r",
+      "zh": "\t勾指<?leaveName?>已被遣返至原本的世界。\r"
+    }
+  },
+  "2642010": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has been sent back to their world\r",
+      "jp": "\t<?leaveName?>が元の世界に送還されました\r",
+      "zh": "\t<?leaveName?>已被遣返至原本的世界。\r"
+    }
+  },
+  "2642304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?leaveName?> has been sent back to their world\r",
+      "jp": "\t狩人<?leaveName?>が元の世界に送還されました\r",
+      "zh": "\t猎人<?leaveName?>已被遣返至原本的世界。\r"
+    }
+  },
+  "2642305": {
+    "NetworkMessage": {
+      "en": "\tDuelist <?leaveName?> has been sent back to their world\r",
+      "jp": "\t闘士<?leaveName?>が元の世界に送還されました\r",
+      "zh": "\t斗士<?leaveName?>已被遣返至原本的世界。\r"
+    }
+  },
+  "2642425": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?leaveName?> has been sent back to their world\r",
+      "jp": "\t鉤指<?leaveName?>が元の世界に送還されました\r",
+      "zh": "\t勾指<?leaveName?>已被遣返至原本的世界。\r"
+    }
+  },
+  "2650430": {
+    "NetworkMessage": {
+      "en": "\tYou have been defeated.\\nYou will revive and return to combat.\r",
+      "jp": "\tあなたは撃破されました\\n復活し、再び参戦します\r",
+      "zh": "\t您已倒下。\\n将复活，再次参战。\r"
+    }
+  },
+  "2651000": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has died.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主が死亡しました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2651304": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has died.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主が死亡しました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2651420": {
+    "NetworkMessage": {
+      "en": "\tSorceress Sellen has died.\\nReturning to your world.\r",
+      "jp": "\t「魔術師セレン」が死亡しました。元の世界に戻ります\r",
+      "zh": "\t魔法师瑟濂 已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2651421": {
+    "NetworkMessage": {
+      "en": "\tMillicent has died.\\nReturning to your world.\r",
+      "jp": "\t「ミリセント」が死亡しました。元の世界に戻ります\r",
+      "zh": "\t米莉森 已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2651430": {
+    "NetworkMessage": {
+      "en": "\t<?roleName?> <?deadName?>  has been defeated \r",
+      "jp": "\t<?roleName?><?deadName?>が撃破されました\r",
+      "zh": "\t<?roleName?><?deadName?>已倒下。\r"
+    }
+  },
+  "2661000": {
+    "NetworkMessage": {
+      "en": "\tYou may now challenge the area boss\r",
+      "jp": "\tエリアボスに挑めるようになりました\r",
+      "zh": "\t已能挑战区域头目。\r"
+    }
+  },
+  "2661100": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has begun fighting the area boss.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主がエリアボスと戦いはじめました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已和区域头目展开战斗，\\n将返回原本的世界。\r"
+    }
+  },
+  "2661200": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has begun fighting the area boss.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主がエリアボスと戦いはじめました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已和区域头目展开战斗，\\n将返回原本的世界。\r"
+    }
+  },
+  "2661205": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has begun fighting the area boss.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主がエリアボスと戦いはじめました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已和区域头目展开战斗，\\n将返回原本的世界。\r"
+    }
+  },
+  "2661210": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has accomplished their objective.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主が目的を達成しました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已达成目标。\\n将返回原本的世界。\r"
+    }
+  },
+  "2661220": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has accomplished their objective.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主が目的を達成しました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已达成目标。\\n将返回原本的世界。\r"
+    }
+  },
+  "2661225": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has accomplished their objective.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主が目的を達成しました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已达成目标。\\n将返回原本的世界。\r"
+    }
+  },
+  "2661304": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has begun fighting the area boss.\\nReturning to your world.\r",
+      "jp": "\t鉤指の主がエリアボスと戦いはじめました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已和区域头目展开战斗，\\n将返回原本的世界。\r"
+    }
+  },
+  "2670304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?leaveName?> has returned to their world\r",
+      "jp": "\t狩人<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t猎人<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2672304": {
+    "NetworkMessage": {
+      "en": "\tHunter <?leaveName?> has returned to their world\r",
+      "jp": "\t狩人<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t猎人<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2681100": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has left the area. Returning to your world.\r",
+      "jp": "\t鉤指の主が、このエリアを離れました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已经离开此区域，将返回原本的世界。\r"
+    }
+  },
+  "2691425": {
+    "NetworkMessage": {
+      "en": "\tYou died. Returning to your world.\r",
+      "jp": "\tあなたは死亡しました。元の世界に戻ります\r",
+      "zh": "\t您已死亡，将返回原本的世界。\r"
+    }
+  },
+  "2692425": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?deadName?> has died\r",
+      "jp": "\t鉤指<?deadName?>が死亡しました\r",
+      "zh": "\t勾指<?deadName?>已死亡。\r"
+    }
+  },
+  "2693425": {
+    "NetworkMessage": {
+      "en": "\tReturning to your world\r",
+      "jp": "\t元の世界に戻ります\r",
+      "zh": "\t将返回原本的世界。\r"
+    }
+  },
+  "2694425": {
+    "NetworkMessage": {
+      "en": "\tFurled Finger <?leaveName?> has returned to their world\r",
+      "jp": "\t鉤指<?leaveName?>が元の世界に戻りました\r",
+      "zh": "\t勾指<?leaveName?>已返回原本的世界。\r"
+    }
+  },
+  "2700430": {
+    "NetworkMessage": {
+      "en": "\t<?roleName?> <?leaveName?> has left combat\r",
+      "jp": "\t<?roleName?><?leaveName?>が闘技から離脱しました\r",
+      "zh": "\t<?roleName?><?leaveName?>已退出竞技。\r"
+    }
+  },
+  "2701000": {
+    "NetworkMessage": {
+      "en": "\tA connection error occurred.\\nReturning to your world.\r",
+      "jp": "\t接続に問題が発生しました。元の世界に戻ります\r",
+      "zh": "\t发生联机问题，将返回原本的世界。\r"
+    }
+  },
+  "2701100": {
+    "NetworkMessage": {
+      "en": "\tA connection error occurred.\\nReturning to your world.\r",
+      "jp": "\t接続に問題が発生しました。元の世界に戻ります\r",
+      "zh": "\t发生联机问题，将返回原本的世界。\r"
+    }
+  },
+  "2701200": {
+    "NetworkMessage": {
+      "en": "\tA connection error occurred.\\nReturning to your world.\r",
+      "jp": "\t接続に問題が発生しました。元の世界に戻ります\r",
+      "zh": "\t发生联机问题，将返回原本的世界。\r"
+    }
+  },
+  "2701210": {
+    "NetworkMessage": {
+      "en": "\tA connection error occurred.\\nReturning to your world.\r",
+      "jp": "\t接続に問題が発生しました。元の世界に戻ります\r",
+      "zh": "\t发生联机问题，将返回原本的世界。\r"
+    }
+  },
+  "2701304": {
+    "NetworkMessage": {
+      "en": "\tA connection error occurred.\\nReturning to your world.\r",
+      "jp": "\t接続に問題が発生しました。元の世界に戻ります\r",
+      "zh": "\t发生联机问题，将返回原本的世界。\r"
+    }
+  },
+  "2701430": {
+    "NetworkMessage": {
+      "en": "\tA connection error occurred.\\nLeaving combat.\r",
+      "jp": "\t接続に問題が発生しました\\n闘技から離脱します\r",
+      "zh": "\t发生联机问题，将退出竞技。\r"
+    }
+  },
+  "2702430": {
+    "NetworkMessage": {
+      "en": "\t<?roleName?> <?leaveName?> has left combat\r",
+      "jp": "\t<?roleName?><?leaveName?>が闘技から離脱しました\r",
+      "zh": "\t<?roleName?><?leaveName?>已退出竞技。\r"
+    }
+  },
+  "2712200": {
+    "NetworkMessage": {
+      "en": "\tBloody Finger <?deadName?> defeated.\\nObjective accomplished. Returning to your world.\r",
+      "jp": "\t血の指<?deadName?>を倒しました\\n目的を果たし、元の世界に戻ります\r",
+      "zh": "\t已打倒血指<?deadName?>。\\n目标达成，将返回原本的世界。\r"
+    }
+  },
+  "2712210": {
+    "NetworkMessage": {
+      "en": "\tRecusant <?deadName?> defeated.\\nObjective accomplished. Returning to your world.\r",
+      "jp": "\t背律者<?deadName?>を倒しました\\n目的を果たし、元の世界に戻ります\r",
+      "zh": "\t已打倒叛律者<?deadName?>。\\n目标达成，将返回原本的世界。\r"
+    }
+  },
+  "2712220": {
+    "NetworkMessage": {
+      "en": "\tDefeated <?deadName?>.\\nObjective accomplished. Returning to your world.\r",
+      "jp": "\t<?deadName?>を倒しました\\n目的を果たし、元の世界に戻ります\r",
+      "zh": "\t已打倒<?deadName?>。\\n目标达成，将返回原本的世界。\r"
+    }
+  },
+  "2712230": {
+    "NetworkMessage": {
+      "en": "\tDefeated <?deadName?>.\\nObjective accomplished. Returning to your world.\r",
+      "jp": "\t<?deadName?>を倒しました\\n目的を果たし、元の世界に戻ります\r",
+      "zh": "\t已打倒<?deadName?>。\\n目标达成，将返回原本的世界。\r"
+    }
+  },
+  "2712240": {
+    "NetworkMessage": {
+      "en": "\tDefeated <?deadName?>.\\nObjective accomplished. Returning to your world.\r",
+      "jp": "\t<?deadName?>を倒しました\\n目的を果たし、元の世界に戻ります\r",
+      "zh": "\t已打倒<?deadName?>。\\n目标达成，将返回原本的世界。\r"
+    }
+  },
+  "2722200": {
+    "NetworkMessage": {
+      "en": "\tBloody Finger <?leaveName?> has returned to their world.\\nObjective accomplished. Returning to your world.\r",
+      "jp": "\t血の指<?leaveName?>が元の世界に戻りました\\n元の世界に戻ります\r",
+      "zh": "\t血指<?leaveName?>已返回原本的世界。\\n将返回原本的世界。\r"
+    }
+  },
+  "2722210": {
+    "NetworkMessage": {
+      "en": "\tRecusant <?leaveName?> has returned to their world.\\nObjective accomplished. Returning to your world.\r",
+      "jp": "\t背律者<?leaveName?>が元の世界に戻りました\\n元の世界に戻ります\r",
+      "zh": "\t叛律者<?leaveName?>已返回原本的世界。\\n将返回原本的世界。\r"
+    }
+  },
+  "2722220": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world.\\nReturning to your world.\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\\n元の世界に戻ります\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\\n将返回原本的世界。\r"
+    }
+  },
+  "2722230": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world.\\nReturning to your world.\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\\n元の世界に戻ります\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\\n将返回原本的世界。\r"
+    }
+  },
+  "2722240": {
+    "NetworkMessage": {
+      "en": "\t<?leaveName?> has returned to their world.\\nReturning to your world.\r",
+      "jp": "\t<?leaveName?>が元の世界に戻りました\\n元の世界に戻ります\r",
+      "zh": "\t<?leaveName?>已返回原本的世界。\\n将返回原本的世界。\r"
+    }
+  },
+  "2731430": {
+    "NetworkMessage": {
+      "en": "\t<?roleName?><?deadName?> defeated\r",
+      "jp": "\t<?roleName?><?deadName?>を撃破しました\r",
+      "zh": "\t已击倒<?roleName?><?deadName?>。\r"
+    }
+  },
+  "2741000": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has left the area. Returning to your world.\r",
+      "jp": "\t鉤指の主が、このエリアを離れました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已经离开此区域，将返回原本的世界。\r"
+    }
+  },
+  "2741100": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has left the area. Returning to your world.\r",
+      "jp": "\t鉤指の主が、このエリアを離れました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已经离开此区域，将返回原本的世界。\r"
+    }
+  },
+  "2741200": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has left the area. Returning to your world.\r",
+      "jp": "\t鉤指の主が、このエリアを離れました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已经离开此区域，将返回原本的世界。\r"
+    }
+  },
+  "2741210": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has left the area. Returning to your world.\r",
+      "jp": "\t鉤指の主が、このエリアを離れました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已经离开此区域，将返回原本的世界。\r"
+    }
+  },
+  "2741304": {
+    "NetworkMessage": {
+      "en": "\tThe Host of Fingers has left the area. Returning to your world.\r",
+      "jp": "\t鉤指の主が、このエリアを離れました。元の世界に戻ります\r",
+      "zh": "\t勾指主人已经离开此区域，将返回原本的世界。\r"
+    }
+  },
+  "2751413": {
+    "NetworkMessage": {
+      "en": "\tUnable to commence combat.\\nLeaving combat.\r",
+      "jp": "\t闘技を開始できませんでした\\n闘技から離脱します\r",
+      "zh": "\t无法开始竞技，将退出竞技。\r"
+    }
+  },
+  "2760413": {
+    "NetworkMessage": {
+      "en": "\tAll combatants have left combat.\\nLeaving combat.\r",
+      "jp": "\t全ての闘士が闘技から離脱しました\\n闘技から離脱します\r",
+      "zh": "\t所有斗士已退出竞技，\\n将退出竞技。\r"
+    }
+  },
+  "2920000": {
+    "NetworkMessage": {
+      "en": "\tYou are beyond the boundaries of the\\nmultiplayer area. Returning inside.\r",
+      "jp": "\tマルチプレイ領域の外に出ています\\n領域内に移動します\r",
+      "zh": "\t已离开多人联机游玩的活动范围，\\n将自动移往范围之内。\r"
+    }
+  },
+  "3000000": {
+    "NetworkMessage": {
+      "en": "\tMessage was appraised\r",
+      "jp": "\tメッセージが評価されました\r",
+      "zh": "\t您写下的讯息收到好评。\r"
+    }
+  },
+  "3000001": {
+    "NetworkMessage": {
+      "en": "\tFailed to create message due to network error\r",
+      "jp": "\tネットワークエラーのためメッセージの作成に失敗しました\r",
+      "zh": "\t互联网联机错误，讯息建立失败。\r"
+    }
+  },
+  "3000100": {
+    "NetworkMessage": {
+      "en": "\tThis summoning pool is now functional\r",
+      "jp": "\tこのサイン溜まりが有効になりました\r",
+      "zh": "\t已可使用此记号聚集处。\r"
+    }
+  },
+  "3000200": {
+    "NetworkMessage": {
+      "en": "\t<?codenameIcon?><?codenamePCName?> defeated a shardbearer!\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>が、破片の君主を倒しました！\r",
+      "zh": "\t<?codenameIcon?><?codenamePCName?>打倒碎片君王了！\r"
+    }
+  },
+  "3000201": {
+    "NetworkMessage": {
+      "en": "\tSomeone in the <?codenameIcon?> group\\ndefeated a shardbearer!\r",
+      "jp": "\t<?codenameIcon?>グループの誰かが、破片の君主を倒しました！\r",
+      "zh": "\t<?codenameIcon?>的群组中，有人打倒碎片君王了！\r"
+    }
+  },
+  "3000202": {
+    "NetworkMessage": {
+      "en": "\tSomeone in your group has accomplished something remarkable!\r",
+      "jp": "\tグループ内の誰かが、偉業を達成しました\r",
+      "zh": "\t群组之中，有人成就了丰功伟业。\r"
+    }
+  },
+  "3000210": {
+    "NetworkMessage": {
+      "en": "\t<?codenameIcon?><?codenamePCName?> has become the Elden Lord\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>が、エルデの王となりました\r",
+      "zh": "\t<?codenameIcon?><?codenamePCName?>当上了艾尔登之王。\r"
+    }
+  },
+  "3000211": {
+    "NetworkMessage": {
+      "en": "\tSomeone in the <?codenameIcon?> group has become the Elden Lord\r",
+      "jp": "\t<?codenameIcon?>グループの誰かが、エルデの王となりました\r",
+      "zh": "\t<?codenameIcon?>的群组中，有人当上了艾尔登之王。\r"
+    }
+  },
+  "3000220": {
+    "NetworkMessage": {
+      "en": "\t<?codenameIcon?><?codenamePCName?> has become the Elden Lord\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>が、エルデの王となりました\r",
+      "zh": "\t<?codenameIcon?><?codenamePCName?>当上了艾尔登之王。\r"
+    }
+  },
+  "3000221": {
+    "NetworkMessage": {
+      "en": "\tSomeone in the <?codenameIcon?> group has become the Elden Lord\r",
+      "jp": "\t<?codenameIcon?>グループの誰かが、エルデの王となりました\r",
+      "zh": "\t<?codenameIcon?>的群组中，有人当上了艾尔登之王。\r"
+    }
+  },
+  "3000230": {
+    "NetworkMessage": {
+      "en": "\t<?codenameIcon?><?codenamePCName?> has become the Elden Lord\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>が、エルデの王となりました\r",
+      "zh": "\t<?codenameIcon?><?codenamePCName?>当上了艾尔登之王。\r"
+    }
+  },
+  "3000231": {
+    "NetworkMessage": {
+      "en": "\tSomeone in the <?codenameIcon?> group has become the Elden Lord\r",
+      "jp": "\t<?codenameIcon?>グループの誰かが、エルデの王となりました\r",
+      "zh": "\t<?codenameIcon?>的群组中，有人当上了艾尔登之王。\r"
+    }
+  },
+  "3000240": {
+    "NetworkMessage": {
+      "en": "\t<?codenameIcon?><?codenamePCName?> has become the Elden Lord\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>が、エルデの王となりました\r",
+      "zh": "\t<?codenameIcon?><?codenamePCName?>当上了艾尔登之王。\r"
+    }
+  },
+  "3000241": {
+    "NetworkMessage": {
+      "en": "\tSomeone in the <?codenameIcon?> group has become the Elden Lord\r",
+      "jp": "\t<?codenameIcon?>グループの誰かが、エルデの王となりました\r",
+      "zh": "\t<?codenameIcon?>的群组中，有人当上了艾尔登之王。\r"
+    }
+  },
+  "3000250": {
+    "NetworkMessage": {
+      "en": "\t<?codenameIcon?><?codenamePCName?> has become a Lord\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>が、王となりました\r",
+      "zh": "\t<?codenameIcon?><?codenamePCName?>当上了王。\r"
+    }
+  },
+  "3000251": {
+    "NetworkMessage": {
+      "en": "\tSomeone in the <?codenameIcon?> group has become a Lord\r",
+      "jp": "\t<?codenameIcon?>グループの誰かが、王となりました\r",
+      "zh": "\t<?codenameIcon?>的群组中，有人当上了王。\r"
+    }
+  },
+  "3000260": {
+    "NetworkMessage": {
+      "en": "\t<?codenameIcon?><?codenamePCName?> has become a Lord\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>が、王となりました\r",
+      "zh": "\t<?codenameIcon?><?codenamePCName?>当上了王。\r"
+    }
+  },
+  "3000261": {
+    "NetworkMessage": {
+      "en": "\tSomeone in the <?codenameIcon?> group has become a Lord\r",
+      "jp": "\t<?codenameIcon?>グループの誰かが、王となりました\r",
+      "zh": "\t<?codenameIcon?>的群组中，有人当上了王。\r"
+    }
+  },
+  "3000270": {
+    "NetworkMessage": {
+      "en": "\t<?codenameIcon?><?codenamePCName?> has become a Lord\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>が、王となりました\r",
+      "zh": "\t<?codenameIcon?><?codenamePCName?>当上了王。\r"
+    }
+  },
+  "3000271": {
+    "NetworkMessage": {
+      "en": "\tSomeone in the <?codenameIcon?> group has become a Lord\r",
+      "jp": "\t<?codenameIcon?>グループの誰かが、王となりました\r",
+      "zh": "\t<?codenameIcon?>的群组中，有人当上了王。\r"
+    }
+  },
+  "3000280": {
+    "NetworkMessage": {
+      "en": "\t<?codenameIcon?><?codenamePCName?> has become a Lord\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>が、王となりました\r",
+      "zh": "\t<?codenameIcon?><?codenamePCName?>当上了王。\r"
+    }
+  },
+  "3000281": {
+    "NetworkMessage": {
+      "en": "\tSomeone in the <?codenameIcon?> group has become a Lord\r",
+      "jp": "\t<?codenameIcon?>グループの誰かが、王となりました\r",
+      "zh": "\t<?codenameIcon?>的群组中，有人当上了王。\r"
+    }
+  },
+  "4080100": {
+    "NetworkMessage": {
+      "en": "\tSummoning cooperator...\r",
+      "jp": "\t協力者を召喚しています\r",
+      "zh": "\t正在召唤协助者。\r"
+    }
+  },
+  "4080110": {
+    "NetworkMessage": {
+      "en": "\tSummoning another cooperator...\r",
+      "jp": "\t他の協力者が召喚されています\r",
+      "zh": "\t正在召唤其他协助者。\r"
+    }
+  },
+  "4080800": {
+    "NetworkMessage": {
+      "en": "\tDrake Warrior Igon summoned as a cooperator\r",
+      "jp": "\t「竜の戦士、エーゴン」を協力者として召喚しました\r",
+      "zh": "\t已召唤协助者“龙战士”埃贡。\r"
+    }
+  },
+  "4080801": {
+    "NetworkMessage": {
+      "en": "\tDrake Warrior Igon summoned as a cooperator\r",
+      "jp": "\t「竜の戦士、エーゴン」が協力者として召喚されました\r",
+      "zh": "\t已召唤协助者“龙战士”埃贡。\r"
+    }
+  },
+  "4080802": {
+    "NetworkMessage": {
+      "en": "\tDrake Warrior Igon has died\r",
+      "jp": "\t「竜の戦士、エーゴン」が死亡しました　\r",
+      "zh": "\t“龙战士”埃贡 已死亡。\r"
+    }
+  },
+  "4080810": {
+    "NetworkMessage": {
+      "en": "\tThiollier summoned as a cooperator\r",
+      "jp": "\t「ティエリエ」を協力者として召喚しました\r",
+      "zh": "\t已召唤协助者 休里耶。\r"
+    }
+  },
+  "4080811": {
+    "NetworkMessage": {
+      "en": "\tThiollier summoned as a cooperator\r",
+      "jp": "\t「ティエリエ」が協力者として召喚されました\r",
+      "zh": "\t已召唤协助者 休里耶。\r"
+    }
+  },
+  "4080812": {
+    "NetworkMessage": {
+      "en": "\tThiollier has died\r",
+      "jp": "\t「ティエリエ」が死亡しました　\r",
+      "zh": "\t休里耶 已死亡。\r"
+    }
+  },
+  "4080820": {
+    "NetworkMessage": {
+      "en": "\tInvaded by Thiollier!\r",
+      "jp": "\t「ティエリエ」に侵入されました！\r",
+      "zh": "\t被 休里耶 入侵了！\r"
+    }
+  },
+  "4080822": {
+    "NetworkMessage": {
+      "en": "\tThiollier has died\r",
+      "jp": "\t「ティエリエ」が死亡しました\r",
+      "zh": "\t休里耶 已死亡。\r"
+    }
+  },
+  "4080830": {
+    "NetworkMessage": {
+      "en": "\tInvaded by Swordhand of Night Jolán!\r",
+      "jp": "\t「夜の剣士、ヨラーン」に侵入されました！\r",
+      "zh": "\t被“黑夜剑士”约兰 入侵了！\r"
+    }
+  },
+  "4080832": {
+    "NetworkMessage": {
+      "en": "\tSwordhand of Night Jolán has died\r",
+      "jp": "\t「夜の剣士、ヨラーン」が死亡しました\r",
+      "zh": "\t“黑夜剑士”约兰 已死亡。\r"
+    }
+  },
+  "4080840": {
+    "NetworkMessage": {
+      "en": "\tPureblood Knight Ansbach summoned as a cooperator\r",
+      "jp": "\t「純血騎士、アンスバッハ」を協力者として召喚しました\r",
+      "zh": "\t已召唤协助者“纯血骑士”安帕赫。\r"
+    }
+  },
+  "4080841": {
+    "NetworkMessage": {
+      "en": "\tPureblood Knight Ansbach summoned as a cooperator\r",
+      "jp": "\t「純血騎士、アンスバッハ」が協力者として召喚されました\r",
+      "zh": "\t已召唤协助者“纯血骑士”安帕赫。\r"
+    }
+  },
+  "4080842": {
+    "NetworkMessage": {
+      "en": "\tPureblood Knight Ansbach has died\r",
+      "jp": "\t「純血騎士、アンスバッハ」が死亡しました　\r",
+      "zh": "\t“纯血骑士”安帕赫 已死亡。\r"
+    }
+  },
+  "4080843": {
+    "NetworkMessage": {
+      "en": "\tPureblood Knight Ansbach will be summoned as a cooperator at the appropriate time\r",
+      "jp": "\t「純血騎士、アンスバッハ」は、後ほど協力者として召喚されます\r",
+      "zh": "\t将于稍后召唤协助者“纯血骑士”安帕赫。\r"
+    }
+  },
+  "4080850": {
+    "NetworkMessage": {
+      "en": "\tThiollier summoned as a cooperator\r",
+      "jp": "\t「ティエリエ」を協力者として召喚しました\r",
+      "zh": "\t已召唤协助者 休里耶。\r"
+    }
+  },
+  "4080851": {
+    "NetworkMessage": {
+      "en": "\tThiollier summoned as a cooperator\r",
+      "jp": "\t「ティエリエ」が協力者として召喚されました\r",
+      "zh": "\t已召唤协助者 休里耶。\r"
+    }
+  },
+  "4080852": {
+    "NetworkMessage": {
+      "en": "\tThiollier has died\r",
+      "jp": "\t「ティエリエ」が死亡しました　\r",
+      "zh": "\t休里耶 已死亡。\r"
+    }
+  },
+  "4080853": {
+    "NetworkMessage": {
+      "en": "\tThiollier will be summoned as a cooperator at the appropriate time\r",
+      "jp": "\t「ティエリエ」は、後ほど協力者として召喚されます\r",
+      "zh": "\t将于稍后召唤协助者 休里耶。\r"
+    }
+  },
+  "4080860": {
+    "NetworkMessage": {
+      "en": "\tSanguine Noble Nataan summoned as a cooperator\r",
+      "jp": "\t「血の貴族、ナタン」を協力者として召喚しました\r",
+      "zh": "\t已召唤协助者“鲜血贵族”奈坦。\r"
+    }
+  },
+  "4080861": {
+    "NetworkMessage": {
+      "en": "\tSanguine Noble Nataan summoned as a cooperator\r",
+      "jp": "\t「血の貴族、ナタン」が協力者として召喚されました\r",
+      "zh": "\t已召唤协助者“鲜血贵族”奈坦。\r"
+    }
+  },
+  "4080862": {
+    "NetworkMessage": {
+      "en": "\tSanguine Noble Nataan has died\r",
+      "jp": "\t「血の貴族、ナタン」が死亡しました　\r",
+      "zh": "\t“鲜血贵族”奈坦 已死亡。\r"
+    }
+  },
+  "4080863": {
+    "NetworkMessage": {
+      "en": "\tSanguine Noble Nataan will be summoned as a cooperator at the appropriate time\r",
+      "jp": "\t「血の貴族、ナタン」は、後ほど協力者として召喚されます\r",
+      "zh": "\t将于稍后召唤协助者“鲜血贵族”奈坦。\r"
+    }
+  },
+  "4080870": {
+    "NetworkMessage": {
+      "en": "\tHornsent summoned as a cooperator\r",
+      "jp": "\t「角人」を協力者として召喚しました\r",
+      "zh": "\t已召唤协助者 角人。\r"
+    }
+  },
+  "4080871": {
+    "NetworkMessage": {
+      "en": "\tHornsent summoned as a cooperator\r",
+      "jp": "\t「角人」が協力者として召喚されました\r",
+      "zh": "\t已召唤协助者 角人。\r"
+    }
+  },
+  "4080872": {
+    "NetworkMessage": {
+      "en": "\tHornsent has died\r",
+      "jp": "\t「角人」が死亡しました\r",
+      "zh": "\t角人 已死亡。\r"
+    }
+  },
+  "4080880": {
+    "NetworkMessage": {
+      "en": "\tSwordhand of Night, Jolán summoned as a cooperator\r",
+      "jp": "\t「夜の剣士、ヨラーン」を協力者として召喚しました\r",
+      "zh": "\t已召唤协助者“黑夜剑士”约兰。\r"
+    }
+  },
+  "4080881": {
+    "NetworkMessage": {
+      "en": "\tSwordhand of Night, Jolán summoned as a cooperator\r",
+      "jp": "\t「夜の剣士、ヨラーン」が協力者として召喚されました\r",
+      "zh": "\t已召唤协助者“黑夜剑士”约兰。\r"
+    }
+  },
+  "4080882": {
+    "NetworkMessage": {
+      "en": "\tSwordhand of Night, Jolán has died\r",
+      "jp": "\t「夜の剣士、ヨラーン」が死亡しました\r",
+      "zh": "\t“黑夜剑士”约兰 已死亡。\r"
+    }
+  },
+  "4080890": {
+    "NetworkMessage": {
+      "en": "\tHornsent summoned as an adversary\r",
+      "jp": "\t「角人」が敵対者として召喚されました！\r",
+      "zh": "\t敌对者 角人 被召唤了！\r"
+    }
+  },
+  "4080892": {
+    "NetworkMessage": {
+      "en": "\tHornsent has died\r",
+      "jp": "\t「角人」が死亡しました\r",
+      "zh": "\t角人 已死亡。\r"
+    }
+  },
+  "4080900": {
+    "NetworkMessage": {
+      "en": "\tMoore summoned as an adversary\r",
+      "jp": "\t「ムーア」が敵対者として召喚されました！\r",
+      "zh": "\t敌对者 穆尔 被召唤了！\r"
+    }
+  },
+  "4080902": {
+    "NetworkMessage": {
+      "en": "\tMoore has died\r",
+      "jp": "\t「ムーア」が死亡しました\r",
+      "zh": "\t穆尔 已死亡。\r"
+    }
+  },
+  "4080910": {
+    "NetworkMessage": {
+      "en": "\tRedmane Freyja summoned as an adversary\r",
+      "jp": "\t「赤獅子、フレイヤ」が敵対者として召喚されました！\r",
+      "zh": "\t敌对者“红狮子”弗蕾亚 被召唤了！\r"
+    }
+  },
+  "4080912": {
+    "NetworkMessage": {
+      "en": "\tRedmane Freyja has died\r",
+      "jp": "\t「赤獅子、フレイヤ」が死亡しました\r",
+      "zh": "\t“红狮子”弗蕾亚 已死亡。\r"
+    }
+  },
+  "4080920": {
+    "NetworkMessage": {
+      "en": "\tNeedle Knight Leda summoned as an adversary\r",
+      "jp": "\t「針の騎士、レダ」が敵対者として召喚されました！\r",
+      "zh": "\t敌对者“金针骑士”蕾妲 被召唤了！\r"
+    }
+  },
+  "4080922": {
+    "NetworkMessage": {
+      "en": "\tNeedle Knight Leda has died\r",
+      "jp": "\t「針の騎士、レダ」が死亡しました\r",
+      "zh": "\t“金针骑士”蕾妲 已死亡。\r"
+    }
+  },
+  "4080930": {
+    "NetworkMessage": {
+      "en": "\tDryleaf Dane summoned as an adversary\r",
+      "jp": "\t「落葉のダン」が敵対者として召喚されました！\r",
+      "zh": "\t敌对者“落叶”丹恩 被召唤了！\r"
+    }
+  },
+  "4080932": {
+    "NetworkMessage": {
+      "en": "\tDryleaf Dane has died\r",
+      "jp": "\t「落葉のダン」が死亡しました\r",
+      "zh": "\t“落叶”丹恩 已死亡。\r"
+    }
+  },
+  "": { "NetworkMessage": { "en": "", "jp": "", "zh": "" } }
+}

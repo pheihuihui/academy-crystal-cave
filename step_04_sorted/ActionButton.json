@@ -1,0 +1,1601 @@
+{
+  "1000": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "1800": {
+    "ActionButtonText": {
+      "en": "\tTouch grace\r",
+      "jp": "\t祝福に触れる\r",
+      "zh": "\t触碰赐福\r"
+    }
+  },
+  "1810": {
+    "ActionButtonText": {
+      "en": "\tRest at site of grace\r",
+      "jp": "\t祝福で休む\r",
+      "zh": "\t在赐福休息\r"
+    }
+  },
+  "1830": {
+    "ActionButtonText": {
+      "en": "\tRest at table of lost grace\r",
+      "jp": "\t大祝福で休む\r",
+      "zh": "\t在大赐福休息\r"
+    }
+  },
+  "2000": {
+    "ActionButtonText": {
+      "en": "\tPick up item\r",
+      "jp": "\tアイテムを拾う\r",
+      "zh": "\t捡拾道具\r"
+    }
+  },
+  "2010": {
+    "ActionButtonText": {
+      "en": "\tPillage corpse\r",
+      "jp": "\t死体をあさる\r",
+      "zh": "\t搜刮尸体\r"
+    }
+  },
+  "2020": {
+    "ActionButtonText": {
+      "en": "\tPillage remains\r",
+      "jp": "\t遺体をあさる\r",
+      "zh": "\t搜刮尸体\r"
+    }
+  },
+  "2030": {
+    "ActionButtonText": {
+      "en": "\tSearch treasure chest\r",
+      "jp": "\t宝箱をあさる\r",
+      "zh": "\t搜刮宝箱\r"
+    }
+  },
+  "2100": {
+    "ActionButtonText": { "en": "\tOK\r", "jp": "\t閉じる\r", "zh": "\t关闭\r" }
+  },
+  "2800": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2810": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2811": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2812": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2813": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2814": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2815": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2816": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2817": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2818": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2819": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2820": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2821": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2822": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2823": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2824": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2825": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2826": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2827": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "2828": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "3000": {
+    "ActionButtonText": {
+      "en": "\tPull lever\r",
+      "jp": "\tレバーを引く\r",
+      "zh": "\t拉起拉杆\r"
+    }
+  },
+  "3010": {
+    "ActionButtonText": {
+      "en": "\tPush lever\r",
+      "jp": "\tレバーを押す\r",
+      "zh": "\t推动拉杆\r"
+    }
+  },
+  "3100": {
+    "ActionButtonText": { "en": "\tOpen\r", "jp": "\t開く\r", "zh": "\t打开\r" }
+  },
+  "3101": {
+    "ActionButtonText": {
+      "en": "\tClose\r",
+      "jp": "\t閉める\r",
+      "zh": "\t关上\r"
+    }
+  },
+  "3200": {
+    "ActionButtonText": {
+      "en": "\tTraverse the mist\r",
+      "jp": "\t霧の中に入る\r",
+      "zh": "\t进入雾中\r"
+    }
+  },
+  "3300": {
+    "ActionButtonText": {
+      "en": "\tClimb\r",
+      "jp": "\tのぼる\r",
+      "zh": "\t爬上\r"
+    }
+  },
+  "3301": {
+    "ActionButtonText": {
+      "en": "\tDescend\r",
+      "jp": "\tおりる\r",
+      "zh": "\t爬下\r"
+    }
+  },
+  "3310": {
+    "ActionButtonText": {
+      "en": "\tKick ladder\r",
+      "jp": "\tハシゴを蹴落とす\r",
+      "zh": "\t踢落梯子\r"
+    }
+  },
+  "4000": {
+    "ActionButtonText": {
+      "en": "\tContraption does not move\r",
+      "jp": "\t仕掛けが動かない\r",
+      "zh": "\t机关不能动。\r"
+    }
+  },
+  "4010": {
+    "ActionButtonText": {
+      "en": "\tDoes not open from this side\r",
+      "jp": "\tこちらからは開かない\r",
+      "zh": "\t不能从这一侧打开。\r"
+    }
+  },
+  "4020": {
+    "ActionButtonText": {
+      "en": "\tLocked\r",
+      "jp": "\t鍵がかかっている\r",
+      "zh": "\t锁上了。\r"
+    }
+  },
+  "4070": {
+    "ActionButtonText": {
+      "en": "\tYou are not destined to open this\r",
+      "jp": "\tこれを開く運命にはない\r",
+      "zh": "\t没有打开此物的命运。\r"
+    }
+  },
+  "4072": {
+    "ActionButtonText": {
+      "en": "\tOpens only to those carrying a finger\r",
+      "jp": "\t指を持たぬ者に、扉は開かない\r",
+      "zh": "\t身上没有指头的，门不敞开。\r"
+    }
+  },
+  "4073": {
+    "ActionButtonText": {
+      "en": "\tThe door is blocked shut\r",
+      "jp": "\t扉は閉ざされている\r",
+      "zh": "\t门扉紧闭。\r"
+    }
+  },
+  "4080": {
+    "ActionButtonText": {
+      "en": "\tThe door is blocked shut\r",
+      "jp": "\t扉は閉ざされている\r",
+      "zh": "\t门扉紧闭。\r"
+    }
+  },
+  "4081": {
+    "ActionButtonText": {
+      "en": "\tIt's tightly blocked shut\r",
+      "jp": "\t固く閉ざされている\r",
+      "zh": "\t紧闭不开。\r"
+    }
+  },
+  "4082": {
+    "ActionButtonText": {
+      "en": "\tIt's tightly blocked shut\r",
+      "jp": "\t固く閉ざされている\r",
+      "zh": "\t紧闭不开。\r"
+    }
+  },
+  "4083": {
+    "ActionButtonText": {
+      "en": "\tIt's tightly blocked shut\r",
+      "jp": "\t固く閉ざされている\r",
+      "zh": "\t紧闭不开。\r"
+    }
+  },
+  "4084": {
+    "ActionButtonText": {
+      "en": "\tIt's tightly blocked shut\r",
+      "jp": "\t固く閉ざされている\r",
+      "zh": "\t紧闭不开。\r"
+    }
+  },
+  "4085": {
+    "ActionButtonText": {
+      "en": "\tIt's tightly blocked shut\r",
+      "jp": "\t固く閉ざされている\r",
+      "zh": "\t紧闭不开。\r"
+    }
+  },
+  "4086": {
+    "ActionButtonText": {
+      "en": "\tIt's tightly blocked shut\r",
+      "jp": "\t固く閉ざされている\r",
+      "zh": "\t紧闭不开。\r"
+    }
+  },
+  "7000": {
+    "ActionButtonText": {
+      "en": "\tTalk\r",
+      "jp": "\t話しかける\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "7010": {
+    "ActionButtonText": {
+      "en": "\tKneel\r",
+      "jp": "\t跪く\r",
+      "zh": "\t跪下\r"
+    }
+  },
+  "7020": {
+    "ActionButtonText": {
+      "en": "\tSteal\r",
+      "jp": "\t盗む\r",
+      "zh": "\t偷窃\r"
+    }
+  },
+  "7030": {
+    "ActionButtonText": {
+      "en": "\tUse smithing table\r",
+      "jp": "\t鍛冶台を使う\r",
+      "zh": "\t使用锻造台\r"
+    }
+  },
+  "7040": {
+    "ActionButtonText": {
+      "en": "\tExamine altar\r",
+      "jp": "\t祭壇を調べる\r",
+      "zh": "\t调查祭坛\r"
+    }
+  },
+  "7050": {
+    "ActionButtonText": {
+      "en": "\tTouch Fractured Marika\r",
+      "jp": "\t壊れかけのマリカに触れる\r",
+      "zh": "\t触碰濒毁玛莉卡\r"
+    }
+  },
+  "7060": {
+    "ActionButtonText": {
+      "en": "\tHand over Deathroot\r",
+      "jp": "\t死の根を渡す\r",
+      "zh": "\t交出死根\r"
+    }
+  },
+  "7080": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "7090": {
+    "ActionButtonText": {
+      "en": "\tAccept primal glintstone\r",
+      "jp": "\t原輝石を受け取る\r",
+      "zh": "\t收下源辉石\r"
+    }
+  },
+  "7100": {
+    "ActionButtonText": {
+      "en": "\tTransplant primal glintstone\r",
+      "jp": "\t原輝石を移植する\r",
+      "zh": "\t移植源辉石\r"
+    }
+  },
+  "7110": {
+    "ActionButtonText": {
+      "en": "\tBe held\r",
+      "jp": "\t抱かれる\r",
+      "zh": "\t接受拥抱\r"
+    }
+  },
+  "7111": {
+    "ActionButtonText": {
+      "en": "\tTouch Fia\r",
+      "jp": "\tフィアに触れる\r",
+      "zh": "\t触碰菲雅\r"
+    }
+  },
+  "7120": {
+    "ActionButtonText": {
+      "en": "\tTouch the Two Fingers\r",
+      "jp": "\t二本指に触れる\r",
+      "zh": "\t触碰双指\r"
+    }
+  },
+  "7130": {
+    "ActionButtonText": {
+      "en": "\tSummon Latenna\r",
+      "jp": "\tラティナを召喚する\r",
+      "zh": "\t召唤勒缇娜\r"
+    }
+  },
+  "7140": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "7150": {
+    "ActionButtonText": {
+      "en": "\tTouch Hyetta\r",
+      "jp": "\tハイータに触れる\r",
+      "zh": "\t触碰海妲\r"
+    }
+  },
+  "7160": {
+    "ActionButtonText": {
+      "en": "\tOffer finger\r",
+      "jp": "\t指を出す\r",
+      "zh": "\t伸出指头\r"
+    }
+  },
+  "7161": {
+    "ActionButtonText": {
+      "en": "\tDye cloth with maiden's blood\r",
+      "jp": "\t誓布を巫女の血で染める\r",
+      "zh": "\t用立誓布沾上女巫的血\r"
+    }
+  },
+  "7162": {
+    "ActionButtonText": {
+      "en": "\tDye cloth with maiden's blood\r",
+      "jp": "\t誓布を巫女の血で染める\r",
+      "zh": "\t用立誓布沾上女巫的血\r"
+    }
+  },
+  "7170": {
+    "ActionButtonText": {
+      "en": "\tAtone\r",
+      "jp": "\t贖罪する\r",
+      "zh": "\t赎罪\r"
+    }
+  },
+  "7180": {
+    "ActionButtonText": {
+      "en": "\tTalk\r",
+      "jp": "\t話しかける\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "7190": {
+    "ActionButtonText": {
+      "en": "\tUse mirror\r",
+      "jp": "\t化粧台を使う\r",
+      "zh": "\t使用化妆台\r"
+    }
+  },
+  "7200": {
+    "ActionButtonText": {
+      "en": "\tSpeak the truth about Radagon\r",
+      "jp": "\tラダゴンの真実を伝える\r",
+      "zh": "\t告知关于拉达冈的真相\r"
+    }
+  },
+  "7210": {
+    "ActionButtonText": {
+      "en": "\tWhere did the body go?\r",
+      "jp": "\tその身体はどこに？\r",
+      "zh": "\t那副身体在哪里？\r"
+    }
+  },
+  "7211": {
+    "ActionButtonText": {
+      "en": "\tAdminister draught\r",
+      "jp": "\t精薬を飲ませる\r",
+      "zh": "\t让人喝下药水\r"
+    }
+  },
+  "7220": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "7230": {
+    "ActionButtonText": {
+      "en": "\tExamine remains\r",
+      "jp": "\t遺体を調べる\r",
+      "zh": "\t调查尸体\r"
+    }
+  },
+  "7240": {
+    "ActionButtonText": {
+      "en": "\tReceive mending rune\r",
+      "jp": "\t修復ルーンを得る\r",
+      "zh": "\t获得修复卢恩\r"
+    }
+  },
+  "7241": {
+    "ActionButtonText": {
+      "en": "\tReceive mending rune\r",
+      "jp": "\t修復ルーンを得る\r",
+      "zh": "\t获得修复卢恩\r"
+    }
+  },
+  "7242": {
+    "ActionButtonText": {
+      "en": "\tReceive mending rune\r",
+      "jp": "\t修復ルーンを得る\r",
+      "zh": "\t获得修复卢恩\r"
+    }
+  },
+  "7250": {
+    "ActionButtonText": {
+      "en": "\tReturn Unalloyed Gold Needle\r",
+      "jp": "\t無垢金の針を返す\r",
+      "zh": "\t归还纯净金针\r"
+    }
+  },
+  "7270": {
+    "ActionButtonText": {
+      "en": "\tExamine altar\r",
+      "jp": "\t祭壇を調べる\r",
+      "zh": "\t调查祭坛\r"
+    }
+  },
+  "7280": {
+    "ActionButtonText": {
+      "en": "\tExamine grave\r",
+      "jp": "\t墓を調べる\r",
+      "zh": "\t调查坟墓\r"
+    }
+  },
+  "7310": {
+    "ActionButtonText": {
+      "en": "\tTalk\r",
+      "jp": "\t話しかける\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "7320": {
+    "ActionButtonText": {
+      "en": "\tTouch cross\r",
+      "jp": "\t十字に触れる\r",
+      "zh": "\t触碰十字记号\r"
+    }
+  },
+  "7330": {
+    "ActionButtonText": {
+      "en": "\tExamine puppet\r",
+      "jp": "\t傀儡を調べる\r",
+      "zh": "\t调查傀儡\r"
+    }
+  },
+  "7340": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "7350": {
+    "ActionButtonText": {
+      "en": "\tTalk\r",
+      "jp": "\t話しかける\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "7500": {
+    "ActionButtonText": {
+      "en": "\tEnter Colosseum combat\r",
+      "jp": "\t闘技に参戦する\r",
+      "zh": "\t参加竞技\r"
+    }
+  },
+  "7501": {
+    "ActionButtonText": {
+      "en": "\tEnter Colosseum combat\r",
+      "jp": "\t闘技に参戦する\r",
+      "zh": "\t参加竞技\r"
+    }
+  },
+  "7502": {
+    "ActionButtonText": {
+      "en": "\tEnter Colosseum combat\r",
+      "jp": "\t闘技に参戦する\r",
+      "zh": "\t参加竞技\r"
+    }
+  },
+  "7503": {
+    "ActionButtonText": {
+      "en": "\tEnter Colosseum combat\r",
+      "jp": "\t闘技に参戦する\r",
+      "zh": "\t参加竞技\r"
+    }
+  },
+  "8100": {
+    "ActionButtonText": { "en": "\tRide\r", "jp": "\t乗る\r", "zh": "\t骑上\r" }
+  },
+  "9051": {
+    "ActionButtonText": {
+      "en": "\tInvade White Mask Varré's world\r",
+      "jp": "\t「白面のヴァレー」の世界に侵入する\r",
+      "zh": "\t入侵“白面具”梵雷的世界\r"
+    }
+  },
+  "9052": {
+    "ActionButtonText": {
+      "en": "\tInvade Old Knight Istvan's world\r",
+      "jp": "\t「古騎士、イシュトバーン」の世界に侵入する\r",
+      "zh": "\t入侵“古老骑士”伊修托邦的世界\r"
+    }
+  },
+  "9053": {
+    "ActionButtonText": {
+      "en": "\tInvade Rileigh the Idle's world\r",
+      "jp": "\t「暮れなずむライリー」の世界に侵入する\r",
+      "zh": "\t入侵“黄昏将尽”莱利的世界\r"
+    }
+  },
+  "9054": {
+    "ActionButtonText": {
+      "en": "\tInvade Juno Hoslow, Knight of Blood's world\r",
+      "jp": "\t「血潮の騎士、ユーノ・ホスロー」の世界に侵入する\r",
+      "zh": "\t入侵“血言骑士”尤诺·霍斯劳的世界\r"
+    }
+  },
+  "9055": {
+    "ActionButtonText": {
+      "en": "\tInvade Vargram the Raging Wolf's world\r",
+      "jp": "\t「狼の戦鬼、バルグラム」の世界に侵入する\r",
+      "zh": "\t入侵“白狼战鬼”巴格莱姆的世界\r"
+    }
+  },
+  "9056": {
+    "ActionButtonText": {
+      "en": "\tInvade Great Horned Tragoth's world\r",
+      "jp": "\t「大角のトラゴス」の世界に侵入する\r",
+      "zh": "\t入侵“大角”忒拉格斯的世界\r"
+    }
+  },
+  "9057": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to assist Yura, Hunter of Bloody Fingers\r",
+      "jp": "\t「血の指の狩人、ユラ」の協力者として召喚される\r",
+      "zh": "\t作为“血指猎人”尤拉的协助者，接受召唤\r"
+    }
+  },
+  "9058": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to assist Sorceress Sellen\r",
+      "jp": "\t「魔術師セレン」の協力者として召喚される\r",
+      "zh": "\t作为魔法师瑟濂的协助者，接受召唤\r"
+    }
+  },
+  "9059": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to challenge Sorceress Sellen\r",
+      "jp": "\t「魔術師セレン」の敵対者として召喚される\r",
+      "zh": "\t作为魔法师瑟濂的敌对者，接受召唤\r"
+    }
+  },
+  "9060": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to assist Millicent\r",
+      "jp": "\t「ミリセント」の協力者として召喚される\r",
+      "zh": "\t作为米莉森的协助者，接受召唤\r"
+    }
+  },
+  "9061": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to challenge Millicent\r",
+      "jp": "\t「ミリセント」の敵対者として召喚される\r",
+      "zh": "\t作为米莉森的敌对者，接受召唤\r"
+    }
+  },
+  "9070": {
+    "ActionButtonText": {
+      "en": "\tTouch cooperative sign\r",
+      "jp": "\t協力要請サインに触れる\r",
+      "zh": "\t触碰要求协助的记号\r"
+    }
+  },
+  "9071": {
+    "ActionButtonText": {
+      "en": "\tTouch invasion sign\r",
+      "jp": "\t敵対侵入サインに触れる \r",
+      "zh": "\t触碰敌对入侵的记号\r"
+    }
+  },
+  "9080": {
+    "ActionButtonText": {
+      "en": "\tRestore the power of the Great Rune\r",
+      "jp": "\t大ルーンに力を得る\r",
+      "zh": "\t获得大卢恩的力量\r"
+    }
+  },
+  "9081": {
+    "ActionButtonText": {
+      "en": "\tRestore the power of the Great Rune\r",
+      "jp": "\t大ルーンに力を得る\r",
+      "zh": "\t获得大卢恩的力量\r"
+    }
+  },
+  "9082": {
+    "ActionButtonText": {
+      "en": "\tRestore the power of the Great Rune\r",
+      "jp": "\t大ルーンに力を得る\r",
+      "zh": "\t获得大卢恩的力量\r"
+    }
+  },
+  "9083": {
+    "ActionButtonText": {
+      "en": "\tRestore the power of the Great Rune\r",
+      "jp": "\t大ルーンに力を得る\r",
+      "zh": "\t获得大卢恩的力量\r"
+    }
+  },
+  "9084": {
+    "ActionButtonText": {
+      "en": "\tRestore the power of the Great Rune\r",
+      "jp": "\t大ルーンに力を得る\r",
+      "zh": "\t获得大卢恩的力量\r"
+    }
+  },
+  "9085": {
+    "ActionButtonText": {
+      "en": "\tRestore the power of the Great Rune\r",
+      "jp": "\t大ルーンに力を得る\r",
+      "zh": "\t获得大卢恩的力量\r"
+    }
+  },
+  "9100": {
+    "ActionButtonText": {
+      "en": "\tTouch\r",
+      "jp": "\t触れる\r",
+      "zh": "\t触碰\r"
+    }
+  },
+  "9210": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "9240": {
+    "ActionButtonText": {
+      "en": "\tStargaze\r",
+      "jp": "\t星見を行う\r",
+      "zh": "\t开始观星\r"
+    }
+  },
+  "9260": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "9270": {
+    "ActionButtonText": {
+      "en": "\tUse Birdseye Telescope\r",
+      "jp": "\t鳥の遠見を使う\r",
+      "zh": "\t使用鸟瞰镜\r"
+    }
+  },
+  "9290": {
+    "ActionButtonText": {
+      "en": "\tReturn to entrance\r",
+      "jp": "\t入り口に戻る\r",
+      "zh": "\t返回入口\r"
+    }
+  },
+  "9300": {
+    "ActionButtonText": {
+      "en": "\tTouch\r",
+      "jp": "\t触れる\r",
+      "zh": "\t触碰\r"
+    }
+  },
+  "9310": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "9320": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "9330": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "9500": {
+    "ActionButtonText": {
+      "en": "\tTouch wall of thorns\r",
+      "jp": "\t茨の壁に触れる\r",
+      "zh": "\t触碰荆棘墙\r"
+    }
+  },
+  "9501": {
+    "ActionButtonText": {
+      "en": "\tTouch golden light\r",
+      "jp": "\t黄金の光に触れる\r",
+      "zh": "\t触碰黄金光芒\r"
+    }
+  },
+  "9503": {
+    "ActionButtonText": {
+      "en": "\tExamine seal\r",
+      "jp": "\t封印を調べる\r",
+      "zh": "\t调查封印\r"
+    }
+  },
+  "9505": {
+    "ActionButtonText": {
+      "en": "\tExamine seal\r",
+      "jp": "\t封印を調べる\r",
+      "zh": "\t调查封印\r"
+    }
+  },
+  "9506": {
+    "ActionButtonText": {
+      "en": "\tExamine seal\r",
+      "jp": "\t封印を調べる\r",
+      "zh": "\t调查封印\r"
+    }
+  },
+  "9520": {
+    "ActionButtonText": {
+      "en": "\tLight flame\r",
+      "jp": "\t火を灯す\r",
+      "zh": "\t点燃火焰\r"
+    }
+  },
+  "9521": {
+    "ActionButtonText": {
+      "en": "\tTouch phantom\r",
+      "jp": "\t幻影に触れる\r",
+      "zh": "\t触碰幻影\r"
+    }
+  },
+  "9522": {
+    "ActionButtonText": {
+      "en": "\tExamine seal\r",
+      "jp": "\t封印を調べる\r",
+      "zh": "\t调查封印\r"
+    }
+  },
+  "9524": {
+    "ActionButtonText": {
+      "en": "\tLight flame\r",
+      "jp": "\t火を灯す\r",
+      "zh": "\t点燃火焰\r"
+    }
+  },
+  "9525": {
+    "ActionButtonText": {
+      "en": "\tTouch horned remains\r",
+      "jp": "\t角骸に触れる\r",
+      "zh": "\t触碰角骸\r"
+    }
+  },
+  "9526": {
+    "ActionButtonText": {
+      "en": "\tGo back\r",
+      "jp": "\t元の場所に戻る\r",
+      "zh": "\t回到原本的地方\r"
+    }
+  },
+  "9527": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "9528": {
+    "ActionButtonText": {
+      "en": "\tLight flame\r",
+      "jp": "\t火を灯す\r",
+      "zh": "\t点燃火焰\r"
+    }
+  },
+  "9529": {
+    "ActionButtonText": {
+      "en": "\tExamine seal\r",
+      "jp": "\t封印を調べる\r",
+      "zh": "\t调查封印\r"
+    }
+  },
+  "9530": {
+    "ActionButtonText": {
+      "en": "\tExamine seal\r",
+      "jp": "\t封印を調べる\r",
+      "zh": "\t调查封印\r"
+    }
+  },
+  "9540": {
+    "ActionButtonText": {
+      "en": "\tSummon Castellan Jerren\r",
+      "jp": "\t「城主ジェーレン」を召喚する\r",
+      "zh": "\t召唤城主杰廉\r"
+    }
+  },
+  "9541": {
+    "ActionButtonText": {
+      "en": "\tSummon Blaidd the Half-Wolf\r",
+      "jp": "\t「半狼のブライヴ」を召喚する\r",
+      "zh": "\t召唤“半狼”布莱泽\r"
+    }
+  },
+  "9542": {
+    "ActionButtonText": {
+      "en": "\tSummon Alexander, Warrior Jar\r",
+      "jp": "\t「戦士の壺、アレキサンダー」を召喚する\r",
+      "zh": "\t召唤“战士壶”亚历山大\r"
+    }
+  },
+  "9543": {
+    "ActionButtonText": {
+      "en": "\tSummon Great Horned Tragoth\r",
+      "jp": "\t「大角のトラゴス」を召喚する\r",
+      "zh": "\t召唤“大角”忒拉格斯\r"
+    }
+  },
+  "9544": {
+    "ActionButtonText": {
+      "en": "\tSummon Okina\r",
+      "jp": "\t「翁」を召喚する\r",
+      "zh": "\t召唤老翁\r"
+    }
+  },
+  "9545": {
+    "ActionButtonText": {
+      "en": "\tSummon Finger Maiden Therolina\r",
+      "jp": "\t「指巫女サロリナ」を召喚する\r",
+      "zh": "\t召唤指头女巫瑟萝莉娜\r"
+    }
+  },
+  "9546": {
+    "ActionButtonText": {
+      "en": "\tSummon Lionel the Lionhearted\r",
+      "jp": "\t「豪胆ライオネル」を召喚する\r",
+      "zh": "\t召唤“无畏”莱恩尼尔\r"
+    }
+  },
+  "9547": {
+    "ActionButtonText": {
+      "en": "\tSummon Patches\r",
+      "jp": "\t「パッチ」を召喚する\r",
+      "zh": "\t召唤帕奇\r"
+    }
+  },
+  "9600": {
+    "ActionButtonText": {
+      "en": "\tBecome the Elden Lord\r",
+      "jp": "\tエルデの王となる\r",
+      "zh": "\t成为艾尔登之王\r"
+    }
+  },
+  "9610": {
+    "ActionButtonText": {
+      "en": "\tSummon Ranni\r",
+      "jp": "\tラニを召喚する\r",
+      "zh": "\t召唤菈妮\r"
+    }
+  },
+  "9620": {
+    "ActionButtonText": {
+      "en": "\tBecome the Lord of Frenzied Flame\r",
+      "jp": "\t狂い火の王となる\r",
+      "zh": "\t成为癫火之王\r"
+    }
+  },
+  "9630": {
+    "ActionButtonText": {
+      "en": "\tPut on ring\r",
+      "jp": "\t指輪をはめる\r",
+      "zh": "\t戴上戒指\r"
+    }
+  },
+  "9640": {
+    "ActionButtonText": {
+      "en": "\tOpen door\r",
+      "jp": "\t扉を開く\r",
+      "zh": "\t开门\r"
+    }
+  },
+  "9700": {
+    "ActionButtonText": {
+      "en": "\tHoist medallion\r",
+      "jp": "\t割符を掲げる\r",
+      "zh": "\t高举符节\r"
+    }
+  },
+  "9701": {
+    "ActionButtonText": {
+      "en": "\tHoist secret medallion\r",
+      "jp": "\t秘割符を掲げる\r",
+      "zh": "\t高举秘密符节\r"
+    }
+  },
+  "9710": {
+    "ActionButtonText": {
+      "en": "\tRest in coffin\r",
+      "jp": "\t石棺に入る\r",
+      "zh": "\t进入石棺\r"
+    }
+  },
+  "9720": {
+    "ActionButtonText": {
+      "en": "\tExamine pedestal\r",
+      "jp": "\t台座を調べる\r",
+      "zh": "\t调查基座\r"
+    }
+  },
+  "9721": {
+    "ActionButtonText": {
+      "en": "\tRemove inverted statue\r",
+      "jp": "\t逆さ像をはずす\r",
+      "zh": "\t卸下颠倒像\r"
+    }
+  },
+  "9730": {
+    "ActionButtonText": {
+      "en": "\tOpen door\r",
+      "jp": "\t扉を開く\r",
+      "zh": "\t开门\r"
+    }
+  },
+  "9740": {
+    "ActionButtonText": {
+      "en": "\tLie down\r",
+      "jp": "\t横たわる\r",
+      "zh": "\t躺下\r"
+    }
+  },
+  "202800": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202810": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202811": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202812": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202813": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202814": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202815": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202816": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202817": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202818": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202819": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202820": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202821": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202822": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202823": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202824": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202825": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202826": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202827": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202828": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202829": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202830": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202831": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202832": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202833": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202834": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202835": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202836": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202837": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202838": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202839": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202840": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202841": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202842": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202843": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "202844": {
+    "ActionButtonText": {
+      "en": "\tAcquire materials\r",
+      "jp": "\t素材を採る\r",
+      "zh": "\t采集材料\r"
+    }
+  },
+  "208700": {
+    "ActionButtonText": {
+      "en": "\tSound hanging bell\r",
+      "jp": "\t吊り鐘を吹く\r",
+      "zh": "\t吹响吊钟\r"
+    }
+  },
+  "208701": {
+    "ActionButtonText": {
+      "en": "\tSound hanging bell\r",
+      "jp": "\t吊り鐘を吹く\r",
+      "zh": "\t吹响吊钟\r"
+    }
+  },
+  "208702": {
+    "ActionButtonText": {
+      "en": "\tSound hanging bell\r",
+      "jp": "\t吊り鐘を吹く\r",
+      "zh": "\t吹响吊钟\r"
+    }
+  },
+  "208710": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "209051": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to assist Needle Knight Leda\r",
+      "jp": "\t「針の騎士、レダ」の協力者として召喚される\r",
+      "zh": "\t作为“金针骑士”蕾妲的协助者，接受召唤\r"
+    }
+  },
+  "209052": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to assist Sir Ansbach\r",
+      "jp": "\t「老兵アンスバッハ」の協力者として召喚される\r",
+      "zh": "\t作为老兵安帕赫的协助者，接受召唤\r"
+    }
+  },
+  "209053": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to assist Needle Knight Leda\r",
+      "jp": "\t「針の騎士、レダ」の協力者として召喚される\r",
+      "zh": "\t作为“金针骑士”蕾妲的协助者，接受召唤\r"
+    }
+  },
+  "209054": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to assist Hornsent\r",
+      "jp": "\t「角人」の協力者として召喚される\r",
+      "zh": "\t作为角人的协助者，接受召唤\r"
+    }
+  },
+  "209055": {
+    "ActionButtonText": {
+      "en": "\tBe summoned to challenge Needle Knight Leda and her allies\r",
+      "jp": "\t「針の騎士、レダ」と同志たちの、敵対者として召喚される\r",
+      "zh": "\t作为“金针骑士”蕾妲与其同伴的敌对者，接受召唤\r"
+    }
+  },
+  "209060": {
+    "ActionButtonText": {
+      "en": "\tTouch gold summon sign\r",
+      "jp": "\t金の召喚サインに触れる\r",
+      "zh": "\t触碰金色召唤记号\r"
+    }
+  },
+  "209200": {
+    "ActionButtonText": {
+      "en": "\tExamine altar\r",
+      "jp": "\t祭壇を調べる\r",
+      "zh": "\t调查祭坛\r"
+    }
+  },
+  "209500": {
+    "ActionButtonText": {
+      "en": "\tTouch withered arm\r",
+      "jp": "\t枯れた腕に触れる\r",
+      "zh": "\t触碰干枯手臂\r"
+    }
+  },
+  "209502": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "209504": {
+    "ActionButtonText": {
+      "en": "\tExamine seal\r",
+      "jp": "\t封印を調べる\r",
+      "zh": "\t调查封印\r"
+    }
+  },
+  "209520": {
+    "ActionButtonText": {
+      "en": "\tTouch gold summon sign\r",
+      "jp": "\t金の召喚サインに触れる\r",
+      "zh": "\t触碰金色召唤记号\r"
+    }
+  },
+  "209522": {
+    "ActionButtonText": {
+      "en": "\tTouch gold summon sign\r",
+      "jp": "\t金の召喚サインに触れる\r",
+      "zh": "\t触碰金色召唤记号\r"
+    }
+  },
+  "209523": {
+    "ActionButtonText": {
+      "en": "\tExamine\r",
+      "jp": "\t調べる\r",
+      "zh": "\t调查\r"
+    }
+  },
+  "209525": {
+    "ActionButtonText": {
+      "en": "\tExamine altar\r",
+      "jp": "\t祭壇を調べる\r",
+      "zh": "\t调查祭坛\r"
+    }
+  },
+  "209526": {
+    "ActionButtonText": {
+      "en": "\tExamine altar\r",
+      "jp": "\t祭壇を調べる\r",
+      "zh": "\t调查祭坛\r"
+    }
+  },
+  "209529": {
+    "ActionButtonText": {
+      "en": "\tExamine monument\r",
+      "jp": "\t石碑を調べる\r",
+      "zh": "\t调查石碑\r"
+    }
+  },
+  "209530": {
+    "ActionButtonText": {
+      "en": "\tTouch gold summon sign\r",
+      "jp": "\t金の召喚サインに触れる\r",
+      "zh": "\t触碰金色召唤记号\r"
+    }
+  },
+  "209531": {
+    "ActionButtonText": {
+      "en": "\tTouch gold summon sign\r",
+      "jp": "\t金の召喚サインに触れる\r",
+      "zh": "\t触碰金色召唤记号\r"
+    }
+  },
+  "209532": {
+    "ActionButtonText": {
+      "en": "\tTouch gold summon sign\r",
+      "jp": "\t金の召喚サインに触れる\r",
+      "zh": "\t触碰金色召唤记号\r"
+    }
+  },
+  "209600": {
+    "ActionButtonText": {
+      "en": "\tTouch memory\r",
+      "jp": "\t思い出に触れる\r",
+      "zh": "\t触碰记忆\r"
+    }
+  },
+  "209610": {
+    "ActionButtonText": {
+      "en": "\tExamine sealing tree\r",
+      "jp": "\t封印の木を調べる\r",
+      "zh": "\t调查封印之树\r"
+    }
+  },
+  "209620": {
+    "ActionButtonText": {
+      "en": "\tRest in coffin\r",
+      "jp": "\t石棺に入る\r",
+      "zh": "\t进入石棺\r"
+    }
+  },
+  "50000000": {
+    "ActionButtonText": {
+      "en": "\tTouch gold summon sign\r",
+      "jp": "\t金の召喚サインに触れる\r",
+      "zh": "\t触碰金色召唤记号\r"
+    }
+  },
+  "50000001": {
+    "ActionButtonText": {
+      "en": "\tTouch red summon sign\r",
+      "jp": "\t赤の召喚サインに触れる\r",
+      "zh": "\t触碰红色召唤记号\r"
+    }
+  },
+  "50000100": {
+    "ActionButtonText": {
+      "en": "\tTouch bloodstain\r",
+      "jp": "\t血痕に触れる\r",
+      "zh": "\t触碰血迹\r"
+    }
+  },
+  "50000101": {
+    "ActionButtonText": {
+      "en": "\tTouch <?codenameIcon?><?codenamePCName?>'s bloodstain\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>の血痕に触れる\r",
+      "zh": "\t触碰<?codenameIcon?><?codenamePCName?>的血迹\r"
+    }
+  },
+  "50000102": {
+    "ActionButtonText": {
+      "en": "\tTouch <?codenameIcon?>'s bloodstain\r",
+      "jp": "\t<?codenameIcon?>の血痕に触れる\r",
+      "zh": "\t触碰<?codenameIcon?>的血迹\r"
+    }
+  },
+  "50000200": {
+    "ActionButtonText": {
+      "en": "\tRetrieve lost runes\r",
+      "jp": "\tルーンを取り戻す\r",
+      "zh": "\t取回卢恩\r"
+    }
+  },
+  "50000210": {
+    "ActionButtonText": {
+      "en": "\tRead message\r",
+      "jp": "\tメッセージを読む\r",
+      "zh": "\t阅读讯息\r"
+    }
+  },
+  "50000211": {
+    "ActionButtonText": {
+      "en": "\tRead <?codenameIcon?><?codenamePCName?>'s message\r",
+      "jp": "\t<?codenameIcon?><?codenamePCName?>のメッセージを読む\r",
+      "zh": "\t阅读<?codenameIcon?><?codenamePCName?>的讯息\r"
+    }
+  },
+  "50000212": {
+    "ActionButtonText": {
+      "en": "\tRead <?codenameIcon?>'s message\r",
+      "jp": "\t<?codenameIcon?>のメッセージを読む\r",
+      "zh": "\t阅读<?codenameIcon?>的讯息\r"
+    }
+  },
+  "50000400": {
+    "ActionButtonText": {
+      "en": "\tCheck your summon sign\r",
+      "jp": "\t自分の召喚サインを確認する\r",
+      "zh": "\t确认自己的召唤记号\r"
+    }
+  },
+  "50000500": {
+    "ActionButtonText": {
+      "en": "\tCheck your message\r",
+      "jp": "\t自分のメッセージを確認する\r",
+      "zh": "\t确认自己的讯息\r"
+    }
+  },
+  "": { "ActionButtonText": { "en": "", "jp": "", "zh": "" } }
+}

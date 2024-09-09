@@ -55,12 +55,36 @@ const FilesNeeded = {
     ],
 };
 
+const Categories = {
+    Accessory: ["AccessoryName", "AccessoryCaption", "AccessoryInfo"],
+    Arts: ["ArtsName", "ArtsCaption"],
+    Gem: ["GemName", "GemCaption", "GemInfo"],
+    Goods: ["GoodsName", "GoodsCaption", "GoodsDialog", "GoodsInfo", "GoodsInfo2"],
+    Npc: ["NpcName"],
+    Place: ["PlaceName"],
+    Protector: ["ProtectorName", "ProtectorCaption", "ProtectorInfo"],
+    Weapon: ["WeaponName", "WeaponCaption", "WeaponEffect", "WeaponInfo"],
+    ActionButton: ["ActionButtonText"],
+    Blood: ["BloodMsg"],
+    EventTextForMap: ["EventTextForMap"],
+    EventTextForTalk: ["EventTextForTalk"],
+    GR_Dialogues: ["GR_Dialogues"],
+    GR_LineHelp: ["GR_LineHelp"],
+    GR_MenuText: ["GR_MenuText"],
+    Loading: ["LoadingTitle", "LoadingText"],
+    Network: ["NetworkMessage"],
+    Talk: ["TalkMsg"],
+    Tutorial: ["TutorialTitle", "TutorialBody"],
+};
+
 const AllFileNames = [...FilesNeeded.item, ...FilesNeeded.menu];
 
 if (args[2] && args[2] == "txt") {
     extractTextFromFmg();
 } else if (args[2] && args[2] == "json") {
     convertAllTextFilesToJson();
+} else if (args[2] && args[2] == "sort") {
+    sortAllText();
 }
 
 function extractTextFromFmg() {
@@ -134,4 +158,44 @@ function splitNumberAndText(text) {
     let number = numbers ? numbers[0] : "";
     let txt = text.replace(`${number}`, "");
     return [number, txt];
+}
+
+function sortSomeCategory(categories) {
+    let res = {};
+    for (let lang of ["en", "jp", "zh"]) {
+        let arr = [];
+        for (let category of categories) {
+            let vals = JSON.parse(readFileSync(`./step_03_json/${lang}/${category}.json`, "utf8"));
+            arr.push(vals);
+        }
+        let set = new Set(arr.map((obj) => Object.keys(obj)).flat());
+        for (key of set) {
+            if (res[key] == undefined) res[key] = {};
+            if (lang == "en") {
+                for (let category of categories) {
+                    let i = categories.indexOf(category);
+                    res[key][category] = { [lang]: arr[i][key] || "" };
+                }
+            } else {
+                for (let category of categories) {
+                    let i = categories.indexOf(category);
+                    if (res[key][category] == undefined) res[key][category] = {};
+                    res[key][category][lang] = arr[i][key] || "";
+                }
+            }
+        }
+    }
+    return res;
+}
+
+function sortAllText() {
+    let res = {};
+    let keys = Object.keys(Categories);
+    for (const key of keys) {
+        let cates = Categories[key];
+        let sorted = sortSomeCategory(cates);
+        writeFileSync(`./step_04_sorted/${key}.json`, JSON.stringify(sorted));
+        res[key] = sorted;
+    }
+    writeFileSync(`./step_04_sorted/_AllInOne.json`, JSON.stringify(res));
 }

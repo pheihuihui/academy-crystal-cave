@@ -1,0 +1,3312 @@
+{
+  "0": { "NpcName": { "jp": "\t消すべからず\r" } },
+  "110000": {
+    "NpcName": { "en": "\tMelina\r", "jp": "\tメリナ\r", "zh": "\t梅琳娜\r" }
+  },
+  "110200": {
+    "NpcName": {
+      "en": "\tFinger Reader Enia\r",
+      "jp": "\t指読みエンヤ\r",
+      "zh": "\t“解指”恩雅\r"
+    }
+  },
+  "110400": {
+    "NpcName": {
+      "en": "\tThe Two Fingers\r",
+      "jp": "\t二本指\r",
+      "zh": "\t双指\r"
+    }
+  },
+  "110500": { "NpcName": { "jp": "\t世界ミミズ(狂い指)\r" } },
+  "110600": {
+    "NpcName": {
+      "en": "\tRanni the Witch\r",
+      "jp": "\t魔女ラニ\r",
+      "zh": "\t魔女菈妮\r"
+    }
+  },
+  "110610": {
+    "NpcName": {
+      "en": "\tRenna the Witch\r",
+      "jp": "\t魔女レナ\r",
+      "zh": "\t魔女蕾娜\r"
+    }
+  },
+  "111000": {
+    "NpcName": {
+      "en": "\tPrimeval Sorcerer Lusat\r",
+      "jp": "\t源流の魔術師、ルーサット\r",
+      "zh": "\t“起源魔法师”卢瑟特\r"
+    }
+  },
+  "111100": {
+    "NpcName": {
+      "en": "\tPrimeval Sorcerer Azur\r",
+      "jp": "\t源流の魔術師、アズール\r",
+      "zh": "\t“起源魔法师”亚兹勒\r"
+    }
+  },
+  "111200": {
+    "NpcName": {
+      "en": "\tThe Noble Goldmask\r",
+      "jp": "\t金仮面卿\r",
+      "zh": "\t金面具\r"
+    }
+  },
+  "120000": {
+    "NpcName": {
+      "en": "\tRennala, Queen of the Full Moon\r",
+      "jp": "\t満月の女王、レナラ\r",
+      "zh": "\t“满月女王”蕾娜菈\r"
+    }
+  },
+  "120200": {
+    "NpcName": {
+      "en": "\tGurranq, Beast Clergyman\r",
+      "jp": "\t獣の司祭、グラング\r",
+      "zh": "\t“野兽祭司”古兰格\r"
+    }
+  },
+  "121300": {
+    "NpcName": {
+      "en": "\tSmithing Master Hewg\r",
+      "jp": "\t鍛冶師ヒューグ\r",
+      "zh": "\t铁匠修古\r"
+    }
+  },
+  "121600": {
+    "NpcName": {
+      "en": "\tBlaidd the Half-Wolf\r",
+      "jp": "\t半狼のブライヴ\r",
+      "zh": "\t“半狼”布莱泽\r"
+    }
+  },
+  "121610": {
+    "NpcName": {
+      "en": "\tBaleful Shadow\r",
+      "jp": "\t災いの影\r",
+      "zh": "\t灾厄影子\r"
+    }
+  },
+  "121700": {
+    "NpcName": {
+      "en": "\tPidia, Carian Servant\r",
+      "jp": "\t召使いのピディ\r",
+      "zh": "\t仆人毕迪\r"
+    }
+  },
+  "121800": {
+    "NpcName": {
+      "en": "\tAsimi, Silver Tear\r",
+      "jp": "\t銀の雫、アスィミ\r",
+      "zh": "\t“银色泪滴”阿史米\r"
+    }
+  },
+  "121810": {
+    "NpcName": {
+      "en": "\tAsimi, Eternal King\r",
+      "jp": "\t永遠の王、アスィミ\r",
+      "zh": "\t“永恒之王”阿史米\r"
+    }
+  },
+  "121900": {
+    "NpcName": {
+      "en": "\tOld Albus\r",
+      "jp": "\tアルバス老\r",
+      "zh": "\t艾尔帕斯\r"
+    }
+  },
+  "122000": {
+    "NpcName": {
+      "en": "\tAlexander, Warrior Jar\r",
+      "jp": "\t戦士の壺、アレキサンダー\r",
+      "zh": "\t“战士壶”亚历山大\r"
+    }
+  },
+  "122300": {
+    "NpcName": {
+      "en": "\tDemi-Human Boc\r",
+      "jp": "\t亜人のボック\r",
+      "zh": "\t亚人柏克\r"
+    }
+  },
+  "122310": {
+    "NpcName": {
+      "en": "\tBoc the Seamster\r",
+      "jp": "\tお針子のボック\r",
+      "zh": "\t裁缝师柏克\r"
+    }
+  },
+  "122400": {
+    "NpcName": {
+      "en": "\tSmithing Master Iji\r",
+      "jp": "\t鍛冶師イジー\r",
+      "zh": "\t铁匠伊吉\r"
+    }
+  },
+  "122401": {
+    "NpcName": {
+      "en": "\tWar Counselor Iji\r",
+      "jp": "\t軍師イジー\r",
+      "zh": "\t军师伊吉\r"
+    }
+  },
+  "122600": {
+    "NpcName": { "en": "\tJar-Bairn\r", "jp": "\t小壺\r", "zh": "\t小壶\r" }
+  },
+  "122800": {
+    "NpcName": {
+      "en": "\tLatenna the Albinauric\r",
+      "jp": "\tしろがねのラティナ\r",
+      "zh": "\t白金之子勒缇娜\r"
+    }
+  },
+  "123000": {
+    "NpcName": {
+      "en": "\tTanith's Knight\r",
+      "jp": "\tタニスの騎士\r",
+      "zh": "\t塔妮丝的骑士\r"
+    }
+  },
+  "123300": {
+    "NpcName": {
+      "en": "\tPhillia, Towering Little Sister\r",
+      "jp": "\t大きな妹、フィリア\r",
+      "zh": "\t“庞大妹妹”菲莉亚\r"
+    }
+  },
+  "130000": {
+    "NpcName": {
+      "en": "\tTanith, Volcano Manor Proprietress\r",
+      "jp": "\t火山館の主人、タニス\r",
+      "zh": "\t“火山官邸之主”塔妮丝\r"
+    }
+  },
+  "130100": {
+    "NpcName": {
+      "en": "\tWhite Mask Varré\r",
+      "jp": "\t白面のヴァレー\r",
+      "zh": "\t“白面具”梵雷\r"
+    }
+  },
+  "130200": {
+    "NpcName": {
+      "en": "\tGatekeeper Gostoc\r",
+      "jp": "\t門衛ゴストーク\r",
+      "zh": "\t门卫葛托克\r"
+    }
+  },
+  "130400": {
+    "NpcName": {
+      "en": "\tFestering Fingerprint Vyke\r",
+      "jp": "\t指痕爛れのヴァイク\r",
+      "zh": "\t“烧灼指痕”维克\r"
+    }
+  },
+  "130401": {
+    "NpcName": {
+      "en": "\tRoundtable Knight Vyke\r",
+      "jp": "\t円卓の騎士、ヴァイク\r",
+      "zh": "\t“圆桌骑士”维克\r"
+    }
+  },
+  "130700": {
+    "NpcName": {
+      "en": "\tPreceptor Seluvis\r",
+      "jp": "\t魔術教授セルブス\r",
+      "zh": "\t魔法教授赛尔维斯\r"
+    }
+  },
+  "130900": {
+    "NpcName": { "en": "\tPatches\r", "jp": "\tパッチ\r", "zh": "\t帕奇\r" }
+  },
+  "130901": {
+    "NpcName": { "en": "\tPatches\r", "jp": "\tパッチ\r", "zh": "\t帕奇\r" }
+  },
+  "131000": {
+    "NpcName": {
+      "en": "\tIrina of Morne\r",
+      "jp": "\tモーンのイレーナ\r",
+      "zh": "\t摩恩的伊蕾娜\r"
+    }
+  },
+  "131010": {
+    "NpcName": {
+      "en": "\tLightseeker Hyetta\r",
+      "jp": "\t灯を探すハイータ\r",
+      "zh": "\t“探寻灯火”海妲\r"
+    }
+  },
+  "131011": {
+    "NpcName": {
+      "en": "\tFinger Maiden Hyetta\r",
+      "jp": "\t巫女ハイータ\r",
+      "zh": "\t女巫海妲\r"
+    }
+  },
+  "131100": {
+    "NpcName": {
+      "en": "\tCastellan Edgar\r",
+      "jp": "\t城主エドガー\r",
+      "zh": "\t城主艾德格\r"
+    }
+  },
+  "131101": {
+    "NpcName": {
+      "en": "\tEdgar the Revenger\r",
+      "jp": "\t復讐者エドガー\r",
+      "zh": "\t“复仇者”艾德格\r"
+    }
+  },
+  "131200": {
+    "NpcName": {
+      "en": "\tCastellan Jerren\r",
+      "jp": "\t城主ジェーレン\r",
+      "zh": "\t城主杰廉\r"
+    }
+  },
+  "131201": {
+    "NpcName": {
+      "en": "\tWitch-Hunter Jerren\r",
+      "jp": "\t魔女狩り、ジェーレン\r",
+      "zh": "\t“魔女猎人”杰廉\r"
+    }
+  },
+  "131300": {
+    "NpcName": {
+      "en": "\tRya the Scout\r",
+      "jp": "\t招き手のラーヤ\r",
+      "zh": "\t“招募者”菈雅\r"
+    }
+  },
+  "131310": {
+    "NpcName": {
+      "en": "\tZorayas the Scout\r",
+      "jp": "\t招き手のゾラーヤス\r",
+      "zh": "\t“招募者”泽菈雅丝\r"
+    }
+  },
+  "131400": {
+    "NpcName": {
+      "en": "\tKnight Diallos\r",
+      "jp": "\t騎士ディアロス\r",
+      "zh": "\t骑士狄亚罗斯\r"
+    }
+  },
+  "131401": {
+    "NpcName": {
+      "en": "\tPotentate Diallos\r",
+      "jp": "\t壺師ディアロス\r",
+      "zh": "\t维壶师狄亚罗斯\r"
+    }
+  },
+  "131600": {
+    "NpcName": {
+      "en": "\tSorceress Sellen\r",
+      "jp": "\t魔術師セレン\r",
+      "zh": "\t魔法师瑟濂\r"
+    }
+  },
+  "131601": {
+    "NpcName": {
+      "en": "\tSorceress Sellen\r",
+      "jp": "\t魔術師セレン\r",
+      "zh": "\t魔法师瑟濂\r"
+    }
+  },
+  "131800": {
+    "NpcName": {
+      "en": "\tYura, Hunter of Bloody Fingers\r",
+      "jp": "\t血の指の狩人、ユラ\r",
+      "zh": "\t“血指猎人”尤拉\r"
+    }
+  },
+  "131801": {
+    "NpcName": {
+      "en": "\tShabriri\r",
+      "jp": "\tシャブリリ\r",
+      "zh": "\t夏玻利利\r"
+    }
+  },
+  "131802": {
+    "NpcName": {
+      "en": "\tShabriri\r",
+      "jp": "\tシャブリリ\r",
+      "zh": "\t夏玻利利\r"
+    }
+  },
+  "131900": {
+    "NpcName": {
+      "en": "\tD, Hunter of the Dead\r",
+      "jp": "\t死を狩る者、Ｄ\r",
+      "zh": "\t“狩猎死亡”Ｄ\r"
+    }
+  },
+  "131901": {
+    "NpcName": {
+      "en": "\tD, Hunter of the Dead\r",
+      "jp": "\t死を狩る者、Ｄ\r",
+      "zh": "\t“狩猎死亡”Ｄ\r"
+    }
+  },
+  "131910": {
+    "NpcName": {
+      "en": "\tD, Beholder of Death\r",
+      "jp": "\t死に見えた者、Ｄ\r",
+      "zh": "\t“觐见死亡”Ｄ\r"
+    }
+  },
+  "131911": {
+    "NpcName": {
+      "en": "\tD, Beholder of Death\r",
+      "jp": "\t死に見えた者、Ｄ\r",
+      "zh": "\t“觐见死亡”Ｄ\r"
+    }
+  },
+  "132000": {
+    "NpcName": {
+      "en": "\tHeartbroken Maiden\r",
+      "jp": "\t心折れた娘\r",
+      "zh": "\t颓丧的女性\r"
+    }
+  },
+  "132001": {
+    "NpcName": {
+      "en": "\tRoderika\r",
+      "jp": "\tローデリカ\r",
+      "zh": "\t罗德莉卡\r"
+    }
+  },
+  "132002": {
+    "NpcName": {
+      "en": "\tRoderika, Spirit Tuner\r",
+      "jp": "\t調霊師ローデリカ\r",
+      "zh": "\t调灵师罗德莉卡\r"
+    }
+  },
+  "132100": {
+    "NpcName": {
+      "en": "\tKenneth Haight, Limgrave Heir\r",
+      "jp": "\t領主の嫡男、ケネス・ハイト\r",
+      "zh": "\t“领主的嫡长子”肯尼斯·海德\r"
+    }
+  },
+  "132200": {
+    "NpcName": {
+      "en": "\tFia, Deathbed Companion\r",
+      "jp": "\t死衾の乙女、フィア\r",
+      "zh": "\t“死眠少女”菲雅\r"
+    }
+  },
+  "132300": {
+    "NpcName": {
+      "en": "\tDung Eater\r",
+      "jp": "\t糞喰い\r",
+      "zh": "\t食粪者\r"
+    }
+  },
+  "132301": {
+    "NpcName": {
+      "en": "\tDung Eater\r",
+      "jp": "\t糞喰い\r",
+      "zh": "\t食粪者\r"
+    }
+  },
+  "132302": {
+    "NpcName": {
+      "en": "\tDung Eater\r",
+      "jp": "\t糞喰い\r",
+      "zh": "\t食粪者\r"
+    }
+  },
+  "132400": {
+    "NpcName": {
+      "en": "\tSir Gideon Ofnir, the All-Knowing\r",
+      "jp": "\t百智卿、ギデオン＝オーフニール\r",
+      "zh": "\t“百智爵士”基甸·奥夫尼尔\r"
+    }
+  },
+  "132500": {
+    "NpcName": {
+      "en": "\tSorcerer Rogier\r",
+      "jp": "\t魔術師ロジェール\r",
+      "zh": "\t魔法师罗杰尔\r"
+    }
+  },
+  "132501": {
+    "NpcName": {
+      "en": "\tSorcerer Rogier\r",
+      "jp": "\t魔術師ロジェール\r",
+      "zh": "\t魔法师罗杰尔\r"
+    }
+  },
+  "132600": {
+    "NpcName": {
+      "en": "\tKnight Bernahl\r",
+      "jp": "\t騎士ベルナール\r",
+      "zh": "\t骑士贝纳尔\r"
+    }
+  },
+  "132601": {
+    "NpcName": {
+      "en": "\tRecusant Bernahl\r",
+      "jp": "\t背律者ベルナール\r",
+      "zh": "\t“叛律者”贝纳尔\r"
+    }
+  },
+  "132602": {
+    "NpcName": {
+      "en": "\tRecusant Bernahl\r",
+      "jp": "\t背律者ベルナール\r",
+      "zh": "\t“叛律者”贝纳尔\r"
+    }
+  },
+  "132700": {
+    "NpcName": {
+      "en": "\tEleonora, Violet Bloody Finger\r",
+      "jp": "\t純紫の血指、エレオノーラ\r",
+      "zh": "\t“纯紫血指”艾琉诺拉\r"
+    }
+  },
+  "132900": {
+    "NpcName": {
+      "en": "\tLionel the Lionhearted\r",
+      "jp": "\t豪胆ライオネル\r",
+      "zh": "\t“无畏”莱恩尼尔\r"
+    }
+  },
+  "133000": {
+    "NpcName": {
+      "en": "\tMiriel, Pastor of Vows\r",
+      "jp": "\t結びの司祭、ミリエル\r",
+      "zh": "\t“结缘牧师”米利耶\r"
+    }
+  },
+  "133100": {
+    "NpcName": {
+      "en": "\tBlackguard\r",
+      "jp": "\tならず者\r",
+      "zh": "\t流氓\r"
+    }
+  },
+  "133101": {
+    "NpcName": {
+      "en": "\tBlackguard\r",
+      "jp": "\tならず者\r",
+      "zh": "\t流氓\r"
+    }
+  },
+  "133200": { "NpcName": { "jp": "\t火山館の幽霊\r" } },
+  "133300": {
+    "NpcName": {
+      "en": "\tSorcerer Thops\r",
+      "jp": "\t魔術師トープス\r",
+      "zh": "\t魔法师托普斯\r"
+    }
+  },
+  "133400": {
+    "NpcName": {
+      "en": "\tNepheli Loux, Warrior\r",
+      "jp": "\t戦士ネフェリ・ルー\r",
+      "zh": "\t战士涅斐丽·露\r"
+    }
+  },
+  "133401": {
+    "NpcName": {
+      "en": "\tNepheli Loux, Warrior\r",
+      "jp": "\t戦士ネフェリ・ルー\r",
+      "zh": "\t战士涅斐丽·露\r"
+    }
+  },
+  "133402": {
+    "NpcName": {
+      "en": "\tNepheli Loux, Warrior\r",
+      "jp": "\t戦士ネフェリ・ルー\r",
+      "zh": "\t战士涅斐丽·露\r"
+    }
+  },
+  "133500": {
+    "NpcName": {
+      "en": "\tReeling Rico\r",
+      "jp": "\t酒臭いリコ\r",
+      "zh": "\t“酒味”里可\r"
+    }
+  },
+  "133600": {
+    "NpcName": {
+      "en": "\tVyke's Finger Maiden\r",
+      "jp": "\tヴァイクの指巫女\r",
+      "zh": "\t维克的指头女巫\r"
+    }
+  },
+  "133800": {
+    "NpcName": {
+      "en": "\tFinger Maiden\r",
+      "jp": "\t指の巫女\r",
+      "zh": "\t指头女巫\r"
+    }
+  },
+  "133900": {
+    "NpcName": {
+      "en": "\tEnsha of the Royal Remains\r",
+      "jp": "\t王骸のエンシャ\r",
+      "zh": "\t“王骸”恩夏\r"
+    }
+  },
+  "134000": {
+    "NpcName": {
+      "en": "\tBloody Finger Ravenmount Assassin\r",
+      "jp": "\t血の指、カラス山の凶手\r",
+      "zh": "\t“血指”鸦山的杀手\r"
+    }
+  },
+  "134300": {
+    "NpcName": {
+      "en": "\tBloody Finger Nerijus\r",
+      "jp": "\t血の指、ネリウス\r",
+      "zh": "\t“血指”涅利乌斯\r"
+    }
+  },
+  "134310": {
+    "NpcName": {
+      "en": "\tSanguine Noble\r",
+      "jp": "\t血の貴族\r",
+      "zh": "\t鲜血贵族\r"
+    }
+  },
+  "134400": {
+    "NpcName": {
+      "en": "\tGreat Horned Tragoth\r",
+      "jp": "\t大角のトラゴス\r",
+      "zh": "\t“大角”忒拉格斯\r"
+    }
+  },
+  "134401": {
+    "NpcName": {
+      "en": "\tGreat Horned Tragoth\r",
+      "jp": "\t大角のトラゴス\r",
+      "zh": "\t“大角”忒拉格斯\r"
+    }
+  },
+  "134500": {
+    "NpcName": {
+      "en": "\tOld Knight Istvan\r",
+      "jp": "\t古騎士、イシュトバーン\r",
+      "zh": "\t“古老骑士”伊修托邦\r"
+    }
+  },
+  "134501": {
+    "NpcName": {
+      "en": "\tOld Knight Istvan\r",
+      "jp": "\t古騎士、イシュトバーン\r",
+      "zh": "\t“古老骑士”伊修托邦\r"
+    }
+  },
+  "134600": {
+    "NpcName": {
+      "en": "\tRileigh the Idle\r",
+      "jp": "\t暮れなずむライリー\r",
+      "zh": "\t“黄昏将尽”莱利\r"
+    }
+  },
+  "134700": {
+    "NpcName": {
+      "en": "\tJuno Hoslow, Knight of Blood\r",
+      "jp": "\t血潮の騎士、ユーノ・ホスロー\r",
+      "zh": "\t“血言骑士”尤诺·霍斯劳\r"
+    }
+  },
+  "134800": {
+    "NpcName": {
+      "en": "\tMillicent\r",
+      "jp": "\tミリセント\r",
+      "zh": "\t米莉森\r"
+    }
+  },
+  "134900": {
+    "NpcName": {
+      "en": "\tSage Gowry\r",
+      "jp": "\t賢者ゴーリー\r",
+      "zh": "\t贤者格威\r"
+    }
+  },
+  "135000": { "NpcName": { "jp": "\tラット\r" } },
+  "135100": {
+    "NpcName": {
+      "en": "\tBrother Corhyn\r",
+      "jp": "\t聖職者コリン\r",
+      "zh": "\t圣职人员柯林\r"
+    }
+  },
+  "135101": {
+    "NpcName": {
+      "en": "\tScribe Corhyn\r",
+      "jp": "\t記録者コリン\r",
+      "zh": "\t记录者柯林\r"
+    }
+  },
+  "135200": {
+    "NpcName": {
+      "en": "\tPreceptor Miriam\r",
+      "jp": "\t魔術教授ミリアム\r",
+      "zh": "\t魔法教授米丽安\r"
+    }
+  },
+  "135300": {
+    "NpcName": {
+      "en": "\tAnastasia, Tarnished-Eater\r",
+      "jp": "\t褪せ人喰い、アナスタシア\r",
+      "zh": "\t“吞噬褪色者”安娜塔西亚\r"
+    }
+  },
+  "135500": {
+    "NpcName": { "en": "\tOkina\r", "jp": "\t翁\r", "zh": "\t老翁\r" }
+  },
+  "135501": {
+    "NpcName": {
+      "en": "\tBloody Finger Okina\r",
+      "jp": "\t血の指、翁\r",
+      "zh": "\t“血指”老翁\r"
+    }
+  },
+  "135600": {
+    "NpcName": {
+      "en": "\tAdan, Thief of Fire\r",
+      "jp": "\t火を盗んだアダン\r",
+      "zh": "\t“盗火”亚当\r"
+    }
+  },
+  "135700": { "NpcName": { "jp": "\t隠し通路階段奥のNPC_火山牢\r" } },
+  "135900": {
+    "NpcName": {
+      "en": "\tMoongrum, Carian Knight\r",
+      "jp": "\tカーリア騎士、ムーングラム\r",
+      "zh": "\t“卡利亚骑士”穆格拉姆\r"
+    }
+  },
+  "136000": {
+    "NpcName": {
+      "en": "\tVargram the Raging Wolf\r",
+      "jp": "\t狼の戦鬼、バルグラム\r",
+      "zh": "\t“白狼战鬼”巴格莱姆\r"
+    }
+  },
+  "136100": {
+    "NpcName": {
+      "en": "\tFia's Champion\r",
+      "jp": "\tフィアの英雄\r",
+      "zh": "\t菲雅的英雄\r"
+    }
+  },
+  "136300": {
+    "NpcName": {
+      "en": "\tFinger Maiden Therolina\r",
+      "jp": "\t指巫女サロリナ\r",
+      "zh": "\t指头女巫瑟萝莉娜\r"
+    }
+  },
+  "136400": {
+    "NpcName": {
+      "en": "\tDolores the Sleeping Arrow\r",
+      "jp": "\t眠りの矢、ドローレス\r",
+      "zh": "\t“深眠之箭”朵罗雷丝\r"
+    }
+  },
+  "136500": {
+    "NpcName": { "en": "\tJarwight\r", "jp": "\t壺男\r", "zh": "\t壶男\r" }
+  },
+  "136700": {
+    "NpcName": {
+      "en": "\tInaba, Disciple of Okina\r",
+      "jp": "\t翁の高弟、イナバ衆\r",
+      "zh": "\t“老翁的高徒”稻叶众\r"
+    }
+  },
+  "136800": {
+    "NpcName": {
+      "en": "\tSilver Tear\r",
+      "jp": "\t銀の雫\r",
+      "zh": "\t银色泪滴\r"
+    }
+  },
+  "136900": {
+    "NpcName": {
+      "en": "\tRecusant Henricus\r",
+      "jp": "\t背律者ヘンリクス\r",
+      "zh": "\t“叛律者”亨利克斯\r"
+    }
+  },
+  "137000": {
+    "NpcName": {
+      "en": "\tFia's Champion\r",
+      "jp": "\tフィアの英雄\r",
+      "zh": "\t菲雅的英雄\r"
+    }
+  },
+  "137100": {
+    "NpcName": {
+      "en": "\tFia's Champion\r",
+      "jp": "\tフィアの英雄\r",
+      "zh": "\t菲雅的英雄\r"
+    }
+  },
+  "137200": {
+    "NpcName": {
+      "en": "\tMaleigh Marais, Shaded Castle Castellan\r",
+      "jp": "\t日陰の城主、マレーマレー\r",
+      "zh": "\t“日荫城主”玛雷玛雷\r"
+    }
+  },
+  "137300": {
+    "NpcName": {
+      "en": "\tKnight of the Great Jar\r",
+      "jp": "\t大壺の騎士\r",
+      "zh": "\t大壶骑士\r"
+    }
+  },
+  "137400": {
+    "NpcName": {
+      "en": "\tKnight of the Great Jar\r",
+      "jp": "\t大壺の騎士\r",
+      "zh": "\t大壶骑士\r"
+    }
+  },
+  "137500": {
+    "NpcName": {
+      "en": "\tKnight of the Great Jar\r",
+      "jp": "\t大壺の騎士\r",
+      "zh": "\t大壶骑士\r"
+    }
+  },
+  "137600": {
+    "NpcName": {
+      "en": "\tNecromancer Garris\r",
+      "jp": "\t死術師ガレス\r",
+      "zh": "\t死术师哥瑞斯\r"
+    }
+  },
+  "137700": {
+    "NpcName": {
+      "en": "\tNameless White Mask\r",
+      "jp": "\t名も無き白面\r",
+      "zh": "\t无名白面具\r"
+    }
+  },
+  "137900": { "NpcName": { "jp": "\t王都 下水終点\r" } },
+  "138000": {
+    "NpcName": {
+      "en": "\tErrant Sorcerer Wilhelm\r",
+      "jp": "\tはぐれ魔術師、ヴィルヘルム\r",
+      "zh": "\t“离群魔法师”维赫勒\r"
+    }
+  },
+  "138200": {
+    "NpcName": {
+      "en": "\tChief Guardian Arghanthy\r",
+      "jp": "\t監視者の長、アーガンティ\r",
+      "zh": "\t“监视者之首”亚冈提\r"
+    }
+  },
+  "138300": {
+    "NpcName": {
+      "en": "\tFlame Guardian\r",
+      "jp": "\t火の監視者\r",
+      "zh": "\t火焰监视者\r"
+    }
+  },
+  "138400": {
+    "NpcName": {
+      "en": "\tInquisitor Ghiza\r",
+      "jp": "\t責問官ギーザ\r",
+      "zh": "\t拷问官基萨\r"
+    }
+  },
+  "138500": {
+    "NpcName": {
+      "en": "\tMad Tongue Alberich\r",
+      "jp": "\t狂い舌、アルベリッヒ\r",
+      "zh": "\t“发狂之舌”阿尔佩利希\r"
+    }
+  },
+  "138600": {
+    "NpcName": {
+      "en": "\tEsgar, Priest of Blood\r",
+      "jp": "\t血の司祭、エスガー\r",
+      "zh": "\t“鲜血祭司”艾斯加\r"
+    }
+  },
+  "138700": {
+    "NpcName": {
+      "en": "\tMary, Eldest Sister\r",
+      "jp": "\t長姉メアリー\r",
+      "zh": "\t大姊玛莉\r"
+    }
+  },
+  "138800": {
+    "NpcName": {
+      "en": "\tMaureen, Second Sister\r",
+      "jp": "\t次姉モーリーン\r",
+      "zh": "\t二姊茉莉\r"
+    }
+  },
+  "138900": {
+    "NpcName": {
+      "en": "\tAmy, Third Sister\r",
+      "jp": "\t三姉エイミー\r",
+      "zh": "\t三姊艾蜜\r"
+    }
+  },
+  "139000": {
+    "NpcName": {
+      "en": "\tPolyanna, Youngest Sister\r",
+      "jp": "\t末妹ポリアンナ\r",
+      "zh": "\t么妹波莉安娜\r"
+    }
+  },
+  "139001": {
+    "NpcName": {
+      "en": "\tPolyanna, Adopted Daughter\r",
+      "jp": "\t養女ポリアンナ\r",
+      "zh": "\t养女波莉安娜\r"
+    }
+  },
+  "139100": {
+    "NpcName": {
+      "en": "\tMagnus the Beast Claw\r",
+      "jp": "\t獣の爪、マグナス\r",
+      "zh": "\t“兽爪”玛格纳斯\r"
+    }
+  },
+  "140200": {
+    "NpcName": {
+      "en": "\tHornsent Grandam\r",
+      "jp": "\t角人の老婆\r",
+      "zh": "\t角人老妪\r"
+    }
+  },
+  "140300": {
+    "NpcName": { "en": "\tIgon\r", "jp": "\tエーゴン\r", "zh": "\t埃贡\r" }
+  },
+  "140301": {
+    "NpcName": {
+      "en": "\tDrake Warrior Igon\r",
+      "jp": "\t竜の戦士、エーゴン\r",
+      "zh": "\t“龙战士”埃贡\r"
+    }
+  },
+  "140500": {
+    "NpcName": {
+      "en": "\tSt. Trina\r",
+      "jp": "\t聖女トリーナ\r",
+      "zh": "\t圣女托莉娜\r"
+    }
+  },
+  "140600": {
+    "NpcName": {
+      "en": "\tDragon Communion Priestess\r",
+      "jp": "\t竜餐の巫女\r",
+      "zh": "\t龙飨女巫\r"
+    }
+  },
+  "140601": {
+    "NpcName": {
+      "en": "\tAncient Dragon Florissax\r",
+      "jp": "\t古竜フローサクス\r",
+      "zh": "\t“古龙”芙柔桑克斯\r"
+    }
+  },
+  "140700": {
+    "NpcName": {
+      "en": "\tAncient Dragon-Man\r",
+      "jp": "\t古竜人\r",
+      "zh": "\t古龙人\r"
+    }
+  },
+  "140900": {
+    "NpcName": {
+      "en": "\tSwordhand of Night Jolán\r",
+      "jp": "\t夜の剣士、ヨラーン\r",
+      "zh": "\t“黑夜剑士”约兰\r"
+    }
+  },
+  "140901": {
+    "NpcName": {
+      "en": "\tSwordhand of Night Jolán\r",
+      "jp": "\t夜の剣士、ヨラーン\r",
+      "zh": "\t“黑夜剑士”约兰\r"
+    }
+  },
+  "140902": {
+    "NpcName": {
+      "en": "\tSwordhand of Night Jolán\r",
+      "jp": "\t夜の剣士、ヨラーン\r",
+      "zh": "\t“黑夜剑士”约兰\r"
+    }
+  },
+  "140903": {
+    "NpcName": {
+      "en": "\tSwordhand of Night Jolán\r",
+      "jp": "\t夜の剣士、ヨラーン\r",
+      "zh": "\t“黑夜剑士”约兰\r"
+    }
+  },
+  "140904": {
+    "NpcName": {
+      "en": "\tSwordhand of Night Anna\r",
+      "jp": "\t夜の剣士、アンナ\r",
+      "zh": "\t“黑夜剑士”安娜\r"
+    }
+  },
+  "140905": {
+    "NpcName": {
+      "en": "\tSwordhand of Night Jolán\r",
+      "jp": "\t夜の剣士、ヨラーン\r",
+      "zh": "\t“黑夜剑士”约兰\r"
+    }
+  },
+  "140906": {
+    "NpcName": {
+      "en": "\tJolán and Anna\r",
+      "jp": "\tヨラーンとアンナ\r",
+      "zh": "\t约兰与安娜\r"
+    }
+  },
+  "141300": {
+    "NpcName": {
+      "en": "\tFire Knight Queelign\r",
+      "jp": "\t火の騎士、クウィライン\r",
+      "zh": "\t“火焰骑士”昆兰\r"
+    }
+  },
+  "141301": {
+    "NpcName": {
+      "en": "\tFire Knight Queelign\r",
+      "jp": "\t火の騎士、クウィライン\r",
+      "zh": "\t“火焰骑士”昆兰\r"
+    }
+  },
+  "141302": {
+    "NpcName": {
+      "en": "\tFire Knight Queelign\r",
+      "jp": "\t火の騎士、クウィライン\r",
+      "zh": "\t“火焰骑士”昆兰\r"
+    }
+  },
+  "141400": {
+    "NpcName": { "en": "\tHornsent\r", "jp": "\t角人\r", "zh": "\t角人\r" }
+  },
+  "141401": {
+    "NpcName": { "en": "\tHornsent\r", "jp": "\t角人\r", "zh": "\t角人\r" }
+  },
+  "141402": {
+    "NpcName": { "en": "\tHornsent\r", "jp": "\t角人\r", "zh": "\t角人\r" }
+  },
+  "141403": {
+    "NpcName": { "en": "\tHornsent\r", "jp": "\t角人\r", "zh": "\t角人\r" }
+  },
+  "141500": {
+    "NpcName": { "en": "\tMoore\r", "jp": "\tムーア\r", "zh": "\t穆尔\r" }
+  },
+  "141501": {
+    "NpcName": { "en": "\tMoore\r", "jp": "\tムーア\r", "zh": "\t穆尔\r" }
+  },
+  "141502": {
+    "NpcName": { "en": "\tMoore\r", "jp": "\tムーア\r", "zh": "\t穆尔\r" }
+  },
+  "141503": {
+    "NpcName": {
+      "en": "\tForager Brood\r",
+      "jp": "\t拾い虫\r",
+      "zh": "\t集物虫\r"
+    }
+  },
+  "141504": {
+    "NpcName": {
+      "en": "\tForager Brood\r",
+      "jp": "\t拾い虫\r",
+      "zh": "\t集物虫\r"
+    }
+  },
+  "141600": {
+    "NpcName": {
+      "en": "\tSir Ansbach\r",
+      "jp": "\t老兵アンスバッハ\r",
+      "zh": "\t老兵安帕赫\r"
+    }
+  },
+  "141601": {
+    "NpcName": {
+      "en": "\tSir Ansbach\r",
+      "jp": "\t老兵アンスバッハ\r",
+      "zh": "\t老兵安帕赫\r"
+    }
+  },
+  "141602": {
+    "NpcName": {
+      "en": "\tSir Ansbach\r",
+      "jp": "\t老兵アンスバッハ\r",
+      "zh": "\t老兵安帕赫\r"
+    }
+  },
+  "141603": {
+    "NpcName": {
+      "en": "\tPureblood Knight Ansbach\r",
+      "jp": "\t純血騎士、アンスバッハ\r",
+      "zh": "\t“纯血骑士”安帕赫\r"
+    }
+  },
+  "141700": {
+    "NpcName": {
+      "en": "\tRedmane Freyja\r",
+      "jp": "\t赤獅子、フレイヤ\r",
+      "zh": "\t“红狮子”弗蕾亚\r"
+    }
+  },
+  "141701": {
+    "NpcName": {
+      "en": "\tRedmane Freyja\r",
+      "jp": "\t赤獅子、フレイヤ\r",
+      "zh": "\t“红狮子”弗蕾亚\r"
+    }
+  },
+  "141702": {
+    "NpcName": {
+      "en": "\tRedmane Freyja\r",
+      "jp": "\t赤獅子、フレイヤ\r",
+      "zh": "\t“红狮子”弗蕾亚\r"
+    }
+  },
+  "141800": {
+    "NpcName": {
+      "en": "\tNeedle Knight Leda\r",
+      "jp": "\t針の騎士、レダ\r",
+      "zh": "\t“金针骑士”蕾妲\r"
+    }
+  },
+  "141801": {
+    "NpcName": {
+      "en": "\tNeedle Knight Leda\r",
+      "jp": "\t針の騎士、レダ\r",
+      "zh": "\t“金针骑士”蕾妲\r"
+    }
+  },
+  "141802": {
+    "NpcName": {
+      "en": "\tNeedle Knight Leda\r",
+      "jp": "\t針の騎士、レダ\r",
+      "zh": "\t“金针骑士”蕾妲\r"
+    }
+  },
+  "141803": {
+    "NpcName": {
+      "en": "\tNeedle Knight Leda\r",
+      "jp": "\t針の騎士、レダ\r",
+      "zh": "\t“金针骑士”蕾妲\r"
+    }
+  },
+  "141900": {
+    "NpcName": {
+      "en": "\tThiollier\r",
+      "jp": "\tティエリエ\r",
+      "zh": "\t休里耶\r"
+    }
+  },
+  "141901": {
+    "NpcName": {
+      "en": "\tThiollier\r",
+      "jp": "\tティエリエ\r",
+      "zh": "\t休里耶\r"
+    }
+  },
+  "141902": {
+    "NpcName": {
+      "en": "\tThiollier\r",
+      "jp": "\tティエリエ\r",
+      "zh": "\t休里耶\r"
+    }
+  },
+  "141903": {
+    "NpcName": {
+      "en": "\tThiollier\r",
+      "jp": "\tティエリエ\r",
+      "zh": "\t休里耶\r"
+    }
+  },
+  "142000": {
+    "NpcName": {
+      "en": "\tCount Ymir, High Priest\r",
+      "jp": "\t大司祭、ユミル卿\r",
+      "zh": "\t“大祭司”尤弥尔\r"
+    }
+  },
+  "142001": {
+    "NpcName": {
+      "en": "\tCount Ymir, Mother of Fingers\r",
+      "jp": "\t指の母、ユミル卿\r",
+      "zh": "\t“指头之母”尤弥尔\r"
+    }
+  },
+  "142100": {
+    "NpcName": { "en": "\tRed Bear\r", "jp": "\t赤熊\r", "zh": "\t红熊\r" }
+  },
+  "142200": {
+    "NpcName": {
+      "en": "\tDancer of Ranah\r",
+      "jp": "\tラーナの踊り子\r",
+      "zh": "\t拉纳舞娘\r"
+    }
+  },
+  "142300": {
+    "NpcName": { "en": "\tRakshasa\r", "jp": "\t羅刹\r", "zh": "\t罗刹\r" }
+  },
+  "142400": {
+    "NpcName": {
+      "en": "\tKnight of the Solitary Gaol\r",
+      "jp": "\t孤牢の騎士\r",
+      "zh": "\t孤牢骑士\r"
+    }
+  },
+  "142500": {
+    "NpcName": {
+      "en": "\tDryleaf Dane\r",
+      "jp": "\t落葉のダン\r",
+      "zh": "\t“落叶”丹恩\r"
+    }
+  },
+  "142501": {
+    "NpcName": {
+      "en": "\tDryleaf Dane\r",
+      "jp": "\t落葉のダン\r",
+      "zh": "\t“落叶”丹恩\r"
+    }
+  },
+  "142502": {
+    "NpcName": {
+      "en": "\tDryleaf Dane\r",
+      "jp": "\t落葉のダン\r",
+      "zh": "\t“落叶”丹恩\r"
+    }
+  },
+  "142600": {
+    "NpcName": {
+      "en": "\tSanguine Noble Nataan\r",
+      "jp": "\t血の貴族、ナタン\r",
+      "zh": "\t“鲜血贵族”奈坦\r"
+    }
+  },
+  "142700": {
+    "NpcName": { "en": "\tLamenter\r", "jp": "\t嘆き人\r", "zh": "\t喟叹者\r" }
+  },
+  "142800": {
+    "NpcName": {
+      "en": "\tGreater Potentate\r",
+      "jp": "\t大壺師\r",
+      "zh": "\t大维壶师\r"
+    }
+  },
+  "142900": {
+    "NpcName": {
+      "en": "\tMadding Hand\r",
+      "jp": "\t狂える手\r",
+      "zh": "\t癫狂之手\r"
+    }
+  },
+  "143100": {
+    "NpcName": {
+      "en": "\tLogur, the Beast Claw\r",
+      "jp": "\t獣の爪、ロガ\r",
+      "zh": "\t“兽爪”罗格\r"
+    }
+  },
+  "143200": {
+    "NpcName": {
+      "en": "\tMoonrithyll, Carian Knight\r",
+      "jp": "\tカーリア騎士、ムーンリデル\r",
+      "zh": "\t“卡利亚骑士”穆利缇尔\r"
+    }
+  },
+  "160000": {
+    "NpcName": {
+      "en": "\tTwin Maiden Husks\r",
+      "jp": "\t双子の老婆\r",
+      "zh": "\t孪生老妪\r"
+    }
+  },
+  "160100": {
+    "NpcName": {
+      "en": "\tChurch of Dragon Communion\r",
+      "jp": "\t竜餐教会\r",
+      "zh": "\t龙飨教堂\r"
+    }
+  },
+  "160200": {
+    "NpcName": {
+      "en": "\tSmithing Table\r",
+      "jp": "\t鍛冶台\r",
+      "zh": "\t锻造台\r"
+    }
+  },
+  "160300": {
+    "NpcName": {
+      "en": "\tWandering Mausoleum Corpse\r",
+      "jp": "\t歩く霊廟の遺体\r",
+      "zh": "\t漫步灵庙的尸体\r"
+    }
+  },
+  "160400": {
+    "NpcName": {
+      "en": "\tBasin of Atonement\r",
+      "jp": "\t贖罪の水盆\r",
+      "zh": "\t赎罪水池\r"
+    }
+  },
+  "160500": {
+    "NpcName": {
+      "en": "\tCathedral of Dragon Communion\r",
+      "jp": "\t竜餐大教会\r",
+      "zh": "\t龙飨大教堂\r"
+    }
+  },
+  "160600": { "NpcName": { "jp": "\t壺村の壺(花の種交換)\r" } },
+  "160700": {
+    "NpcName": {
+      "en": "\tFractured Marika\r",
+      "jp": "\t壊れかけのマリカ\r",
+      "zh": "\t濒毁玛莉卡\r"
+    }
+  },
+  "160800": {
+    "NpcName": {
+      "en": "\tClouded Mirror Stand\r",
+      "jp": "\t曇った化粧台\r",
+      "zh": "\t雾镜化妆台\r"
+    }
+  },
+  "160900": {
+    "NpcName": {
+      "en": "\tSword of Bernahl\r",
+      "jp": "\tベルナールの剣\r",
+      "zh": "\t贝纳尔的剑\r"
+    }
+  },
+  "163000": {
+    "NpcName": {
+      "en": "\tGrand Altar of Dragon Communion\r",
+      "jp": "\t竜餐の大祭壇\r",
+      "zh": "\t龙飨大祭坛\r"
+    }
+  },
+  "170000": { "NpcName": { "jp": "\t話す死体\r" } },
+  "170001": { "NpcName": { "jp": "\t話す死体_緑北_闘技場まわり\r" } },
+  "170002": { "NpcName": { "jp": "\t話す死体_緑北_緑南の一個目の教会\r" } },
+  "170003": { "NpcName": { "jp": "\t話す死体_緑北_緑南砦の牢の中\r" } },
+  "170004": {
+    "NpcName": { "jp": "\t話す死体_緑北_地下墓地1-4の入り口近く\r" }
+  },
+  "170005": {
+    "NpcName": { "jp": "\t話す死体_緑北_最初の地下墓地(地下墓地1-3)の中\r" }
+  },
+  "170006": { "NpcName": { "jp": "\t話す死体_緑北_見張り塔の手前の篝火\r" } },
+  "170007": { "NpcName": { "jp": "\t話す死体_湖足萎え村、ネフェリの後\r" } },
+  "170008": { "NpcName": { "jp": "\t話す死体_湖混沌村前の壁\r" } },
+  "170009": { "NpcName": { "jp": "\t話す死体_湖戦場跡近く\r" } },
+  "170010": { "NpcName": { "jp": "\t話す死体_湖戦場跡越えた後の林\r" } },
+  "170011": { "NpcName": { "jp": "\t話す死体_湖王家貴人の遺跡中\r" } },
+  "170012": { "NpcName": { "jp": "\t話す死体_湖逆さ塔最初の部屋\r" } },
+  "170013": { "NpcName": { "jp": "\t話す死体_湖砦の序盤\r" } },
+  "170014": { "NpcName": { "jp": "\t話す死体_高山（王都側）風車村の中腹\r" } },
+  "170015": { "NpcName": { "jp": "\t話す死体_高山（王都側）王都正門前\r" } },
+  "170016": { "NpcName": { "jp": "\t話す死体_高山（火山側）戦場跡前\r" } },
+  "170017": { "NpcName": { "jp": "\t話す死体_高山（火山）砦の上\r" } },
+  "170018": { "NpcName": { "jp": "\t話す死体_高山（火山）ミニ砦の中\r" } },
+  "170019": { "NpcName": { "jp": "\t話す死体_平原毒沼の近く\r" } },
+  "170020": { "NpcName": { "jp": "\t話す死体_平原塔4‐1\r" } },
+  "170021": { "NpcName": { "jp": "\t話す死体_平原ミリセントが出る直前\r" } },
+  "170022": { "NpcName": { "jp": "\t話す死体_平原地図石碑の前\r" } },
+  "170023": { "NpcName": { "jp": "\t話す死体_平原見晴台\r" } },
+  "170024": { "NpcName": { "jp": "\t話す死体_平原腐敗ワイバーンの手前\r" } },
+  "170025": { "NpcName": { "jp": "\t話す死体_平原遺跡4-2\r" } },
+  "170026": { "NpcName": { "jp": "\t話す死体_雪山雪山砦　終端\r" } },
+  "170027": { "NpcName": { "jp": "\t話す死体_オープン雪山雪山砦\r" } },
+  "170028": {
+    "NpcName": { "jp": "\t話す死体_雪山_雪原雪原の序盤/ブリザードエリア\r" }
+  },
+  "170029": {
+    "NpcName": { "jp": "\t話す死体_雪山_雪原雪原の序盤/ブリザードエリア\r" }
+  },
+  "170030": {
+    "NpcName": { "jp": "\t話す死体_雪山_雪原雪原の序盤/ブリザードエリア\r" }
+  },
+  "170031": { "NpcName": { "jp": "\t話す死体_地下迷宮平原上層水道橋上\r" } },
+  "170032": { "NpcName": { "jp": "\t話す死体_地下迷宮平原奥地水没林_奥\r" } },
+  "170033": { "NpcName": { "jp": "\t話す死体_地下迷宮王都世界樹の根本\r" } },
+  "170034": { "NpcName": { "jp": "\t話す死体_地下迷宮王都世界樹の根本\r" } },
+  "170035": { "NpcName": { "jp": "\t話す死体_地下迷宮毒沼マリカ遺跡\r" } },
+  "170036": { "NpcName": { "jp": "\t話す死体_王都(灰)窪地\r" } },
+  "170037": { "NpcName": { "jp": "\t話す死体_王都(灰)教会後\r" } },
+  "175000": {
+    "NpcName": {
+      "en": "\tFinger Reader Crone\r",
+      "jp": "\t指読みの老婆\r",
+      "zh": "\t解指老妪\r"
+    }
+  },
+  "175001": {
+    "NpcName": {
+      "en": "\tFinger Reader Crone\r",
+      "jp": "\t指読みの老婆\r",
+      "zh": "\t解指老妪\r"
+    }
+  },
+  "175002": {
+    "NpcName": {
+      "en": "\tFinger Reader Crone\r",
+      "jp": "\t指読みの老婆\r",
+      "zh": "\t解指老妪\r"
+    }
+  },
+  "175003": {
+    "NpcName": {
+      "en": "\tFinger Reader Crone\r",
+      "jp": "\t指読みの老婆\r",
+      "zh": "\t解指老妪\r"
+    }
+  },
+  "175004": {
+    "NpcName": {
+      "en": "\tFinger Reader Crone\r",
+      "jp": "\t指読みの老婆\r",
+      "zh": "\t解指老妪\r"
+    }
+  },
+  "175005": {
+    "NpcName": {
+      "en": "\tFinger Reader Crone\r",
+      "jp": "\t指読みの老婆\r",
+      "zh": "\t解指老妪\r"
+    }
+  },
+  "175006": {
+    "NpcName": {
+      "en": "\tFinger Reader Crone\r",
+      "jp": "\t指読みの老婆\r",
+      "zh": "\t解指老妪\r"
+    }
+  },
+  "175007": {
+    "NpcName": {
+      "en": "\tKeeper of Forbidden Lands\r",
+      "jp": "\t禁域守りの老婆\r",
+      "zh": "\t看守禁域的老妪\r"
+    }
+  },
+  "175008": {
+    "NpcName": {
+      "en": "\tGodwyn's Wet Nurse\r",
+      "jp": "\tゴッドウィンの乳母\r",
+      "zh": "\t葛德文的乳母\r"
+    }
+  },
+  "180000": {
+    "NpcName": {
+      "en": "\tMerchant Kalé\r",
+      "jp": "\t放浪商人カーレ\r",
+      "zh": "\t“流浪商人”咖列\r"
+    }
+  },
+  "180101": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180102": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180103": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180104": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180105": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180106": {
+    "NpcName": {
+      "en": "\tIsolated Merchant\r",
+      "jp": "\t隠遁商人\r",
+      "zh": "\t隐居商人\r"
+    }
+  },
+  "180107": {
+    "NpcName": {
+      "en": "\tIsolated Merchant\r",
+      "jp": "\t隠遁商人\r",
+      "zh": "\t隐居商人\r"
+    }
+  },
+  "180108": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180109": {
+    "NpcName": {
+      "en": "\tHermit Merchant\r",
+      "jp": "\t世を捨てた商人\r",
+      "zh": "\t遁世商人\r"
+    }
+  },
+  "180110": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180111": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180112": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180113": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180114": {
+    "NpcName": {
+      "en": "\tNomadic Merchant\r",
+      "jp": "\t放浪の民の商人\r",
+      "zh": "\t流浪民族的商人\r"
+    }
+  },
+  "180115": {
+    "NpcName": {
+      "en": "\tIsolated Merchant\r",
+      "jp": "\t隠遁商人\r",
+      "zh": "\t隐居商人\r"
+    }
+  },
+  "180116": {
+    "NpcName": {
+      "en": "\tHermit Merchant\r",
+      "jp": "\t世を捨てた商人\r",
+      "zh": "\t遁世商人\r"
+    }
+  },
+  "180117": {
+    "NpcName": {
+      "en": "\tAbandoned Merchant\r",
+      "jp": "\t取り残された商人\r",
+      "zh": "\t见弃商人\r"
+    }
+  },
+  "180118": {
+    "NpcName": {
+      "en": "\tHermit Merchant\r",
+      "jp": "\t世を捨てた商人\r",
+      "zh": "\t遁世商人\r"
+    }
+  },
+  "180119": {
+    "NpcName": {
+      "en": "\tImprisoned Merchant\r",
+      "jp": "\t囚われた商人\r",
+      "zh": "\t受囚商人\r"
+    }
+  },
+  "10104137": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "10204435": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "10304533": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "10403943": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "10503542": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "10711400": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "10803550": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "10903752": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "11003654": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "11103954": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "11204737": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "11305039": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "11405136": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "11505243": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "11605254": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "11705057": {
+    "NpcName": {
+      "en": "\tSomeone Yet Unseen\r",
+      "jp": "\tまだ見ぬ何者か\r",
+      "zh": "\t未曾谋面的人物\r"
+    }
+  },
+  "900000410": {
+    "NpcName": { "en": "\tLamenter\r", "jp": "\t嘆き人\r", "zh": "\t喟叹者\r" }
+  },
+  "900000430": {
+    "NpcName": {
+      "en": "\tAncient Dragon-Man\r",
+      "jp": "\t古竜人\r",
+      "zh": "\t古龙人\r"
+    }
+  },
+  "900000520": {
+    "NpcName": {
+      "en": "\tAdan, Thief of Fire\r",
+      "jp": "\t火を盗んだアダン\r",
+      "zh": "\t“盗火”亚当\r"
+    }
+  },
+  "900000521": {
+    "NpcName": {
+      "en": "\tVyke the Dragonspear\r",
+      "jp": "\t竜槍、ヴァイク\r",
+      "zh": "\t“龙枪”维克\r"
+    }
+  },
+  "900000560": {
+    "NpcName": { "en": "\tRed Bear\r", "jp": "\t赤熊\r", "zh": "\t红熊\r" }
+  },
+  "900000561": {
+    "NpcName": {
+      "en": "\tDancer of Ranah\r",
+      "jp": "\tラーナの踊り子\r",
+      "zh": "\t拉纳舞娘\r"
+    }
+  },
+  "900000562": {
+    "NpcName": { "en": "\tRakshasa\r", "jp": "\t羅刹\r", "zh": "\t罗刹\r" }
+  },
+  "900000563": {
+    "NpcName": {
+      "en": "\tBlackgaol Knight\r",
+      "jp": "\t孤牢の騎士\r",
+      "zh": "\t孤牢骑士\r"
+    }
+  },
+  "900000600": { "NpcName": { "jp": "\t盗賊を束ねる者\r" } },
+  "900000601": {
+    "NpcName": { "en": "\tOkina\r", "jp": "\t翁\r", "zh": "\t老翁\r" }
+  },
+  "900000605": {
+    "NpcName": {
+      "en": "\tSwordhand of Night Jolán\r",
+      "jp": "\t夜の剣士、ヨラーン\r",
+      "zh": "\t“黑夜剑士”约兰\r"
+    }
+  },
+  "900000606": {
+    "NpcName": {
+      "en": "\tCount Ymir, Mother of Fingers\r",
+      "jp": "\t指の母、ユミル卿\r",
+      "zh": "\t“指头之母”尤弥尔\r"
+    }
+  },
+  "902030000": {
+    "NpcName": {
+      "en": "\tRennala, Queen of the Full Moon\r",
+      "jp": "\t満月の女王、レナラ\r",
+      "zh": "\t“满月女王”蕾娜菈\r"
+    }
+  },
+  "902030001": {
+    "NpcName": {
+      "en": "\tRennala, Queen of the Full Moon\r",
+      "jp": "\t満月の女王、レナラ\r",
+      "zh": "\t“满月女王”蕾娜菈\r"
+    }
+  },
+  "902100300": {
+    "NpcName": {
+      "en": "\tBlack Knife Assassin\r",
+      "jp": "\t黒き刃の刺客\r",
+      "zh": "\t黑刀刺客\r"
+    }
+  },
+  "902100301": {
+    "NpcName": {
+      "en": "\tBlack Knife Assassin\r",
+      "jp": "\t黒き刃の刺客\r",
+      "zh": "\t黑刀刺客\r"
+    }
+  },
+  "902100302": {
+    "NpcName": {
+      "en": "\tBlack Knife Assassin\r",
+      "jp": "\t黒き刃の刺客\r",
+      "zh": "\t黑刀刺客\r"
+    }
+  },
+  "902100310": {
+    "NpcName": {
+      "en": "\tBlack Knife Assassin\r",
+      "jp": "\t黒き刃の刺客\r",
+      "zh": "\t黑刀刺客\r"
+    }
+  },
+  "902100521": {
+    "NpcName": {
+      "en": "\tAlecto, Black Knife Ringleader\r",
+      "jp": "\t黒き刃の長、アレクトー\r",
+      "zh": "\t“黑刀之首”亚勒托\r"
+    }
+  },
+  "902100600": {
+    "NpcName": {
+      "en": "\tBlack Knife Assassin\r",
+      "jp": "\t黒き刃の刺客\r",
+      "zh": "\t黑刀刺客\r"
+    }
+  },
+  "902110000": {
+    "NpcName": {
+      "en": "\tBeast Clergyman\r",
+      "jp": "\t獣の司祭\r",
+      "zh": "\t野兽祭司\r"
+    }
+  },
+  "902110001": {
+    "NpcName": {
+      "en": "\tMaliketh, the Black Blade\r",
+      "jp": "\t黒き剣のマリケス\r",
+      "zh": "\t“黑剑”玛利喀斯\r"
+    }
+  },
+  "902120000": {
+    "NpcName": {
+      "en": "\tMalenia, Blade of Miquella\r",
+      "jp": "\tミケラの刃、マレニア\r",
+      "zh": "\t“米凯拉的锋刃”玛莲妮亚\r"
+    }
+  },
+  "902120001": {
+    "NpcName": {
+      "en": "\tMalenia, Goddess of Rot\r",
+      "jp": "\t腐敗の女神、マレニア\r",
+      "zh": "\t“腐败女神”玛莲妮亚\r"
+    }
+  },
+  "902130000": {
+    "NpcName": {
+      "en": "\tMargit, the Fell Omen\r",
+      "jp": "\t忌み鬼、マルギット\r",
+      "zh": "\t“恶兆妖鬼”玛尔基特\r"
+    }
+  },
+  "902130002": {
+    "NpcName": {
+      "en": "\tMorgott, the Omen King\r",
+      "jp": "\t忌み王、モーゴット\r",
+      "zh": "\t“恶兆王”蒙葛特\r"
+    }
+  },
+  "902130003": {
+    "NpcName": {
+      "en": "\tMorgott, the Omen King\r",
+      "jp": "\t忌み王、モーゴット\r",
+      "zh": "\t“恶兆王”蒙葛特\r"
+    }
+  },
+  "902140000": {
+    "NpcName": {
+      "en": "\tFell Twin\r",
+      "jp": "\t忌み双子\r",
+      "zh": "\t恶兆孪生子\r"
+    }
+  },
+  "902140001": {
+    "NpcName": {
+      "en": "\tFell Twin\r",
+      "jp": "\t忌み双子\r",
+      "zh": "\t恶兆孪生子\r"
+    }
+  },
+  "902190000": {
+    "NpcName": {
+      "en": "\tRadagon of the Golden Order\r",
+      "jp": "\t黄金律、ラダゴン\r",
+      "zh": "\t“黄金律法”拉达冈\r"
+    }
+  },
+  "902200000": {
+    "NpcName": {
+      "en": "\tElden Beast\r",
+      "jp": "\tエルデの獣\r",
+      "zh": "\t艾尔登之兽\r"
+    }
+  },
+  "902500300": {
+    "NpcName": {
+      "en": "\tCrucible Knight Ordovis\r",
+      "jp": "\t坩堝の騎士、オルドビス\r",
+      "zh": "\t“熔炉骑士”奥陶琵斯\r"
+    }
+  },
+  "902500301": {
+    "NpcName": {
+      "en": "\tCrucible Knight\r",
+      "jp": "\t坩堝の騎士\r",
+      "zh": "\t熔炉骑士\r"
+    }
+  },
+  "902500500": {
+    "NpcName": {
+      "en": "\tCrucible Knight\r",
+      "jp": "\t坩堝の騎士\r",
+      "zh": "\t熔炉骑士\r"
+    }
+  },
+  "902500520": {
+    "NpcName": {
+      "en": "\tCrucible Knight\r",
+      "jp": "\t坩堝の騎士\r",
+      "zh": "\t熔炉骑士\r"
+    }
+  },
+  "902500600": {
+    "NpcName": {
+      "en": "\tCrucible Knight Siluria\r",
+      "jp": "\t坩堝の騎士、シルリア\r",
+      "zh": "\t“熔炉骑士”志留亚\r"
+    }
+  },
+  "903050500": {
+    "NpcName": {
+      "en": "\tCommander Niall\r",
+      "jp": "\t宿将ニアール\r",
+      "zh": "\t老将尼奥\r"
+    }
+  },
+  "903050600": {
+    "NpcName": {
+      "en": "\tCommander O'Neil\r",
+      "jp": "\t宿将オニール\r",
+      "zh": "\t老将欧尼尔\r"
+    }
+  },
+  "903100500": {
+    "NpcName": {
+      "en": "\tElemer of the Briar\r",
+      "jp": "\t鉄茨のエレメール\r",
+      "zh": "\t“铁棘”艾隆梅尔\r"
+    }
+  },
+  "903100600": {
+    "NpcName": {
+      "en": "\tBell Bearing Hunter\r",
+      "jp": "\t鈴玉狩り\r",
+      "zh": "\t铃珠猎人\r"
+    }
+  },
+  "903100601": {
+    "NpcName": {
+      "en": "\tBell Bearing Hunter\r",
+      "jp": "\t鈴玉狩り\r",
+      "zh": "\t铃珠猎人\r"
+    }
+  },
+  "903100602": {
+    "NpcName": {
+      "en": "\tBell Bearing Hunter\r",
+      "jp": "\t鈴玉狩り\r",
+      "zh": "\t铃珠猎人\r"
+    }
+  },
+  "903100603": {
+    "NpcName": {
+      "en": "\tBell Bearing Hunter\r",
+      "jp": "\t鈴玉狩り\r",
+      "zh": "\t铃珠猎人\r"
+    }
+  },
+  "903150600": {
+    "NpcName": {
+      "en": "\tNight's Cavalry\r",
+      "jp": "\t夜の騎兵\r",
+      "zh": "\t黑夜骑兵\r"
+    }
+  },
+  "903150601": {
+    "NpcName": {
+      "en": "\tNight's Cavalry\r",
+      "jp": "\t夜の騎兵\r",
+      "zh": "\t黑夜骑兵\r"
+    }
+  },
+  "903150602": {
+    "NpcName": {
+      "en": "\tNight's Cavalry\r",
+      "jp": "\t夜の騎兵\r",
+      "zh": "\t黑夜骑兵\r"
+    }
+  },
+  "903150603": {
+    "NpcName": {
+      "en": "\tNight's Cavalry\r",
+      "jp": "\t夜の騎兵\r",
+      "zh": "\t黑夜骑兵\r"
+    }
+  },
+  "903150604": {
+    "NpcName": {
+      "en": "\tNight's Cavalry\r",
+      "jp": "\t夜の騎兵\r",
+      "zh": "\t黑夜骑兵\r"
+    }
+  },
+  "903150605": {
+    "NpcName": {
+      "en": "\tNight's Cavalry\r",
+      "jp": "\t夜の騎兵\r",
+      "zh": "\t黑夜骑兵\r"
+    }
+  },
+  "903150606": {
+    "NpcName": {
+      "en": "\tNight's Cavalry\r",
+      "jp": "\t夜の騎兵\r",
+      "zh": "\t黑夜骑兵\r"
+    }
+  },
+  "903150607": {
+    "NpcName": {
+      "en": "\tNight's Cavalry\r",
+      "jp": "\t夜の騎兵\r",
+      "zh": "\t黑夜骑兵\r"
+    }
+  },
+  "903150608": {
+    "NpcName": {
+      "en": "\tNight's Cavalry (Glaive)\r",
+      "jp": "\t夜の騎兵：グレイブ\r",
+      "zh": "\t黑夜骑兵（剑刃戟）\r"
+    }
+  },
+  "903150609": {
+    "NpcName": {
+      "en": "\tNight's Cavalry (Flail)\r",
+      "jp": "\t夜の騎兵：フレイル\r",
+      "zh": "\t黑夜骑兵（连枷）\r"
+    }
+  },
+  "903181000": {
+    "NpcName": {
+      "en": "\tRed Wolf of Radagon\r",
+      "jp": "\tラダゴンの赤狼\r",
+      "zh": "\t拉达冈的红狼\r"
+    }
+  },
+  "903181300": {
+    "NpcName": {
+      "en": "\tRed Wolf of the Champion\r",
+      "jp": "\t英雄の赤狼\r",
+      "zh": "\t英雄的红狼\r"
+    }
+  },
+  "903250600": {
+    "NpcName": {
+      "en": "\tDraconic Tree Sentinel\r",
+      "jp": "\t竜のツリーガード\r",
+      "zh": "\t龙装大树守卫\r"
+    }
+  },
+  "903251600": {
+    "NpcName": {
+      "en": "\tTree Sentinel\r",
+      "jp": "\tツリーガード\r",
+      "zh": "\t大树守卫\r"
+    }
+  },
+  "903251601": {
+    "NpcName": {
+      "en": "\tTree Sentinel\r",
+      "jp": "\tツリーガード\r",
+      "zh": "\t大树守卫\r"
+    }
+  },
+  "903251602": {
+    "NpcName": {
+      "en": "\tTree Sentinel\r",
+      "jp": "\tツリーガード\r",
+      "zh": "\t大树守卫\r"
+    }
+  },
+  "903252000": {
+    "NpcName": {
+      "en": "\tLoretta, Knight of the Haligtree\r",
+      "jp": "\t聖樹の騎士、ローレッタ\r",
+      "zh": "\t“圣树骑士”罗蕾塔\r"
+    }
+  },
+  "903253500": {
+    "NpcName": {
+      "en": "\tRoyal Knight Loretta\r",
+      "jp": "\t親衛騎士ローレッタ\r",
+      "zh": "\t禁卫骑士罗蕾塔\r"
+    }
+  },
+  "903300560": {
+    "NpcName": {
+      "en": "\tNox Monk\r",
+      "jp": "\tノクスの僧\r",
+      "zh": "\t诺克斯修士\r"
+    }
+  },
+  "903300561": {
+    "NpcName": {
+      "en": "\tNox Swordstress\r",
+      "jp": "\tノクスの剣士\r",
+      "zh": "\t诺克斯剑士\r"
+    }
+  },
+  "903320000": {
+    "NpcName": {
+      "en": "\tMimic Tear\r",
+      "jp": "\t写し身の雫\r",
+      "zh": "\t仿身泪滴\r"
+    }
+  },
+  "903320300": {
+    "NpcName": {
+      "en": "\tStray Mimic Tear\r",
+      "jp": "\tはぐれ写し身\r",
+      "zh": "\t离群仿身泪滴\r"
+    }
+  },
+  "903350310": {
+    "NpcName": {
+      "en": "\tCrystalian (Staff)\r",
+      "jp": "\t結晶人：杖\r",
+      "zh": "\t结晶人（手杖）\r"
+    }
+  },
+  "903350311": {
+    "NpcName": {
+      "en": "\tCrystalian (Spear)\r",
+      "jp": "\t結晶人：槍\r",
+      "zh": "\t结晶人（矛）\r"
+    }
+  },
+  "903350312": {
+    "NpcName": {
+      "en": "\tPutrid Crystalian (Ringblade)\r",
+      "jp": "\t腐敗した結晶人：輪刃\r",
+      "zh": "\t腐败结晶人（圆刃刀）\r"
+    }
+  },
+  "903350313": {
+    "NpcName": {
+      "en": "\tPutrid Crystalian (Spear)\r",
+      "jp": "\t腐敗した結晶人：槍\r",
+      "zh": "\t腐败结晶人（矛）\r"
+    }
+  },
+  "903350314": {
+    "NpcName": {
+      "en": "\tPutrid Crystalian (Staff)\r",
+      "jp": "\t腐敗した結晶人：杖\r",
+      "zh": "\t腐败结晶人（手杖）\r"
+    }
+  },
+  "903350320": {
+    "NpcName": {
+      "en": "\tCrystalian\r",
+      "jp": "\t結晶人\r",
+      "zh": "\t结晶人\r"
+    }
+  },
+  "903350321": {
+    "NpcName": {
+      "en": "\tCrystalian (Ringblade)\r",
+      "jp": "\t結晶人：輪刃\r",
+      "zh": "\t结晶人（圆刃刀）\r"
+    }
+  },
+  "903350322": {
+    "NpcName": {
+      "en": "\tCrystalian (Spear)\r",
+      "jp": "\t結晶人：槍\r",
+      "zh": "\t结晶人（矛）\r"
+    }
+  },
+  "903400300": {
+    "NpcName": {
+      "en": "\tGrave Warden Duelist\r",
+      "jp": "\t墓守闘士\r",
+      "zh": "\t守墓斗士\r"
+    }
+  },
+  "903400301": {
+    "NpcName": {
+      "en": "\tGrave Warden Duelist\r",
+      "jp": "\t墓守闘士\r",
+      "zh": "\t守墓斗士\r"
+    }
+  },
+  "903400302": {
+    "NpcName": {
+      "en": "\tPutrid Grave Warden Duelist\r",
+      "jp": "\t腐敗した墓守闘士\r",
+      "zh": "\t腐败守墓斗士\r"
+    }
+  },
+  "903400310": {
+    "NpcName": {
+      "en": "\tFrenzied Duelist\r",
+      "jp": "\t狂った闘士\r",
+      "zh": "\t发狂斗士\r"
+    }
+  },
+  "903451320": {
+    "NpcName": {
+      "en": "\tScaly Misbegotten\r",
+      "jp": "\tウロコの混種\r",
+      "zh": "\t片鳞混种\r"
+    }
+  },
+  "903460300": {
+    "NpcName": {
+      "en": "\tMisbegotten Warrior\r",
+      "jp": "\t混種の戦士\r",
+      "zh": "\t混种战士\r"
+    }
+  },
+  "903460310": {
+    "NpcName": {
+      "en": "\tMisbegotten Crusader\r",
+      "jp": "\t混種の聖騎士\r",
+      "zh": "\t混种圣骑士\r"
+    }
+  },
+  "903460500": {
+    "NpcName": {
+      "en": "\tLeonine Misbegotten\r",
+      "jp": "\t獅子の混種\r",
+      "zh": "\t狮子混种\r"
+    }
+  },
+  "903460501": {
+    "NpcName": {
+      "en": "\tMisbegotten Warrior\r",
+      "jp": "\t混種の戦士\r",
+      "zh": "\t混种战士\r"
+    }
+  },
+  "903550540": {
+    "NpcName": {
+      "en": "\tSanguine Noble\r",
+      "jp": "\t血の貴族\r",
+      "zh": "\t鲜血贵族\r"
+    }
+  },
+  "903560000": {
+    "NpcName": {
+      "en": "\tGodskin Apostle\r",
+      "jp": "\t神肌の使徒\r",
+      "zh": "\t神皮使徒\r"
+    }
+  },
+  "903560310": {
+    "NpcName": {
+      "en": "\tGodskin Apostle\r",
+      "jp": "\t神肌の使徒\r",
+      "zh": "\t神皮使徒\r"
+    }
+  },
+  "903560600": {
+    "NpcName": {
+      "en": "\tGodskin Apostle\r",
+      "jp": "\t神肌の使徒\r",
+      "zh": "\t神皮使徒\r"
+    }
+  },
+  "903570000": {
+    "NpcName": {
+      "en": "\tGodskin Noble\r",
+      "jp": "\t神肌の貴種\r",
+      "zh": "\t神皮贵族\r"
+    }
+  },
+  "903570310": {
+    "NpcName": {
+      "en": "\tGodskin Noble\r",
+      "jp": "\t神肌の貴種\r",
+      "zh": "\t神皮贵族\r"
+    }
+  },
+  "903575000": {
+    "NpcName": {
+      "en": "\tGodskin Duo\r",
+      "jp": "\t神肌のふたり\r",
+      "zh": "\t神皮双人组\r"
+    }
+  },
+  "903600320": {
+    "NpcName": {
+      "en": "\tOnyx Lord\r",
+      "jp": "\t石肌の黒王\r",
+      "zh": "\t石肤黑王\r"
+    }
+  },
+  "903600520": {
+    "NpcName": {
+      "en": "\tOnyx Lord\r",
+      "jp": "\t石肌の黒王\r",
+      "zh": "\t石肤黑王\r"
+    }
+  },
+  "903664300": {
+    "NpcName": {
+      "en": "\tCemetery Shade\r",
+      "jp": "\t墓所影\r",
+      "zh": "\t墓地影子\r"
+    }
+  },
+  "903664301": {
+    "NpcName": {
+      "en": "\tCemetery Shade\r",
+      "jp": "\t墓所影\r",
+      "zh": "\t墓地影子\r"
+    }
+  },
+  "903664302": {
+    "NpcName": {
+      "en": "\tCemetery Shade\r",
+      "jp": "\t墓所影\r",
+      "zh": "\t墓地影子\r"
+    }
+  },
+  "903700300": {
+    "NpcName": {
+      "en": "\tPerfumer Tricia\r",
+      "jp": "\t調香師トリシャ\r",
+      "zh": "\t调香师托莉夏\r"
+    }
+  },
+  "903704520": {
+    "NpcName": {
+      "en": "\tBattlemage Hugues\r",
+      "jp": "\t戦魔術師ユーグ\r",
+      "zh": "\t战场魔法师犹格\r"
+    }
+  },
+  "903800310": {
+    "NpcName": {
+      "en": "\tCleanrot Knight\r",
+      "jp": "\tマレニアの貴腐騎士\r",
+      "zh": "\t玛莲妮亚的尊腐骑士\r"
+    }
+  },
+  "903800311": {
+    "NpcName": {
+      "en": "\tCleanrot Knight (Spear)\r",
+      "jp": "\tマレニアの貴腐騎士：槍\r",
+      "zh": "\t玛莲妮亚的尊腐骑士（矛）\r"
+    }
+  },
+  "903800312": {
+    "NpcName": {
+      "en": "\tCleanrot Knight (Sickle)\r",
+      "jp": "\tマレニアの貴腐騎士：鎌\r",
+      "zh": "\t玛莲妮亚的尊腐骑士（镰刀）\r"
+    }
+  },
+  "903810310": {
+    "NpcName": {
+      "en": "\tKindred of Rot\r",
+      "jp": "\t腐敗の眷属\r",
+      "zh": "\t腐败眷属\r"
+    }
+  },
+  "903810311": {
+    "NpcName": {
+      "en": "\tKindred of Rot\r",
+      "jp": "\t腐敗の眷属\r",
+      "zh": "\t腐败眷属\r"
+    }
+  },
+  "903970310": {
+    "NpcName": {
+      "en": "\tBeastman of Farum Azula\r",
+      "jp": "\tファルム・アズラの獣人\r",
+      "zh": "\t法姆·亚兹拉的兽人\r"
+    }
+  },
+  "903970311": {
+    "NpcName": {
+      "en": "\tBeastman of Farum Azula (Cleaver)\r",
+      "jp": "\tファルム・アズラの獣人：大刀\r",
+      "zh": "\t法姆·亚兹拉的兽人（大刀）\r"
+    }
+  },
+  "903970312": {
+    "NpcName": {
+      "en": "\tBeastman of Farum Azula (Throwing Knife)\r",
+      "jp": "\tファルム・アズラの獣人：投擲刀\r",
+      "zh": "\t法姆·亚兹拉的兽人（投掷刀）\r"
+    }
+  },
+  "904020540": {
+    "NpcName": {
+      "en": "\tRoyal Revenant\r",
+      "jp": "\t王族の幽鬼\r",
+      "zh": "\t王室幽魂\r"
+    }
+  },
+  "904120310": {
+    "NpcName": {
+      "en": "\tDemi-Human Chief\r",
+      "jp": "\t亜人の親分\r",
+      "zh": "\t亚人首领\r"
+    }
+  },
+  "904120311": {
+    "NpcName": {
+      "en": "\tDemi-Human Chief\r",
+      "jp": "\t亜人の親分\r",
+      "zh": "\t亚人首领\r"
+    }
+  },
+  "904130310": {
+    "NpcName": {
+      "en": "\tDemi-Human Queen Margot\r",
+      "jp": "\t亜人の女王マーゴ\r",
+      "zh": "\t“亚人女王”玛格\r"
+    }
+  },
+  "904130540": {
+    "NpcName": {
+      "en": "\tDemi-Human Queen Gilika\r",
+      "jp": "\t亜人の女王ギリカ\r",
+      "zh": "\t“亚人女王”姬丽卡\r"
+    }
+  },
+  "904130600": {
+    "NpcName": {
+      "en": "\tDemi-Human Queen Maggie\r",
+      "jp": "\t亜人の女王マギ\r",
+      "zh": "\t“亚人女王”玛姬\r"
+    }
+  },
+  "904140300": {
+    "NpcName": {
+      "en": "\tSpiritcaller Snail\r",
+      "jp": "\t霊喚びつむり\r",
+      "zh": "\t唤灵蜗牛\r"
+    }
+  },
+  "904140310": {
+    "NpcName": {
+      "en": "\tSpiritcaller Snail\r",
+      "jp": "\t霊喚びつむり\r",
+      "zh": "\t唤灵蜗牛\r"
+    }
+  },
+  "904260300": {
+    "NpcName": {
+      "en": "\tErdtree Burial Watchdog\r",
+      "jp": "\t還樹の番犬\r",
+      "zh": "\t归树看门犬\r"
+    }
+  },
+  "904260301": {
+    "NpcName": {
+      "en": "\tErdtree Burial Watchdog\r",
+      "jp": "\t還樹の番犬\r",
+      "zh": "\t归树看门犬\r"
+    }
+  },
+  "904260302": {
+    "NpcName": {
+      "en": "\tErdtree Burial Watchdog\r",
+      "jp": "\t還樹の番犬\r",
+      "zh": "\t归树看门犬\r"
+    }
+  },
+  "904260303": {
+    "NpcName": {
+      "en": "\tErdtree Burial Watchdog\r",
+      "jp": "\t還樹の番犬\r",
+      "zh": "\t归树看门犬\r"
+    }
+  },
+  "904260304": {
+    "NpcName": {
+      "en": "\tErdtree Burial Watchdog (Sword)\r",
+      "jp": "\t還樹の番犬：剣\r",
+      "zh": "\t归树看门犬（剑）\r"
+    }
+  },
+  "904260305": {
+    "NpcName": {
+      "en": "\tErdtree Burial Watchdog (Scepter)\r",
+      "jp": "\t還樹の番犬：笏\r",
+      "zh": "\t归树看门犬（杖）\r"
+    }
+  },
+  "904290310": {
+    "NpcName": {
+      "en": "\tBloodhound Knight\r",
+      "jp": "\t猟犬騎士\r",
+      "zh": "\t猎犬骑士\r"
+    }
+  },
+  "904290520": {
+    "NpcName": {
+      "en": "\tBloodhound Knight Darriwil\r",
+      "jp": "\t猟犬騎士ダリウィル\r",
+      "zh": "\t“猎犬骑士”达瑞威尔\r"
+    }
+  },
+  "904311000": {
+    "NpcName": {
+      "en": "\tSoldier of Godrick\r",
+      "jp": "\tゴドリックの軍兵\r",
+      "zh": "\t葛瑞克的士兵\r"
+    }
+  },
+  "904340540": {
+    "NpcName": {
+      "en": "\tMad Pumpkin Head\r",
+      "jp": "\tかぼちゃ兜の狂兵\r",
+      "zh": "\t发狂南瓜头士兵\r"
+    }
+  },
+  "904340541": {
+    "NpcName": {
+      "en": "\tMad Pumpkin Head (Hammer)\r",
+      "jp": "\tかぼちゃ兜の狂兵：ハンマー\r",
+      "zh": "\t发狂南瓜头士兵（槌）\r"
+    }
+  },
+  "904340542": {
+    "NpcName": {
+      "en": "\tMad Pumpkin Head (Flail)\r",
+      "jp": "\tかぼちゃ兜の狂兵：フレイル\r",
+      "zh": "\t发狂南瓜头士兵（连枷）\r"
+    }
+  },
+  "904470000": {
+    "NpcName": {
+      "en": "\tAbductor Virgin (Swinging Sickle)\r",
+      "jp": "\t人さらいの乙女人形：振り子鎌\r",
+      "zh": "\t掳人少女人偶（摆荡镰刀）\r"
+    }
+  },
+  "904470001": {
+    "NpcName": {
+      "en": "\tAbductor Virgin (Wheel)\r",
+      "jp": "\t人さらいの乙女人形：車輪\r",
+      "zh": "\t掳人少女人偶（刺轮）\r"
+    }
+  },
+  "904480310": {
+    "NpcName": {
+      "en": "\tMiranda the Blighted Bloom\r",
+      "jp": "\t病み花、ミランダ\r",
+      "zh": "\t“病花”米兰达\r"
+    }
+  },
+  "904480311": {
+    "NpcName": {
+      "en": "\tMiranda Blossom\r",
+      "jp": "\tミランダフラワー\r",
+      "zh": "\t米兰达之花\r"
+    }
+  },
+  "904500600": {
+    "NpcName": {
+      "en": "\tFlying Dragon Agheel\r",
+      "jp": "\t飛竜アギール\r",
+      "zh": "\t“飞龙”亚基尔\r"
+    }
+  },
+  "904500601": {
+    "NpcName": {
+      "en": "\tFlying Dragon Greyll\r",
+      "jp": "\t飛竜グレイル\r",
+      "zh": "\t“飞龙”桂雷尔\r"
+    }
+  },
+  "904501600": {
+    "NpcName": {
+      "en": "\tDecaying Ekzykes\r",
+      "jp": "\t腐りゆくエグズキス\r",
+      "zh": "\t“步入腐败”艾格基斯\r"
+    }
+  },
+  "904502600": {
+    "NpcName": {
+      "en": "\tGlintstone Dragon Smarag\r",
+      "jp": "\t輝石竜スマラグ\r",
+      "zh": "\t“辉石龙”史玛拉格\r"
+    }
+  },
+  "904502601": {
+    "NpcName": {
+      "en": "\tGlintstone Dragon Adula\r",
+      "jp": "\t輝石竜アデューラ\r",
+      "zh": "\t“辉石龙”亚杜拉\r"
+    }
+  },
+  "904502602": {
+    "NpcName": {
+      "en": "\tGlintstone Dragon Adula\r",
+      "jp": "\t輝石竜アデューラ\r",
+      "zh": "\t“辉石龙”亚杜拉\r"
+    }
+  },
+  "904503600": {
+    "NpcName": {
+      "en": "\tBorealis the Freezing Fog\r",
+      "jp": "\t凍てつく霧、ボレアリス\r",
+      "zh": "\t“冻结冰雾”玻列琉斯\r"
+    }
+  },
+  "904510000": {
+    "NpcName": {
+      "en": "\tLichdragon Fortissax\r",
+      "jp": "\t死竜フォルサクス\r",
+      "zh": "\t“死龙”弗尔桑克斯\r"
+    }
+  },
+  "904510600": {
+    "NpcName": {
+      "en": "\tAncient Dragon Lansseax\r",
+      "jp": "\t古竜ランサクス\r",
+      "zh": "\t“古龙”兰斯桑克斯\r"
+    }
+  },
+  "904520000": {
+    "NpcName": {
+      "en": "\tDragonlord Placidusax\r",
+      "jp": "\t竜王プラキドサクス\r",
+      "zh": "\t“龙王”普拉顿桑克斯\r"
+    }
+  },
+  "904580600": {
+    "NpcName": {
+      "en": "\tWormface\r",
+      "jp": "\tミミズ顔\r",
+      "zh": "\t蚯蚓脸\r"
+    }
+  },
+  "904580601": {
+    "NpcName": {
+      "en": "\tWormface\r",
+      "jp": "\tミミズ顔\r",
+      "zh": "\t蚯蚓脸\r"
+    }
+  },
+  "904600320": {
+    "NpcName": {
+      "en": "\tStonedigger Troll\r",
+      "jp": "\t石掘りトロル\r",
+      "zh": "\t挖石山妖\r"
+    }
+  },
+  "904600321": {
+    "NpcName": {
+      "en": "\tStonedigger Troll\r",
+      "jp": "\t石掘りトロル\r",
+      "zh": "\t挖石山妖\r"
+    }
+  },
+  "904600520": {
+    "NpcName": {
+      "en": "\tBols, Carian Knight\r",
+      "jp": "\tカーリア騎士、ボルス\r",
+      "zh": "\t“卡利亚骑士”波尔斯\r"
+    }
+  },
+  "904620001": {
+    "NpcName": {
+      "en": "\tAstel, Naturalborn of the Void\r",
+      "jp": "\t暗黒の落とし子、アステール\r",
+      "zh": "\t“黑暗弃子”艾丝缇\r"
+    }
+  },
+  "904620320": {
+    "NpcName": {
+      "en": "\tAstel, Stars of Darkness\r",
+      "jp": "\t暗黒の星々、アステール\r",
+      "zh": "\t“黑暗繁星”艾丝缇\r"
+    }
+  },
+  "904630310": {
+    "NpcName": {
+      "en": "\tRunebear\r",
+      "jp": "\tルーンベア\r",
+      "zh": "\t卢恩熊\r"
+    }
+  },
+  "904640000": {
+    "NpcName": {
+      "en": "\tUlcerated Tree Spirit\r",
+      "jp": "\t爛れた樹霊\r",
+      "zh": "\t腐烂树灵\r"
+    }
+  },
+  "904640300": {
+    "NpcName": {
+      "en": "\tPutrid Tree Spirit\r",
+      "jp": "\t腐敗した樹霊\r",
+      "zh": "\t腐败树灵\r"
+    }
+  },
+  "904640301": {
+    "NpcName": {
+      "en": "\tUlcerated Tree Spirit\r",
+      "jp": "\t爛れた樹霊\r",
+      "zh": "\t腐烂树灵\r"
+    }
+  },
+  "904640600": {
+    "NpcName": {
+      "en": "\tUlcerated Tree Spirit\r",
+      "jp": "\t爛れた樹霊\r",
+      "zh": "\t腐烂树灵\r"
+    }
+  },
+  "904650000": {
+    "NpcName": {
+      "en": "\tDragonkin Soldier of Nokstella\r",
+      "jp": "\tノクステラの竜人兵\r",
+      "zh": "\t诺克史黛拉的龙人士兵\r"
+    }
+  },
+  "904650600": {
+    "NpcName": {
+      "en": "\tDragonkin Soldier\r",
+      "jp": "\t竜人兵\r",
+      "zh": "\t龙人士兵\r"
+    }
+  },
+  "904650601": {
+    "NpcName": {
+      "en": "\tDragonkin Soldier\r",
+      "jp": "\t竜人兵\r",
+      "zh": "\t龙人士兵\r"
+    }
+  },
+  "904660310": {
+    "NpcName": {
+      "en": "\tGuardian Golem\r",
+      "jp": "\tガーディアン・ゴーレム\r",
+      "zh": "\t魔像守卫\r"
+    }
+  },
+  "904670000": {
+    "NpcName": {
+      "en": "\tAncestor Spirit\r",
+      "jp": "\t祖霊\r",
+      "zh": "\t祖灵\r"
+    }
+  },
+  "904670001": {
+    "NpcName": {
+      "en": "\tRegal Ancestor Spirit\r",
+      "jp": "\t祖霊の王\r",
+      "zh": "\t祖灵之王\r"
+    }
+  },
+  "904680320": {
+    "NpcName": {
+      "en": "\tFallingstar Beast\r",
+      "jp": "\t降る星の獣\r",
+      "zh": "\t坠星兽物\r"
+    }
+  },
+  "904680601": {
+    "NpcName": {
+      "en": "\tFallingstar Beast\r",
+      "jp": "\t降る星の獣\r",
+      "zh": "\t坠星兽物\r"
+    }
+  },
+  "904680602": {
+    "NpcName": {
+      "en": "\tFallingstar Beast\r",
+      "jp": "\t降る星の獣\r",
+      "zh": "\t坠星兽物\r"
+    }
+  },
+  "904680603": {
+    "NpcName": {
+      "en": "\tFull-Grown Fallingstar Beast\r",
+      "jp": "\t降る星の成獣\r",
+      "zh": "\t坠星成兽\r"
+    }
+  },
+  "904690000": {
+    "NpcName": {
+      "en": "\tGrafted Scion\r",
+      "jp": "\t接ぎ木の貴公子\r",
+      "zh": "\t“接肢”贵族后裔\r"
+    }
+  },
+  "904710000": {
+    "NpcName": {
+      "en": "\tGod-Devouring Serpent\r",
+      "jp": "\t神喰らいの大蛇\r",
+      "zh": "\t噬神大蛇\r"
+    }
+  },
+  "904710001": {
+    "NpcName": {
+      "en": "\tRykard, Lord of Blasphemy\r",
+      "jp": "\t冒涜の君主、ライカード\r",
+      "zh": "\t“亵渎君王”拉卡德\r"
+    }
+  },
+  "904720000": {
+    "NpcName": {
+      "en": "\tGodfrey, First Elden Lord\r",
+      "jp": "\t最初の王、ゴッドフレイ\r",
+      "zh": "\t“初始之王”葛孚雷\r"
+    }
+  },
+  "904720001": {
+    "NpcName": {
+      "en": "\tHoarah Loux, Warrior\r",
+      "jp": "\t戦士、ホーラ・ルー\r",
+      "zh": "\t战士荷莱·露\r"
+    }
+  },
+  "904720002": {
+    "NpcName": {
+      "en": "\tGodfrey, First Elden Lord\r",
+      "jp": "\t最初の王、ゴッドフレイ\r",
+      "zh": "\t“初始之王”葛孚雷\r"
+    }
+  },
+  "904730000": {
+    "NpcName": {
+      "en": "\tStarscourge Radahn\r",
+      "jp": "\t星砕きのラダーン\r",
+      "zh": "\t“碎星”拉塔恩\r"
+    }
+  },
+  "904750000": {
+    "NpcName": {
+      "en": "\tGodrick the Grafted\r",
+      "jp": "\t接ぎ木のゴドリック\r",
+      "zh": "\t“接肢”葛瑞克\r"
+    }
+  },
+  "904750520": {
+    "NpcName": {
+      "en": "\tGodefroy the Grafted\r",
+      "jp": "\t接ぎ木のゴドフロア\r",
+      "zh": "\t“接肢”葛孚亚\r"
+    }
+  },
+  "904760000": {
+    "NpcName": {
+      "en": "\tFire Giant\r",
+      "jp": "\t火の巨人\r",
+      "zh": "\t火焰巨人\r"
+    }
+  },
+  "904770000": {
+    "NpcName": {
+      "en": "\tValiant Gargoyle\r",
+      "jp": "\t英雄のガーゴイル\r",
+      "zh": "\t英雄石像鬼\r"
+    }
+  },
+  "904770001": {
+    "NpcName": {
+      "en": "\tValiant Gargoyle (Twinblade)\r",
+      "jp": "\t英雄のガーゴイル：両刃剣\r",
+      "zh": "\t英雄石像鬼（双头剑）\r"
+    }
+  },
+  "904770600": {
+    "NpcName": {
+      "en": "\tBlack Blade Kindred\r",
+      "jp": "\t黒き剣の眷属\r",
+      "zh": "\t黑剑眷属\r"
+    }
+  },
+  "904770601": {
+    "NpcName": {
+      "en": "\tBlack Blade Kindred\r",
+      "jp": "\t黒き剣の眷属\r",
+      "zh": "\t黑剑眷属\r"
+    }
+  },
+  "904800000": {
+    "NpcName": {
+      "en": "\tMohg, Lord of Blood\r",
+      "jp": "\t血の君主、モーグ\r",
+      "zh": "\t“鲜血君王”蒙格\r"
+    }
+  },
+  "904800002": {
+    "NpcName": {
+      "en": "\tMohg, the Omen\r",
+      "jp": "\t忌み子、モーグ\r",
+      "zh": "\t“恶兆之子”蒙格\r"
+    }
+  },
+  "904810600": {
+    "NpcName": {
+      "en": "\tErdtree Avatar\r",
+      "jp": "\t黄金樹の化身\r",
+      "zh": "\t黄金树的化身\r"
+    }
+  },
+  "904810601": {
+    "NpcName": {
+      "en": "\tErdtree Avatar\r",
+      "jp": "\t黄金樹の化身\r",
+      "zh": "\t黄金树的化身\r"
+    }
+  },
+  "904810602": {
+    "NpcName": {
+      "en": "\tErdtree Avatar\r",
+      "jp": "\t黄金樹の化身\r",
+      "zh": "\t黄金树的化身\r"
+    }
+  },
+  "904811600": {
+    "NpcName": {
+      "en": "\tPutrid Avatar\r",
+      "jp": "\t腐敗した化身\r",
+      "zh": "\t腐败化身\r"
+    }
+  },
+  "904811601": {
+    "NpcName": {
+      "en": "\tPutrid Avatar\r",
+      "jp": "\t腐敗した化身\r",
+      "zh": "\t腐败化身\r"
+    }
+  },
+  "904811602": {
+    "NpcName": {
+      "en": "\tPutrid Avatar\r",
+      "jp": "\t腐敗した化身\r",
+      "zh": "\t腐败化身\r"
+    }
+  },
+  "904820310": {
+    "NpcName": {
+      "en": "\tOmenkiller\r",
+      "jp": "\t忌み潰し\r",
+      "zh": "\t恶兆猎人\r"
+    }
+  },
+  "904820600": {
+    "NpcName": {
+      "en": "\tOmenkiller\r",
+      "jp": "\t忌み潰し\r",
+      "zh": "\t恶兆猎人\r"
+    }
+  },
+  "904910000": {
+    "NpcName": {
+      "en": "\tMagma Wyrm Makar\r",
+      "jp": "\t溶岩土竜、マカール\r",
+      "zh": "\t“熔岩土龙”马卡尔\r"
+    }
+  },
+  "904910320": {
+    "NpcName": {
+      "en": "\tMagma Wyrm\r",
+      "jp": "\t溶岩土竜\r",
+      "zh": "\t熔岩土龙\r"
+    }
+  },
+  "904910600": {
+    "NpcName": {
+      "en": "\tMagma Wyrm\r",
+      "jp": "\t溶岩土竜\r",
+      "zh": "\t熔岩土龙\r"
+    }
+  },
+  "904911600": {
+    "NpcName": {
+      "en": "\tGreat Wyrm Theodorix\r",
+      "jp": "\t大土竜、テオドリックス\r",
+      "zh": "\t“大土龙”席欧朵利克\r"
+    }
+  },
+  "904950600": {
+    "NpcName": {
+      "en": "\tTibia Mariner\r",
+      "jp": "\tティビアの呼び舟\r",
+      "zh": "\t提比亚的唤声船\r"
+    }
+  },
+  "904950601": {
+    "NpcName": {
+      "en": "\tTibia Mariner\r",
+      "jp": "\tティビアの呼び舟\r",
+      "zh": "\t提比亚的唤声船\r"
+    }
+  },
+  "904950602": {
+    "NpcName": {
+      "en": "\tTibia Mariner\r",
+      "jp": "\tティビアの呼び舟\r",
+      "zh": "\t提比亚的唤声船\r"
+    }
+  },
+  "904950603": {
+    "NpcName": {
+      "en": "\tTibia Mariner\r",
+      "jp": "\tティビアの呼び舟\r",
+      "zh": "\t提比亚的唤声船\r"
+    }
+  },
+  "904980600": {
+    "NpcName": {
+      "en": "\tDeath Rite Bird\r",
+      "jp": "\t死儀礼の鳥\r",
+      "zh": "\t死亡仪式鸟\r"
+    }
+  },
+  "904980601": {
+    "NpcName": { "en": "\tDeathbird\r", "jp": "\t死の鳥\r", "zh": "\t死之鸟\r" }
+  },
+  "904980602": {
+    "NpcName": { "en": "\tDeathbird\r", "jp": "\t死の鳥\r", "zh": "\t死之鸟\r" }
+  },
+  "904980603": {
+    "NpcName": { "en": "\tDeathbird\r", "jp": "\t死の鳥\r", "zh": "\t死之鸟\r" }
+  },
+  "904980604": {
+    "NpcName": {
+      "en": "\tDeath Rite Bird\r",
+      "jp": "\t死儀礼の鳥\r",
+      "zh": "\t死亡仪式鸟\r"
+    }
+  },
+  "904980605": {
+    "NpcName": { "en": "\tDeathbird\r", "jp": "\t死の鳥\r", "zh": "\t死之鸟\r" }
+  },
+  "904980606": {
+    "NpcName": {
+      "en": "\tDeath Rite Bird\r",
+      "jp": "\t死儀礼の鳥\r",
+      "zh": "\t死亡仪式鸟\r"
+    }
+  },
+  "904980607": {
+    "NpcName": {
+      "en": "\tDeath Rite Bird\r",
+      "jp": "\t死儀礼の鳥\r",
+      "zh": "\t死亡仪式鸟\r"
+    }
+  },
+  "905000000": {
+    "NpcName": {
+      "en": "\tCommander Gaius\r",
+      "jp": "\t宿将ガイウス\r",
+      "zh": "\t老将盖乌斯\r"
+    }
+  },
+  "905010000": {
+    "NpcName": {
+      "en": "\tGolden Hippopotamus\r",
+      "jp": "\t黄金カバ\r",
+      "zh": "\t黄金河马\r"
+    }
+  },
+  "905020000": {
+    "NpcName": {
+      "en": "\tPutrescent Knight\r",
+      "jp": "\t泥濘の騎士\r",
+      "zh": "\t融泥骑士\r"
+    }
+  },
+  "905030000": {
+    "NpcName": {
+      "en": "\tRomina, Saint of the Bud\r",
+      "jp": "\t蕾の聖女、ロミナ\r",
+      "zh": "\t“花蕾圣女”萝蜜娜\r"
+    }
+  },
+  "905040400": {
+    "NpcName": {
+      "en": "\tCurseblade Labirith\r",
+      "jp": "\t呪剣士ラビリス\r",
+      "zh": "\t咒剑士拉比利士\r"
+    }
+  },
+  "905051000": {
+    "NpcName": {
+      "en": "\tMidra, Lord of Frenzied Flame\r",
+      "jp": "\t狂い火の王、ミドラー\r",
+      "zh": "\t“癫火之王”米德拉\r"
+    }
+  },
+  "905070400": {
+    "NpcName": {
+      "en": "\tDeath Knight\r",
+      "jp": "\t死の騎士\r",
+      "zh": "\t死骑士\r"
+    }
+  },
+  "905070401": {
+    "NpcName": {
+      "en": "\tDeath Knight\r",
+      "jp": "\t死の騎士\r",
+      "zh": "\t死骑士\r"
+    }
+  },
+  "905081430": {
+    "NpcName": {
+      "en": "\tChief Bloodfiend\r",
+      "jp": "\t血鬼の長\r",
+      "zh": "\t血怪之首\r"
+    }
+  },
+  "905120000": {
+    "NpcName": {
+      "en": "\tBayle the Dread\r",
+      "jp": "\t暴竜ベール\r",
+      "zh": "\t“狂龙”贝勒\r"
+    }
+  },
+  "905130000": {
+    "NpcName": {
+      "en": "\tMessmer the Impaler\r",
+      "jp": "\t串刺し公、メスメル\r",
+      "zh": "\t“穿刺者”梅瑟莫\r"
+    }
+  },
+  "905130001": {
+    "NpcName": {
+      "en": "\tBase Serpent Messmer\r",
+      "jp": "\t邪な蛇、メスメル\r",
+      "zh": "\t“恶之蛇”梅瑟莫\r"
+    }
+  },
+  "905200000": {
+    "NpcName": {
+      "en": "\tMetyr, Mother of Fingers\r",
+      "jp": "\t指の母、メーテール\r",
+      "zh": "\t“指头之母”梅蒂尔\r"
+    }
+  },
+  "905210000": {
+    "NpcName": {
+      "en": "\tDivine Beast Dancing Lion\r",
+      "jp": "\t神獣獅子舞\r",
+      "zh": "\t神兽舞狮\r"
+    }
+  },
+  "905210600": {
+    "NpcName": {
+      "en": "\tDivine Beast Dancing Lion\r",
+      "jp": "\t神獣獅子舞\r",
+      "zh": "\t神兽舞狮\r"
+    }
+  },
+  "905220000": {
+    "NpcName": {
+      "en": "\tPromised Consort Radahn\r",
+      "jp": "\t約束の王、ラダーン\r",
+      "zh": "\t“约定之王”拉塔恩\r"
+    }
+  },
+  "905220001": {
+    "NpcName": {
+      "en": "\tRadahn, Consort of Miquella\r",
+      "jp": "\tミケラの王、ラダーン\r",
+      "zh": "\t“米凯拉的王”拉塔恩\r"
+    }
+  },
+  "905230000": {
+    "NpcName": {
+      "en": "\tScadutree Avatar\r",
+      "jp": "\t影樹の化身\r",
+      "zh": "\t幽影树的化身\r"
+    }
+  },
+  "905230001": {
+    "NpcName": {
+      "en": "\tScadutree Avatar\r",
+      "jp": "\t影樹の化身\r",
+      "zh": "\t幽影树的化身\r"
+    }
+  },
+  "905230002": {
+    "NpcName": {
+      "en": "\tScadutree Avatar\r",
+      "jp": "\t影樹の化身\r",
+      "zh": "\t幽影树的化身\r"
+    }
+  },
+  "905300000": {
+    "NpcName": {
+      "en": "\tRellana, Twin Moon Knight\r",
+      "jp": "\t双月の騎士、レラーナ\r",
+      "zh": "\t“双月骑士”蕾菈娜\r"
+    }
+  },
+  "905320000": {
+    "NpcName": {
+      "en": "\tJori, Elder Inquisitor\r",
+      "jp": "\t責問の古老、イオリ\r",
+      "zh": "\t“拷问老者”约里\r"
+    }
+  },
+  "905370600": {
+    "NpcName": {
+      "en": "\tAncient Dragon Senessax\r",
+      "jp": "\t古竜セネサクス\r",
+      "zh": "\t“古龙”瑟涅桑克斯\r"
+    }
+  },
+  "905580600": {
+    "NpcName": {
+      "en": "\tJagged Peak Drake\r",
+      "jp": "\tギザ山の飛竜\r",
+      "zh": "\t尖刺山的飞龙\r"
+    }
+  },
+  "905580601": {
+    "NpcName": {
+      "en": "\tJagged Peak Drake\r",
+      "jp": "\tギザ山の飛竜\r",
+      "zh": "\t尖刺山的飞龙\r"
+    }
+  },
+  "905730600": {
+    "NpcName": {
+      "en": "\tDemi-Human Queen Marigga\r",
+      "jp": "\t亜人の女王マルガ\r",
+      "zh": "\t“亚人女王”玛丽戈\r"
+    }
+  },
+  "905810410": {
+    "NpcName": {
+      "en": "\tDemi-Human Swordmaster Onze\r",
+      "jp": "\t亜人の剣聖、オンジ\r",
+      "zh": "\t“亚人剑圣”翁吉\r"
+    }
+  },
+  "905820600": {
+    "NpcName": {
+      "en": "\tRugalea the Great Red Bear\r",
+      "jp": "\t大赤熊ルガリア\r",
+      "zh": "\t大红熊鲁格利亚\r"
+    }
+  },
+  "905820601": {
+    "NpcName": {
+      "en": "\tRalva the Great Red Bear\r",
+      "jp": "\t大赤熊ラルバ\r",
+      "zh": "\t大红熊拉鲁瓦\r"
+    }
+  },
+  "905840500": {
+    "NpcName": {
+      "en": "\tBlack Knight Edredd\r",
+      "jp": "\t黒騎士エドレッド\r",
+      "zh": "\t“黑骑士”艾瑞德\r"
+    }
+  },
+  "905840501": {
+    "NpcName": {
+      "en": "\tBlack Knight Garrew\r",
+      "jp": "\t黒騎士ガルー\r",
+      "zh": "\t“黑骑士”迦鲁\r"
+    }
+  },
+  "905860600": {
+    "NpcName": {
+      "en": "\tGhostflame Dragon\r",
+      "jp": "\t霊炎竜\r",
+      "zh": "\t灵火龙\r"
+    }
+  },
+  "905860601": {
+    "NpcName": {
+      "en": "\tGhostflame Dragon\r",
+      "jp": "\t霊炎竜\r",
+      "zh": "\t灵火龙\r"
+    }
+  },
+  "905860603": {
+    "NpcName": {
+      "en": "\tGhostflame Dragon\r",
+      "jp": "\t霊炎竜\r",
+      "zh": "\t灵火龙\r"
+    }
+  },
+  "906251600": {
+    "NpcName": {
+      "en": "\tTree Sentinel\r",
+      "jp": "\tツリーガード\r",
+      "zh": "\t大树守卫\r"
+    }
+  },
+  "906251601": {
+    "NpcName": {
+      "en": "\tTree Sentinel\r",
+      "jp": "\tツリーガード\r",
+      "zh": "\t大树守卫\r"
+    }
+  },
+  "906260600": {
+    "NpcName": {
+      "en": "\tDeath Rite Bird\r",
+      "jp": "\t死儀礼の鳥\r",
+      "zh": "\t死亡仪式鸟\r"
+    }
+  },
+  "906310600": {
+    "NpcName": {
+      "en": "\tFallingstar Beast\r",
+      "jp": "\t降る星の獣\r",
+      "zh": "\t坠星兽物\r"
+    }
+  },
+  "907100300": {
+    "NpcName": {
+      "en": "\tAncient Hero of Zamor\r",
+      "jp": "\tザミェルの古英雄\r",
+      "zh": "\t萨米尔的古英雄\r"
+    }
+  },
+  "907100301": {
+    "NpcName": {
+      "en": "\tAncient Hero of Zamor\r",
+      "jp": "\tザミェルの古英雄\r",
+      "zh": "\t萨米尔的古英雄\r"
+    }
+  },
+  "907100520": {
+    "NpcName": {
+      "en": "\tAncient Hero of Zamor\r",
+      "jp": "\tザミェルの古英雄\r",
+      "zh": "\t萨米尔的古英雄\r"
+    }
+  },
+  "": { "NpcName": { "en": "", "jp": "", "zh": "" } }
+}

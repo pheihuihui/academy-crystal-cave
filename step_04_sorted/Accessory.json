@@ -1,0 +1,2696 @@
+{
+  "1": {
+    "AccessoryName": { "jp": "\t探知\r" },
+    "AccessoryCaption": { "jp": "\t探知\r" },
+    "AccessoryInfo": { "jp": "\t探知アイテム所有者の世界に侵略する\r" }
+  },
+  "2": {
+    "AccessoryName": { "jp": "\t魔法スロットアップ（＋3版）\r" },
+    "AccessoryCaption": { "jp": "\t魔法スロットアップ（＋3版）\r" },
+    "AccessoryInfo": { "jp": "\t【デバッグ】魔法スロットが３が増える\r" }
+  },
+  "100": {
+    "AccessoryName": {
+      "en": "\tPetition for Help\r",
+      "jp": "\t救援の請願書\r",
+      "zh": "\t求援书\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tOnline multiplayer item. Receipt of a plea for\\nhelp to the maidens of the Finger Reader.\\n\\nSummons a Broken Finger Stalker from another\\nworld to face an invading Broken Finger.\\n\\nMaidens of the Finger Reader speak in hushed\\ntones about the loathsome, traitorous Broken\\nFingers and the dangers of their base invasions.\r",
+      "jp": "\tオンラインプレイ専用アイテム\\n指読みの巫女たちに請願した証\\n\\n潰れ指に侵入された時\\n他世界から潰れ狩りを救援召喚する\\n\\n指読みの巫女は、声を潜め語るだろう\\n潰れ指の、唾棄すべき裏切りと\\n卑劣な侵入の危うさを\\n\r",
+      "zh": "\t联机游玩专用道具。\\n向解指女巫们请求，获得的证明。\\n\\n受崩指入侵时，\\n能从其他世界召唤崩指猎人。\\n\\n解指女巫轻喃，诉说崩指令人不齿的背叛，\\n以及不入流的入侵行为带来的危险性。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tSummons Stalker to face invading Broken Finger\r",
+      "jp": "\t潰れ指に侵入された時、潰れ狩りを救援召喚する\r",
+      "zh": "\t受崩指入侵时，能召唤崩指猎人\r"
+    }
+  },
+  "101": {
+    "AccessoryName": {
+      "en": "\tBroken Finger Stalker Contract\r",
+      "jp": "\t潰れ狩りの誓約書\r",
+      "zh": "\t狩猎崩指契约书\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tOnline multiplayer item. Record of contract with\\nthe maidens of the Finger Reader.\\n\\nBe summoned to the world of a player who\\nhas been invaded by a Broken Finger.\\n\\nThe Broken Fingers have betrayed the Finger\\nReader. They are a cancer that afflicts the\\nties that bind the Tarnished to one another.\\nThey must be excised, and eradicated.\r",
+      "jp": "\tオンラインプレイ専用アイテム\\n指読みの巫女たちと誓約した証\\n\\n他プレイヤーが潰れ指に侵入された時\\nそのプレイヤーの世界に救援召喚される\\n\\n潰れ指は、指読みの裏切り者であり\\n褪せ人の繋がりを犯す癌である\\n切除が、根絶が、必要だろう\\n\r",
+      "zh": "\t联机游玩专用道具。\\n与解指女巫们订下契约的证明。\\n\\n当其他玩家受崩指入侵时，\\n能够接受召唤，前往该名玩家的世界。\\n\\n崩指是解指中的叛徒，\\n也是侵害褪色者连结彼此的恶瘤──\\n因此必须切除，以及根绝。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBe summoned to worlds invaded by Broken Fingers\r",
+      "jp": "\t潰れ指に侵入された世界に救援召喚される\r",
+      "zh": "\t能够接受召唤，前往受崩指入侵的世界\r"
+    }
+  },
+  "1000": {
+    "AccessoryName": {
+      "en": "\tCrimson Amber Medallion\r",
+      "jp": "\t緋琥珀のメダリオン\r",
+      "zh": "\t红琥珀链坠\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with crimson amber inlaid.\\nBoosts maximum HP.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nA primordial life energy resides inside.\r",
+      "jp": "\t緋色の琥珀が嵌めこまれたメダリオン\\nＨＰの最大値を上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\nそれは生命の原始的な力を宿している\\n\r",
+      "zh": "\t镶有红色琥珀的链坠。\\n能提升血量的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n生命的原始力量蕴藏其中。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises maximum HP\r",
+      "jp": "\tＨＰの最大値を上昇させる\r",
+      "zh": "\t能提升血量的上限\r"
+    }
+  },
+  "1001": {
+    "AccessoryName": {
+      "en": "\tCrimson Amber Medallion +1\r",
+      "jp": "\t緋琥珀のメダリオン＋１\r",
+      "zh": "\t红琥珀链坠＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with crimson amber inlaid.\\nGreatly boosts maximum HP.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nA primordial life energy resides inside.\r",
+      "jp": "\t緋色の琥珀が嵌めこまれたメダリオン\\nＨＰの最大値を大きく上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\nそれは生命の原始的な力を宿している\\n\r",
+      "zh": "\t镶有红色琥珀的链坠。\\n能大幅提升血量的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n生命的原始力量蕴藏其中。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises maximum HP\r",
+      "jp": "\tＨＰの最大値を大きく上昇させる\r",
+      "zh": "\t能大幅提升血量的上限\r"
+    }
+  },
+  "1002": {
+    "AccessoryName": {
+      "en": "\tCrimson Amber Medallion +2\r",
+      "jp": "\t緋琥珀のメダリオン＋２\r",
+      "zh": "\t红琥珀链坠＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with crimson amber inlaid.\\nVastly boosts maximum HP.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nA primordial life energy resides inside.\r",
+      "jp": "\t緋色の琥珀が嵌めこまれたメダリオン\\nＨＰの最大値を、とても大きく上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\nそれは生命の原始的な力を宿している\\n\r",
+      "zh": "\t镶有红色琥珀的链坠。\\n能更大幅提升血量的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n生命的原始力量蕴藏其中。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly raises maximum HP\r",
+      "jp": "\tＨＰの最大値を、とても大きく上昇させる\r",
+      "zh": "\t能更大幅提升血量的上限\r"
+    }
+  },
+  "1010": {
+    "AccessoryName": {
+      "en": "\tCerulean Amber Medallion\r",
+      "jp": "\t青琥珀のメダリオン\r",
+      "zh": "\t蓝琥珀链坠\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with cerulean amber inlaid.\\nBoosts maximum FP.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nA primordial life energy resides inside.\r",
+      "jp": "\t青色の琥珀が嵌めこまれたメダリオン\\nＦＰの最大値を上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\nそれは生命の原始的な力を宿している\\n\r",
+      "zh": "\t镶有蓝色琥珀的链坠。\\n能提升专注值的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n生命的原始力量蕴藏其中。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises maximum FP\r",
+      "jp": "\tＦＰの最大値を上昇させる\r",
+      "zh": "\t能提升专注值的上限\r"
+    }
+  },
+  "1011": {
+    "AccessoryName": {
+      "en": "\tCerulean Amber Medallion +1\r",
+      "jp": "\t青琥珀のメダリオン＋１\r",
+      "zh": "\t蓝琥珀链坠＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with cerulean amber inlaid.\\nGreatly boosts maximum FP.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nA primordial life energy resides inside.\r",
+      "jp": "\t青色の琥珀が嵌めこまれたメダリオン\\nＦＰの最大値を大きく上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\nそれは生命の原始的な力を宿している\\n\r",
+      "zh": "\t镶有蓝色琥珀的链坠。\\n能大幅提升专注值的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n生命的原始力量蕴藏其中。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises maximum FP\r",
+      "jp": "\tＦＰの最大値を大きく上昇させる\r",
+      "zh": "\t能大幅提升专注值的上限\r"
+    }
+  },
+  "1012": {
+    "AccessoryName": {
+      "en": "\tCerulean Amber Medallion +2\r",
+      "jp": "\t青琥珀のメダリオン＋２\r",
+      "zh": "\t蓝琥珀链坠＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with cerulean amber inlaid.\\nVastly boosts maximum FP.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nA primordial life energy resides inside.\r",
+      "jp": "\t青色の琥珀が嵌めこまれたメダリオン\\nＦＰの最大値を、とても大きく上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\nそれは生命の原始的な力を宿している\\n\r",
+      "zh": "\t镶有蓝色琥珀的链坠。\\n能更大幅提升专注值的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n生命的原始力量蕴藏其中。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly raises maximum FP\r",
+      "jp": "\tＦＰの最大値を、とても大きく上昇させる\r",
+      "zh": "\t能更大幅提升专注值的上限\r"
+    }
+  },
+  "1020": {
+    "AccessoryName": {
+      "en": "\tViridian Amber Medallion\r",
+      "jp": "\t緑琥珀のメダリオン\r",
+      "zh": "\t绿琥珀链坠\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with viridian amber inlaid.\\nBoosts maximum stamina.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nA primordial life energy resides inside.\r",
+      "jp": "\t緑色の琥珀が嵌めこまれたメダリオン\\nスタミナの最大値を上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\nそれは生命の原始的な力を宿している\\n\r",
+      "zh": "\t镶有绿色琥珀的链坠。\\n能提升精力的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n生命的原始力量蕴藏其中。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises maximum stamina\r",
+      "jp": "\tスタミナの最大値を上昇させる\r",
+      "zh": "\t能提升精力的上限\r"
+    }
+  },
+  "1021": {
+    "AccessoryName": {
+      "en": "\tViridian Amber Medallion +1\r",
+      "jp": "\t緑琥珀のメダリオン＋１\r",
+      "zh": "\t绿琥珀链坠＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with viridian amber inlaid.\\nGreatly boosts maximum stamina.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nA primordial life energy resides inside.\r",
+      "jp": "\t緑色の琥珀が嵌めこまれたメダリオン\\nスタミナの最大値を大きく上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\nそれは生命の原始的な力を宿している\\n\r",
+      "zh": "\t镶有绿色琥珀的链坠。\\n能大幅提升精力的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n生命的原始力量蕴藏其中。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises maximum stamina\r",
+      "jp": "\tスタミナの最大値を大きく上昇させる\r",
+      "zh": "\t能大幅提升精力的上限\r"
+    }
+  },
+  "1022": {
+    "AccessoryName": {
+      "en": "\tViridian Amber Medallion +2\r",
+      "jp": "\t緑琥珀のメダリオン＋２\r",
+      "zh": "\t绿琥珀链坠＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with viridian amber inlaid.\\nVastly boosts maximum stamina.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nA primordial life energy resides inside.\r",
+      "jp": "\t緑色の琥珀が嵌めこまれたメダリオン\\nスタミナの最大値を、とても大きく上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\nそれは生命の原始的な力を宿している\\n\r",
+      "zh": "\t镶有绿色琥珀的链坠。\\n能更大幅提升精力的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n生命的原始力量蕴藏其中。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly raises maximum stamina\r",
+      "jp": "\tスタミナの最大値を、とても大きく上昇させる\r",
+      "zh": "\t能更大幅提升精力的上限\r"
+    }
+  },
+  "1030": {
+    "AccessoryName": {
+      "en": "\tArsenal Charm\r",
+      "jp": "\t武具塊のお守り\r",
+      "zh": "\t众武护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn iron charm that resembles a mass of weaponry.\\nBoosts maximum equipment load.\\n\\nThis talisman was derived from an unusual greatsword once wielded by a hero hungry for vengeance.\r",
+      "jp": "\t武具の塊を表した鉄製のお守り\\n装備重量の上限を上昇させる\\n\\n復讐の英雄の得物として知られる\\n異形の大剣に由来したタリスマン\\n\r",
+      "zh": "\t众多武器聚集成块的铁制护符。\\n能提升装备重量的上限。\\n\\n从复仇英雄的知名武器──\\n异形大剑发想、制成的护符。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises maximum equipment load\r",
+      "jp": "\t装備重量の上限を上昇させる\r",
+      "zh": "\t能提升装备重量的上限\r"
+    }
+  },
+  "1031": {
+    "AccessoryName": {
+      "en": "\tArsenal Charm +1\r",
+      "jp": "\t武具塊のお守り＋１\r",
+      "zh": "\t众武护符＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn iron charm that resembles a mass of weaponry.\\nGreatly boosts maximum equipment load.\\n\\nThis talisman was derived from an unusual greatsword once wielded by a hero hungry for vengeance.\r",
+      "jp": "\t武具の塊を表した鉄製のお守り\\n装備重量の上限を大きく上昇させる\\n\\n復讐の英雄の得物として知られる\\n異形の大剣に由来したタリスマン\\n\r",
+      "zh": "\t众多武器聚集成块的铁制护符。\\n能大幅提升装备重量的上限。\\n\\n从复仇英雄的知名武器──\\n异形大剑发想、制成的护符。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises maximum equip load\r",
+      "jp": "\t装備重量の上限を大きく上昇させる\r",
+      "zh": "\t能大幅提升装备重量的上限\r"
+    }
+  },
+  "1032": {
+    "AccessoryName": {
+      "en": "\tGreat-Jar's Arsenal\r",
+      "jp": "\t大壺の武具塊\r",
+      "zh": "\t大壶众武护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA charm that resembles a great jar overflowing with weaponry.\\nVastly boosts maximum equipment load.\\n\\nThe great jar grants this talisman to their warriors.\\nCarry as much as you can—grow big and strong.\r",
+      "jp": "\t大壺に溢れんばかりの武具塊のお守り\\n装備重量の上限を、とても大きく上昇させる\\n\\n大壺は、自らの戦士たちにこれを授ける\\nいっぱい持って、大きくなれよ\\n\r",
+      "zh": "\t众多武器涌出大壶的护符。\\n能更大幅提升装备重量的上限。\\n\\n大壶将此护符赠予自己的战士们。\\n\\n　拿多一些，好好长大喔。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly raises maximum equip load\r",
+      "jp": "\t装備重量の上限を、とても大きく上昇させる\r",
+      "zh": "\t能更大幅提升装备重量的上限\r"
+    }
+  },
+  "1040": {
+    "AccessoryName": {
+      "en": "\tErdtree's Favor\r",
+      "jp": "\t黄金樹の恩寵\r",
+      "zh": "\t黄金树的恩惠\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a special blessing of the Erdtree.\\nSlightly raises maximum HP, stamina, and equip load.\\n\\nIt is said that when the Age of the Erdtree began, such blessings were personally bestowed upon their recipients by Queen Marika herself.\r",
+      "jp": "\t黄金樹の特別な恩寵の象り\\n最大ＨＰ、スタミナ、最大装備重量を\\n少しずつ上昇させる\\n\\n黄金樹の時代、そのはじまりにおいて\\n女王マリカは手ずからそれを与えたという\\n\r",
+      "zh": "\t黄金树特殊恩惠的象征。\\n能些微提升血量、精力，以及装备重量的上限。\\n\\n据说在黄金树时代之始，\\n玛莉卡女王亲自赐予此护符。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises maximum HP, stamina and equip load\r",
+      "jp": "\t最大ＨＰ、スタミナ、最大装備重量を上昇させる\r",
+      "zh": "\t能提升血量、精力、装备重量的上限\r"
+    }
+  },
+  "1041": {
+    "AccessoryName": {
+      "en": "\tErdtree's Favor +1\r",
+      "jp": "\t黄金樹の恩寵＋１\r",
+      "zh": "\t黄金树的恩惠＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a special blessing of the Erdtree.\\nRaises maximum HP, stamina, and equip load.\\n\\nIt is said that when the Age of the Erdtree began, such blessings were personally bestowed upon their recipients by Queen Marika herself.\r",
+      "jp": "\t黄金樹の特別な恩寵の象り\\n最大ＨＰ、スタミナ、最大装備重量を\\n上昇させる\\n\\n黄金樹の時代、そのはじまりにおいて\\n女王マリカは手ずからそれを与えたという\\n\r",
+      "zh": "\t黄金树特殊恩惠的象征。\\n能提升血量、精力，以及装备重量的上限。\\n\\n据说在黄金树时代之始，\\n玛莉卡女王亲自赐予此护符。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises maximum HP, stamina and equip load\r",
+      "jp": "\t最大ＨＰ、スタミナ、最大装備重量を上昇させる\r",
+      "zh": "\t能提升血量、精力、装备重量的上限\r"
+    }
+  },
+  "1042": {
+    "AccessoryName": {
+      "en": "\tErdtree's Favor +2\r",
+      "jp": "\t黄金樹の恩寵＋２\r",
+      "zh": "\t黄金树的恩惠＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA legendary talisman depicting a special blessing of the Erdtree.\\n\\nGreatly raises maximum HP, stamina, and equip load.\\n\\nIt is said that when the Age of the Erdtree began, such blessings were personally bestowed upon their recipients by Queen Marika herself.\r",
+      "jp": "\t黄金樹の特別な恩寵の象り\\n「伝説のタリスマン」のひとつ\\n\\n最大ＨＰ、スタミナ、最大装備重量を\\n大きく上昇させる\\n\\n黄金樹の時代、そのはじまりにおいて\\n女王マリカは手ずからそれを与えたという\\n\r",
+      "zh": "\t黄金树特殊恩惠的象征。\\n“传说中的护符”之一。\\n\\n能大幅提升血量、精力，以及装备重量的上限。\\n\\n据说在黄金树时代之始，\\n玛莉卡女王亲自赐予此护符。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises maximum HP, stamina and equip load\r",
+      "jp": "\t最大ＨＰ、スタミナ、最大装備重量を上昇させる\r",
+      "zh": "\t能提升血量、精力、装备重量的上限\r"
+    }
+  },
+  "1050": {
+    "AccessoryName": {
+      "en": "\tRadagon's Scarseal\r",
+      "jp": "\tラダゴンの刻印\r",
+      "zh": "\t拉达冈的烙印\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn eye engraved with an Elden Rune.\\nSaid to be the seal of King Consort Radagon.\\n\\nRaises vigor, endurance, strength, and dexterity, but also increases damage taken.\\n\\nThese seals represent the lifelong duty of those chosen by the gods.\r",
+      "jp": "\tエルデのルーンが刻印された瞳\\nそれは、王配ラダゴンの印であるという\\n\\n生命力、持久力、筋力、技量が高まるが\\n被ダメージも大きくなる\\n\\n刻印は、神に見出された者が\\n生涯の使命を与えられた証である\\n\r",
+      "zh": "\t受艾尔登卢恩雕琢的眼珠。\\n据说是王夫拉达冈的烙印。\\n\\n能提升生命力、耐力、力气、灵巧，\\n但增加受到的损伤。\\n\\n烙印是被神祇找上的人物\\n受赐生涯使命的证明。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attributes, but also increases damage taken\r",
+      "jp": "\t能力値が高まるが、被ダメージも大きくなる\r",
+      "zh": "\t能提升能力值，但增加受到的损伤\r"
+    }
+  },
+  "1051": {
+    "AccessoryName": {
+      "en": "\tRadagon's Soreseal\r",
+      "jp": "\tラダゴンの爛れ刻印\r",
+      "zh": "\t拉达冈的糜烂烙印\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tThis legendary talisman is an eye engraved with an Elden Rune, said to be the seal of King Consort Radagon.\\n\\nGreatly raises vigor, endurance, strength, and dexterity, but also increases damage taken by a similar measure.\\n\\nSolemn duty weighs upon the one beholden; not unlike a gnawing curse from which there is no deliverance.\r",
+      "jp": "\tエルデのルーンが刻印された瞳\\n「伝説のタリスマン」のひとつ\\nそれは、王配ラダゴンの印であるという\\n\\n生命力、持久力、筋力、技量が大きく高まるが\\n被ダメージもとても大きくなる\\n\\n強き使命は、その主を蝕む\\nまるで逃れ得ぬ呪いのように\\n\r",
+      "zh": "\t受艾尔登卢恩雕琢的眼珠。\\n“传说中的护符”之一。\\n据说是王夫拉达冈的烙印。\\n\\n能大幅提升生命力、耐力、力气、灵巧，\\n但大幅增加受到的损伤。\\n\\n沉重的使命会侵蚀肩负者，\\n犹如无法逃离的诅咒。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises attributes, but also increases damage taken\r",
+      "jp": "\t能力値が大きく高まるが、被ダメージも大きくなる\r",
+      "zh": "\t能大幅提升能力值，但大幅增加受到的损伤\r"
+    }
+  },
+  "1060": {
+    "AccessoryName": {
+      "en": "\tStarscourge Heirloom\r",
+      "jp": "\t星砕きの伝承\r",
+      "zh": "\t碎星的传说\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman engraved with a scene from a heroic tale.\\nRaises strength.\\n\\nThe mightiest hero of the demigods confronted the falling stars alone—and thus did he crush them, his conquest sealing the very fate of the stars.\r",
+      "jp": "\t英雄の伝承が刻まれたタリスマン\\n筋力を高める\\n\\nデミゴッドで最も強いとされた英雄は\\n降る星に一人で挑み、これを砕き\\n以来、星の運命は封印されたという\\n\r",
+      "zh": "\t雕制关于英雄传说的护符。\\n能提升力气。\\n\\n被誉为最强半神的英雄，\\n独自挑战、粉碎坠落的星星。\\n据说从那之后，星星的命运就受到封印。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises strength\r",
+      "jp": "\t筋力を高める\r",
+      "zh": "\t能提升力气\r"
+    }
+  },
+  "1070": {
+    "AccessoryName": {
+      "en": "\tProsthesis-Wearer Heirloom\r",
+      "jp": "\t義手剣士の伝承\r",
+      "zh": "\t义手剑士的传说\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman engraved with a scene from a heroic tale.\\nRaises dexterity.\\n\\nThough born into the accursed rot, when the young girl encountered her mentor and his flowing blade, she gained wings of unparalleled strength.\r",
+      "jp": "\t英雄の伝承が刻まれたタリスマン\\n技量を高める\\n\\n生まれながら宿痾に侵された少女は\\n師と、彼の流水の剣と出会い\\n無双の翼を得たという\\n\r",
+      "zh": "\t雕制关于英雄传说的护符。\\n能提升灵巧。\\n\\n生来就受到宿疾侵蚀的少女，\\n邂逅了老师，以及他的流水剑。\\n据说她因此获得了无敌的飞翼。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises dexterity\r",
+      "jp": "\t技量を高める\r",
+      "zh": "\t能提升灵巧\r"
+    }
+  },
+  "1080": {
+    "AccessoryName": {
+      "en": "\tStargazer Heirloom\r",
+      "jp": "\t星見少女の伝承\r",
+      "zh": "\t观星少女的传说\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman engraved with the legend of a queen.\\nRaises intelligence.\\n\\nThe young astrologer gazed at the night sky as she walked. She had always chased the stars every step of her journey. Then she met the full moon—and, in time, the astrologer became a queen.\r",
+      "jp": "\t女王の伝承が刻まれたタリスマン\\n知力を高める\\n\\n星見の少女は、夜空を見上げ歩いた\\nずっとずっと、星を追って旅をした\\nそして満月と出会い、女王となった\\n\r",
+      "zh": "\t雕制关于女王传说的护符。\\n能提升智力。\\n\\n观星少女仰望夜空步行，\\n度过一段不停追赶星星的旅行。\\n随后她遇见了满月，成为女王。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises intelligence\r",
+      "jp": "\t知力を高める\r",
+      "zh": "\t能提升智力\r"
+    }
+  },
+  "1090": {
+    "AccessoryName": {
+      "en": "\tTwo Fingers Heirloom\r",
+      "jp": "\t二本指の伝承\r",
+      "zh": "\t双指的传说\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman engraved with the legend of the Two Fingers.\\nRaises faith.\\n\\nFingers cannot speak, yet these were eloquent.\\nPersistently did they wriggle, spelling out mysteries in the air.\\nThus did we gain the words. The words of our faith.\r",
+      "jp": "\t二本指の伝承が刻まれたタリスマン\\n信仰を高める\\n\\n指は声を持たず、だが雄弁であった\\n指は執拗に蠢き、空に神秘を綴った\\nそして我らは言葉を得た。信仰の言葉を\\n\r",
+      "zh": "\t雕制关于双指传说的护符。\\n能提升信仰。\\n\\n指头无法发声，却能言善道；\\n指头固执蠕动，空中布满奥秘──\\n随后我们得到了话语，那信仰的话语。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises faith\r",
+      "jp": "\t信仰を高める\r",
+      "zh": "\t能提升信仰\r"
+    }
+  },
+  "1100": {
+    "AccessoryName": {
+      "en": "\tSilver Scarab\r",
+      "jp": "\t銀のスカラベ\r",
+      "zh": "\t银色粪金龟\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman facsimile of a scarab, the carrier of treasures and precious things.\\n\\nThis silver scarab enhances item discovery.\r",
+      "jp": "\tあらゆる宝、貴重なものの運び手たる\\nスカラベを象ったタリスマン\\n\\n銀色のそれは、発見力を高める\\n\r",
+      "zh": "\t各种宝藏、贵重物品的搬运工──\\n以粪金龟的形象制成的护符。\\n\\n银色的护符能提升观察力。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises item discovery\r",
+      "jp": "\t発見力を高める\r",
+      "zh": "\t能提升观察力\r"
+    }
+  },
+  "1110": {
+    "AccessoryName": {
+      "en": "\tGold Scarab\r",
+      "jp": "\t金のスカラベ\r",
+      "zh": "\t金色粪金龟\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman facsimile of a scarab, the carrier of treasures and precious things.\\n\\nThis golden scarab increases the amount of runes obtained from defeating enemies.\r",
+      "jp": "\tあらゆる宝、貴重なものの運び手たる\\nスカラベを象ったタリスマン\\n\\n金色のそれは、敵を倒したとき\\n得るルーンの量が増える\\n\r",
+      "zh": "\t各种宝藏、贵重物品的搬运工──\\n以粪金龟的形象制成的护符。\\n\\n金色的护符在打倒敌人时，\\n能增加获得的卢恩。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tIncreases runes obtained from defeated enemies\r",
+      "jp": "\t敵を倒したとき、得るルーンの量が増える\r",
+      "zh": "\t打倒敌人时，能增加获得的卢恩\r"
+    }
+  },
+  "1140": {
+    "AccessoryName": {
+      "en": "\tMoon of Nokstella\r",
+      "jp": "\tノクステラの月\r",
+      "zh": "\t诺克史黛拉之月\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tThis legendary talisman is a treasure of Nokstella, the Eternal City.\\n\\nIncreases memory slots.\\n\\nThis talisman represents the lost black moon.\\nThe moon of Nokstella was the guide of countless stars.\r",
+      "jp": "\t永遠の都、ノクステラの秘宝\\n「伝説のタリスマン」のひとつ\\n\\n記憶スロットを増やす\\n\\nそれは、彼らが失くした黒い月を模している\\nノクステラの月は、無数の星を従えていた\\n\r",
+      "zh": "\t“永恒之城”诺克史黛拉的秘密宝藏。\\n“传说中的护符”之一。\\n\\n能增加记忆空格。\\n\\n此为参考他们失去的黑色月亮制成。\\n无数的星星跟随着诺克史黛拉的月亮。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tIncreases memory slots\r",
+      "jp": "\t記憶スロットを増やす\r",
+      "zh": "\t能增加记忆空格\r"
+    }
+  },
+  "1150": {
+    "AccessoryName": {
+      "en": "\tGreen Turtle Talisman\r",
+      "jp": "\t緑亀のタリスマン\r",
+      "zh": "\t绿龟护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman in the shape of a green turtle.\\nRaises stamina recovery speed.\\n\\nTurtles are known as a nutritious ingredient, symbolic of inexhaustible power.\\n\\nHowever, those who hold turtles to be wise creatures consider the practice of eating their meat to be barbarous.\r",
+      "jp": "\t緑色の亀を象ったタリスマン\\nスタミナの回復速度を高める\\n\\n亀は、滋養のある食材として知られ\\n尽きぬ力の象徴とされた\\n\\nけれど、亀を賢獣と呼ぶ者たちには\\nそれは蛮習と映ったという\\n\r",
+      "zh": "\t参考绿乌龟的模样制成的护符。\\n能提升精力的恢复速度。\\n\\n乌龟是著名的营养食材，为精力无穷的象征。\\n\\n据说称呼乌龟为睿智兽物的人们，\\n认为那是野蛮的习俗。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises stamina recovery speed\r",
+      "jp": "\tスタミナの回復速度を高める\r",
+      "zh": "\t能提升精力的恢复速度\r"
+    }
+  },
+  "1160": {
+    "AccessoryName": {
+      "en": "\tStalwart Horn Charm\r",
+      "jp": "\t頑健の角飾り\r",
+      "zh": "\t健壮角饰品\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn accoutrement worn by the ancestral followers.\\nRaises robustness.\\n(Robustness governs resistance to blood loss and frost.)\\n\\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.\r",
+      "jp": "\t祖霊の民の装身具\\n頑健耐性を高める\\n（頑健は、出血や冷気に対する耐性である）\\n\\nそれは、芽生えかけの角であるという\\n長く生きた獣は、角に新たな芽生えを迎え\\nそれを永遠に繰り返し、いつか祖霊となるのだと\\n\r",
+      "zh": "\t祖灵之民的装饰品。\\n能提升健壮度。\\n（健壮度是对出血、冻伤的抵抗力。）\\n\\n据说此为即将萌发的角。\\n长命野兽的角会长出新芽，\\n在不停萌发新芽之后，野兽会成为祖灵。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises robustness\r",
+      "jp": "\t頑健耐性を高める\r",
+      "zh": "\t能提升健壮度\r"
+    }
+  },
+  "1161": {
+    "AccessoryName": {
+      "en": "\tStalwart Horn Charm +1\r",
+      "jp": "\t頑健の角飾り＋１\r",
+      "zh": "\t健壮角饰品＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn accoutrement worn by the ancestral followers.\\nGreatly raises robustness.\\n(Robustness governs resistance to blood loss and frost.)\\n\\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.\r",
+      "jp": "\t祖霊の民の装身具\\n頑健耐性を大きく高める\\n（頑健は、出血や冷気に対する耐性である）\\n\\nそれは、芽生えかけの角であるという\\n長く生きた獣は、角に新たな芽生えを迎え\\nそれを永遠に繰り返し、いつか祖霊となるのだと\\n\r",
+      "zh": "\t祖灵之民的装饰品。\\n能大幅提升健壮度。\\n（健壮度是对出血、冻伤的抵抗力。）\\n\\n据说此为即将萌发的角。\\n长命野兽的角会长出新芽，\\n在不停萌发新芽之后，野兽会成为祖灵。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises robustness\r",
+      "jp": "\t頑健耐性を大きく高める\r",
+      "zh": "\t能大幅提升健壮度\r"
+    }
+  },
+  "1170": {
+    "AccessoryName": {
+      "en": "\tImmunizing Horn Charm\r",
+      "jp": "\t免疫の角飾り\r",
+      "zh": "\t免疫角饰品\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn accoutrement worn by the ancestral followers.\\nRaises immunity.\\n(Immunity governs resistance to poison and rot.)\\n\\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.\r",
+      "jp": "\t祖霊の民の装身具\\n免疫耐性を高める\\n（免疫は、毒や腐敗に対する耐性である）\\n\\nそれは、芽生えかけの角であるという\\n長く生きた獣は、角に新たな芽生えを迎え\\nそれを永遠に繰り返し、いつか祖霊となるのだと\\n\r",
+      "zh": "\t祖灵之民的装饰品。\\n能提升免疫力。\\n（免疫力是对中毒、腐败的抵抗力。）\\n\\n据说此为即将萌发的角。\\n长命野兽的角会长出新芽，\\n在不停萌发新芽之后，野兽会成为祖灵。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises immunity\r",
+      "jp": "\t免疫耐性を高める\r",
+      "zh": "\t能提升免疫力\r"
+    }
+  },
+  "1171": {
+    "AccessoryName": {
+      "en": "\tImmunizing Horn Charm +1\r",
+      "jp": "\t免疫の角飾り＋１\r",
+      "zh": "\t免疫角饰品＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn accoutrement worn by the ancestral followers.\\nGreatly raises immunity.\\n(Immunity governs resistance to poison and rot.)\\n\\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.\r",
+      "jp": "\t祖霊の民の装身具\\n免疫耐性を大きく高める\\n（免疫は、毒や腐敗に対する耐性である）\\n\\nそれは、芽生えかけの角であるという\\n長く生きた獣は、角に新たな芽生えを迎え\\nそれを永遠に繰り返し、いつか祖霊となるのだと\\n\r",
+      "zh": "\t祖灵之民的装饰品。\\n能大幅提升免疫力。\\n（免疫力是对中毒、腐败的抵抗力。）\\n\\n据说此为即将萌发的角。\\n长命野兽的角会长出新芽，\\n在不停萌发新芽之后，野兽会成为祖灵。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises immunity\r",
+      "jp": "\t免疫耐性を大きく高める\r",
+      "zh": "\t能大幅提升免疫力\r"
+    }
+  },
+  "1180": {
+    "AccessoryName": {
+      "en": "\tClarifying Horn Charm\r",
+      "jp": "\t正気の角飾り\r",
+      "zh": "\t理智角饰品\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn accoutrement worn by the ancestral followers.\\nRaises focus.\\n(Focus governs resistance to sleep and madness.)\\n\\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.\r",
+      "jp": "\t祖霊の民の装身具\\n正気耐性を高める\\n（正気は、睡眠や発狂に対する耐性である）\\n\\nそれは、芽生えかけの角であるという\\n長く生きた獣は、角に新たな芽生えを迎え\\nそれを永遠に繰り返し、いつか祖霊となるのだと\\n\r",
+      "zh": "\t祖灵之民的装饰品。\\n能提升理智度。\\n（理智度是对催眠、发狂的抵抗力。）\\n\\n据说此为即将萌发的角。\\n长命野兽的角会长出新芽，\\n在不停萌发新芽之后，野兽会成为祖灵。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises focus\r",
+      "jp": "\t正気耐性を高める\r",
+      "zh": "\t能提升理智度\r"
+    }
+  },
+  "1181": {
+    "AccessoryName": {
+      "en": "\tClarifying Horn Charm +1\r",
+      "jp": "\t正気の角飾り＋１\r",
+      "zh": "\t理智角饰品＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn accoutrement worn by the ancestral followers.\\nGreatly raises focus.\\n(Focus governs resistance to sleep and madness.)\\n\\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.\r",
+      "jp": "\t祖霊の民の装身具\\n正気耐性を大きく高める\\n（正気は、睡眠や発狂に対する耐性である）\\n\\nそれは、芽生えかけの角であるという\\n長く生きた獣は、角に新たな芽生えを迎え\\nそれを永遠に繰り返し、いつか祖霊となるのだと\\n\r",
+      "zh": "\t祖灵之民的装饰品。\\n能大幅提升理智度。\\n（理智度是对催眠、发狂的抵抗力。）\\n\\n据说此为即将萌发的角。\\n长命野兽的角会长出新芽，\\n在不停萌发新芽之后，野兽会成为祖灵。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises focus\r",
+      "jp": "\t正気耐性を大きく高める\r",
+      "zh": "\t能大幅提升理智度\r"
+    }
+  },
+  "1190": {
+    "AccessoryName": {
+      "en": "\tPrince of Death's Pustule\r",
+      "jp": "\t死王子の瘡\r",
+      "zh": "\t死王子的脓疮\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA fetid pustule taken from facial flesh.\\nRaises vitality.\\n(Vitality governs resistance to the effects of Death.)\\n\\nIt is said that this pustule came from the visage of the Prince of Death, he who used to be called Godwyn. As First Dead of the demigods, it's said he's buried deep under the capital, at the Erdtree's roots.\r",
+      "jp": "\t生臭く膿んだ人面の瘡\\n抗死耐性を高める\\n\\nその顔の主は、死王子であるという\\n彼は、かつてゴッドウィンと呼ばれ\\nデミゴッド最初の死者として、王都の地下深く\\n黄金樹の根本に埋葬されたという\\n\r",
+      "zh": "\t腥臭化脓的人面脓疮。\\n能提升抗死度。\\n\\n据说那是死王子的脸──\\n过去他被称作葛德文，是半神之中的初始死者，\\n后来被埋葬在王城地底深处，那黄金树的根部。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises vitality\r",
+      "jp": "\t抗死耐性を高める\r",
+      "zh": "\t能提升抗死度\r"
+    }
+  },
+  "1191": {
+    "AccessoryName": {
+      "en": "\tPrince of Death's Cyst\r",
+      "jp": "\t死王子の業瘡\r",
+      "zh": "\t死王子的恶性脓疮\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA fetid, overgrown cyst taken from facial flesh.\\nGreatly raises vitality.\\n(Vitality governs resistance to the effects of Death.)\\n\\nIt is said that this cyst came from the corrupted visage of one unable to die a true Death. Indeed, it comes from the Prince of Death, scion of the golden bough and First of the Dead among the demigods.\r",
+      "jp": "\t生臭く膿んだ人面の業瘡\\n抗死耐性を大きく高める\\n\\nその顔の主は、死王子であるという\\nデミゴッド最初の死者たる黄金の貴公子の\\n死にきれず、穢れきった死に顔であるという\\n\r",
+      "zh": "\t腥臭化脓的恶性人面脓疮。\\n能大幅提升抗死度。\\n\\n据说那是死王子的脸──\\n半神之中的初始死者、黄金之子，\\n那心有罣碍，受尽玷污的遗容。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises vitality\r",
+      "jp": "\t抗死耐性を大きく高める\r",
+      "zh": "\t能大幅提升抗死度\r"
+    }
+  },
+  "1200": {
+    "AccessoryName": {
+      "en": "\tMottled Necklace\r",
+      "jp": "\t斑色の首飾り\r",
+      "zh": "\t斑斓项链\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA vividly-colored accoutrement precious to the ancestral followers.\\n\\nRaises immunity, robustness, and focus.\\n\\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.\r",
+      "jp": "\t祖霊の民の装身具\\nその、特に彩られた貴重なもの\\n\\n免疫、頑健、正気の耐性を高める\\n\\nそれは、芽生えかけの角であるという\\n長く生きた獣は、角に新たな芽生えを迎え\\nそれを永遠に繰り返し、いつか祖霊となるのだと\\n\r",
+      "zh": "\t祖灵之民的装饰品。\\n其中以多种色彩点缀的贵重物品。\\n\\n能提升免疫力、健壮度、理智度。\\n\\n据说此为即将萌发的角。\\n长命野兽的角会长出新芽，\\n在不停萌发新芽之后，野兽会成为祖灵。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises robustness, immunity, and focus\r",
+      "jp": "\t免疫、頑健、正気の耐性を高める\r",
+      "zh": "\t能提升免疫力、健壮度、理智度\r"
+    }
+  },
+  "1201": {
+    "AccessoryName": {
+      "en": "\tMottled Necklace +1\r",
+      "jp": "\t斑色の首飾り＋１\r",
+      "zh": "\t斑斓项链＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA vividly-colored accoutrement precious to the ancestral followers.\\n\\nGreatly raises immunity, robustness, and focus.\\n\\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.\r",
+      "jp": "\t祖霊の民の装身具\\nその、特に彩られた貴重なもの\\n\\n免疫、頑健、正気の耐性を大きく高める\\n\\nそれは、芽生えかけの角であるという\\n長く生きた獣は、角に新たな芽生えを迎え\\nそれを永遠に繰り返し、いつか祖霊となるのだと\\n\r",
+      "zh": "\t祖灵之民的装饰品。\\n其中以多种色彩点缀的贵重物品。\\n\\n能大幅提升免疫力、健壮度、理智度。\\n\\n据说此为即将萌发的角。\\n长命野兽的角会长出新芽，\\n在不停萌发新芽之后，野兽会成为祖灵。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises robustness, immunity, and focus\r",
+      "jp": "\t免疫、頑健、正気の耐性を大きく高める\r",
+      "zh": "\t能大幅提升免疫力、健壮度、理智度\r"
+    }
+  },
+  "1210": {
+    "AccessoryName": {
+      "en": "\tBull-Goat's Talisman\r",
+      "jp": "\t大山羊のタリスマン\r",
+      "zh": "\t大山羊护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting the horns of a bull-goat.\\nRaises poise.\\n\\nBull-goats are associated with the stout and mighty Tragoth, said to be unflinching in combat—now a silent comrade to those who fight.\r",
+      "jp": "\t大山羊の角を象ったタリスマン\\n強靭度を高める\\n\\n大山羊は、ある騎士の名で知られる\\n太く、強く、決して怯まぬトラゴスは\\n戦う者の、物言わぬ友であるという\\n\r",
+      "zh": "\t参考大山羊的角制成的护符。\\n能提升强韧度。\\n\\n大山羊因为某位骑士而闻名──\\n粗壮、强大、绝不畏缩的忒拉格斯。\\n据说他是战斗者的沉默战友。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises poise\r",
+      "jp": "\t強靭度を高める\r",
+      "zh": "\t能提升强韧度\r"
+    }
+  },
+  "1220": {
+    "AccessoryName": {
+      "en": "\tMarika's Scarseal\r",
+      "jp": "\tマリカの刻印\r",
+      "zh": "\t玛莉卡的烙印\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn eye engraved with an Elden Rune.\\nSaid to be the seal of Queen Marika.\\n\\nRaises mind, intelligence, faith, and arcane, but also increases damage taken.\\n\\nThese seals represent the lifelong duty of those chosen by the gods.\r",
+      "jp": "\tエルデのルーンが刻印された瞳\\nそれは、女王マリカの印であるという\\n\\n精神力、知力、信仰、神秘が高まるが\\n被ダメージも大きくなる\\n\\n刻印は、神に見出された者が\\n生涯の使命を与えられた証である\\n\r",
+      "zh": "\t受艾尔登卢恩雕琢的眼珠。\\n据说是玛莉卡女王的烙印。\\n\\n能提升集中力、智力、信仰、感应，\\n但增加受到的损伤。\\n\\n烙印是被神祇找上的人物\\n受赐生涯使命的证明。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attributes, but also increases damage taken\r",
+      "jp": "\t能力値が高まるが、被ダメージも大きくなる\r",
+      "zh": "\t能提升能力值，但增加受到的损伤\r"
+    }
+  },
+  "1221": {
+    "AccessoryName": {
+      "en": "\tMarika's Soreseal\r",
+      "jp": "\tマリカの爛れ刻印\r",
+      "zh": "\t玛莉卡的糜烂烙印\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tThis legendary talisman is an eye engraved with an Elden Rune, said to be the seal of Queen Marika.\\n\\nGreatly raises mind, intelligence, faith, and arcane, but also increases damage taken by a similar measure.\\n\\nSolemn duty weighs upon the one beholden; not unlike a gnawing curse from which there is no deliverance.\r",
+      "jp": "\tエルデのルーンが刻印された瞳\\n「伝説のタリスマン」のひとつ\\nそれは、女王マリカの印であるという\\n\\n精神力、知力、信仰、神秘が大きく高まるが\\n被ダメージもとても大きくなる\\n\\n強き使命は、その主を蝕む\\nまるで逃れ得ぬ呪いのように\\n\r",
+      "zh": "\t受艾尔登卢恩雕琢的眼珠。\\n“传说中的护符”之一。\\n据说是玛莉卡女王的烙印。\\n\\n能大幅提升集中力、智力、信仰、感应，\\n但大幅增加受到的损伤。\\n\\n沉重的使命会侵蚀肩负者，\\n犹如无法逃离的诅咒。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises attributes, but also increases damage taken\r",
+      "jp": "\t能力値が大きく高まるが、被ダメージも大きくなる\r",
+      "zh": "\t能大幅提升能力值，但大幅增加受到的损伤\r"
+    }
+  },
+  "1230": {
+    "AccessoryName": {
+      "en": "\tWarrior Jar Shard\r",
+      "jp": "\t戦士の壺の破片\r",
+      "zh": "\t战士壶碎片\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tShard of a shattered warrior jar.\\n\\nBoosts the attack power of skills.\\n\\nScraps of stewed flesh cling to the shard, and tatters of ornaments can be seen mingled within the slime. Relics of ancient royal warriors, perhaps.\r",
+      "jp": "\t壊れて死んだ、戦士の壺の破片\\n\\n戦技の攻撃力を高める\\n\\n蕩けた屍肉が破片にこびり付き\\nその内には、装飾品の名残が見て取れる\\n古い、王族の戦士の遺品だろう\\n\r",
+      "zh": "\t破裂死亡的战士壶碎片。\\n\\n能提升战技的攻击力。\\n\\n碎片上紧粘着软化的尸块，\\n其中还能看到饰品的残骸。\\n有可能是从前王室战士的遗物。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts the attack power of skills\r",
+      "jp": "\t戦技の攻撃力を高める\r",
+      "zh": "\t能提升战技的攻击力\r"
+    }
+  },
+  "1231": {
+    "AccessoryName": {
+      "en": "\tShard of Alexander\r",
+      "jp": "\tアレキサンダーの破片\r",
+      "zh": "\t亚历山大的碎片\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tShard of the late Alexander, a shattered warrior jar.\\n\\nGreatly boosts the attack power of skills.\\n\\nScraps of stewed flesh cling to the shard, and tatters of ornaments can be seen mingled within the slime. Relics of a red-haired champion, it would seem.\r",
+      "jp": "\t壊れて死んだ\\n戦士の壺、アレキサンダーの破片\\n\\n戦技の攻撃力を大きく高める\\n\\n蕩けた屍肉が破片にこびり付き\\nその内には、装飾品の名残が見て取れる\\n赤髪の英雄の遺品のようだ\\n\r",
+      "zh": "\t破裂死亡的“战士壶”亚历山大的碎片。\\n\\n能大幅提升战技的攻击力。\\n\\n碎片上紧粘着软化的尸块，\\n其中还能看到饰品的残骸。\\n好像是红发英雄的遗物。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly boosts the attack power of skills\r",
+      "jp": "\t戦技の攻撃力を大きく高める\r",
+      "zh": "\t能大幅提升战技的攻击力\r"
+    }
+  },
+  "1240": {
+    "AccessoryName": { "jp": "\tしゃべすらタリスマン\r" },
+    "AccessoryCaption": { "jp": "\tしゃべすらタリスマン\r" },
+    "AccessoryInfo": { "jp": "\tしゃべすらタリスマン\r" }
+  },
+  "1241": {
+    "AccessoryName": { "jp": "\tしゃべすらタリスマン+1\r" },
+    "AccessoryCaption": { "jp": "\tしゃべすらタリスマン+1\r" },
+    "AccessoryInfo": { "jp": "\tしゃべすらタリスマン+1\r" }
+  },
+  "1250": {
+    "AccessoryName": {
+      "en": "\tMillicent's Prosthesis\r",
+      "jp": "\tミリセントの義手\r",
+      "zh": "\t米莉森的义手\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tPart of the golden prosthesis used by Millicent.\\nThe hand is locked into a fist that once raised a sword aloft.\\n\\nBoosts dexterity and raises attack power with successive attacks.\\n\\nThe despair of sweet betrayal transformed Millicent from a mere bud into a magnificent flower. And one day, she will be reborn—as a beautiful scarlet valkyrie.\r",
+      "jp": "\tミリセントが用いた黄金の義手の一部\\n剣を掲げる形で固まった掌\\n\\n技量を高め\\n攻撃が連続するほど、攻撃力を高める\\n\\n素晴らしき裏切りの絶望により\\n蕾たる彼女は、色めく花となった\\nそして、いつか再誕するだろう\\n美しき、朱い戦乙女となって\\n\r",
+      "zh": "\t米莉森使用的黄金义手的一部分。\\n手掌动作固定在高举剑的姿势。\\n\\n能提升灵巧、\\n攻击越是连续，越能提升攻击力。\\n\\n透过美妙背叛所产生的绝望，\\n身为花蕾的她绽放成娇艳的花朵。\\n总有一天，她将会重生──\\n化为猩红女武神。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts dexterity, raises attack power with successive attacks\r",
+      "jp": "\t技量を高め、攻撃が連続するほど攻撃力を高める\r",
+      "zh": "\t能提升灵巧、攻击越是连续，越能提升攻击力\r"
+    }
+  },
+  "2000": {
+    "AccessoryName": {
+      "en": "\tMagic Scorpion Charm\r",
+      "jp": "\t魔力の蠍\r",
+      "zh": "\t魔力对蝎\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman carried by assassins who strike unseen.\\nPatterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that shimmers with magic.\\n\\nRaises magic attack power, but lowers damage negation.\r",
+      "jp": "\t奇手奇襲の刺客たちのタリスマン\\n脱皮直後の蠍が模され、その鋏は\\n魔力色の心臓を捕らえている\\n\\n魔力攻撃力を高めるが\\nカット率が下がってしまう\\n\r",
+      "zh": "\t采取奇特手段偷袭的刺客们拥有的护符。\\n参考刚蜕皮的蝎子制成，\\n蝎螯夹着魔力色的心脏。\\n\\n能提升魔力属性攻击力，但降低减伤率。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises magic attack, but lowers damage negation\r",
+      "jp": "\t魔力攻撃力を高めるが、カット率が下がってしまう\r",
+      "zh": "\t能提升魔力属性攻击力，但降低减伤率\r"
+    }
+  },
+  "2010": {
+    "AccessoryName": {
+      "en": "\tLightning Scorpion Charm\r",
+      "jp": "\t雷の蠍\r",
+      "zh": "\t雷对蝎\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman carried by assassins who strike unseen.\\nPatterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that sparks with lightning.\\n\\nRaises lightning attack power, but lowers damage negation.\r",
+      "jp": "\t奇手奇襲の刺客たちのタリスマン\\n脱皮直後の蠍が模され、その鋏は\\n雷色の心臓を捕らえている\\n\\n雷攻撃力を高めるが\\nカット率が下がってしまう\\n\r",
+      "zh": "\t采取奇特手段偷袭的刺客们拥有的护符。\\n参考刚蜕皮的蝎子制成，\\n蝎螯夹着雷色的心脏。\\n\\n能提升雷属性攻击力，但降低减伤率。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises lightning attack, but lowers damage negation\r",
+      "jp": "\t雷攻撃力を高めるが、カット率が下がってしまう\r",
+      "zh": "\t能提升雷属性攻击力，但降低减伤率\r"
+    }
+  },
+  "2020": {
+    "AccessoryName": {
+      "en": "\tFire Scorpion Charm\r",
+      "jp": "\t炎の蠍\r",
+      "zh": "\t火对蝎\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman carried by assassins who strike unseen.\\nPatterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that burns with fire.\\n\\nRaises fire attack power, but lowers damage negation.\r",
+      "jp": "\t奇手奇襲の刺客たちのタリスマン\\n脱皮直後の蠍が模され、その鋏は\\n炎色の心臓を捕らえている\\n\\n炎攻撃力を高めるが\\nカット率が下がってしまう\\n\r",
+      "zh": "\t采取奇特手段偷袭的刺客们拥有的护符。\\n参考刚蜕皮的蝎子制成，\\n蝎螯夹着火色的心脏。\\n\\n能提升火属性攻击力，但降低减伤率。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises fire attack, but lowers damage negation\r",
+      "jp": "\t炎攻撃力を高めるが、カット率が下がってしまう\r",
+      "zh": "\t能提升火属性攻击力，但降低减伤率\r"
+    }
+  },
+  "2030": {
+    "AccessoryName": {
+      "en": "\tSacred Scorpion Charm\r",
+      "jp": "\t聖なる蠍\r",
+      "zh": "\t圣对蝎\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman carried by assassins who strike unseen.\\nPatterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart with a blessed glow.\\n\\nRaises holy attack power, but lowers damage negation.\r",
+      "jp": "\t奇手奇襲の刺客たちのタリスマン\\n脱皮直後の蠍が模され、その鋏は\\n聖色の心臓を捕らえている\\n\\n聖攻撃力を高めるが\\nカット率が下がってしまう\\n\r",
+      "zh": "\t采取奇特手段偷袭的刺客们拥有的护符。\\n参考刚蜕皮的蝎子制成，\\n蝎螯夹着圣色的心脏。\\n\\n能提升圣属性攻击力，但降低减伤率。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises holy attack, but lowers damage negation\r",
+      "jp": "\t聖攻撃力を高めるが、カット率が下がってしまう\r",
+      "zh": "\t能提升圣属性攻击力，但降低减伤率\r"
+    }
+  },
+  "2040": {
+    "AccessoryName": {
+      "en": "\tRed-Feathered Branchsword\r",
+      "jp": "\t赤羽の七支刃\r",
+      "zh": "\t红羽七刃剑\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman adorned with red feathers, once used in ancient death rituals.\\nRaises attack power when HP is low.\\n\\nThe heart sings when one draws close to death, and a glorious end awaits those who cling so tenaciously to life.\r",
+      "jp": "\t古代の死儀礼に由来するタリスマン\\n赤羽のそれは、ＨＰが減少したとき\\n攻撃力を高める\\n\\n死に近付くは高揚である\\nそれでこそ、懸命に生に縋り付き\\n後の死はより輝かしい\\n\r",
+      "zh": "\t源自古代死亡仪式的护符。\\n红色羽毛的护符，在血量偏低时，\\n能提升攻击力。\\n\\n与死亡比邻时，情绪会为之高昂──\\n那拚命求生的模样，\\n会让随后到来的死亡更加耀眼。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attack power when HP is low\r",
+      "jp": "\tＨＰが減少したとき、攻撃力を高める\r",
+      "zh": "\t血量偏低时，能提升攻击力\r"
+    }
+  },
+  "2050": {
+    "AccessoryName": {
+      "en": "\tRitual Sword Talisman\r",
+      "jp": "\t捧闘の剣のタリスマン\r",
+      "zh": "\t献斗剑护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman patterned after swords used in ritual combat held to honor the Erdtree.\\n\\nRaises attack power when HP is at maximum.\\n\\nThe practice had died out by the age of King Consort Radagon, but remains of the arenas where ritual combat took place can still be found in every land.\r",
+      "jp": "\tかつて黄金樹に捧げられた闘いの\\n儀式の剣を模したタリスマン\\n\\nＨＰが最大のとき、攻撃力を高める\\n\\n王配ラダゴンの時代、捧闘は廃れてしまった\\n各地に残る闘技場は、その名残である\\n\r",
+      "zh": "\t过去献给黄金树的战斗仪式──\\n参考用于仪式中的剑制成的护符。\\n\\n血量全满时，能提升攻击力。\\n\\n战斗仪式在王夫拉达冈的时代受到废除，\\n散布各处的竞技场是遗留下来的产物。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attack power when HP is at maximum\r",
+      "jp": "\tＨＰが最大のとき、攻撃力を高める\r",
+      "zh": "\t血量全满时，能提升攻击力\r"
+    }
+  },
+  "2060": {
+    "AccessoryName": {
+      "en": "\tSpear Talisman\r",
+      "jp": "\t槍のタリスマン\r",
+      "zh": "\t矛护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a spear and a soldier.\\nEnhances the counterattacks that are unique to thrusting weapons.\\n\\nSpears are standard weapons for soldiers in the Lands Between. They made it possible to respond to a ferocious foe with an equally ferocious counterattack.\r",
+      "jp": "\t槍と兵士を象ったタリスマン\\n刺突攻撃特有の、カウンター攻撃を強化する\\n\\n槍は、狭間の地の兵士の一般的な武器であり\\nときに強者に、手痛い反撃をあたえた\\n\r",
+      "zh": "\t以矛与士兵的形象制成的护符。\\n能强化突刺攻击特有的反击攻击。\\n\\n在交界地之中，常见士兵用矛。\\n遇上强敌时，有时能给予有效反击。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances counterattacks unique to thrusting weapons\r",
+      "jp": "\t刺突攻撃特有の、カウンター攻撃を強化する\r",
+      "zh": "\t能强化突刺攻击特有的反击攻击\r"
+    }
+  },
+  "2070": {
+    "AccessoryName": {
+      "en": "\tHammer Talisman\r",
+      "jp": "\t大槌のタリスマン\r",
+      "zh": "\t大槌护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a hammer and a knight.\\nEnhances stamina-reducing attacks against a blocking opponent.\\n\\nHammers are highly effective against shield-bearing foes, so much so that they are known as \"knight-killers.\"\r",
+      "jp": "\t大槌と騎士を象ったタリスマン\\nガードに対するスタミナ攻撃力を強化する\\n\\n槌は、盾を用いる敵に効果が高く\\n故に騎士狩りの武器として知られている\\n\r",
+      "zh": "\t以大槌与骑士的形象制成的护符。\\n当敌人防御，攻击时能增加对方消耗的精力。\\n\\n槌在对上持盾敌人时相当有效，\\n为狩猎骑士时的知名武器。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances stamina-reducing attacks against blockers\r",
+      "jp": "\tガードに対するスタミナ攻撃力を強化する\r",
+      "zh": "\t当敌人防御，攻击时能增加对方消耗的精力\r"
+    }
+  },
+  "2080": {
+    "AccessoryName": {
+      "en": "\tWinged Sword Insignia\r",
+      "jp": "\t有翼剣の徽章\r",
+      "zh": "\t带翼剑徽章\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a raised prosthetic blade.\\nAn honor bestowed upon the knights who fought alongside Malenia the Severed.\\n\\nRaises attack power with successive attacks.\\n\\nThe wings symbolize Malenia and her undefeated prowess. Though she never knew relief from the accursed rot she was born into, her blade was forever beautiful—and relentless.\r",
+      "jp": "\t掲げられた義手刀を象ったタリスマン\\n欠け身のマレニアと、共に戦った騎士たちの徽章\\n\\n攻撃が連続するほど、攻撃力が高まる\\n\\n翼はマレニアと、その不敗の戦の象徴である\\n生来の宿痾により癒しを知らぬ彼女の剣は\\n美しく、ただ熾烈であり続けた\\n\r",
+      "zh": "\t参考高举的义手刀制成的护符。\\n与残身玛莲妮亚并肩作战的\\n骑士们拥有的徽章。\\n\\n攻击越是连续，越能提升攻击力。\\n\\n飞翼象征着玛莲妮亚，以及战无不胜。\\n生来的宿疾让她不知何谓安祥，\\n因此她的剑维持美丽，也带有壮烈的特质。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attack power with successive attacks\r",
+      "jp": "\t攻撃が連続するほど、攻撃力が高まる\r",
+      "zh": "\t攻击越是连续，越能提升攻击力\r"
+    }
+  },
+  "2081": {
+    "AccessoryName": {
+      "en": "\tRotten Winged Sword Insignia\r",
+      "jp": "\t腐敗翼剣の徽章\r",
+      "zh": "\t腐败翼剑徽章\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a raised prosthetic blade.\\nAn honor bestowed upon the valkyries who serve the Goddess of Rot.\\n\\nGreatly raises attack power with successive attacks.\\n\\nThe four sisters were born in the Swamp of Aeonia, and came to the Haligtree under the aegis of Gowry. And yet, those buds were doomed to never blossom.\r",
+      "jp": "\t掲げられた義手刀を象ったタリスマン\\n腐敗の女神に仕える、戦乙女たちの徽章\\n\\n攻撃が連続するほど、攻撃力が大きく高まる\\n\\n四姉妹は、エオニアの沼に生まれ落ち\\nゴーリーの手引きにより、聖樹へと至った\\nだが彼女たちは、出来損ないの蕾であった\\n\r",
+      "zh": "\t参考高举的义手刀制成的护符。\\n侍奉腐败女神的女武神们拥有的徽章。\\n\\n攻击越是连续，越能大幅提升攻击力。\\n\\n四位姊妹诞生自艾奥尼亚沼泽，\\n透过格威的帮助，到达了圣树──\\n然而她们是不完全的花蕾。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises attack power with successive attacks\r",
+      "jp": "\t攻撃が連続するほど、攻撃力が大きく高まる\r",
+      "zh": "\t攻击越是连续，越能大幅提升攻击力\r"
+    }
+  },
+  "2090": {
+    "AccessoryName": {
+      "en": "\tDagger Talisman\r",
+      "jp": "\t短剣のタリスマン\r",
+      "zh": "\t短剑护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a dagger and a surgeon.\\nEnhances critical hits.\\n\\nThe white-garbed field surgeons come to the aid of friend and foe alike by dealing a final deadly thrust to spare them from the prolonged agony of a mortal wound. A sense of mercy is a catalyst for bloodlust.\r",
+      "jp": "\t短剣と医師を象ったタリスマン\\n致命の一撃を強化する\\n\\n白衣の戦場医師は、敵味方に関わらず\\n死に損なった者たちを一突きで介錯する\\nまさに慈悲こそが、殺意を高めるのだ\\n\r",
+      "zh": "\t以短剑与医师的形象制成的护符。\\n能强化致命一击。\\n\\n白衣的战场医师看见一息尚存的人，\\n不论敌我，皆会给予最后一击──\\n正因为慈悲为怀，才会痛下杀手。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances critical hits\r",
+      "jp": "\t致命の一撃を強化する\r",
+      "zh": "\t能强化致命一击\r"
+    }
+  },
+  "2100": {
+    "AccessoryName": {
+      "en": "\tArrow's Reach Talisman\r",
+      "jp": "\t遠矢のタリスマン\r",
+      "zh": "\t远箭护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting three arrows.\\nCarried by hunters of beasts.\\n\\nIncreases the effective range of bows.\r",
+      "jp": "\t三本の羽矢を象ったタリスマン\\n獣を狩る、狩人たちのもの\\n\\n弓の飛距離が上昇する\\n\r",
+      "zh": "\t以三支羽毛箭的形象制成的护符。\\n狩猎野兽的猎人们拥有的物品。\\n\\n能提升弓的射程距离。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tIncreases bow effective range\r",
+      "jp": "\t弓の飛距離が上昇する\r",
+      "zh": "\t能提升弓的射程距离\r"
+    }
+  },
+  "2110": {
+    "AccessoryName": {
+      "en": "\tBlue Dancer Charm\r",
+      "jp": "\t青い踊り子\r",
+      "zh": "\t蓝色舞娘\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA cloth doll depicting a dancer garbed in blue.\\nAn ancient heirloom of some sort.\\n\\nRaises attack power with lower equipment load.\\n\\nThe dancer in blue represents a fairy, who in legend bestowed a flowing sword upon a blind swordsman. Blade in hand, the swordsman sealed away an ancient god—a god that was Rot itself.\r",
+      "jp": "\t青衣の踊り子を象った布人形\\nとても古い、伝承の遺物\\n\\n装備重量が少ないほど、攻撃力が高まる\\n\\n青衣の踊り子は、妖精であったという\\n妖精は、盲目の剣士に流水の剣を授け\\n古き神、腐敗を封じたと伝わっている\\n\r",
+      "zh": "\t以蓝衣舞娘的形象制成的布质人偶。\\n非常古老，传承而来的物品。\\n\\n装备重量越轻，攻击力会越高。\\n\\n据说蓝衣舞娘是妖精。\\n妖精将流水剑赐予盲眼剑士，\\n剑士因此得以封印古老神祇──封印腐败。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attack power with lower equipment load\r",
+      "jp": "\t装備重量が少ないほど、攻撃力が高まる\r",
+      "zh": "\t装备重量越轻，攻击力会越高\r"
+    }
+  },
+  "2120": {
+    "AccessoryName": {
+      "en": "\tTwinblade Talisman\r",
+      "jp": "\t両刃のタリスマン\r",
+      "zh": "\t双头剑护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a twinblade and a confessor.\\nEnhances the final hit ending a chain of attacks.\\n\\nThe twinblade technique is a tradition of the confessors, who closely guard the secret of how they preserve the momentum of their attacks. Thus is the final strike of their onslaught all the more deadly.\r",
+      "jp": "\t両刃剣と密使を象ったタリスマン\\n連撃の最終攻撃を強化する\\n\\n密使たちに伝わる両刃の剣技は\\n攻撃の勢いを殺さないことを、極意とする\\n故にその最終攻撃は、危険である\\n\r",
+      "zh": "\t以双头剑与密使的形象制成的护符。\\n能强化连续攻击的最后一记攻击。\\n\\n密使们继承而来的双头剑剑术\\n贯彻攻击招招不致命，\\n但最后一记攻击最为强力的作法。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances final hit of chain attacks\r",
+      "jp": "\t連撃の最終攻撃を強化する\r",
+      "zh": "\t能强化连续攻击的最后一记攻击\r"
+    }
+  },
+  "2130": {
+    "AccessoryName": {
+      "en": "\tAxe Talisman\r",
+      "jp": "\t斧のタリスマン\r",
+      "zh": "\t斧护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting an axe and a warrior.\\nEnhances charge attacks.\\n\\nThe Lord who led the Long March bore an axe, and his loyal warriors honored him by wielding axes of their own, making them very effective at dealing decisive blows.\r",
+      "jp": "\t斧と戦士を象ったタリスマン\\nタメ攻撃を強化する\\n\\n斧は、長征の戦王の武器である\\n王を誇る戦士たちは、同じ武器を振るい\\n力を込めた一撃に長けている\\n\r",
+      "zh": "\t以斧与战士的形象制成的护符。\\n能强化蓄力攻击。\\n\\n斧是长征战王的武器，\\n众战士推崇王之余，也使用相同武器。\\n他们擅长使出蓄满力量的攻击。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances charge attacks\r",
+      "jp": "\tタメ攻撃を強化する\r",
+      "zh": "\t能强化蓄力攻击\r"
+    }
+  },
+  "2140": {
+    "AccessoryName": {
+      "en": "\tLance Talisman\r",
+      "jp": "\tランスのタリスマン\r",
+      "zh": "\t骑枪护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a lance and a knight.\\nEnhances attacks while on horseback.\\n\\nKnights on horseback are deadly foes. They see all below from their lofty position, meeting little meaningful resistance as they charge ahead.\r",
+      "jp": "\tランスと騎馬騎士を象ったタリスマン\\n馬上での攻撃力を強化する\\n\\n馬上にある騎士は、恐ろしい\\n高きによって低きを視るは\\n勢いすでに破竹であろう\\n\r",
+      "zh": "\t以骑枪与骑士的形象制成的护符。\\n能提升骑马时的攻击力。\\n\\n骑在马上的骑士十分可畏──\\n身在高处，视野更加全面，\\n可说是如虎添翼。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances attacks on horseback\r",
+      "jp": "\t馬上での攻撃力を強化する\r",
+      "zh": "\t能提升骑马时的攻击力\r"
+    }
+  },
+  "2150": {
+    "AccessoryName": {
+      "en": "\tArrow's Sting Talisman\r",
+      "jp": "\t硬矢のタリスマン\r",
+      "zh": "\t硬箭护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting three iron arrows.\\nCarried by soldiers long ago.\\n\\nRaises attack power of arrows and bolts.\r",
+      "jp": "\t三本の鉄矢を象ったタリスマン\\n古い兵士たちのもの\\n\\n矢やボルトによる射撃の\\n攻撃力が高まる\\n\r",
+      "zh": "\t以三支铁箭的形象制成的护符。\\n古老士兵们的物品。\\n\\n能提升射出箭、弩箭时的攻击力。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attack power of arrows and bolts\r",
+      "jp": "\t矢やボルトによる射撃の攻撃力が高まる\r",
+      "zh": "\t能提升射出箭、弩箭时的攻击力\r"
+    }
+  },
+  "2160": {
+    "AccessoryName": {
+      "en": "\tLord of Blood's Exultation\r",
+      "jp": "\t血の君主の歓喜\r",
+      "zh": "\t鲜血君王的欢愉\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting the exultation of the Lord of Blood.\\n\\nRaises attack power when blood loss occurs in the vicinity.\\n\\n\"Render up your offerings of blood to your Lord. Drench my consort's chamber. Slake his cocoon's thirst. His awakening shall herald the dawn of our dynasty.\"\r",
+      "jp": "\t血の君主の喜びを模したタリスマン\\n\\n周囲で出血状態が発生すると、攻撃力が高まる\\n\\n血の君主に、血を捧げよ\\n御方の閨を、繭を血で満たせ\\n幼き伴侶が目覚める時、我ら王朝開闢せん\\n\r",
+      "zh": "\t以鲜血君王的欢欣模样制成的护符。\\n\\n当周围人物陷入异常状态出血时，\\n能提升攻击力\\n\\n　向鲜血君王献上鲜血吧──\\n　让大人伴侣的房内，让茧内填满鲜血。\\n　年幼的伴侣觉醒之时，我们的王朝随之开创。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBlood loss in vicinity increases attack power\r",
+      "jp": "\t周囲で出血状態が発生すると、攻撃力が高まる\r",
+      "zh": "\t当周围人物陷入异常状态出血时，能提升攻击力\r"
+    }
+  },
+  "2170": {
+    "AccessoryName": {
+      "en": "\tKindred of Rot's Exultation\r",
+      "jp": "\t腐敗眷属の歓喜\r",
+      "zh": "\t腐败眷属的欢愉\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting the exultation of pests.\\n\\nRaises attack power when poisoning or rot occurs in the vicinity.\\n\\n\"Rot for the scarlet goddess. O scarlet blossoms, flourish in distant lands, and return to us, the unwanted children.\"\r",
+      "jp": "\t蟲たちの喜びを模したタリスマン\\n\\n周囲で毒あるいは腐敗状態が発生すると\\n攻撃力が高まる\\n\\n朱の女神に、腐敗を捧げよ\\n遠い彼方で、朱い花咲誇り\\n我ら落とし子に戻りたまえ\\n\r",
+      "zh": "\t以虫群的欢欣模样制成的护符。\\n\\n当周围人物陷入异常状态中毒、腐败时，\\n能提升攻击力。\\n\\n　向猩红女神献上腐败吧──\\n　在遥远他方怒放猩红花朵，\\n　回到我们这群弃子的身旁吧。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tPoisoning or rot in vicinity increases attack power\r",
+      "jp": "\t周囲で毒／腐敗状態が発生すると、攻撃力が高まる\r",
+      "zh": "\t当周围人物陷入中毒、腐败时，能提升攻击力\r"
+    }
+  },
+  "2180": {
+    "AccessoryName": {
+      "en": "\tClaw Talisman\r",
+      "jp": "\t爪のタリスマン\r",
+      "zh": "\t钩爪护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a claw and an assassin.\\nEnhances jump attacks.\\n\\nThe assassins of Ravenmount are killers by trade. They assail their victims while dressed as birds of prey.\r",
+      "jp": "\t爪と凶手を象ったタリスマン\\nジャンプ攻撃を強化する\\n\\n暗殺を生業とする、カラス山の凶手たちは\\n自らを死の猛禽に擬し、獲物に襲いかかる\\n\r",
+      "zh": "\t以钩爪与杀手的形象制成的护符。\\n能强化跳跃攻击。\\n\\n鸦山的杀手以暗杀为业，\\n他们会模仿死之猛禽，攻击盯上的猎物。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances jump attacks\r",
+      "jp": "\tジャンプ攻撃を強化する\r",
+      "zh": "\t能强化跳跃攻击\r"
+    }
+  },
+  "2190": {
+    "AccessoryName": {
+      "en": "\tRoar Medallion\r",
+      "jp": "\t咆哮のメダリオン\r",
+      "zh": "\t咆哮链坠\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA bronze medallion depicting a roaring giant.\\nEnhances roars and breath attacks.\\n\\nIn ancient times, the giants were mortal enemies of the Erdtree. Their bellowing roars desolated nature, triggered avalanches, and whipped up storms of flame.\r",
+      "jp": "\t叫ぶ巨人を象った、青銅のメダリオン\\n咆哮とブレスを強化する\\n\\n古い時代、巨人は黄金樹の宿敵であった\\nその轟く咆哮は大自然を荒ぶらせ\\n雪崩をおこし、炎を嵐としたという\\n\r",
+      "zh": "\t以嘶吼巨人的形象制成的青铜链坠。\\n能强化咆哮与吐息。\\n\\n在远古时代，巨人是黄金树的宿敌。\\n据说巨人轰然的咆哮能破坏自然──\\n譬如引发雪崩，或召来火焰暴风雨。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances roars and breath attacks\r",
+      "jp": "\t咆哮とブレスを強化する\r",
+      "zh": "\t能强化咆哮与吐息\r"
+    }
+  },
+  "2200": {
+    "AccessoryName": {
+      "en": "\tCurved Sword Talisman\r",
+      "jp": "\t曲剣のタリスマン\r",
+      "zh": "\t曲剑护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a curved sword and a swordsman.\\nEnhances guard counters.\\n\\nIt is said that a blind swordsman was the originator of this technique—the art of allowing one's opponent to strike so as to leave them vulnerable to a well-timed reply.\r",
+      "jp": "\t曲剣と剣士を象ったタリスマン\\nガードカウンターを強化する\\n\\n肉を切らせて骨を断つ、その卓越した剣技は\\nかつて盲目の剣士が見出したという\\n\r",
+      "zh": "\t以曲剑与剑士的形象制成的护符。\\n能强化防御反击。\\n\\n那体现险中求胜的杰出剑术，\\n据说是在过去，盲眼剑士领悟的技术。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances guard counters\r",
+      "jp": "\tガードカウンターを強化する\r",
+      "zh": "\t能强化防御反击\r"
+    }
+  },
+  "2210": {
+    "AccessoryName": {
+      "en": "\tCompanion Jar\r",
+      "jp": "\t友なる壺\r",
+      "zh": "\t友好壶\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman given by the jars to their friends.\\nRaises potency of thrown jars.\\n\\nThough the jars are brought to life by human flesh and blood, they are all rather kindly folk. Perhaps they were made to be better than their innards.\r",
+      "jp": "\t壺たちが、友に贈るタリスマン\\n投擲壺アイテムの威力を高める\\n\\n人の血肉を、その生の源としながらも\\n壺たちは皆善良である。あるいはそれこそが\\n彼らが作られた理由であったろうか\\n\r",
+      "zh": "\t壶群送给朋友的护符。\\n能提升投掷壶类道具的威力。\\n\\n壶群以人类血肉作为生命泉源，\\n但本性却十分地善良。\\n也可能那份善良，就是他们诞生的理由。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises potency of throwing pots\r",
+      "jp": "\t投擲壺アイテムの威力を高める\r",
+      "zh": "\t能提升投掷壶类道具的威力\r"
+    }
+  },
+  "2220": {
+    "AccessoryName": {
+      "en": "\tPerfumer's Talisman\r",
+      "jp": "\t調香師のタリスマン\r",
+      "zh": "\t调香师护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a set of perfume bottles.\\nRaises potency of arts employing perfume.\\n\\nThere are gardens known only to the perfumers. Whether hidden on the fringes of the highlands, or obscured by shadows inside caves, the flowers blossom in secret, waiting to impart their scent.\r",
+      "jp": "\t調香瓶を模したタリスマン\\n調香術の威力を高める\\n\\n調香師には、彼らだけが知る花園がある\\n高原の辺縁に、あるいは隠された洞窟に\\nそこで花々は、ただ香るためだけに咲く\\n\r",
+      "zh": "\t参考调香瓶的模样制成的护符。\\n能提升调香术的威力。\\n\\n调香师有着只有他们才知道的花园。\\n可能位在高原的边缘，或是隐藏的洞窟内，\\n那里百花齐放，只为芬芳。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises potency of arts employing perfume \r",
+      "jp": "\t調香術の威力を高める\r",
+      "zh": "\t能提升调香术的威力\r"
+    }
+  },
+  "3000": {
+    "AccessoryName": {
+      "en": "\tGraven-School Talisman\r",
+      "jp": "\t魔術師球のタリスマン\r",
+      "zh": "\t魔法师球护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a school of graven mages, the nightmare of the academy.\\n\\nRaises potency of sorceries.\\n\\nThe primeval current is a forbidden tradition of glintstone sorcery. To those who cleave to its teachings, the act of collecting sorcerers to fashion them into the seeds of stars is but another path of scientific inquiry.\r",
+      "jp": "\t魔術師球と呼ばれる\\n学院の悪夢を象ったタリスマン\\n\\n魔術の威力を高める\\n\\n輝石魔術には、源流という禁忌がある\\n魔術師を集めて星の種となす\\n源流では、これは探究の一手段なのだ\\n\r",
+      "zh": "\t学院的恶梦──人称魔法师球，\\n以其形象制成的护符。\\n\\n能提升魔法的威力。\\n\\n在辉石魔法之中，有个名为“起源”的禁忌。\\n将魔法师聚集成球，化成星星种子──\\n对起源派的人而言，这是一种探索的手段。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises potency of sorceries\r",
+      "jp": "\t魔術の威力を高める\r",
+      "zh": "\t能提升魔法的威力\r"
+    }
+  },
+  "3001": {
+    "AccessoryName": {
+      "en": "\tGraven-Mass Talisman\r",
+      "jp": "\t魔術師塊のタリスマン\r",
+      "zh": "\t魔法师块护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting the first school of graven mages—a nightmare that would continue to haunt the academy.\\n\\nGreatly raises potency of sorceries.\\n\\nThe primeval current is a forbidden tradition of glintstone sorcery. To those who cleave to its teachings, the act of collecting sorcerers to fashion them into the seeds of stars is but another path of scientific inquiry.\r",
+      "jp": "\t魔術師球と呼ばれる学院の悪夢\\n最初のそれを象ったタリスマン\\n\\n魔術の威力を大きく高める\\n\\n輝石魔術には、源流という禁忌がある\\n魔術師を集めて星の種となす\\n源流では、これは探究の一手段なのだ\\n\r",
+      "zh": "\t学院的恶梦──人称魔法师球，\\n以其中最先出现的魔法师球形象制成的护符。\\n\\n能大幅提升魔法的威力。\\n\\n在辉石魔法之中，有个名为“起源”的禁忌。\\n将魔法师聚集成球，化成星星种子──\\n对起源派的人而言，这是一种探索的手段。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises potency of sorceries\r",
+      "jp": "\t魔術の威力を大きく高める\r",
+      "zh": "\t能大幅提升魔法的威力\r"
+    }
+  },
+  "3040": {
+    "AccessoryName": {
+      "en": "\tFaithful's Canvas Talisman\r",
+      "jp": "\t信徒の誓布\r",
+      "zh": "\t信徒的立誓布\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman bearing an icon that depicts a group of masked figures.\\nRaises potency of incantations.\\n\\nThe figures represent the flock at prayer, their firm belief in the intangible inspiring even the solitary founder of their religion.\\n\\nWhat is faith if not an affirmation?\r",
+      "jp": "\t仮面の偶像が描かれた布きれ\\n祈祷の威力を高める\\n\\nその偶像は信徒を模している\\n形無きものを頑なに信じ、祈る様は\\n孤独な教祖にすら勇気を与える\\n\\n信仰とは、つまり肯定であろう\\n\r",
+      "zh": "\t描绘面具人像的布条。\\n能提升祷告的威力。\\n\\n人像是参考信徒绘制而成，\\n坚信无形的事物，并献上祈祷──\\n那副模样，连孤独的创教者也能受到鼓舞。\\n\\n所谓的信仰，可能就等于肯定。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises potency of incantations\r",
+      "jp": "\t祈祷の威力を高める\r",
+      "zh": "\t能提升祷告的威力\r"
+    }
+  },
+  "3050": {
+    "AccessoryName": {
+      "en": "\tFlock's Canvas Talisman\r",
+      "jp": "\t集う信徒の誓布\r",
+      "zh": "\t群聚信徒的立誓布\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman bearing an icon that depicts a mass of masked figures.\\nGreatly raises potency of incantations.\\n\\nThe figures represent the flock at prayer, their firm belief in the intangible inspiring even the solitary founder of their religion.\\n\\nWhat is faith if not an affirmation?\r",
+      "jp": "\t大量の偶像が描かれた布きれ\\n祈祷の威力を大きく高める\\n\\nその偶像は信徒を模している\\n形無きものを頑なに信じ、祈る様は\\n孤独な教祖にすら勇気を与える\\n\\n信仰とは、つまり肯定であろう\\n\r",
+      "zh": "\t描绘大量面具人像的布条。\\n能大幅提升祷告的威力。\\n\\n人像是参考信徒绘制而成，\\n坚信无形的事物，并献上祈祷──\\n那副模样，连孤独的创教者也能受到鼓舞。\\n\\n所谓的信仰，可能就等于肯定。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises potency of incantations\r",
+      "jp": "\t祈祷の威力を大きく高める\r",
+      "zh": "\t能大幅提升祷告的威力\r"
+    }
+  },
+  "3060": {
+    "AccessoryName": {
+      "en": "\tOld Lord's Talisman\r",
+      "jp": "\t古き王のタリスマン\r",
+      "zh": "\t古王护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA legendary talisman depicting the ancient king whose seat lies at the heart of the storm beyond time.\\n\\nExtends the duration of sorceries and incantations.\\n\\nIt is said that the ancient royal city of Farum Azula has been slowly crumbling since time immemorial.\r",
+      "jp": "\t時の狭間、嵐の中心に座すという\\n古き王を象ったタリスマン\\n「伝説のタリスマン」のひとつ\\n\\n魔術と祈祷の効果時間を延ばす\\n\\n古き王の都、ファルム・アズラは\\n遥か前からずっと\\nゆっくりと崩壊しているという\\n\r",
+      "zh": "\t参考古王的形象制成的护符。\\n据说古王坐镇时空夹缝、风暴中心。\\n“传说中的护符”之一。\\n\\n能延长魔法、祷告的有效时间。\\n\\n据说古王的城──法姆·亚兹拉，\\n在许久以前就逐渐步入崩毁。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tExtends spell effect duration\r",
+      "jp": "\t魔術と祈祷の効果時間を延ばす\r",
+      "zh": "\t能延长魔法、祷告的有效时间\r"
+    }
+  },
+  "3070": {
+    "AccessoryName": {
+      "en": "\tRadagon Icon\r",
+      "jp": "\tラダゴンの肖像\r",
+      "zh": "\t拉达冈的肖像\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA legendary talisman depicting the Elden Lord Radagon.\\nShortens the casting time of sorceries and incantations.\\n\\nAs the husband of Rennala of Caria, the red-haired Radagon studied sorcery, and as the husband of Queen Marika, he studied incantations. Thus did the hero aspire to be complete.\r",
+      "jp": "\tエルデの王、ラダゴンを象ったタリスマン\\n「伝説のタリスマン」のひとつ\\n\\n魔術と祈祷の使用速度を速める\\n\\n赤髪のラダゴンは\\nカーリアのレナラの夫として魔術を修め\\n女王マリカの夫として祈祷を修めたという\\n英雄は、完全たるを目指したのだ\\n\r",
+      "zh": "\t以“艾尔登之王”拉达冈的形象制成的护符。\\n“传说中的护符”之一。\\n\\n能缩短魔法、祷告的咏唱时间。\\n\\n据说“红发”拉达冈\\n身为卡利亚的蕾娜菈的丈夫时，学习魔法；\\n身为玛莉卡女王的丈夫时，学习祷告──\\n英雄的目标，是成为完美存在。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tShortens spell casting time\r",
+      "jp": "\t魔術と祈祷の使用速度を速める\r",
+      "zh": "\t能缩短魔法、祷告的咏唱时间\r"
+    }
+  },
+  "3080": {
+    "AccessoryName": {
+      "en": "\tPrimal Glintstone Blade\r",
+      "jp": "\t原輝石の刃\r",
+      "zh": "\t源辉石刀\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn old glintstone blade that has been stained with blood.\\n\\nReduces FP consumption of sorceries and incantations at the cost of maximum HP.\\n\\nThe old sorcerers would slice open their hearts with these blades to imbue a primal glintstone with their soul, and thus did they die.\r",
+      "jp": "\t血濡れた古い輝石の刃\\n\\n魔術と祈祷の消費ＦＰが少なくなるが\\n最大ＨＰも減ってしまう\\n\\n原輝石を、自らの魂とするために\\n古い魔術師は、この刃で心臓を切り裂く\\nそしてそのまま死んでいく\\n\r",
+      "zh": "\t染血的古老辉石刀。\\n\\n能减少使用魔法、祷告消耗的专注值，\\n但减少血量上限。\\n\\n古老的魔法师为了将源辉石化成自己的灵魂，\\n会用这把刀划开心脏，接着步入死亡。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tSpells consume less FP, but maximum HP is reduced\r",
+      "jp": "\t魔術と祈祷の消費ＦＰと、最大ＨＰが少なくなる\r",
+      "zh": "\t能减少魔法、祷告消耗的专注值，但减少血量上限\r"
+    }
+  },
+  "3090": {
+    "AccessoryName": {
+      "en": "\tGodfrey Icon\r",
+      "jp": "\tゴッドフレイの肖像\r",
+      "zh": "\t葛孚雷的肖像\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA legendary talisman depicting the Elden Lord Godfrey.\\nRaises charge attack power of sorceries, incantations, and skills.\\n\\nGodfrey was a ferocious warrior. When he vowed to become a lord, he took the Beast Regent Serosh upon his back to suppress the ceaseless lust for battle that raged within.\r",
+      "jp": "\tエルデの王、ゴッドフレイを象ったタリスマン\\n「伝説のタリスマン」のひとつ\\n\\n魔術／祈祷／戦技のタメ使用を強化する\\n\\nゴッドフレイは、猛き戦士であった\\nけれど、王となるを誓ったとき\\n沸々と滾り続ける戦意を抑えるため\\n宰相の獣、セローシュを背負ったのだ\\n\r",
+      "zh": "\t以“艾尔登之王”葛孚雷的形象制成的护符。\\n“传说中的护符”之一。\\n\\n能强化魔法、祷告、战技的蓄力使用。\\n\\n葛孚雷是勇猛的战士──\\n然而在他立誓为王的那一刻起，\\n为了抑制心中沸腾不止的战意，\\n他背起了“宰相野兽”瑟洛修。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances charged spells and skills\r",
+      "jp": "\t魔術／祈祷／戦技のタメ使用を強化する\r",
+      "zh": "\t能强化魔法、祷告、战技的蓄力使用\r"
+    }
+  },
+  "4000": {
+    "AccessoryName": {
+      "en": "\tDragoncrest Shield Talisman\r",
+      "jp": "\t竜印の盾のタリスマン\r",
+      "zh": "\t龙徽盾护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tWrought iron talisman depicting an ancient dragon.\\nBoosts physical damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t古竜が浮き彫られた、錬鉄のタリスマン\\n物理カット率を高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t有着古龙浮雕的熟铁制护符。\\n能提升物理减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts physical damage negation\r",
+      "jp": "\t物理カット率を高める\r",
+      "zh": "\t能提升物理减伤率\r"
+    }
+  },
+  "4001": {
+    "AccessoryName": {
+      "en": "\tDragoncrest Shield Talisman +1\r",
+      "jp": "\t竜印の盾のタリスマン＋１\r",
+      "zh": "\t龙徽盾护符＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tWrought iron talisman depicting a duo of ancient dragons.\\nGreatly boosts physical damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t二体の古竜が浮き彫られた、錬鉄のタリスマン\\n物理カット率を大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t有着两只古龙浮雕的熟铁制护符。\\n能大幅提升物理减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly boosts physical damage negation\r",
+      "jp": "\t物理カット率を大きく高める\r",
+      "zh": "\t能大幅提升物理减伤率\r"
+    }
+  },
+  "4002": {
+    "AccessoryName": {
+      "en": "\tDragoncrest Shield Talisman +2\r",
+      "jp": "\t竜印の盾のタリスマン＋２\r",
+      "zh": "\t龙徽盾护符＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tWrought iron talisman depicting a trio of ancient dragons.\\nVastly boosts physical damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t三体の古竜が浮き彫られた、錬鉄のタリスマン\\n物理カット率を、とても大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t有着三只古龙浮雕的熟铁制护符。\\n能更大幅提升物理减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly boosts physical damage negation\r",
+      "jp": "\t物理カット率を、とても大きく高める\r",
+      "zh": "\t能更大幅提升物理减伤率\r"
+    }
+  },
+  "4003": {
+    "AccessoryName": {
+      "en": "\tDragoncrest Greatshield Talisman\r",
+      "jp": "\t竜印の大盾のタリスマン\r",
+      "zh": "\t龙徽大盾护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tLegendary talisman of wrought iron depicting a massive ancient dragon.\\nEnormously boosts physical damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t巨大な古竜が浮き彫られた、錬鉄のタリスマン\\n「伝説のタリスマン」のひとつ\\n\\n物理カット率を、きわめて大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t有着巨大古龙浮雕的熟铁制护符。\\n“传说中的护符”之一。\\n\\n能极大幅提升物理减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnormously boosts physical damage negation\r",
+      "jp": "\t物理カット率を、きわめて大きく高める\r",
+      "zh": "\t能极大幅提升物理减伤率\r"
+    }
+  },
+  "4010": {
+    "AccessoryName": {
+      "en": "\tSpelldrake Talisman\r",
+      "jp": "\t魔力竜印のタリスマン\r",
+      "zh": "\t魔力龙徽护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a blue ancient dragon.\\nBoosts magic damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t青い古竜の描かれたタリスマン\\n魔力カット率を高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有蓝色古龙图案的护符。\\n能提升魔力属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts magical damage negation\r",
+      "jp": "\t魔力カット率を高める\r",
+      "zh": "\t能提升魔力属性减伤率\r"
+    }
+  },
+  "4011": {
+    "AccessoryName": {
+      "en": "\tSpelldrake Talisman +1\r",
+      "jp": "\t魔力竜印のタリスマン＋１\r",
+      "zh": "\t魔力龙徽护符＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a duo of blue ancient dragons.\\nGreatly boosts magic damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t二体の青い古竜の描かれたタリスマン\\n魔力カット率を大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有两只蓝色古龙图案的护符。\\n能大幅提升魔力属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly boosts magical damage negation\r",
+      "jp": "\t魔力カット率を大きく高める\r",
+      "zh": "\t能大幅提升魔力属性减伤率\r"
+    }
+  },
+  "4012": {
+    "AccessoryName": {
+      "en": "\tSpelldrake Talisman +2\r",
+      "jp": "\t魔力竜印のタリスマン＋２\r",
+      "zh": "\t魔力龙徽护符＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a trio of blue ancient dragons.\\nVastly boosts magic damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t三体の青い古竜の描かれたタリスマン\\n魔力カット率を、とても大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有三只蓝色古龙图案的护符。\\n能更大幅提升魔力属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly boosts magical damage negation\r",
+      "jp": "\t魔力カット率を、とても大きく高める\r",
+      "zh": "\t能更大幅提升魔力属性减伤率\r"
+    }
+  },
+  "4020": {
+    "AccessoryName": {
+      "en": "\tFlamedrake Talisman\r",
+      "jp": "\t炎竜印のタリスマン\r",
+      "zh": "\t火龙徽护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a red ancient dragon.\\nBoosts fire damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t赤い古竜の描かれたタリスマン\\n炎カット率を高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有红色古龙图案的护符。\\n能提升火属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts fire damage negation\r",
+      "jp": "\t炎カット率を高める\r",
+      "zh": "\t能提升火属性减伤率\r"
+    }
+  },
+  "4021": {
+    "AccessoryName": {
+      "en": "\tFlamedrake Talisman +1\r",
+      "jp": "\t炎竜印のタリスマン＋１\r",
+      "zh": "\t火龙徽护符＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a duo of red ancient dragons.\\nGreatly boosts fire damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t二体の赤い古竜の描かれたタリスマン\\n炎カット率を大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有两只红色古龙图案的护符。\\n能大幅提升火属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly boosts fire damage negation\r",
+      "jp": "\t炎カット率を大きく高める\r",
+      "zh": "\t能大幅提升火属性减伤率\r"
+    }
+  },
+  "4022": {
+    "AccessoryName": {
+      "en": "\tFlamedrake Talisman +2\r",
+      "jp": "\t炎竜印のタリスマン＋２\r",
+      "zh": "\t火龙徽护符＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a trio of red ancient dragons.\\nVastly boosts fire damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t三体の赤い古竜の描かれたタリスマン\\n炎カット率を、とても大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有三只红色古龙图案的护符。\\n能更大幅提升火属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly boosts fire damage negation\r",
+      "jp": "\t炎カット率を、とても大きく高める\r",
+      "zh": "\t能更大幅提升火属性减伤率\r"
+    }
+  },
+  "4030": {
+    "AccessoryName": {
+      "en": "\tBoltdrake Talisman\r",
+      "jp": "\t雷竜印のタリスマン\r",
+      "zh": "\t雷龙徽护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a yellow ancient dragon.\\nBoosts lightning damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t黄色い古竜の描かれたタリスマン\\n雷カット率を高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有黄色古龙图案的护符。\\n能提升雷属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts lightning damage negation\r",
+      "jp": "\t雷カット率を高める\r",
+      "zh": "\t能提升雷属性减伤率\r"
+    }
+  },
+  "4031": {
+    "AccessoryName": {
+      "en": "\tBoltdrake Talisman +1\r",
+      "jp": "\t雷竜印のタリスマン＋１\r",
+      "zh": "\t雷龙徽护符＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a duo of yellow ancient dragons.\\nGreatly boosts lightning damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t二体の黄色い古竜の描かれたタリスマン\\n雷カット率を大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有两只黄色古龙图案的护符。\\n能大幅提升雷属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly boosts lightning damage negation\r",
+      "jp": "\t雷カット率を大きく高める\r",
+      "zh": "\t能大幅提升雷属性减伤率\r"
+    }
+  },
+  "4032": {
+    "AccessoryName": {
+      "en": "\tBoltdrake Talisman +2\r",
+      "jp": "\t雷竜印のタリスマン＋２\r",
+      "zh": "\t雷龙徽护符＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a trio of yellow ancient dragons.\\nVastly boosts lightning damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t三体の黄色い古竜の描かれたタリスマン\\n雷カット率を、とても大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有三只黄色古龙图案的护符。\\n能更大幅提升雷属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly boosts lightning damage negation\r",
+      "jp": "\t雷カット率を、とても大きく高める\r",
+      "zh": "\t能更大幅提升雷属性减伤率\r"
+    }
+  },
+  "4040": {
+    "AccessoryName": {
+      "en": "\tHaligdrake Talisman\r",
+      "jp": "\t聖竜印のタリスマン\r",
+      "zh": "\t圣龙徽护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a golden ancient dragon.\\nBoosts holy damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t金の古竜の描かれたタリスマン\\n聖カット率を高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有黄金古龙图案的护符。\\n能提升圣属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts holy damage negation\r",
+      "jp": "\t聖カット率を高める\r",
+      "zh": "\t能提升圣属性减伤率\r"
+    }
+  },
+  "4041": {
+    "AccessoryName": {
+      "en": "\tHaligdrake Talisman +1\r",
+      "jp": "\t聖竜印のタリスマン＋１\r",
+      "zh": "\t圣龙徽护符＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a duo of golden ancient dragons.\\nGreatly boosts holy damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t二体の金の古竜の描かれたタリスマン\\n聖カット率を大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有两只黄金古龙图案的护符。\\n能大幅提升圣属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly boosts holy damage negation\r",
+      "jp": "\t聖カット率を大きく高める\r",
+      "zh": "\t能大幅提升圣属性减伤率\r"
+    }
+  },
+  "4042": {
+    "AccessoryName": {
+      "en": "\tHaligdrake Talisman +2\r",
+      "jp": "\t聖竜印のタリスマン＋２\r",
+      "zh": "\t圣龙徽护符＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a trio of golden ancient dragons.\\nVastly boosts holy damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t三体の金の古竜の描かれたタリスマン\\n聖カット率を、とても大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有三只黄金古龙图案的护符。\\n能更大幅提升圣属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly boosts holy damage negation\r",
+      "jp": "\t聖カット率を、とても大きく高める\r",
+      "zh": "\t能更大幅提升圣属性减伤率\r"
+    }
+  },
+  "4050": {
+    "AccessoryName": {
+      "en": "\tPearldrake Talisman\r",
+      "jp": "\t真珠竜印のタリスマン\r",
+      "zh": "\t珍珠龙徽护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a pearlescent ancient dragon.\\nBoosts non-physical damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t真珠色の古竜の描かれたタリスマン\\n物理以外のカット率を高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有珍珠色古龙图案的护符。\\n能提升物理以外的减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts non-physical damage negation\r",
+      "jp": "\t物理以外のカット率を高める\r",
+      "zh": "\t能提升物理以外的减伤率\r"
+    }
+  },
+  "4051": {
+    "AccessoryName": {
+      "en": "\tPearldrake Talisman +1\r",
+      "jp": "\t真珠竜印のタリスマン＋１\r",
+      "zh": "\t珍珠龙徽护符＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a duo of pearlescent ancient dragons.\\nGreatly boosts non-physical damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t二体の真珠色の古竜の描かれたタリスマン\\n物理以外のカット率を大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有两只珍珠色古龙图案的护符。\\n能大幅提升物理以外的减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly boosts non-physical damage negation\r",
+      "jp": "\t物理以外のカット率を大きく高める\r",
+      "zh": "\t能大幅提升物理以外的减伤率\r"
+    }
+  },
+  "4052": {
+    "AccessoryName": {
+      "en": "\tPearldrake Talisman +2\r",
+      "jp": "\t真珠竜印のタリスマン＋２\r",
+      "zh": "\t珍珠龙徽护符＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a trio of pearlescent ancient dragons.\\nVastly boosts non-physical damage negation.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t三体の真珠色の古竜の描かれたタリスマン\\n物理以外のカット率を、とても大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有三只珍珠色古龙图案的护符。\\n能更大幅提升物理以外的减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly boosts non-physical damage negation\r",
+      "jp": "\t物理以外のカット率を、とても大きく高める\r",
+      "zh": "\t能更大幅提升物理以外的减伤率\r"
+    }
+  },
+  "4060": {
+    "AccessoryName": {
+      "en": "\tCrucible Scale Talisman\r",
+      "jp": "\t坩堝鱗のタリスマン\r",
+      "zh": "\t熔炉鳞护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman fashioned from a scale that embodies the aspects of various creatures.\\nSaid to have grown on the human body long ago.\\n\\nReduces damage taken from critical hits.\\n\\nA vestige of the crucible of primordial life. Born partially of devolution, it was considered a signifier of the divine in ancient times, but is now increasingly disdained as an impurity as civilization has advanced.\r",
+      "jp": "\t古い時代、人の身体に生じたという\\n諸相の混ざった鱗のタリスマン\\n\\n致命の一撃のダメージを軽減する\\n\\nそれは、生命の原初たる坩堝の名残である\\n部分的な先祖返りであり、古くは神聖視されたが\\n文明の後には穢れとして扱われた\\n\r",
+      "zh": "\t在远古时代，据说会长在人体上，\\n揉合生物百相的鳞片所制成的护符。\\n\\n能减少致命一击造成的损伤。\\n\\n此为生命之始的熔炉残存的痕迹，\\n也是局部性的隔代遗传，在古代具有神圣意义。\\n然而在文明发展后，被视为玷污的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tReduces damage taken from critical hits\r",
+      "jp": "\t致命の一撃のダメージを軽減する\r",
+      "zh": "\t能减少致命一击造成的损伤\r"
+    }
+  },
+  "4070": {
+    "AccessoryName": {
+      "en": "\tCrucible Feather Talisman\r",
+      "jp": "\t坩堝羽のタリスマン\r",
+      "zh": "\t熔炉羽护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman fashioned from feathers that embody the aspects of various creatures.\\nSaid to have grown on the human body long ago.\\n\\nImproves the effectiveness of dodge rolls, but increases damage taken at all times.\\n\\nA vestige of the crucible of primordial life. Born partially of devolution, it was considered a signifier of the divine in ancient times, but is now increasingly disdained as an impurity as civilization has advanced.\r",
+      "jp": "\t古い時代、人の身体に生じたという\\n諸相の混ざった羽のタリスマン\\n\\nローリングの回避を強化するが\\n常に、被ダメージも大きくなる\\n\\nそれは、生命の原初たる坩堝の名残である\\n部分的な先祖返りであり、古くは神聖視されたが\\n文明の後には穢れとして扱われた\\n\r",
+      "zh": "\t在远古时代，据说会长在人体上，\\n揉合生物百相的羽毛所制成的护符。\\n\\n能强化翻滚的闪避能力，\\n但会增加受到的损伤。\\n\\n此为生命之始的熔炉残存的痕迹，\\n也是局部性的隔代遗传，在古代具有神圣意义。\\n然而在文明发展后，被视为玷污的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tImproves dodge rolling but increases damage taken\r",
+      "jp": "\tローリング回避を強化するが、被ダメージも大きくなる\r",
+      "zh": "\t能强化翻滚的闪避能力，但增加受到的损伤\r"
+    }
+  },
+  "4080": {
+    "AccessoryName": {
+      "en": "\tBlue-Feathered Branchsword\r",
+      "jp": "\t青羽の七支刃\r",
+      "zh": "\t蓝羽七刃剑\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman adorned with blue feathers, once used in ancient death rituals.\\nRaises defense when HP is low.\\n\\nThe heart sings when one draws close to death, and thus does one cling so tenaciously to life—to render up a death worth offering.\r",
+      "jp": "\t古代の死儀礼に由来するタリスマン\\n青羽のそれは、ＨＰが減少したとき\\n防御力を高める\\n\\n死に近付くは高揚である\\nそれでこそ、懸命に生に縋り付き\\n捧げるべき死が生まれる\\n\r",
+      "zh": "\t源自古代死亡仪式的护符。\\n蓝色羽毛的护符，在血量偏低时，\\n能提升防御力。\\n\\n与死亡比邻时，情绪会为之高昂──\\n那拚命求生的模样，\\n会加深死亡的奉献价值。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises defense when HP is low\r",
+      "jp": "\tＨＰが減少したとき、防御力を高める\r",
+      "zh": "\t血量偏低时，能提升防御力\r"
+    }
+  },
+  "4090": {
+    "AccessoryName": {
+      "en": "\tRitual Shield Talisman\r",
+      "jp": "\t捧闘の盾のタリスマン\r",
+      "zh": "\t献斗盾护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman patterned after shields used in ritual combat held to honor the Erdtree.\\n\\nRaises defense when HP is at maximum.\\n\\nThe practice had died out by the age of King Consort Radagon, but remains of the arenas where ritual combat took place can still be found in every land.\r",
+      "jp": "\tかつて黄金樹に捧げられた闘いの\\n儀式の盾を模したタリスマン\\n\\nＨＰが最大のとき、防御力を高める\\n\\n王配ラダゴンの時代、捧闘は廃れてしまった\\n各地に残る闘技場は、その名残である\\n\r",
+      "zh": "\t过去献给黄金树的战斗仪式──\\n参考用于仪式中的盾制成的护符。\\n\\n血量全满时，能提升防御力。\\n\\n战斗仪式在王夫拉达冈的时代受到废除，\\n散布各处的竞技场是遗留下来的产物。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises defense when HP is at maximum\r",
+      "jp": "\tＨＰが最大のとき、防御力を高める\r",
+      "zh": "\t血量全满时，能提升防御力\r"
+    }
+  },
+  "4100": {
+    "AccessoryName": {
+      "en": "\tGreatshield Talisman\r",
+      "jp": "\t大盾のタリスマン\r",
+      "zh": "\t大盾护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a knight holding a greatshield.\\nBoosts guarding ability.\\n\\nThe knights of Leyndell once modelled themselves after the Tree Sentinels. Their purpose is to protect that which deserves protection, and thus the shield always comes before the sword.\r",
+      "jp": "\t大盾と騎士を象ったタリスマン\\nガード強度を高める\\n\\nかつて、ローデイルの騎士たちは\\nツリーガードのあり様を範とした\\n守るべきもののために、剣より先に\\nまず盾を構えたのだ\\n\r",
+      "zh": "\t以大盾与骑士的形象制成的护符。\\n能提升防御强度。\\n\\n在过去，王城罗德尔的骑士们\\n将大树守卫的准则奉为圭臬：\\n要善尽守护职责，\\n该先举起的不是剑，是盾。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts guarding ability\r",
+      "jp": "\tガード強度を高める\r",
+      "zh": "\t能提升防御强度\r"
+    }
+  },
+  "4110": {
+    "AccessoryName": {
+      "en": "\tCrucible Knot Talisman\r",
+      "jp": "\t坩堝瘤のタリスマン\r",
+      "zh": "\t熔炉瘤护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman fashioned from a bony knot that embodies the aspects of various creatures.\\nSaid to have grown on the human body long ago.\\n\\nReduces damage and impact of headshots taken.\\n\\nA vestige of the crucible of primordial life. Born partially of devolution, it was considered a signifier of the divine in ancient times, but is now increasingly disdained as an impurity as civilization has advanced.\r",
+      "jp": "\t古い時代、人の身体に生じたという\\n諸相の混ざった瘤のタリスマン\\n\\nヘッドショットのダメージと、衝撃を軽減する\\n\\nそれは、生命の原初たる坩堝の名残である\\n部分的な先祖返りであり、古くは神聖視されたが\\n文明の後には穢れとして扱われた\\n\r",
+      "zh": "\t在远古时代，据说会长在人体上，\\n揉合生物百相的瘤所制成的护符。\\n\\n能减少头部射击造成的损伤与冲击。\\n\\n此为生命之始的熔炉残存的痕迹，\\n也是局部性的隔代遗传，在古代具有神圣意义。\\n然而在文明发展后，被视为玷污的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tReduces damage and impact of headshots\r",
+      "jp": "\tヘッドショットのダメージと、衝撃を軽減する\r",
+      "zh": "\t能减少头部射击造成的损伤与冲击\r"
+    }
+  },
+  "5000": {
+    "AccessoryName": {
+      "en": "\tCrimson Seed Talisman\r",
+      "jp": "\t緋色種子のタリスマン\r",
+      "zh": "\t红种子护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA crimson-colored talisman patterned after an Erdtree seed.\\nBoosts HP restoration from the Flask of Crimson Tears.\\n\\nThe Erdtree was once perfect and eternal, and thus was it believed that Erdtree seeds could not exist.\r",
+      "jp": "\t黄金樹の種子を模した、緋色のタリスマン\\n緋雫の聖杯瓶の回復量を高める\\n\\nかつて黄金樹は、永遠にして完全であった\\n故にその種子は、存在しないとされていた\\n\r",
+      "zh": "\t参考黄金树种子的模样制成的红色护符。\\n能提升红露滴圣杯瓶的恢复量。\\n\\n过去的黄金树曾是永恒与完美，\\n也因此，种子不曾出现。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts HP restoration from Flask of Crimson Tears\r",
+      "jp": "\t緋雫の聖杯瓶の回復量を高める\r",
+      "zh": "\t能提升红露滴圣杯瓶的恢复量\r"
+    }
+  },
+  "5010": {
+    "AccessoryName": {
+      "en": "\tCerulean Seed Talisman\r",
+      "jp": "\t青色種子のタリスマン\r",
+      "zh": "\t蓝种子护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA cerulean-colored talisman patterned after an Erdtree seed.\\nBoosts FP restoration from the Flask of Cerulean Tears.\\n\\nThe Erdtree was once perfect and eternal, and thus was it believed that Erdtree seeds could not exist.\r",
+      "jp": "\t黄金樹の種子を模した、青色のタリスマン\\n青雫の聖杯瓶の回復量を高める\\n\\nかつて黄金樹は、永遠にして完全であった\\n故にその種子は、存在しないとされていた\\n\r",
+      "zh": "\t参考黄金树种子的模样制成的蓝色护符。\\n能提升蓝露滴圣杯瓶的恢复量。\\n\\n过去的黄金树曾是永恒与完美，\\n也因此，种子不曾出现。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts FP restoration from Flask of Cerulean Tears\r",
+      "jp": "\t青雫の聖杯瓶の回復量を高める\r",
+      "zh": "\t能提升蓝露滴圣杯瓶的恢复量\r"
+    }
+  },
+  "5020": {
+    "AccessoryName": {
+      "en": "\tBlessed Dew Talisman\r",
+      "jp": "\t恵みの雫のタリスマン\r",
+      "zh": "\t恩惠露滴护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a drop of the Erdtree's sap, a blessed boon.\\n\\nGradually restores HP.\\n\\nIt was once thought that the blessed sap of the Erdtree would drip from its boughs forever—but that age of plenty swiftly came to a close, and with time, the Erdtree became more an object of faith.\r",
+      "jp": "\t黄金樹の恵みたる雫\\nその受領の様を模したタリスマン\\n\\nＨＰをゆっくりと回復する\\n\\nかつて、恵みの雫は尽きぬ滴りであったという\\n豊穣の時代、けれどそれはごく短く\\n黄金樹は信仰となっていった\\n\r",
+      "zh": "\t承接黄金树的恩惠──\\n参考承接露滴的模样制成的护符。\\n\\n能缓慢恢复血量。\\n\\n据说在过去，恩惠露滴源源不绝──\\n那是转眼即逝的丰饶时代，\\n黄金树因此成为了信仰。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tSlowly restores HP\r",
+      "jp": "\tＨＰをゆっくりと回復する\r",
+      "zh": "\t能缓慢恢复血量\r"
+    }
+  },
+  "5030": {
+    "AccessoryName": {
+      "en": "\tTaker's Cameo\r",
+      "jp": "\t略奪のカメオ\r",
+      "zh": "\t掠夺浮雕坠饰\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman engraved with a stern likeness of Praetor Rykard, master of Volcano Manor.\\n\\nRestores HP upon defeating enemies.\\n\\nWhen Rykard turned to heresy, taking by force became the rule. The gods themselves were no different, after all.\r",
+      "jp": "\t火山館の主、法務官ライカードの\\n厳格な肖像が刻まれたタリスマン\\n\\n敵を倒したとき、ＨＰを回復する\\n\\nライカードが背律の冒涜を誓ったとき\\nあらゆる略奪は肯定された\\n神自身がそうであるように\\n\r",
+      "zh": "\t火山官邸之主，拉卡德司法官──\\n雕着他面容严肃的肖像护符。\\n\\n打倒敌人时，能恢复血量。\\n\\n当拉卡德发誓犯下叛律的亵渎之举，\\n所有的掠夺行为都受到肯定──\\n与神祇的作法如出一辙。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRestores HP upon defeating enemies\r",
+      "jp": "\t敵を倒したとき、ＨＰを回復する\r",
+      "zh": "\t打倒敌人时，能恢复血量\r"
+    }
+  },
+  "5040": {
+    "AccessoryName": {
+      "en": "\tGodskin Swaddling Cloth\r",
+      "jp": "\t神肌のおくるみ\r",
+      "zh": "\t神皮襁褓\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tSacred cloth of the Godskin Apostles, made from supple skin sewn together.\\n\\nSuccessive attacks restore HP.\\n\\nThe Gloam-Eyed Queen cradles newborn apostles swaddled in this cloth. Soon they will grow to become the death of the gods.\r",
+      "jp": "\tすべやかな肌を縫い合わせた\\n神肌の使徒たちの聖布\\n\\n攻撃が連続すると、ＨＰを回復する\\n\\n産まれたばかりの使徒は\\nこれに包まれ、宵眼の女王に抱かれる\\nそして神の死となるのだ\\n\r",
+      "zh": "\t以平滑的皮肤拼制缝成的\\n神皮使徒们的圣布。\\n\\n连续攻击时，能恢复血量。\\n\\n刚诞生的使徒会用此物包裹，\\n再交给有着宵色眼眸的女王拥抱──\\n让使徒们长成神祇的死亡。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tSuccessive attacks restore HP\r",
+      "jp": "\t攻撃が連続すると、ＨＰを回復する\r",
+      "zh": "\t连续攻击时，能恢复血量\r"
+    }
+  },
+  "5050": {
+    "AccessoryName": {
+      "en": "\tAssassin's Crimson Dagger\r",
+      "jp": "\t緋色の凶刃\r",
+      "zh": "\t染红凶刀\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn assassin's dagger, misshapen and stained in crimson.\\nCritical hits restore HP.\\n\\nThis charm is modelled after the darkly gleaming blades used in the Night of Black Knives. Those which gave the demigods their first taste of Death.\r",
+      "jp": "\t緋色に染まった、捻じくれた凶刃\\n致命の一撃によりＨＰを回復する\\n\\nそれは、かつて陰謀の夜に閃き\\nデミゴッドに最初の死をもたらした\\n黒き刃の似姿である\\n\r",
+      "zh": "\t形状蜿蜒，染上红色的凶刀。\\n使出致命一击能恢复血量。\\n\\n带来半神初始死亡的黑刀，\\n在阴谋之夜舞动，反射阵阵光芒──\\n据说此为参考黑刀的形象制成。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tCritical hits restore HP\r",
+      "jp": "\t致命の一撃によりＨＰを回復する\r",
+      "zh": "\t使出致命一击能恢复血量\r"
+    }
+  },
+  "5060": {
+    "AccessoryName": {
+      "en": "\tAssassin's Cerulean Dagger\r",
+      "jp": "\t青色の凶刃\r",
+      "zh": "\t染蓝凶刀\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tAn assassin's dagger, misshapen and stained in cerulean.\\nCritical hits restore FP.\\n\\nThis charm is modelled after the darkly gleaming blades used in the Night of Black Knives. Those which gave the demigods their first taste of Death.\r",
+      "jp": "\t青色に染まった、捻じくれた凶刃\\n致命の一撃によりＦＰを回復する\\n\\nそれは、かつて陰謀の夜に閃き\\nデミゴッドに最初の死をもたらした\\n黒き刃の似姿である\\n\r",
+      "zh": "\t形状蜿蜒，染上蓝色的凶刀。\\n使出致命一击能恢复专注值。\\n\\n带来半神初始死亡的黑刀，\\n在阴谋之夜舞动，反射阵阵光芒──\\n据说此为参考黑刀的形象制成。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tCritical hits restore FP\r",
+      "jp": "\t致命の一撃によりＦＰを回復する\r",
+      "zh": "\t使出致命一击能恢复专注值\r"
+    }
+  },
+  "6000": {
+    "AccessoryName": {
+      "en": "\tCrepus's Vial\r",
+      "jp": "\tクレプスの小瓶\r",
+      "zh": "\t克雷普的小瓶子\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tSmall mysterious bottle with a dark mist sealed within.\\n\\nEliminates all sound made by the wearer during movement.\\n\\nA ritual implement used by Roundtable Hold assassins. There was a time when Tarnished who had strayed from guidance feared nothing more than utter silence.\r",
+      "jp": "\t暗闇の霧を封じた神秘の小瓶\\n\\n装備者の立てる音を完全に消す\\n\\n円卓の暗部が用いたという呪具\\nかつて、導きを外れた褪せ人は\\n静寂に怯えていた\\n\r",
+      "zh": "\t封着暗雾的神秘小瓶子。\\n\\n能完全去除自己发出的声响。\\n\\n据说是圆桌厅堂的刺客使用的诅咒器具。\\n在过去，背离引导的褪色者，\\n在一片寂静的时刻最为心慌。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEliminates all sound made by the wearer during movement\r",
+      "jp": "\t装備者の立てる音を完全に消す\r",
+      "zh": "\t能完全去除自己发出的声响\r"
+    }
+  },
+  "6010": {
+    "AccessoryName": {
+      "en": "\tConcealing Veil\r",
+      "jp": "\t身隠しのヴェール\r",
+      "zh": "\t隐身面纱\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman put together from dark cloth with a lustrous sheen.\\n\\nCompletely conceals the wearer's presence while crouching at a distance from foes.\\n\\nPart of one of the concealing veils used by the assassins on the Night of Black Knives.\r",
+      "jp": "\t光沢のある暗い布を纏めたタリスマン\\n\\n敵から離れていれば\\nしゃがんだ状態で、装備者の姿を完全に消す\\n\\nかつて、黒き刃の刺客たちが\\n陰謀の夜にその姿を隠したヴェールの一部\\n\r",
+      "zh": "\t表面具有光泽的暗色布卷成的护符。\\n\\n远离敌人后，蹲下能完全隐藏自己的身影。\\n\\n此为过去的黑刀刺客们，\\n在阴谋之夜时用于隐藏身影的部分面纱。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tConceals wearer while crouching away from foes\r",
+      "jp": "\t敵から離れていれば、しゃがんだ状態で姿を消す\r",
+      "zh": "\t远离敌人后，蹲下能隐藏自己的身影\r"
+    }
+  },
+  "6020": {
+    "AccessoryName": {
+      "en": "\tCarian Filigreed Crest\r",
+      "jp": "\tカーリアの徽章\r",
+      "zh": "\t卡利亚徽章\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman adorned with the royal crest.\\n\\nLowers FP consumed by skills.\\n\\nAn honor said to have once been awarded to Carian knights who served as direct retainers to the kingdom's princesses. Now there is only one princess: Ranni, daughter of Rennala.\r",
+      "jp": "\t盾に王家の紋章を象ったタリスマン\\n\\n戦技の消費ＦＰが少なくなる\\n\\nかつて、カーリア騎士の中でも\\n王女の直参に与えられたという徽章\\n当代の王女は唯一人、レナラの娘、ラニである\\n\r",
+      "zh": "\t在盾面有着王室徽章的护符。\\n\\n能减少使用战技消耗的专注值。\\n\\n据说在过去的卡利亚骑士之中，\\n只有直接侍奉公主的人会受赐此徽章。\\n目前的公主只有一位──\\n蕾娜菈的女儿，菈妮。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tLowers FP consumed by skills\r",
+      "jp": "\t戦技の消費ＦＰが少なくなる\r",
+      "zh": "\t能减少使用战技消耗的专注值\r"
+    }
+  },
+  "6040": {
+    "AccessoryName": {
+      "en": "\tLongtail Cat Talisman\r",
+      "jp": "\t長尾猫のタリスマン\r",
+      "zh": "\t长尾猫别针\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA brooch depicting Lacrima, the long-tailed cat.\\n\\nGrants immunity to fall damage, but does not prevent death from a high fall.\\n\\nLacrima features in the fables of Raya Lucaria, in which she is described as a faerie cat who was fond of playing in the great bell tower.\r",
+      "jp": "\t長尾猫のラクリマを象ったブローチ\\n\\n落下ダメージを完全になくす\\nただし、落下死亡を防ぐことはできない\\n\\nそれは、レアルカリアのお伽話に登場する\\n大鐘楼に遊ぶ妖精猫である\\n\r",
+      "zh": "\t以长尾猫拉桂玛的形象制成的别针。\\n\\n从高处落下时，能完全不受到损伤。\\n但是无法避免过高落下时，造成的死亡。\\n\\n据说那是雷亚卢卡利亚的童话故事中\\n出现的妖精猫，会在大钟楼上玩耍。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGrants immunity to fall damage, but does not prevent death from a high fall\r",
+      "jp": "\t落下ダメージを完全になくす\\nただし、落下死亡を防ぐことはできない\r",
+      "zh": "\t从高处落下时，能完全不受到损伤\\n但是无法避免过高落下时，造成的死亡\r"
+    }
+  },
+  "6050": {
+    "AccessoryName": {
+      "en": "\tShabriri's Woe\r",
+      "jp": "\tシャブリリの禍\r",
+      "zh": "\t夏玻利利之祸\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tDisturbing likeness of a man whose eyes have been gouged out.\\nThe corners of his mouth are upturned in an almost flirtatious manner.\\n\\nConstantly attracts enemies' aggression.\\n\\nIt is said that the man, named Shabriri, had his eyes gouged out as punishment for the crime of slander, and, with time, the blight of the flame of frenzy came to dwell in the empty sockets.\r",
+      "jp": "\t目を潰された狂気の肖像\\n媚びるような薄笑いを浮かべている\\n\\n敵に狙われやすくなる\\n\\nシャブリリという名のその男は\\n讒言の罰として、人々に瞳を潰され\\nやがてそこに、狂い火の病を宿したという\\n\r",
+      "zh": "\t双眼被压碎的疯狂肖像。\\n肖像若有似无的微笑带有一丝谄媚。\\n\\n将变得容易受敌人攻击。\\n\\n名为夏玻利利的男人，因为进谗言，\\n蒙受被众人压碎双眼的惩罚。\\n据说后来，他的眼窝寄宿了癫火病。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tConstantly attracts enemies' aggression\r",
+      "jp": "\t敵に狙われやすくなる\r",
+      "zh": "\t将变得容易受敌人攻击\r"
+    }
+  },
+  "6060": {
+    "AccessoryName": {
+      "en": "\tDaedicar's Woe\r",
+      "jp": "\tデーディカの禍\r",
+      "zh": "\t狄蒂卡之祸\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tDisturbing likeness of a woman whose skin was flayed.\\nShe smiles with a serene tenderness.\\n\\nIncreases damage taken.\\n\\nIt is said that this woman, named Daedicar, indulged in every form of adultery and wicked pleasure imaginable, giving birth to a myriad of grotesque children.\r",
+      "jp": "\t皮膚を剥がされた狂気の肖像\\n慈しみの薄笑いを浮かべている\\n\\n被ダメージが増える\\n\\nデーディカという名のその女は\\nあらゆる不義、姦通を行い\\n無数の異形の子をなしたという\\n\r",
+      "zh": "\t皮肤剥落的疯狂肖像。\\n肖像若有似无的微笑带有一丝慈爱。\\n\\n将增加受到的损伤。\\n\\n名为狄蒂卡的女人，\\n做出诸多道德瑕疵之举。\\n据说因此产下了无数异形之子。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tIncreases damage taken\r",
+      "jp": "\t被ダメージが増える\r",
+      "zh": "\t将增加受到的损伤\r"
+    }
+  },
+  "6070": {
+    "AccessoryName": {
+      "en": "\tSacrificial Twig\r",
+      "jp": "\t犠牲の細枝\r",
+      "zh": "\t牺牲细枝\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman fashioned from a dried twig, so slender that it might snap at the slightest touch.\\n\\nPrevents rune loss upon death, but will be lost itself in exchange.\\n\\nBelieved to be a twig pruned from the Erdtree long, long ago.\r",
+      "jp": "\t折れそうに細い、枯れ枝のタリスマン\\n\\n死亡時にルーンを落とさず\\n替わりに、このタリスマンが失われる\\n\\nそれは、古い時代に枝打ちされた\\n黄金樹の一部であるという\\n\r",
+      "zh": "\t细到仿佛一折即断的枯枝护符。\\n\\n死亡时不会掉落卢恩，\\n但作为代价，此护符会消失。\\n\\n据说是黄金树的一部份，\\n在远古时代修剪时留下的树枝。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tWill be lost on death in place of runes\r",
+      "jp": "\t死亡時にルーンを落とさず、これ自体が失われる\r",
+      "zh": "\t死亡时不会掉落卢恩，但护符会消失\r"
+    }
+  },
+  "6080": {
+    "AccessoryName": {
+      "en": "\tFurled Finger's Trick-Mirror\r",
+      "jp": "\t鉤指の偽装鏡\r",
+      "zh": "\t勾指伪装镜\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA small, clouded mirror that reflects an image of a golden figure.\\n\\nMakes the bearer take on the appearance of a Host of Fingers.\\n\\nOne of the ritual implements created by the Tarnished to deceive invaders.\r",
+      "jp": "\t金色の人影を写す、小さな曇り鏡\\n\\n鉤指の主と同様の見た目となる\\n\\n侵入者を欺くために作られた\\n褪せ人の呪具のひとつ\\n\r",
+      "zh": "\t映照出金色模糊人影的小镜子。\\n\\n能变得像是勾指主人。\\n\\n为了欺骗入侵者所制作的\\n其中一种褪色者的诅咒器具。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tTake on appearance of a Host of Fingers\r",
+      "jp": "\t鉤指の主と同様の見た目となる\r",
+      "zh": "\t能变得像是勾指主人\r"
+    }
+  },
+  "6090": {
+    "AccessoryName": {
+      "en": "\tHost's Trick-Mirror\r",
+      "jp": "\t主の偽装鏡\r",
+      "zh": "\t主人伪装镜\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA small, clouded mirror that reflects a flesh-and-blood figure.\\n\\nMakes the bearer take on the appearance of a summoned cooperator.\\n\\nOne of the ritual implements created by the Tarnished to deceive invaders.\r",
+      "jp": "\t生身の人影を写す、小さな曇り鏡\\n\\n召喚された協力者と同様の見た目となる\\n\\n侵入者を欺くために作られた\\n褪せ人の呪具のひとつ\\n\r",
+      "zh": "\t映照出肉身模糊人影的小镜子。\\n\\n能变得像是受召唤而来的协助者。\\n\\n为了欺骗入侵者所制作的\\n其中一种褪色者的诅咒器具。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tTake on appearance of a cooperator\r",
+      "jp": "\t協力者と同様の見た目となる\r",
+      "zh": "\t能变得像是协助者\r"
+    }
+  },
+  "6100": {
+    "AccessoryName": {
+      "en": "\t[ERROR]Entwining Umbilical Cord\r",
+      "jp": "\t[ERROR]絡み合う臍帯\r",
+      "zh": "\t[ERROR]纠缠脐带\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tMysterious circular object that's oddly warped.\\nChanges the demeanour of the wearer's actions.\r",
+      "jp": "\t奇妙に歪んだ神秘的な円環\\n立ち振舞いが変化する\r",
+      "zh": "\t歪扭成奇怪模样的神秘圆环。\\n自己的举止会产生变化。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tChanges demeanour of wearer's actions\r",
+      "jp": "\t立ち振舞いが変化する\r",
+      "zh": "\t自己的举止会产生变化\r"
+    }
+  },
+  "6110": {
+    "AccessoryName": {
+      "en": "\tAncestral Spirit's Horn\r",
+      "jp": "\t祖霊の角\r",
+      "zh": "\t祖灵角\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tItem cut from the horns of the Regal Ancestor Spirit.\\n\\nRestore FP upon defeating enemies.\\n\\nA number of new growths bud from the antler-like horns of the fallen king, each glowing with light. Thus does new life grow from death, and from death, one obtains power.\r",
+      "jp": "\t祖霊の王の角を切り取ったもの\\n\\n敵を倒したとき、ＦＰを回復する\\n\\n倒れた王の角を苗床に\\n幾つもの若芽が開き、光を放っている\\nそれは、死から芽吹いた命であり\\n死から力を得る\\n\r",
+      "zh": "\t切下祖灵之王的角而成的物品。\\n\\n打倒敌人时，能恢复专注值。\\n\\n祖灵之王倒下，几株嫩芽\\n以祂的角为温床，盛开发光──\\n此为从死亡萌发生命，\\n也是从死亡获得力量。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRestores FP upon defeating enemies\r",
+      "jp": "\t敵を倒したとき、ＦＰを回復する\r",
+      "zh": "\t打倒敌人时，能恢复专注值\r"
+    }
+  },
+  "7000": {
+    "AccessoryName": {
+      "en": "\tCrimson Amber Medallion +3\r",
+      "jp": "\t緋琥珀のメダリオン＋３\r",
+      "zh": "\t红琥珀链坠＋３\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with crimson amber inlaid.\\nBoosts maximum HP by the utmost.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nThese medallions, of the largest variety, were conferred to Godwyn's inner circle of distinguished golden knights. \r",
+      "jp": "\t緋色の琥珀が嵌めこまれたメダリオン\\nＨＰの最大値を、最も大きく上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\n最も大きなそれは、卓越した黄金の騎士\\nゴッドウィンの近衛たちに授けられたという\\n\r",
+      "zh": "\t镶有红色琥珀的链坠。\\n能最大幅提升血量的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n据说葛德文的禁卫骑士们──\\n杰出的黄金骑士，受赐的琥珀最为大颗。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts maximum HP by the utmost\r",
+      "jp": "\tＨＰの最大値を、最も大きく上昇させる\r",
+      "zh": "\t能最大幅提升血量的上限\r"
+    }
+  },
+  "7010": {
+    "AccessoryName": {
+      "en": "\tCerulean Amber Medallion +3\r",
+      "jp": "\t青琥珀のメダリオン＋３\r",
+      "zh": "\t蓝琥珀链坠＋３\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with cerulean amber inlaid.\\nBoosts maximum FP by the utmost.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nThese medallions, of the largest variety, were conferred to Godwyn's inner circle of distinguished golden knights.\r",
+      "jp": "\t青色の琥珀が嵌めこまれたメダリオン\\nＦＰの最大値を、最も大きく上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\n最も大きなそれは、卓越した黄金の騎士\\nゴッドウィンの近衛たちに授けられたという\\n\r",
+      "zh": "\t镶有蓝色琥珀的链坠。\\n能最大幅提升专注值的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n据说葛德文的禁卫骑士们──\\n杰出的黄金骑士，受赐的琥珀最为大颗。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts maximum FP by the utmost\r",
+      "jp": "\tＦＰの最大値を、最も大きく上昇させる\r",
+      "zh": "\t能最大幅提升专注值的上限\r"
+    }
+  },
+  "7020": {
+    "AccessoryName": {
+      "en": "\tViridian Amber Medallion +3\r",
+      "jp": "\t緑琥珀のメダリオン＋３\r",
+      "zh": "\t绿琥珀链坠＋３\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA medallion with viridian amber inlaid.\\nBoosts maximum stamina by the utmost.\\n\\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\\n\\nThese medallions, of the largest variety, were conferred to Godwyn's inner circle of distinguished golden knights. \r",
+      "jp": "\t緑色の琥珀が嵌めこまれたメダリオン\\nスタミナの最大値を、最も大きく上昇させる\\n\\n琥珀とは、黄金樹の古い雫であり\\n最初のエルデの王、ゴッドフレイの時代に\\n特別な宝石として扱われた\\n\\n最も大きなそれは、卓越した黄金の騎士\\nゴッドウィンの近衛たちに授けられたという\\n\r",
+      "zh": "\t镶有绿色琥珀的链坠。\\n能最大幅提升精力的上限。\\n\\n琥珀为黄金树的古老露滴，\\n在“初始艾尔登之王”葛孚雷的时代\\n被视为特殊的宝石。\\n\\n据说葛德文的禁卫骑士们──\\n杰出的黄金骑士，受赐的琥珀最为大颗。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts maximum stamina by the utmost\r",
+      "jp": "\tスタミナの最大値を、最も大きく上昇させる\r",
+      "zh": "\t能最大幅提升精力的上限\r"
+    }
+  },
+  "7030": {
+    "AccessoryName": {
+      "en": "\tTwo-Headed Turtle Talisman\r",
+      "jp": "\t双頭亀のタリスマン\r",
+      "zh": "\t双首龟护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman in the shape of a two-headed green turtle.\\nGreatly raises stamina recovery speed.\\n\\nTurtles are known as a nutritious ingredient, symbolic of inexhaustible power.\\n\\nTwo-headed turtles are a favorite subject in the land of the tower, due to the spiral shape of their intertwined necks.\r",
+      "jp": "\t双頭の緑亀を象ったタリスマン\\nスタミナの回復速度を、大きく高める\\n\\n亀は、滋養のある食材として知られ\\n尽きぬ力の象徴とされた\\n\\n特に、双頭のそれは\\n絡みあう首が螺旋に似ることから\\n塔の地で好まれる題材である\\n\r",
+      "zh": "\t参考双头绿乌龟的模样制成的护符。\\n能大幅提升精力的恢复速度。\\n\\n乌龟是著名的营养食材，为精力无穷的象征。\\n\\n而其中，两颗头的乌龟\\n在脖子交错时，形状有如螺旋，\\n为塔之地特别喜爱的题材。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly raises stamina recovery speed\r",
+      "jp": "\tスタミナの回復速度を、大きく高める\r",
+      "zh": "\t能大幅提升精力的恢复速度\r"
+    }
+  },
+  "7040": {
+    "AccessoryName": {
+      "en": "\tStalwart Horn Charm +2\r",
+      "jp": "\t頑健の角飾り＋２\r",
+      "zh": "\t健壮角饰品＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tCeremonial accoutrement worn by hornsent.\\nVastly raises robustness.\\n(Robustness governs resistance to blood loss and frost.)\\n\\nHorns are sublime artifacts to hornsent, and their presence confirms the belief that they are a chosen people.\\n\\nOnly the repeated sprouting of fresh horns can create a tangled horn, which is viewed as an irrefutable symbol of primacy.\r",
+      "jp": "\t角人たちが祭祀に用いる装身具\\n頑健耐性を、とても大きく高める\\n（頑健は、出血や冷気に対する耐性である）\\n\\n角人たちにとって、角は神聖であり\\nだからこそ、彼らは選ばれた民である\\n\\n新たな芽生えを繰り返した、混じり角は\\n特に霊長を示す徴とされている\\n\r",
+      "zh": "\t角人们于祭祀时使用的装饰品。\\n能更大幅提升健壮度。\\n（健壮度是对出血、冻伤的抵抗力。）\\n\\n对角人们而言，角是神圣的象征，\\n也因此证明他们是受选的子民。\\n\\n其中不停萌发新芽的混生角，\\n则被视为灵力之首的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly raises robustness\r",
+      "jp": "\t頑健耐性を、とても大きく高める\r",
+      "zh": "\t能更大幅提升健壮度\r"
+    }
+  },
+  "7050": {
+    "AccessoryName": {
+      "en": "\tImmunizing Horn Charm +2\r",
+      "jp": "\t免疫の角飾り＋２\r",
+      "zh": "\t免疫角饰品＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tCeremonial accoutrement worn by hornsent.\\nVastly raises immunity.\\n(Immunity governs resistance to poison and rot.)\\n\\nHorns are sublime artifacts to hornsent, and their presence confirms the belief that they are a chosen people.\\n\\nOnly the repeated sprouting of fresh horns can create a tangled horn, which is viewed as an irrefutable symbol of primacy.\r",
+      "jp": "\t角人たちが祭祀に用いる装身具\\n免疫耐性を、とても大きく高める\\n（免疫は、毒や腐敗に対する耐性である）\\n\\n角人たちにとって、角は神聖であり\\nだからこそ、彼らは選ばれた民である\\n\\n新たな芽生えを繰り返した、混じり角は\\n特に霊長を示す徴とされている\\n\r",
+      "zh": "\t角人们于祭祀时使用的装饰品。\\n能更大幅提升免疫力。\\n（免疫力是对中毒、腐败的抵抗力。）\\n\\n对角人们而言，角是神圣的象征，\\n也因此证明他们是受选的子民。\\n\\n其中不停萌发新芽的混生角，\\n则被视为灵力之首的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly raises immunity\r",
+      "jp": "\t免疫耐性を、とても大きく高める\r",
+      "zh": "\t能更大幅提升免疫力\r"
+    }
+  },
+  "7060": {
+    "AccessoryName": {
+      "en": "\tClarifying Horn Charm +2\r",
+      "jp": "\t正気の角飾り＋２\r",
+      "zh": "\t理智角饰品＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tCeremonial accoutrement worn by hornsent.\\nVastly raises focus.\\n(Focus governs resistance to sleep and madness.)\\n\\nHorns are sublime artifacts to hornsent, and their presence confirms the belief that they are a chosen people.\\n\\nOnly the repeated sprouting of fresh horns can create a tangled horn, which is viewed as an irrefutable symbol of primacy.\r",
+      "jp": "\t角人たちが祭祀に用いる装身具\\n正気耐性を、とても大きく高める\\n（正気は、睡眠や発狂に対する耐性である）\\n\\n角人たちにとって、角は神聖であり\\nだからこそ、彼らは選ばれた民である\\n\\n新たな芽生えを繰り返した、混じり角は\\n特に霊長を示す徴とされている\\n\r",
+      "zh": "\t角人们于祭祀时使用的装饰品。\\n能更大幅提升理智度。\\n（理智度是对催眠、发狂的抵抗力。）\\n\\n对角人们而言，角是神圣的象征，\\n也因此证明他们是受选的子民。\\n\\n其中不停萌发新芽的混生角，\\n则被视为灵力之首的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly raises focus\r",
+      "jp": "\t正気耐性を、とても大きく高める\r",
+      "zh": "\t能更大幅提升理智度\r"
+    }
+  },
+  "7080": {
+    "AccessoryName": {
+      "en": "\tMottled Necklace +2\r",
+      "jp": "\t斑色の首飾り＋２\r",
+      "zh": "\t斑斓项链＋２\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tVividly-colored ceremonial accoutrement worn by hornsent.\\n\\nVastly raises immunity, robustness, and focus.\\n\\nHorns are sublime artifacts to hornsent, and their presence confirms the belief that they are a chosen people.\\n\\nOnly the repeated sprouting of fresh horns can create a tangled horn, which is viewed as an irrefutable symbol of primacy.\r",
+      "jp": "\t角人たちが祭祀に用いる装身具\\nその、特に彩られた貴重なもの\\n\\n免疫、頑健、正気の耐性を、とても大きく高める\\n\\n角人たちにとって、角は神聖であり\\nだからこそ、彼らは選ばれた民である\\n\\n新たな芽生えを繰り返した、混じり角は\\n特に霊長を示す徴とされている\\n\r",
+      "zh": "\t角人们于祭祀时使用的装饰品。\\n其中以多种色彩点缀的贵重物品。\\n\\n能更大幅提升免疫力、健壮度、理智度。\\n\\n对角人们而言，角是神圣的象征，\\n也因此证明他们是受选的子民。\\n\\n其中不停萌发新芽的混生角，\\n则被视为灵力之首的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tVastly raises robustness, immunity, and focus\r",
+      "jp": "\t免疫、頑健、正気の耐性を、とても大きく高める\r",
+      "zh": "\t能更大幅提升免疫力、健壮度、理智度\r"
+    }
+  },
+  "7090": {
+    "AccessoryName": {
+      "en": "\tSpelldrake Talisman +3\r",
+      "jp": "\t魔力竜印のタリスマン＋３\r",
+      "zh": "\t魔力龙徽护符＋３\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman with a large depiction of a blue ancient dragon.\\nBoosts magic damage negation by the utmost.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t青い古竜が大きく描かれたタリスマン\\n魔力カット率を、最も大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有巨大蓝色古龙图案的护符。\\n能最大幅提升魔力属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts magic damage negation by the utmost\r",
+      "jp": "\t魔力カット率を、最も大きく高める\r",
+      "zh": "\t能最大幅提升魔力属性减伤率\r"
+    }
+  },
+  "7100": {
+    "AccessoryName": {
+      "en": "\tFlamedrake Talisman +3\r",
+      "jp": "\t炎竜印のタリスマン＋３\r",
+      "zh": "\t火龙徽护符＋３\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman with a large depiction of a red ancient dragon.\\nBoosts fire damage negation by the utmost.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t赤い古竜が大きく描かれたタリスマン\\n炎カット率を、最も大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有巨大红色古龙图案的护符。\\n能最大幅提升火属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts fire damage negation by the utmost\r",
+      "jp": "\t炎カット率を、最も大きく高める\r",
+      "zh": "\t能最大幅提升火属性减伤率\r"
+    }
+  },
+  "7110": {
+    "AccessoryName": {
+      "en": "\tBoltdrake Talisman +3\r",
+      "jp": "\t雷竜印のタリスマン＋３\r",
+      "zh": "\t雷龙徽护符＋３\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman with a large depiction of a yellow ancient dragon.\\nBoosts lightning damage negation by the utmost.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t黄色い古竜が大きく描かれたタリスマン\\n雷カット率を、最も大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有巨大黄色古龙图案的护符。\\n能最大幅提升雷属性减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts lightning damage negation by the utmost\r",
+      "jp": "\t雷カット率を、最も大きく高める\r",
+      "zh": "\t能最大幅提升雷属性减伤率\r"
+    }
+  },
+  "7120": {
+    "AccessoryName": {
+      "en": "\tGolden Braid\r",
+      "jp": "\t黄金の編み髪\r",
+      "zh": "\t金黄色编发\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA braid of golden hair, cut loose.\\nQueen Marika's offering to the Grandmother.\\n\\nBoosts holy damage negation by the utmost.\\n\\nWhat was her prayer? Her wish, her confession?\\nThere is no one left to answer, and Marika never returned home again.\r",
+      "jp": "\t切り落とされた黄金の編み髪\\n女王マリカの、大母への供物\\n\\n聖カット率を、最も大きく高める\\n\\n彼女が何を祈り、願い、告解したのか\\n知る者は誰もいない。ただその後に\\nマリカが故郷に戻ることはなかった\\n\r",
+      "zh": "\t被剪断的金黄色编发。\\n玛莉卡女王献给祖母的供品。\\n\\n能最大幅提升圣属性减伤率。\\n\\n没有人知道玛莉卡为了什么而祈祷、许愿，\\n又或是，为了什么而忏悔。\\n能确定的是从那之后，祂不曾再回去故乡。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts holy damage negation by the utmost\r",
+      "jp": "\t聖カット率を、最も大きく高める\r",
+      "zh": "\t能最大幅提升圣属性减伤率\r"
+    }
+  },
+  "7130": {
+    "AccessoryName": {
+      "en": "\tPearldrake Talisman +3\r",
+      "jp": "\t真珠竜印のタリスマン＋３\r",
+      "zh": "\t珍珠龙徽护符＋３\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman with a large depiction of a pearlescent ancient dragon.\\nBoosts non-physical damage negation by the utmost.\\n\\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.\r",
+      "jp": "\t真珠色の古竜が大きく描かれたタリスマン\\n物理以外のカット率を、最も大きく高める\\n\\n黄金樹なき先史時代の主たる古竜は\\n王を守る、巌の壁であったという\\n故に竜姿は、あらゆる護りの象徴である\\n\r",
+      "zh": "\t绘有巨大珍珠色古龙图案的护符。\\n能最大幅提升物理以外的减伤率。\\n\\n在黄金树尚未出现的史前时代，\\n据说古龙是那时代的主宰，\\n也是保护王的铜墙铁壁。\\n因此龙的图案被视为各种庇佑的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts non-physical damage negation by the utmost\r",
+      "jp": "\t物理以外のカット率を、最も大きく高める\r",
+      "zh": "\t能最大幅提升物理以外的减伤率\r"
+    }
+  },
+  "7140": {
+    "AccessoryName": {
+      "en": "\tCrimson Seed Talisman +1\r",
+      "jp": "\t緋色種子のタリスマン＋１\r",
+      "zh": "\t红种子护符＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA crimson-colored talisman patterned after an Erdtree seed.\\nGreatly boosts HP restoration from the Flask of Crimson Tears.\\n\\nThe Erdtree seed of this talisman was presumed to be an object of myth. This age-old artifact also depicts the Two Fingers, perhaps harking back to the birth of the Erdtree.\r",
+      "jp": "\t黄金樹の種子を模した、緋色のタリスマン\\n緋雫の聖杯瓶の回復量を、大きく高める\\n\\n存在しないとされる種子のタリスマン\\n最古のそれには、二本指が象られている\\nそれは、黄金樹の始りを示すものだろうか\\n\r",
+      "zh": "\t参考黄金树种子的模样制成的红色护符。\\n能大幅提升红露滴圣杯瓶的恢复量。\\n\\n以不曾出现的种子为主题的护符，\\n其中最古老的一个，有着代表双指的设计。\\n此为黄金树之始的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly boosts HP restoration from Flask of Crimson Tears\r",
+      "jp": "\t緋雫の聖杯瓶の回復量を、大きく高める\r",
+      "zh": "\t能大幅提升红露滴圣杯瓶的恢复量\r"
+    }
+  },
+  "7150": {
+    "AccessoryName": {
+      "en": "\tCerulean Seed Talisman +1\r",
+      "jp": "\t青色種子のタリスマン＋１\r",
+      "zh": "\t蓝种子护符＋１\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA cerulean-colored talisman patterned after an Erdtree seed.\\nGreatly boosts FP restoration from the Flask of Cerulean Tears.\\n\\nThe Erdtree seed of this talisman was presumed to be an object of myth. This age-old artifact also depicts the Two Fingers, perhaps harking back to the birth of the Erdtree.\r",
+      "jp": "\t黄金樹の種子を模した、青色のタリスマン\\n青雫の聖杯瓶の回復量を、大きく高める\\n\\n存在しないとされる種子のタリスマン\\n最古のそれには、二本指が象られている\\nそれは、黄金樹の始りを示すものだろうか\\n\r",
+      "zh": "\t参考黄金树种子的模样制成的蓝色护符。\\n能大幅提升蓝露滴圣杯瓶的恢复量。\\n\\n以不曾出现的种子为主题的护符，\\n其中最古老的一个，有着代表双指的设计。\\n此为黄金树之始的象征。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGreatly boosts FP restoration from Flask of Cerulean Tears\r",
+      "jp": "\t青雫の聖杯瓶の回復量を、大きく高める\r",
+      "zh": "\t能大幅提升蓝露滴圣杯瓶的恢复量\r"
+    }
+  },
+  "8000": {
+    "AccessoryName": {
+      "en": "\tBlessed Blue Dew Talisman\r",
+      "jp": "\t恵みの青雫のタリスマン\r",
+      "zh": "\t恩惠蓝露滴护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting the blessed boon that is a droplet of the blue, luminescent sap of the Erdtree.\\n\\nGradually restores FP.\\n\\nIt was once thought that the blessed sap of the Erdtree would drip from its boughs forever—but that age of plenty swiftly came to a close, and with time, the Erdtree became more an object of faith.\r",
+      "jp": "\t黄金樹の恵みたる雫\\n青く輝くそれの、受領の様を模したタリスマン\\n\\nＦＰをゆっくりと回復する\\n\\nかつて、恵みの雫は尽きぬ滴りであったという\\n豊穣の時代、けれどそれはごく短く\\n黄金樹は信仰となっていった\\n\r",
+      "zh": "\t承接黄金树的恩惠──\\n参考承接蓝露滴的模样制成的护符。\\n\\n能缓慢恢复专注值。\\n\\n据说在过去，恩惠露滴源源不绝──\\n那是转眼即逝的丰饶时代，\\n黄金树因此成为了信仰。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tSlowly restores FP\r",
+      "jp": "\tＦＰをゆっくりと回復する\r",
+      "zh": "\t能缓慢恢复专注值\r"
+    }
+  },
+  "8010": {
+    "AccessoryName": {
+      "en": "\tFine Crucible Feather Talisman\r",
+      "jp": "\t坩堝薄羽のタリスマン\r",
+      "zh": "\t熔炉薄翼护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman fashioned from thin feathers that embody the aspects of various creatures.\\nSaid to have grown on the human body long ago.\\n\\nImproves backsteps but increases damage taken at all times.\\n\\nHornsent view the Crucible as sacred for the refinement wrought through its evolutionary gifts. Most prominently, their tangled horns.\r",
+      "jp": "\t古い時代、人の身体に生じたという\\n諸相の混ざった薄羽のタリスマン\\n\\nバックステップの回避を強化するが\\n常に、被ダメージも大きくなる\\n\\n角人たちは、坩堝を神聖視する\\nその洗練された進化の先に\\n彼らの角、混じり角があるのだから\\n\r",
+      "zh": "\t在远古时代，据说会长在人体上，\\n揉合生物百相的轻薄翅膀所制成的护符。\\n\\n能强化后跃的闪避能力，\\n但会增加受到的损伤。\\n\\n角人们认为熔炉相当神圣──\\n因为在那历经淬炼的进化尽头，\\n就是他们身上的混生角。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tImproves backsteps but increases damage taken\r",
+      "jp": "\tバックステップを強化するが、被ダメージも大きくなる\r",
+      "zh": "\t能强化后跃的闪避能力，但增加受到的损伤\r"
+    }
+  },
+  "8020": {
+    "AccessoryName": {
+      "en": "\tOuter God Heirloom\r",
+      "jp": "\t外なる神の伝承\r",
+      "zh": "\t外在神祇的传说\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman engraved with the lore of an outer god.\\nRaises arcane.\\n\\nThe clan, who lost everything in the great fires, peered upon the corpse of their ancestor, normally an act of sanctity, and saw in its shadow a twisted deity.\\n\\nThe clan had suffered such torment that the horrible thing was taken as an object of worship.\r",
+      "jp": "\t外なる神の伝承が刻まれたタリスマン\\n神秘を高める\\n\\n全てを焼かれ、奪われた民は\\n貴いはずの先祖の遺体に、その影に\\n異形の神性を見出したという\\n\\nその心が、惨く苛まれていたが故に\\n彼らは、禍々しいそれに縋ったのだ\\n\r",
+      "zh": "\t雕制关于外在神祇传说的护符。\\n能提升感应。\\n\\n人民蒙受火难、被夺去一切后，\\n从他们尊贵祖先的遗体影子里，\\n发现了异样的为神本质。\\n\\n在备受折磨、走投无路的情况下，\\n他们还是向不祥的异形求助。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises arcane\r",
+      "jp": "\t神秘を高める\r",
+      "zh": "\t能提升感应\r"
+    }
+  },
+  "8030": {
+    "AccessoryName": {
+      "en": "\tShattered Stone Talisman\r",
+      "jp": "\t割れ石のタリスマン\r",
+      "zh": "\t裂石护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tShattered linchpin stone.\\n\\nRaises potency of kicking and stomping skills.\\n\\nLinchpin stones are spiritual anchors said to hold the ground in place and quell the fury of earthquakes—when this one shattered, the surrounding town fell into the broken earth. One account claimed that the moon itself had come tumbling down.\r",
+      "jp": "\t割れてしまった要石\\n\\n足蹴りと、地を踏む技の威力を高める\\n\\nそれは地震を鎮めるとされる霊石であり\\nこれが割れたとき、街も地に沈んだ\\n一説には、月が落ちてきたのだという\\n\r",
+      "zh": "\t裂开的镇邪石。\\n\\n能提升踢击与踏地类招式的威力。\\n\\n镇邪石是用于镇住地震的灵异石。\\n据说当它裂开以后，城镇也随之陷入地面。\\n但关于城镇下陷的原因，有另一种说法──\\n那可能是月亮坠落导致。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises potency of kicking and stomping skills\r",
+      "jp": "\t足蹴りと、地を踏む技の威力を高める\r",
+      "zh": "\t能提升踢击与踏地类招式的威力\r"
+    }
+  },
+  "8040": {
+    "AccessoryName": {
+      "en": "\tTwo-Handed Sword Talisman\r",
+      "jp": "\t両手剣のタリスマン\r",
+      "zh": "\t双手剑护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a warrior two-handing a sword.\\nEnhances attacks with two-handed weapons.\\n\\nThe horned warriors were fitting figureheads for the military might of the tower they kept watch over, their deft attacks slashing through any and all foes.\r",
+      "jp": "\t両手剣と戦士を象ったタリスマン\\n両手持ちの攻撃を強化する\\n\\n角の戦士は、塔の守護者である\\nその力は、塔の武威の象徴であり\\n入神の一撃はすべてを断ったという\\n\r",
+      "zh": "\t以双手剑与战士的形象制成的护符。\\n能强化以双手共持武器时的攻击。\\n\\n角战士为塔的守护者──\\n他们的力量是塔的武力象征。\\n据说那出神入化的一击，能斩断一切。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances attacks with two-handed weapons\r",
+      "jp": "\t両手持ちの攻撃を強化する\r",
+      "zh": "\t能强化以双手共持武器时的攻击\r"
+    }
+  },
+  "8050": {
+    "AccessoryName": {
+      "en": "\tCrusade Insignia\r",
+      "jp": "\t聖戦の徽章\r",
+      "zh": "\t圣战徽章\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a raised spear on a backdrop of flames, in remembrance of the lives lost in the sacred crusade led by Messmer.\\n\\nRaises attack power after defeating an enemy.\\n\\nThe warriors who fought in the crusade set aside both honor and mercy to wantonly impale and scorch those deemed impure.\\n\\nThose who felt invigorated by each cry of death were the same men who were certain of the sanctity of the campaign. \r",
+      "jp": "\t掲げられた槍、そして火を象ったタリスマン\\nメスメルと共に、聖戦に殉じた者たちの徽章\\n\\n敵を倒したとき、攻撃力が高まる\\n\\nひたすらに、穢れを貫き焼き尽くす\\n慈悲などなく、名誉もない\\n\\nただ、それを聖戦と信じる者だけが\\n絶命の声に高揚を見出すのだ\\n\r",
+      "zh": "\t参考高举的矛与火焰制成的护符。\\n与梅瑟莫并肩作战，\\n为圣战捐躯的人们拥有的徽章。\\n\\n打倒敌人时，能提升攻击力。\\n\\n他们一昧地杀戮、烧尽污秽──\\n不带悲悯之心，也没有名誉可言。\\n只有坚信此为圣战的人们，\\n才能从殒命的哀号声中，找到一丝激昂。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attack power after defeating an enemy\r",
+      "jp": "\t敵を倒したとき、攻撃力が高まる\r",
+      "zh": "\t打倒敌人时，能提升攻击力\r"
+    }
+  },
+  "8060": {
+    "AccessoryName": {
+      "en": "\tAged One's Exultation\r",
+      "jp": "\t翁の歓喜\r",
+      "zh": "\t老翁的欢愉\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting the exultation of the aging untouchable, whose head resembles a sprig of ripe grapes.\\n\\nRaises attack power when madness is triggered in the vicinity.\\n\\n\"Gift your madness to our Lord.\\nBless our brethren with grapes.\\nTake care that they fully ripen.\"\r",
+      "jp": "\t完熟したブドウにも似た\\n触れ得ざる翁の喜びを象ったタリスマン\\n\\n周囲で発狂状態が発生すると、攻撃力が高まる\\n\\n我らが王に、発狂を捧げよ\\n皆にブドウを与えたまえ\\n皆のブドウを、熟させたまえ\\n\r",
+      "zh": "\t外貌犹如熟透的葡萄──\\n参考禁触老翁的欢欣模样制成的护符。\\n\\n当周围人物陷入异常状态发狂时，\\n能提升攻击力。\\n\\n　我等会为了王，献上发狂──\\n　让所有人拥有葡萄，\\n　让所有人的葡萄熟成吧。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tMadness in the vicinity increases attack power\r",
+      "jp": "\t周囲で発狂状態が発生すると、攻撃力が高まる\r",
+      "zh": "\t当周围人物陷入异常状态发狂时，能提升攻击力\r"
+    }
+  },
+  "8070": {
+    "AccessoryName": {
+      "en": "\tArrow's Soaring Sting Talisman\r",
+      "jp": "\t遠硬矢のタリスマン\r",
+      "zh": "\t远硬箭护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman composed of fletched and iron arrows.\\n\\nIncreases the effective range of bows and raises attack power of arrows and bolts.\r",
+      "jp": "\t羽矢と鉄矢を組み合わせたタリスマン\\n\\n弓の飛距離が上昇し\\n矢やボルトによる射撃の攻撃力が高まる\\n\r",
+      "zh": "\t以羽毛箭与铁箭组合制成的护符。\\n\\n能提升弓的射程距离，\\n与射出箭、弩箭时的攻击力。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tIncreases the effective range of bows and raises attack power of arrows and bolts\r",
+      "jp": "\t弓の飛距離が上昇し、射撃の攻撃力が高まる\r",
+      "zh": "\t能提升弓的射程距离，与射出箭、弩箭时的攻击力\r"
+    }
+  },
+  "8090": {
+    "AccessoryName": {
+      "en": "\tPearl Shield Talisman\r",
+      "jp": "\t真珠盾のタリスマン\r",
+      "zh": "\t珍珠盾护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting a knight bearing a pearlescent greatshield.\\nBoosts all non-physical damage negation while guarding.\\n\\nThe nature and the potential of impurity surpassed the understanding of the knights, and so they were forced to prepare for all threats known or unknown.\r",
+      "jp": "\t真珠色の大盾と騎士を象ったタリスマン\\nガード時、物理以外のカット率を高める\\n\\n穢れの力は、得体が知れぬ\\nだからこそ、騎士たちは全てに備えた\\n\r",
+      "zh": "\t以珍珠色大盾与骑士的形象制成的护符。\\n防御时，能提升物理以外的减伤率。\\n\\n无从得知污秽有几分力量──\\n为此，骑士们作足准备。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts all non-physical damage negation while guarding\r",
+      "jp": "\tガード時、物理以外のカット率を高める\r",
+      "zh": "\t防御时，能提升物理以外的减伤率\r"
+    }
+  },
+  "8100": {
+    "AccessoryName": {
+      "en": "\tDried Bouquet\r",
+      "jp": "\t乾いた花束\r",
+      "zh": "\t干枯花束\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA quaint bouquet of dried flowers, offered to a small grave.\\n\\nRaises attack power when a spirit you have summoned dies.\\n\\nThe sorrow that flows from the untimely demise of a loved one is a tenderness shared by all, regardless of birthplace.\r",
+      "jp": "\t乾ききった可憐な花束\\n小さな墓標に手向けられたもの\\n\\n自分の召喚した霊体が死亡したとき\\n攻撃力が高まる\\n\\n愛しき者の非業に、抱く思い\\nそれは、何処でも変わらない\\n\r",
+      "zh": "\t惹人怜爱的干枯花束。\\n供养在小墓碑前的物品。\\n\\n当自己召唤的灵魂死亡时，能提升攻击力。\\n\\n对深爱之人的不幸感到心伤──\\n这情感不论身处何地，皆是如此。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attack power when summoned spirit dies\r",
+      "jp": "\t召喚した霊体が死亡したとき、攻撃力が高まる\r",
+      "zh": "\t当自己召唤的灵魂死亡时，能提升攻击力\r"
+    }
+  },
+  "8110": {
+    "AccessoryName": {
+      "en": "\tSmithing Talisman\r",
+      "jp": "\t鍛冶術のタリスマン\r",
+      "zh": "\t锻造术护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting an ancient smithing hammer.\\nInscribed with a smithscript.\\n\\nEnhances weapon-throwing attacks.\\n\\nIn ancient times, smithing was a divine act, and blacksmiths interpreted the script they perceived in the wrinkles of molten steel to imbue weapons with souls.\r",
+      "jp": "\t古い鍛冶ハンマーを象ったタリスマン\\n流紋文字が刻まれている\\n\\n武器を投擲する攻撃を強化する\\n\\n古では、鍛冶とは神事であった\\n鍛冶師は、溶鋼に刻まれた皺に文字を見出し\\n武器の魂を固着させたという\\n\r",
+      "zh": "\t以老旧锻造铁锤的形象制成的护符。\\n表面刻着流纹文字。\\n\\n能强化投掷武器时的攻击。\\n\\n在远古时代，锻造是敬神的仪式。\\n据说在熔化的钢铁中，一层层的皱褶内刻有文字。\\n铁匠会找出文字，用于固定武器的灵魂。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances weapon-throwing attacks\r",
+      "jp": "\t武器を投擲する攻撃を強化する\r",
+      "zh": "\t能强化投掷武器时的攻击\r"
+    }
+  },
+  "8120": {
+    "AccessoryName": {
+      "en": "\tAilment Talisman\r",
+      "jp": "\t病のタリスマン\r",
+      "zh": "\t疾病护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a soul taken by sickness.\\n\\nWhen certain ailments are triggered, this talisman grants resistance to the same ailment.\\n\\nWhen the weak were infected with the dreaded fly sickness, they perished well before the metamorphosis could take hold. Oddly, those who cared for the infected and made certain they were given a proper burial were never afflicted themselves.\r",
+      "jp": "\t病に死した様を象ったタリスマン\\n\\nある状態異常を発症した後、しばらくの間\\n同じ状態異常に対する耐性を高める\\n\\n弱き者が、恐るべき蠅の病に罹った時\\n変態より前に、その生命が尽きてしまう\\nその死を看取り、丁重に葬った者だけは\\n病に罹ることが無かったという\\n\r",
+      "zh": "\t参考病死的模样制成的护符。\\n\\n在陷入异常状态后，一定时间内，\\n遇上同样的异常状态时，能提升抵抗力。\\n\\n体弱的人罹患可怕的苍蝇病时，\\n远在变形之前，生命就会先走到终点。\\n据说只有看护患者到最后一刻，\\n并慎重安葬的照顾者，才能免于罹病。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises resistance to the last ailment suffered\r",
+      "jp": "\t同じ状態異常に対する、耐性を高める\r",
+      "zh": "\t遇上同样的异常状态时，能提升抵抗力\r"
+    }
+  },
+  "8130": {
+    "AccessoryName": {
+      "en": "\tRetaliatory Crossed-Tree\r",
+      "jp": "\t切り返す交差樹\r",
+      "zh": "\t回击交错树\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tHandicraft depicting a golden crossed-tree.\\nOne of the items conferred to the Needle Knights.\\n\\nEnhances attacks executed after rolling or backstepping.\\n\\nLong ago, the Needle Knights were in service of Miquella, but now they are no more. Save for one.\r",
+      "jp": "\t黄金の交差樹を象った細工品\\n針の騎士たちに授けられたひとつ\\n\\nローリング、バックステップからの攻撃を強化する\\n\\n針の騎士たちは、かつてミケラに仕えたが\\n今はもう、誰も残っていない\\n唯一人を除いて\\n\r",
+      "zh": "\t参考黄金交错树的形象制成的工艺品。\\n金针骑士们受赐的其中一项物品。\\n\\n能强化在翻滚、后跃之后使出的攻击。\\n\\n在过去，金针骑士们侍奉米凯拉；\\n而如今，那骑士只剩一人。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances attacks executed after rolling or backstepping\r",
+      "jp": "\tローリング、バックステップからの攻撃を強化する\r",
+      "zh": "\t能强化在翻滚、后跃之后使出的攻击\r"
+    }
+  },
+  "8140": {
+    "AccessoryName": {
+      "en": "\tLacerating Crossed-Tree\r",
+      "jp": "\t刺し貫く交差樹\r",
+      "zh": "\t贯刺交错树\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tHandicraft depicting a golden crossed-tree.\\nOne of the items conferred to the Needle Knights.\\n\\nEnhances dash attacks.\\n\\nLong ago, the Needle Knights were in service of Miquella, but now they are no more. Save for one.\r",
+      "jp": "\t黄金の交差樹を象った細工品\\n針の騎士たちに授けられたひとつ\\n\\nダッシュ攻撃を強化する\\n\\n針の騎士たちは、かつてミケラに仕えたが\\n今はもう、誰も残っていない\\n唯一人を除いて\\n\r",
+      "zh": "\t参考黄金交错树的形象制成的工艺品。\\n金针骑士们受赐的其中一项物品。\\n\\n能强化冲刺攻击。\\n\\n在过去，金针骑士们侍奉米凯拉；\\n而如今，那骑士只剩一人。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances dash attacks\r",
+      "jp": "\tダッシュ攻撃を強化する\r",
+      "zh": "\t能强化冲刺攻击\r"
+    }
+  },
+  "8150": {
+    "AccessoryName": {
+      "en": "\tSharpshot Talisman\r",
+      "jp": "\t狙いすます弓のタリスマン\r",
+      "zh": "\t狙击弓护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting an archer wielding a longbow.\\nBoosts attack power of precision-aimed shots.\\n\\nThe Albinauric archers were in a class of their own, and their deadly long-range specialists struck fear into the hearts of men.\r",
+      "jp": "\t長弓と射手を象ったタリスマン\\n精密射撃の攻撃力を高める\\n\\nしろがねの射手は技量に優れ\\n恐るべき狙撃者として知られた\\n\r",
+      "zh": "\t以长弓与射手的形象制成的护符。\\n能提升精密射击的攻击力。\\n\\n白金之子射手们十分灵巧，\\n以令人畏惧的优秀狙击能力为人所知。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tBoosts attack power of precision-aimed shots\r",
+      "jp": "\t精密射撃の攻撃力を高める\r",
+      "zh": "\t能提升精密射击的攻击力\r"
+    }
+  },
+  "8160": {
+    "AccessoryName": {
+      "en": "\tSt. Trina's Smile\r",
+      "jp": "\tトリーナの微笑\r",
+      "zh": "\t托莉娜的微笑\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a smiling St. Trina,\\na vision conjured deep within a certain man's heart.\\n\\nRaises attack power when sleep is triggered in the vicinity.\\n\\n\"Only I am allowed to know. Of your velvety sleep. Its sweetly gentle embrace. So please, smile—for me, and only me.\"\r",
+      "jp": "\t聖女トリーナの微笑を象ったタリスマン\\nある男が、心の深窓に住まわせた幻\\n\\n周囲で睡眠状態が発生すると、攻撃力が高まる\\n\\n私だけが、知っています\\n貴女の昏い眠り、その甘い優しさを\\nだから、笑ってください。私だけに\\n\r",
+      "zh": "\t以圣女托莉娜微笑时的模样制成的护符。\\n某位男性深藏心底的幻想。\\n\\n当周围人物陷入异常状态催眠时，\\n能提升攻击力。\\n\\n　只有我才知道──\\n　陷在您的深沉酣眠里，有多么甜美。\\n　所以说，请只对着我笑吧。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tSleep in the vicinity increases attack power\r",
+      "jp": "\t周囲で睡眠状態が発生すると、攻撃力が高まる\r",
+      "zh": "\t当周围人物陷入异常状态催眠时，能提升攻击力\r"
+    }
+  },
+  "8170": {
+    "AccessoryName": {
+      "en": "\tTalisman of the Dread\r",
+      "jp": "\t暴竜のタリスマン\r",
+      "zh": "\t狂龙护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman depicting the dread dragon of the jagged peak, whose roars cause the peak's molten fury to boil and churn.\\n\\nRaises potency of magma.\\n\\nBayle was the foul dragon's name—a terrible harbinger of destruction whose challenge to the ancient Dragonlord ended in grievous mutual injury.\r",
+      "jp": "\tギザ山の暴竜を象ったタリスマン\\nその咆哮が轟く時、ギザ山の溶岩は沸騰する\\n\\n溶岩の威力を高める\\n\\nその暴竜は、名をベールという\\nかつて古竜の王に挑み、共に傷つき倒れた\\n怒れる破壊者であるという\\n\r",
+      "zh": "\t参考尖刺山的狂龙模样制成的护符。\\n当它发出轰然咆哮，尖刺山的熔岩会随之沸腾。\\n\\n能提升熔岩的威力。\\n\\n狂龙之名为贝勒──\\n据说它曾挑战古龙之王，最后落得两败俱伤。\\n有着愤怒的破坏者之称。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises potency of magma\r",
+      "jp": "\t溶岩の威力を高める\r",
+      "zh": "\t能提升熔岩的威力\r"
+    }
+  },
+  "8180": {
+    "AccessoryName": {
+      "en": "\tEnraged Divine Beast\r",
+      "jp": "\t荒れ狂う神獣\r",
+      "zh": "\t狂怒神兽\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA charm depicting the crazed, cavorting dance of the divine beast conducted at the tower festival.\\n\\nRaises potency of storms.\\n\\nDivine beasts are messengers of the heavens, and their rage mirrors the tumult of the skies, of which storms are the pinnacle.\r",
+      "jp": "\t塔の祭祀で行われる神獣の舞い\\nその荒れ狂う様を象ったお守り\\n\\n嵐の威力を高める\\n\\n神獣は天の使いとされる\\nその怒りは、空の乱れであり\\n嵐とは、その最たるものである\\n\r",
+      "zh": "\t塔进行祭祀时，神兽于其中舞动──\\n参考那狂怒舞动的模样制成的护符。\\n\\n能提升风暴的威力。\\n\\n据说神兽是来自上天的使者──\\n它的愤怒会造成天空失序，\\n而其中最显著的，就是风暴。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises potency of storms\r",
+      "jp": "\t嵐の威力を高める\r",
+      "zh": "\t能提升风暴的威力\r"
+    }
+  },
+  "8190": {
+    "AccessoryName": {
+      "en": "\tBeloved Stardust\r",
+      "jp": "\t愛しき星屑\r",
+      "zh": "\t亲爱的星尘\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting a wizened hand gently gripping a glintstone.\\n\\nShortens casting speed for sorcery and incantations by the utmost, but increases damage taken.\\n\\nCount Ymir was known for his recitations.\\n\"One need only envision the romance of the stars above with adoration for stardust in one's heart to become a great sorcerer. Do so, and you will know love.\"\r",
+      "jp": "\tそっと輝石を持つ、老指を象ったタリスマン\\n\\n魔術と祈祷の使用速度を最大とするが\\n被ダメージも大きくなる\\n\\nユミル卿は嘯く\\n星の浪漫に思い馳せ、星屑を愛でる心があれば\\n誰であれ、最高の魔術師になれます\\n貴方、愛を知りなさい\\n\r",
+      "zh": "\t以老者手指轻捏辉石的模样制成的护符。\\n\\n能最大幅缩短魔法、祷告的咏唱时间，\\n但增加受到的损伤。\\n\\n尤弥尔疾呼：\\n　对星星怀抱浪漫思维、对星尘满怀爱意──\\n　能办到如此，就能成为顶尖魔法师。\\n　你呀，要去学会爱。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tShortens casting speed for sorcery and incantations by the utmost, but increases damage taken\r",
+      "jp": "\t魔術と祈祷の使用速度を最大とし、被ダメージも増す\r",
+      "zh": "\t最大幅缩短魔法、祷告的咏唱时间，但增加受到的损伤\r"
+    }
+  },
+  "8200": {
+    "AccessoryName": {
+      "en": "\tTalisman of Lord's Bestowal\r",
+      "jp": "\t王の受領のタリスマン\r",
+      "zh": "\t王受赐护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA talisman depicting Godfrey, first Elden lord, receiving the precious sap.\\n\\nIncreases poise after using a flask of tears.\\n\\nThe Lord accepted the sap stoically, without any sign of wavering. No wonder Lord of the Erdtree casts a long shadow over the lands.\r",
+      "jp": "\t最初のエルデの王、ゴッドフレイの\\n雫の受領の様を象ったタリスマン\\n\\n雫の聖杯瓶の使用時、強靭度を高める\\n\\n王の受領は堂々と力強く\\n僅かに揺らぐことすらなかったという\\n黄金樹の王は、大地に聳える\\n\r",
+      "zh": "\t参考“初始艾尔登之王”葛孚雷\\n受赐露滴时的模样制成的护符。\\n\\n能提升使用露滴圣杯瓶时的强韧度。\\n\\n王受赐露滴时气势非凡、充满魄力──\\n据说在受赐的当下，他文风不动。\\n黄金树之王，耸立于大地。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tIncreases poise after using a flask of tears\r",
+      "jp": "\t雫の聖杯瓶の使用時、強靭度を高める\r",
+      "zh": "\t能提升使用露滴圣杯瓶时的强韧度\r"
+    }
+  },
+  "8210": {
+    "AccessoryName": {
+      "en": "\tVerdigris Discus\r",
+      "jp": "\t緑青の円盤\r",
+      "zh": "\t铜绿圆碟\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA discus made of verdigris, the corroded metal known for its heft.\\n\\nRaises defense with higher equipment load.\\n\\nGreat weight makes for great strength. The strength to protect others.\r",
+      "jp": "\tずっしりと重い、腐敗した金属\\n緑青で作られた円盤\\n\\n装備重量が大きいほど、防御力が高まる\\n\\n重さは、強さである\\nそれは、誰かを守る強さである\\n\r",
+      "zh": "\t以十分沉重的腐败金属──\\n铜绿制成的圆碟。\\n\\n装备重量越重，防御力会越高。\\n\\n重量代表着强度，\\n也是守护他人的力量。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises defense with higher equipment load\r",
+      "jp": "\t装備重量が大きいほど、防御力が高まる\r",
+      "zh": "\t装备重量越重，防御力会越高\r"
+    }
+  },
+  "8220": {
+    "AccessoryName": {
+      "en": "\tRellana's Cameo\r",
+      "jp": "\tレラーナのカメオ\r",
+      "zh": "\t蕾菈娜的浮雕坠饰\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tTalisman featuring a gallant portrait of Rellana, the Twin Moon Knight.\\n\\nEnhances attacks executed after maintaining the same stance for a certain length of time.\\n\\nEngraved as a reminder of the unparalleled devotion of those who left their homelands to serve Rellana.\\n\\n\"By your leave, we will accompany you wherever your lunar vessel takes you.\"\r",
+      "jp": "\t双月の騎士、レラーナの\\n凛々しい肖像が刻まれたタリスマン\\n\\n一定時間、構えを継続したとき\\nその構えからの攻撃を強化する\\n\\n彼女に仕え、共に故郷を離れた者が\\n忠誠以上の思いを切と刻んだもの\\n\\nどこまでも、お供させてください\\n貴女の月の舟に乗って\\n\r",
+      "zh": "\t“双月骑士”蕾菈娜──\\n雕着她气质凛然的肖像护符。\\n\\n摆出架式，并维持一定时间后，\\n能强化之后使出的攻击。\\n\\n侍奉蕾菈娜，一同离开故乡的人们，\\n将超越忠诚的心思，刻划其中的物品。\\n\\n　请允许我们同行──\\n　共乘您的月之舟，直到海角天涯。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tEnhances attacks executed after maintaining the same stance for a while\r",
+      "jp": "\t構えを継続したとき、攻撃を強化する\r",
+      "zh": "\t摆出架式并维持一定时间后，能强化攻击\r"
+    }
+  },
+  "8230": {
+    "AccessoryName": {
+      "en": "\tBlade of Mercy\r",
+      "jp": "\t介錯の刃\r",
+      "zh": "\t介错刀\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA thin, blood-stained dagger. No longer fit for use.\\n\\nRaises attack power after each critical hit.\\n\\nHornsent employed this to honorably end the suffering of a compatriot. After claiming numerous lives, the dagger is now broken, but has acquired a spectral aura.\r",
+      "jp": "\t血の染みついた細刃の短刀\\nもう、武器としては使用できない\\n\\n致命の一撃の後、攻撃力が高まる\\n\\n角人たちが、苦しむ同胞の介錯に用いたもの\\n数多の命を奪い、その刃は欠けてしまったが\\n替わりに、それは妖気を帯びた\\n\r",
+      "zh": "\t刀身窄短、沾满血液的短刀。\\n已经不能作为武器使用。\\n\\n能提升在使出致命一击后的攻击力。\\n\\n角人们让受苦的族人解脱用的物品。\\n夺走多条性命后，刀锋已有缺损，\\n也带有一丝邪气。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tRaises attack power after each critical hit\r",
+      "jp": "\t致命の一撃の後、攻撃力が高まる\r",
+      "zh": "\t能提升在使出致命一击后的攻击力\r"
+    }
+  },
+  "8240": {
+    "AccessoryName": {
+      "en": "\tTalisman of All Crucibles\r",
+      "jp": "\t全ての坩堝のタリスマン\r",
+      "zh": "\t熔炉全护符\r"
+    },
+    "AccessoryCaption": {
+      "en": "\tA giant mass of intermingling Crucible attributes.\\n\\nReduces damage taken from critical hits and head shots and improves the effectiveness of rolling and backstepping, but also increases damage taken at all times.\\n\\nRumored to have sprouted upon giants and is known as the \"mother of Crucibles\" in ancient tower lore.\r",
+      "jp": "\t坩堝の諸相、その全てが混ざった巨大な塊\\n\\n致命の一撃とヘッドショットのダメージを軽減し\\nローリング、バックステップの回避を強化するが\\n常に、被ダメージも大きくなる\\n\\nかつて、巨人の身体に生じたものとされ\\n塔の神話では、坩堝の母とも呼ばれている\\n\r",
+      "zh": "\t揉合熔炉百相，所有特征的巨型块状物。\\n\\n能减少致命一击、头部射击造成的损伤，\\n与强化翻滚、后跃的闪避能力，\\n但增加受到的损伤。\\n\\n据说是源自巨人身体的物品。\\n在塔的神话中，此物被称为“熔炉之母”。\r"
+    },
+    "AccessoryInfo": {
+      "en": "\tGrants effects of all crucible talismans\r",
+      "jp": "\t全ての坩堝の効果を持つ\r",
+      "zh": "\t具备所有熔炉护符的效果\r"
+    }
+  },
+  "": {
+    "AccessoryName": { "en": "", "jp": "", "zh": "" },
+    "AccessoryCaption": { "en": "", "jp": "", "zh": "" },
+    "AccessoryInfo": { "en": "", "jp": "", "zh": "" }
+  }
+}

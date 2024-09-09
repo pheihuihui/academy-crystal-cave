@@ -1,0 +1,3133 @@
+{
+  "1": {
+    "ArtsName": { "en": "", "jp": "\tなし\r" },
+    "ArtsCaption": { "en": "\t-\r", "jp": "\t-\r" }
+  },
+  "10": {
+    "ArtsName": {
+      "en": "\tNo Skill\r",
+      "jp": "\t戦技なし\r",
+      "zh": "\t无战技\r"
+    },
+    "ArtsCaption": {
+      "en": "\tNo skill.\\n\\nThis armament has no skill.\\nIf the armament in the other hand has a skill, that skill will be used instead.\r",
+      "jp": "\t戦技なし\\n\\nこの武器は戦技を持たない\\nもう一方の武器に戦技があれば\\n常にそれが使用される\\n\r",
+      "zh": "\t战技：无战技\\n\\n武器没有战技。\\n如果另一边的武器具备战技，\\n会使用那一边的战技。\r"
+    }
+  },
+  "100": {
+    "ArtsName": {
+      "en": "\tLion's Claw\r",
+      "jp": "\t獅子斬り\r",
+      "zh": "\t狮子斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Lion's Claw\\n\\nSkill of the Redmanes, who fought alongside General Radahn.\\nSomersault forwards, striking foes with armament.\r",
+      "jp": "\t戦技「獅子斬り」\\n\\n将軍ラダーンと共に戦った、赤獅子の軍勢の戦技\\n前方に跳躍し、回転しながら武器を叩き付ける\\n\r",
+      "zh": "\t战技：狮子斩\\n\\n与拉塔恩将军并肩作战的\\n红狮子军队所使用的战技。\\n能朝前方跳跃，一边旋身一边以武器敲击。\r"
+    }
+  },
+  "101": {
+    "ArtsName": {
+      "en": "\tImpaling Thrust\r",
+      "jp": "\t貫通突き\r",
+      "zh": "\t贯穿\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Impaling Thrust\\n\\nSkill that lets piercing armaments overcome enemy shields. Build power, then lunge forward for a strong thrust that pierces an enemy's guard.\r",
+      "jp": "\t戦技「貫通突き」\\n\\n刺突武器で盾に対するための戦技\\n力を溜め、大きく踏み込む強烈な突きは\\nガードを正面から貫く\\n\r",
+      "zh": "\t战技：贯穿\\n\\n突刺武器对付持盾敌人时的战技。\\n蓄力之后，大幅度向前跨出\\n使出浑身一刺，从正面突破防御。\r"
+    }
+  },
+  "102": {
+    "ArtsName": {
+      "en": "\tPiercing Fang\r",
+      "jp": "\t牙突き\r",
+      "zh": "\t突刺\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Piercing Fang\\n\\nSkill used by Yura, the Bloody Finger Hunter.\\nStarting with the blade held horizontally, make a powerful thrust that cannot be blocked.\r",
+      "jp": "\t戦技「牙突き」\\n\\n血の指の狩人、ユラの戦技\\n刃を水平に掲げ、一気に刺し貫く\\nこれをガードすることはできない\\n\r",
+      "zh": "\t战技：突刺\\n\\n“血指猎人”尤拉的战技。\\n举起武器与地面平行，再一口气贯穿敌人。\\n此战技无法用防御挡下。\r"
+    }
+  },
+  "103": {
+    "ArtsName": {
+      "en": "\tSpinning Slash\r",
+      "jp": "\t回転斬り\r",
+      "zh": "\t回旋斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Spinning Slash\\n\\nSkill favored by dexterous warriors.\\nSlash foes as your body spins. Additional input allows for a follow-up attack.\r",
+      "jp": "\t戦技「回転斬り」\\n\\n技量に優れた剣士たちの戦技\\n大きく体を回転させて敵を斬りつける\\nまた、追加入力で追撃に繋げられる\\n\r",
+      "zh": "\t战技：回旋斩\\n\\n拥有高灵巧的剑士们使用的战技。\\n能大幅旋转身体，砍向敌人。\\n再次发动能使出追击。\r"
+    }
+  },
+  "104": {
+    "ArtsName": { "en": "", "jp": "\t回転薙ぎ\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Spinning Reaper\\n\\nSkill developed to face crowds of enemies.\\nSlice at foes while performing a great\\nrotation with the body. The momentum\\ngenerated can empower a final, heavy strike.\r",
+      "jp": "\t戦技「回転薙ぎ」\\n\\n長柄の武器で、多勢に対するための戦技\\n大きく体を回転させて周囲の敵を薙ぎ払う\\nまたその勢いを、強攻撃に繋げられる\\n\r"
+    }
+  },
+  "105": {
+    "ArtsName": {
+      "en": "\tCharge Forth\r",
+      "jp": "\t突撃\r",
+      "zh": "\t突击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Charge Forth\\n\\nQuickly charge forward with the armament at the hip, carrying the momentum into a thrust.\\nHold to cover a greater distance.\r",
+      "jp": "\t戦技「突撃」\\n\\n腰だめに武器を構え、一気に前進する戦技\\nその勢いのまま、最後に突きを放つ\\n長押しで前進距離を伸ばすことができる\\n\r",
+      "zh": "\t战技：突击\\n\\n武器及腰摆出架式，再一口气向前冲的战技。\\n前进到极限后能使出突刺攻击。\\n持续发动能增加移动距离。\r"
+    }
+  },
+  "106": {
+    "ArtsName": {
+      "en": "\tStamp (Upward Cut)\r",
+      "jp": "\t踏み込み（斬り上げ）\r",
+      "zh": "\t箭步（上砍）\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Stamp (Upward Cut)\\n\\nBrace armament and step into a low stance that prevents recoil from most enemy attacks.\\nFollow up with a strong attack for an upward strike.\r",
+      "jp": "\t戦技「踏み込み（斬り上げ）」\\n\\n武器を構え、体を固めて低く踏み込み\\n瞬間的に、強靭度を高める戦技\\nまた、強攻撃で斬り上げに繋げられる\\n\r",
+      "zh": "\t战技：箭步（上砍）\\n\\n举起武器摆出架式，稳住姿势压低身形，\\n瞬间提升强韧度的战技。\\n发动后接着使出重攻击，能上砍攻击。\r"
+    }
+  },
+  "107": {
+    "ArtsName": {
+      "en": "\tStamp (Sweep)\r",
+      "jp": "\t踏み込み（回転薙ぎ）\r",
+      "zh": "\t箭步（回旋斩）\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Stamp (Sweep)\\n\\nBrace armament and step into a low stance that prevents recoil from most enemy attacks.\\nFollow up with a strong attack for a sweeping strike.\r",
+      "jp": "\t戦技「踏み込み（回転薙ぎ）」\\n\\n武器を構え、体を固めて低く踏み込み\\n瞬間的に、強靭度を高める戦技\\nまた、強攻撃で回転薙ぎに繋げられる\\n\r",
+      "zh": "\t战技：箭步（回旋斩）\\n\\n举起武器摆出架式，稳住姿势压低身形，\\n瞬间提升强韧度的战技。\\n发动后接着使出重攻击，能回旋斩。\r"
+    }
+  },
+  "108": {
+    "ArtsName": {
+      "en": "\tBlood Tax\r",
+      "jp": "\t血の徴収\r",
+      "zh": "\t鲜血征收\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Blood Tax\\n\\nBlood Oath skill granted by the Lord of Blood.\\nTwist to build power, then unleash a flurry of thrusts that rob the target of both their blood and their HP.\r",
+      "jp": "\t戦技「血の徴収」\\n\\n血の君主の分け与える力、血盟戦技のひとつ\\n回転から、一気に連撃の突きを繰り出し\\n攻撃した相手から、血と共にＨＰを奪う\\n\r",
+      "zh": "\t战技：鲜血征收\\n\\n鲜血君王分享的力量，血盟战技之一。\\n旋身之后，使出多重的突刺连击。\\n能夺取受攻击对象的鲜血与血量。\r"
+    }
+  },
+  "109": {
+    "ArtsName": {
+      "en": "\tRepeating Thrust\r",
+      "jp": "\t連続突き\r",
+      "zh": "\t连击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Repeating Thrust\\n\\nTwist to build power, then unleash a flurry of thrusts.\r",
+      "jp": "\t戦技「連続突き」\\n\\n体を回転させ、そこから一気に\\n連撃の突きを繰り出す戦技\\n\r",
+      "zh": "\t战技：连击\\n\\n旋身之后，使出连续突刺的战技。\r"
+    }
+  },
+  "110": {
+    "ArtsName": {
+      "en": "\tWild Strikes\r",
+      "jp": "\t乱撃\r",
+      "zh": "\t盲击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Wild Strikes\\n\\nSwing armament with wild abandon.\\nHold to continue swinging. Can be followed up with a normal or strong attack.\r",
+      "jp": "\t戦技「乱撃」\\n\\n無造作に武器を振り続ける戦技\\n長押している間は、ずっと攻撃を継続し\\n通常攻撃および強攻撃で追撃に繋げられる\\n\r",
+      "zh": "\t战技：盲击\\n\\n不间断、任意挥动武器的战技。\\n持续发动的期间能一直攻击，\\n接着使出轻攻击或重攻击，能追加攻击。\r"
+    }
+  },
+  "111": {
+    "ArtsName": {
+      "en": "\tSpinning Strikes\r",
+      "jp": "\t回転撃\r",
+      "zh": "\t回旋击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Spinning Strikes\\n\\nPolearm skill that performs continuous spinning attacks. Hold to continue the attack. Can be followed up with a normal or strong attack. Nullifies projectiles such as arrows while spinning.\r",
+      "jp": "\t戦技「回転撃」\\n\\n長柄の武器を、大きく回し続ける戦技\\n長押している間は、ずっと攻撃を継続し\\n通常攻撃および強攻撃で追撃に繋げられる\\nまた回転中は、矢などの飛び道具を逸らせる\\n\r",
+      "zh": "\t战技：回旋击\\n\\n大幅度旋转长柄武器的战技。\\n持续发动的期间能一直攻击，\\n接着使出轻攻击或重攻击，能追加攻击。\\n旋转武器时，能拨开箭等等的远攻道具。\r"
+    }
+  },
+  "112": {
+    "ArtsName": {
+      "en": "\tDouble Slash\r",
+      "jp": "\t二連斬り\r",
+      "zh": "\t二连斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Double Slash\\n\\nSkill of superior swordsmen.\\nPerform a crossing slash attack from a low stance.\\nRepeated inputs allow for up to two follow-up attacks.\r",
+      "jp": "\t戦技「二連斬り」\\n\\n卓越した剣士の戦技\\n低い構えから、交差する斬撃を繰り出す\\n追加入力で、二度まで追撃に繋げられる\\n\r",
+      "zh": "\t战技：二连斩\\n\\n杰出剑士的战技。\\n压低身形后，使出连续的交错斩击。\\n再次发动能使出最多两次的追击。\r"
+    }
+  },
+  "113": {
+    "ArtsName": {
+      "en": "\tPrelate's Charge\r",
+      "jp": "\t司教の突進\r",
+      "zh": "\t主教冲锋\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Prelate's Charge\\n\\nSlam armament into the ground to create a surge of flames, then charge in.\\nHold to continue the charge.\r",
+      "jp": "\t戦技「司教の突進」\\n\\n武器を地面に叩きつけ、激しい炎を生じ\\nそのまま突進していく戦技\\n長押ししている間は、止まることがない\\n\r",
+      "zh": "\t战技：主教冲锋\\n\\n将武器敲向地面，形成猛烈燃烧的火焰，\\n再顺势向前推进的战技。\\n持续发动的期间能一直向前推进。\r"
+    }
+  },
+  "114": {
+    "ArtsName": { "en": "\tUnsheathe\r", "jp": "\t居合\r", "zh": "\t居合\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Unsheathe\\n\\nSkill of swordsmen from the Land of Reeds.\\nSheathe blade, holding it at the hip in a composed stance.\\nFollow up with a normal or strong attack to perform a swift slash attack.\r",
+      "jp": "\t戦技「居合」\\n\\n葦の地の剣客に伝わる戦技\\n刀身を鞘に収め、腰だめに静かに構え\\n通常攻撃および強攻撃で、高速の斬撃に繋げる\\n\r",
+      "zh": "\t战技：居合\\n\\n芦苇之地的剑客继承而来的战技。\\n收刀入腰间刀鞘，摆出架式后静止不动，\\n接着使出轻攻击或重攻击，能高速斩击。\r"
+    }
+  },
+  "115": {
+    "ArtsName": {
+      "en": "\tSquare Off\r",
+      "jp": "\t構え\r",
+      "zh": "\t准备架式\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Square Off\\n\\nThis skill starts with the sword held level.\\nFollow up with a normal attack to slash upwards through enemy's guard, or a strong attack to perform a running thrust.\r",
+      "jp": "\t戦技「構え」\\n\\n剣を水平に構え、攻撃に繋げる戦技\\n通常攻撃で、ガードを崩す斬り上げ\\n強攻撃で走り込む突きに派生する\\n\r",
+      "zh": "\t战技：准备架式\\n\\n举起剑与地面平行，接着使出攻击的战技。\\n轻攻击能使出由下而上，突破防御的斩击。\\n重攻击能向前冲刺、突刺攻击。\r"
+    }
+  },
+  "116": {
+    "ArtsName": {
+      "en": "\tGiant Hunt\r",
+      "jp": "\t巨人狩り\r",
+      "zh": "\t狩猎巨人\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Giant Hunt\\n\\nSkill developed for confronting gigantic foes.\\nStep forward from a low stance, carrying the momentum into a sudden upward thrust.\r",
+      "jp": "\t戦技「巨人狩り」\\n\\n自らよりも大きな敵に、挑むための戦技\\n低い姿勢から、体を固めて一歩踏み込み\\nそのまま一気に、下から敵を突き上げる\\n\r",
+      "zh": "\t战技：狩猎巨人\\n\\n挑战体型比自己大的敌人而有的战技。\\n压低身形稳住姿势，向前踏出，\\n接着顺势由下而上突刺敌人。\r"
+    }
+  },
+  "117": {
+    "ArtsName": {
+      "en": "\tTorch Attack\r",
+      "jp": "\t松明攻撃\r",
+      "zh": "\t火把攻击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Torch Attack\\n\\nThrust torch forward to set foes ablaze.\\nThis skill is especially effective against foes who are weak to fire.\r",
+      "jp": "\t戦技「松明攻撃」\\n\\n松明の炎を前方に突き出し、敵を焼く戦技\\n火に弱い敵には有効である\\n\r",
+      "zh": "\t战技：火把攻击\\n\\n将火把的火焰往前突刺，燃烧敌人的战技。\\n对不耐火的敌人很有效。\r"
+    }
+  },
+  "118": {
+    "ArtsName": {
+      "en": "\tLoretta's Slash\r",
+      "jp": "\tローレッタの斬撃\r",
+      "zh": "\t罗蕾塔的斩击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Loretta's Slash\\n\\nSkill of Loretta the Royal Knight.\\nLeap forward, imbuing the blade with glintstone, then descend, accelerating into a sweeping slash.\r",
+      "jp": "\t戦技「ローレッタの斬撃」\\n\\n親衛騎士ローレッタの戦技\\n前方に跳躍し、刃に輝石の魔力を宿し\\n加速して一気に斬り下ろす\\n\r",
+      "zh": "\t战技：罗蕾塔的斩击\\n\\n禁卫骑士罗蕾塔的战技。\\n向前跳的同时，将辉石的魔力灌入剑身，\\n再加快速度瞬间斩下。\r"
+    }
+  },
+  "119": {
+    "ArtsName": {
+      "en": "\tPoison Moth Flight\r",
+      "jp": "\t毒蛾は二度舞う\r",
+      "zh": "\t双吻毒蛾\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Poison Moth Flight\\n\\nSlash with a poison-infused blade.\\nIf the follow-up strike lands on a poisoned foe, it will deal significant damage.\r",
+      "jp": "\t戦技「毒蛾は二度舞う」\\n\\n刃に強毒を纏わせ、斬りつける戦技\\n既に毒状態の敵に追撃が成功すれば\\n一気に大ダメージを与える\\n\r",
+      "zh": "\t战技：双吻毒蛾\\n\\n在剑刃涂上强效毒，砍向敌人的战技。\\n对上陷入中毒状态的敌人，\\n如果成功使出追击，能一口气给予大伤害。\r"
+    }
+  },
+  "120": {
+    "ArtsName": {
+      "en": "\tSpinning Weapon\r",
+      "jp": "\t回れ回れ\r",
+      "zh": "\t转啊转\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Spinning Weapon\\n\\nDefensive skill employed by Carian princesses.\\nLifts armament into mid-air, then makes it spin violently. Those it touches will suffer successive attacks.\r",
+      "jp": "\t戦技「回れ回れ」\\n\\nカーリアの王女たちの護身の戦技\\n武器を前方に浮かせ、高速に回転させる\\nそれは、触れる者に連撃をなす\\n\r",
+      "zh": "\t战技：转啊转\\n\\n卡利亚公主们防身用的战技。\\n将武器浮在自身前方高速旋转，\\n触碰到的人物会受到连击。\r"
+    }
+  },
+  "122": {
+    "ArtsName": {
+      "en": "\tStorm Assault\r",
+      "jp": "\t嵐の襲撃\r",
+      "zh": "\t风暴袭击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Storm Assault\\n\\nOne of the skills that channel the tempests of Stormveil.\\nLeap forward through surrounding storm winds and thrust armament downward. The attack will produce more storm winds at the point of impact.\r",
+      "jp": "\t戦技「嵐の襲撃」\\n\\nストームヴィルの嵐の戦技のひとつ\\n嵐と共に前方に跳躍し、武器を突き下ろし\\nその攻撃もまた、嵐を発生させる\\n\r",
+      "zh": "\t战技：风暴袭击\\n\\n史东薇尔的风暴战技之一。\\n缠绕着风暴向前跳，将武器向下刺。\\n突刺攻击后也会形成风暴。\r"
+    }
+  },
+  "123": {
+    "ArtsName": {
+      "en": "\tStormcaller\r",
+      "jp": "\t嵐呼び\r",
+      "zh": "\t唤起风暴\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Stormcaller\\n\\nOne of the skills that channel the tempests of Stormveil. Spin armament to create surrounding storm winds. Repeated inputs allow for up to two follow-up attacks.\r",
+      "jp": "\t戦技「嵐呼び」\\n\\nストームヴィルの嵐の戦技のひとつ\\n武器を振り回し、自らの周囲に嵐を呼ぶ\\n追加入力で、二度まで追撃に繋げられる\\n\r",
+      "zh": "\t战技：唤起风暴\\n\\n史东薇尔的风暴战技之一。\\n能挥舞武器，在自身周围唤起风暴。\\n再次发动能使出最多两次的追击。\r"
+    }
+  },
+  "124": {
+    "ArtsName": { "en": "\tSword Dance\r", "jp": "\t剣舞\r", "zh": "\t剑舞\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Sword Dance\\n\\nQuickly close in to perform a series of spinning upward slashes.\\nFollow up with an additional input to finish with a downward slash.\r",
+      "jp": "\t戦技「剣舞」\\n\\n鋭く一気に前進しながら\\n連続で回転斬り上げを繰り出す戦技\\n追加入力で、鋭い斬り下ろしに繋げられる\\n\r",
+      "zh": "\t战技：剑舞\\n\\n一边迅速向前推进，\\n一边使出连续旋身上砍的战技。\\n再次发动能使出迅速下砍。\r"
+    }
+  },
+  "125": {
+    "ArtsName": {
+      "en": "\tSpinning Chain\r",
+      "jp": "\t鎖回し\r",
+      "zh": "\t回旋锁链\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Spinning Chain\\n\\nSpins the striking part of a flail at high speed to attack.\\nFollow up with a normal or strong attack to link the momentum of this skill into a successive attack.\r",
+      "jp": "\t戦技「鎖回し」\\n\\nフレイルの打撃部を、高速で回転させる戦技\\n通常攻撃および強攻撃で\\nその勢いを活かした、追撃に繋げられる\\n\r",
+      "zh": "\t战技：回旋锁链\\n\\n高速旋转连枷打击部位的战技。\\n发动后使出轻攻击或重攻击，能顺势追击。\r"
+    }
+  },
+  "200": {
+    "ArtsName": {
+      "en": "\tGlintblade Phalanx\r",
+      "jp": "\t輝剣の円陣\r",
+      "zh": "\t辉剑圆阵\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Glintblade Phalanx\\n\\nSkill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust.\r",
+      "jp": "\t戦技「輝剣の円陣」\\n\\nカーリア王家に仕えた魔術騎士たちの戦技\\n魔力の輝剣を半円に浮遊させ、自動的に攻撃させる\\n強攻撃で、大きく踏み込む突きに繋げられる\\n\r",
+      "zh": "\t战技：辉剑圆阵\\n\\n侍奉卡利亚王室的魔法骑士们使用的战技。\\n让魔力辉剑浮空围成半圆，自动攻击敌人。\\n发动后接着使出重攻击，\\n能向前大幅跨出、突刺攻击。\r"
+    }
+  },
+  "201": {
+    "ArtsName": {
+      "en": "\tSacred Blade\r",
+      "jp": "\t聖なる刃\r",
+      "zh": "\t神圣刀刃\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Sacred Blade\\n\\nGrants armament's attacks holy essence and fires off a golden blade projectile.\\nThe armament retains its holy essence for a while.\r",
+      "jp": "\t戦技「聖なる刃」\\n\\n武器に聖属性の攻撃力を付与し\\nそのまま、黄金の刃を放つ戦技\\n聖属性の付与は、しばらく継続する\\n\r",
+      "zh": "\t战技：神圣刀刃\\n\\n让武器附加圣属性攻击力，\\n并且顺势释放黄金刀刃的战技。\\n附加圣属性攻击力的效果会暂时延续。\r"
+    }
+  },
+  "202": {
+    "ArtsName": { "en": "\tIce Spear\r", "jp": "\t氷槍\r", "zh": "\t冰枪\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Ice Spear\\n\\nSkill of the warriors who served Lunar Princess Ranni.\\nSpin armament to release cold magic, then channel it into a piercing spear of ice.\r",
+      "jp": "\t戦技「氷槍」\\n\\n月の王女、ラニに仕えた戦士の戦技\\n回転させた武器に冷気を呼び\\nそのまま突き、氷の槍を放つ\\n\r",
+      "zh": "\t战技：冰枪\\n\\n侍奉“月之公主”菈妮的战士使用的战技。\\n旋转武器之余唤出寒气，\\n再顺势使出突刺，释放冰枪。\r"
+    }
+  },
+  "203": {
+    "ArtsName": {
+      "en": "\tGlintstone Pebble\r",
+      "jp": "\t輝石のつぶて\r",
+      "zh": "\t辉石魔砾\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Glintstone Pebble\\n\\nSkill that employs the glintstone sorcery of the same name.\\nFollow up with a strong attack to chain this skill into a lunging thrust, performed while the armament is still imbued with glintstone.\r",
+      "jp": "\t戦技「輝石のつぶて」\\n\\n同名の輝石魔術を用いる戦技\\n強攻撃で、大きく踏み込む突きに繋げられ\\nその攻撃は輝石の魔力を残している\\n\r",
+      "zh": "\t战技：辉石魔砾\\n\\n能施展同名辉石魔法的战技。\\n发动后接着使出重攻击，能大幅向前跨出，\\n使出含有辉石魔力的突刺攻击。\r"
+    }
+  },
+  "204": {
+    "ArtsName": {
+      "en": "\tBloody Slash\r",
+      "jp": "\t血の斬撃\r",
+      "zh": "\t鲜血斩击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Bloody Slash\\n\\nBlood Oath skill granted by the Lord of Blood.\\nFrom a low stance, coat the blade in your own blood to unleash a rending blood slash in a wide arc.\r",
+      "jp": "\t戦技「血の斬撃」\\n\\n血の君主の分け与える力、血盟戦技のひとつ\\n体を沈め、刀身に自らの血を纏わせ\\n血の刃で広範囲を切り裂く\\n\r",
+      "zh": "\t战技：鲜血斩击\\n\\n鲜血君王分享的力量，血盟战技之一。\\n压低身形，将自身的血液布满剑身，\\n使出大范围撕裂敌人的血刃。\r"
+    }
+  },
+  "205": {
+    "ArtsName": {
+      "en": "\tLifesteal Fist\r",
+      "jp": "\t命奪拳\r",
+      "zh": "\t夺命拳\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Lifesteal Fist\\n\\nSkill that demonstrates mastery of the art of controlling vital energies.\\nA slow, controlled punch with an energy-infused fist that renders foes unconscious and steals their HP. Only effective against foes of human build.\r",
+      "jp": "\t戦技「命奪拳」\\n\\n気を極めた達人の戦技。人の類にしか効果がない\\nゆっくりと気を纏った拳を突き出し\\n触れた者を昏倒させ、ＨＰを奪う\\n\r",
+      "zh": "\t战技：夺命拳\\n\\n精通气的专家使用的战技。\\n只对有着人类之身的敌人有效。\\n将气缓慢缠绕拳头之后再出拳，\\n能让碰触的人昏倒，夺取血量。\r"
+    }
+  },
+  "207": {
+    "ArtsName": {
+      "en": "\tEruption\r",
+      "jp": "\t溶岩噴火\r",
+      "zh": "\t熔岩火浆\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Eruption\\n\\nSkill of the knights who serve at Volcano Manor.\\nSlam armament into the ground, spawning roiling lava which spouts up upon release.\r",
+      "jp": "\t戦技「溶岩噴火」\\n\\n火山館に仕えた騎士たちの戦技\\n武器を叩きつけた地面に、滾る溶岩を生じ\\n引き抜きと共にそれを噴き上げる\\n\r",
+      "zh": "\t战技：熔岩火浆\\n\\n侍奉火山官邸的骑士们使用的战技。\\n将武器敲向地面，形成滚烫熔岩，\\n在拔起武器的同时，熔岩随之喷出。\r"
+    }
+  },
+  "208": {
+    "ArtsName": {
+      "en": "\tPrayerful Strike\r",
+      "jp": "\t祈りの一撃\r",
+      "zh": "\t祈祷一击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Prayerful Strike\\n\\nRaise armament aloft in prayer, then slam it into the ground.\\nThis inspired blow restores HP to the self and nearby allies if it successfully hits.\r",
+      "jp": "\t戦技「祈りの一撃」\\n\\n祈りと共に武器を掲げ、地面に叩き付ける戦技\\nその真摯な一撃が敵に命中すれば\\n周囲の味方を含めて、ＨＰを回復する\\n\r",
+      "zh": "\t战技：祈祷一击\\n\\n伴随祈祷高举武器，再敲向地面的战技。\\n当那一记诚挚的攻击命中敌人，\\n能恢复包含周围我方人物的血量。\r"
+    }
+  },
+  "209": {
+    "ArtsName": {
+      "en": "\tGravitas\r",
+      "jp": "\tグラビタス\r",
+      "zh": "\t重力\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Gravitas\\n\\nSkill originating from the Alabaster Lords, who had skin of stone.\\nThrust the armament into the ground to create a gravity well.\\nIn addition to dealing damage, this attack pulls enemies in.\r",
+      "jp": "\t戦技「グラビタス」\\n\\n石の肌を持つ白王に由来する戦技\\n武器を地面に刺し、重力波を発生させ\\nダメージを与えると共に、敵を引き寄せる\\n\r",
+      "zh": "\t战技：重力\\n\\n源自拥有石质皮肤的白王的战技。\\n将武器刺入地面，产生重力波，\\n能给予敌人伤害，同时将对方拉近自己。\r"
+    }
+  },
+  "210": {
+    "ArtsName": {
+      "en": "\tStorm Blade\r",
+      "jp": "\t嵐の刃\r",
+      "zh": "\t风暴刃\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Storm Blade\\n\\nLost skill of Stormveil.\\nSurround armament with shearing storm winds that can be fired forward.\\nCan be fired in rapid succession.\r",
+      "jp": "\t戦技「嵐の刃」\\n\\nストームヴィルの失われた戦技\\n武器に嵐の刃を纏い、それを前方に放つ\\n連続で放つことができる\\n\r",
+      "zh": "\t战技：风暴刃\\n\\n史东薇尔的失传战技。\\n将武器缠绕风暴刃，朝前方释放风暴。\\n可以连续施放。\r"
+    }
+  },
+  "212": {
+    "ArtsName": {
+      "en": "\tEarthshaker\r",
+      "jp": "\t地揺らし\r",
+      "zh": "\t撼地\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Earthshaker\\n\\nThrust armament into the ground, then gather strength to unleash an earth-shaking shockwave.\\nFollow up with a strong attack to swing the armament in a sweeping strike.\r",
+      "jp": "\t戦技「地揺らし」\\n\\n武器を地面に突き立てた後、力を込め\\n衝撃波と共に、大地を激しく揺らす戦技\\n強攻撃で、回転薙ぎ払いに繋げられる\\n\r",
+      "zh": "\t战技：撼地\\n\\n将武器刺入地面后，再向下使力\\n产生冲击波，引发剧烈摇晃的战技。\\n发动后接着使出重攻击，\\n能回旋横扫攻击。\r"
+    }
+  },
+  "213": {
+    "ArtsName": {
+      "en": "\tGolden Land\r",
+      "jp": "\t黄金の地\r",
+      "zh": "\t黄金大地\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Golden Land\\n\\nThrust armament into the ground, then gather strength to unleash a blast of sacred energy that coalesces into golden darts. Follow up with a strong attack to swing the armament in a sweeping strike.\r",
+      "jp": "\t戦技「黄金の地」\\n\\n武器を地面に突き立てた後、力を込め\\n聖なる爆発と共に、黄金のつぶてを生じる\\n強攻撃で、回転薙ぎ払いに繋げられる\\n\r",
+      "zh": "\t战技：黄金大地\\n\\n将武器刺入地面后，再向下使力\\n引发神圣爆炸，形成黄金石砾的战技。\\n发动后接着使出重攻击，\\n能回旋横扫攻击。\r"
+    }
+  },
+  "214": {
+    "ArtsName": {
+      "en": "\tFlaming Strike\r",
+      "jp": "\t炎撃\r",
+      "zh": "\t炎击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Flaming Strike\\n\\nSkill that emits flame in a wide frontward arc.\\nFollow up with a strong attack to perform a lunging, sweeping strike.\\nThis will also coat the armament in fire.\r",
+      "jp": "\t戦技「炎撃」\\n\\n前方広範囲に炎を放つ戦技\\n強攻撃で、踏み込む薙ぎ払いに繋げられる\\nまたその時に、武器は炎を纏う\\n\r",
+      "zh": "\t战技：炎击\\n\\n朝前方大范围释放火焰的战技。\\n发动后接着使出重攻击，\\n能向前跨出、横扫攻击，并让武器缠绕火焰。\r"
+    }
+  },
+  "216": {
+    "ArtsName": { "en": "\tThunderbolt\r", "jp": "\t落雷\r", "zh": "\t落雷\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Thunderbolt\\n\\nSkill used by the capital's ancient dragon cult.\\nRaise armament aloft to call down a bolt of lightning.\\nCan be fired in rapid succession.\r",
+      "jp": "\t戦技「落雷」\\n\\n王都古竜信仰の戦技のひとつ\\n突き上げる武器に雷を宿し、落雷を呼ぶ\\n連続で放つことができる\\n\r",
+      "zh": "\t战技：落雷\\n\\n王城古龙信仰的战技之一。\\n武器指向天之后会蕴藏雷电，召唤落雷。\\n可以连续施放。\r"
+    }
+  },
+  "217": {
+    "ArtsName": {
+      "en": "\tLightning Slash\r",
+      "jp": "\t雷撃斬\r",
+      "zh": "\t雷击斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Lightning Slash\\n\\nCall down a bolt of lightning into armament, then swing it down to create an explosive shock.\\nThe armament retains the lightning enchantment for a while.\r",
+      "jp": "\t戦技「雷撃斬」\\n\\n武器に雷を呼び、斬り下ろすことで\\n凄まじい雷撃を発生させる戦技\\n武器の雷は、しばらく継続する\\n\r",
+      "zh": "\t战技：雷击斩\\n\\n让雷电打在武器上，再向下挥舞，\\n形成强力雷击的战技。\\n缠绕武器上的雷电会暂时延续。\r"
+    }
+  },
+  "218": {
+    "ArtsName": {
+      "en": "\tCarian Grandeur\r",
+      "jp": "\tグレート・カーリア\r",
+      "zh": "\t伟哉卡利亚\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Carian Grandeur\\n\\nCarian royal prestige embodied in a skill.\\nTransform blade into a magical greatsword and swing it down.\\nCan be charged to increase its power by up to two levels.\r",
+      "jp": "\t戦技「グレート・カーリア」\\n\\nカーリア王家の象徴とされる戦技\\n剣身を魔力の大剣と化し、振り下ろす\\nタメ使用で、二段階に強化される\\n\r",
+      "zh": "\t战技：伟哉卡利亚\\n\\n喻为卡利亚王室象征的战技。\\n将剑身化为魔力大剑，再向下挥舞。\\n借由蓄力发动，能提升两个阶段。\r"
+    }
+  },
+  "219": {
+    "ArtsName": {
+      "en": "\tCarian Greatsword\r",
+      "jp": "\tカーリアの大剣\r",
+      "zh": "\t卡利亚大剑\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Carian Greatsword\\n\\nCarian royal prestige embodied in a skill.\\nTransform blade into a magical greatsword and swing it down.\\nCan be charged to increase its power.\r",
+      "jp": "\t戦技「カーリアの大剣」\\n\\nカーリア王家の象徴とされる戦技\\n剣身を魔力の大剣と化し、振り下ろす\\nタメ使用で強化される\\n\r",
+      "zh": "\t战技：卡利亚大剑\\n\\n喻为卡利亚王室象征的战技。\\n将剑身化为魔力大剑，再向下挥舞。\\n借由蓄力发动，能提升威力。\r"
+    }
+  },
+  "220": {
+    "ArtsName": {
+      "en": "\tVacuum Slice\r",
+      "jp": "\t真空斬り\r",
+      "zh": "\t真空斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Vacuum Slice\\n\\nLost skill of ancient heroes.\\nHold the armament aloft to surround it with a shearing vacuum, then launch it forwards as a blade-like projectile.\r",
+      "jp": "\t戦技「真空斬り」\\n\\n古い英雄たちの失われた戦技\\n高く掲げた剣身に、真空を生じさせ\\nそれを刃として前方に放つ\\n\r",
+      "zh": "\t战技：真空斩\\n\\n古英雄们的失传战技。\\n高举剑身形成真空状态，\\n再化为真空刃，朝前方释放。\r"
+    }
+  },
+  "221": {
+    "ArtsName": {
+      "en": "\tBlack Flame Tornado\r",
+      "jp": "\t黒炎の渦\r",
+      "zh": "\t黑焰漩涡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Black Flame Tornado\\n\\nSpin armament overhead and then plunge it into the ground to summon a raging vortex of black flames.\\nHold to create an initial flame tornado while spinning the armament.\r",
+      "jp": "\t戦技「黒炎の渦」\\n\\n武器を回転させ、地面に突き刺し\\n渦巻く黒炎を呼ぶ戦技\\n長押しで、回転時も黒炎の渦が発生する\\n\r",
+      "zh": "\t战技：黑焰漩涡\\n\\n旋转武器再刺向地面，\\n唤出漩涡状黑焰的战技。\\n持续发动的期间，\\n在旋转时也能形成黑焰漩涡。\r"
+    }
+  },
+  "222": {
+    "ArtsName": {
+      "en": "\tSacred Ring of Light\r",
+      "jp": "\t聖なる光輪\r",
+      "zh": "\t神圣光环\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Sacred Ring of Light\\n\\nSkill used by the commanders of the Cleanrot Knights. Gather a sacred ring of light in the armament, then fire it forwards.\\nCan be fired in rapid succession.\r",
+      "jp": "\t戦技「聖なる光輪」\\n\\n貴腐の騎士、その指揮官が用いた戦技\\n武器に聖なる光輪を生じ、前方に放つ\\nまた、連続で放つことができる\\n\r",
+      "zh": "\t战技：神圣光环\\n\\n尊腐骑士的指挥官使用的战技。\\n让武器形成神圣光环，朝前方释放。\\n可以连续施放。\r"
+    }
+  },
+  "223": {
+    "ArtsName": {
+      "en": "\tFirebreather\r",
+      "jp": "\t火吹き\r",
+      "zh": "\t喷火\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Firebreather\\n\\nBlow into torch flame, spreading flames in a wide frontward arc. The flames on the ground will continue to burn for a short time.\r",
+      "jp": "\t戦技「火吹き」\\n\\n松明の炎に激しく息を吹き付け\\n前方広範囲を焼き払う戦技\\nその炎は、少しの間、地面を燃やし続ける\\n\r",
+      "zh": "\t战技：喷火\\n\\n吐出大口气吹向火把的火焰，\\n让火焰向前大范围燃烧的战技。\\n火焰会暂时在地面燃烧。\r"
+    }
+  },
+  "224": {
+    "ArtsName": {
+      "en": "\tBlood Blade\r",
+      "jp": "\t血の刃\r",
+      "zh": "\t血刃\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Blood Blade\\n\\nWound self to coat the armament with blood, then unleash an airborne blood blade that causes hemorrhaging.\\nCan be fired in rapid succession.\r",
+      "jp": "\t戦技「血の刃」\\n\\n自らを傷付け、武器を血で汚し\\n出血を強いる血の刃を放つ戦技\\n連続で放つことができる\\n\r",
+      "zh": "\t战技：血刃\\n\\n自伤后用血液沾染武器，\\n释放能引发出血的血刃的战技。\\n可以连续施放。\r"
+    }
+  },
+  "225": {
+    "ArtsName": {
+      "en": "\tPhantom Slash\r",
+      "jp": "\t共撃の幻\r",
+      "zh": "\t幻影共击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Phantom Slash\\n\\nSkill inspired by the fond remembrances of the Night's Cavalry. Creates an apparition of the knights' former instructor who guides a joint lunging upward swing. Additional input allows for a follow-up attack.\r",
+      "jp": "\t戦技「共撃の幻」\\n\\n夜の騎兵の、郷愁の戦技\\nかつての師の幻影を生じ、共に突撃し斬り上げる\\n追加入力で追撃に繋げられる\\n\r",
+      "zh": "\t战技：幻影共击\\n\\n黑夜骑兵的恋旧战技。\\n能形成过去老师的幻影，一同突击上砍。\\n再次发动能使出追击。\r"
+    }
+  },
+  "226": {
+    "ArtsName": {
+      "en": "\tSpectral Lance\r",
+      "jp": "\t幻影の槍\r",
+      "zh": "\t幻影枪\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Spectral Lance\\n\\nSkill of the headless Mausoleum Knights.\\nHurl a phantasmic spear at foes.\r",
+      "jp": "\t戦技「幻影の槍」\\n\\n首のない霊廟騎士の戦技\\n幻影の槍を生じ、それを投擲する\\n\r",
+      "zh": "\t战技：幻影枪\\n\\n无头灵庙骑士使用的战技。\\n能形成幻影枪，投掷攻击。\r"
+    }
+  },
+  "227": {
+    "ArtsName": {
+      "en": "\tChilling Mist\r",
+      "jp": "\t冷気の霧\r",
+      "zh": "\t寒气冻雾\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Chilling Mist\\n\\nCoat armament in frost, and then slash, spreading frigid mist forwards.\\nThe armament retains its frost for a while.\r",
+      "jp": "\t戦技「冷気の霧」\\n\\n武器に冷気を纏わせて斬り\\n前方に、その霧を生じる戦技\\n武器の冷気は、しばらく継続する\\n\r",
+      "zh": "\t战技：寒气冻雾\\n\\n让武器缠绕寒气后使出斩击，\\n并在前方形成冻雾的战技。\\n缠绕武器上的寒气会暂时延续。\r"
+    }
+  },
+  "228": {
+    "ArtsName": {
+      "en": "\tPoisonous Mist\r",
+      "jp": "\t毒の霧\r",
+      "zh": "\t毒雾\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Poisonous Mist\\n\\nBathe armament in poison, and then slash, spreading toxic mist forwards.\\nThe armament retains its poison for a while.\r",
+      "jp": "\t戦技「毒の霧」\\n\\n武器に毒を纏わせて斬り\\n前方に、その霧を生じる戦技\\n武器の毒は、しばらく継続する\\n\r",
+      "zh": "\t战技：毒雾\\n\\n让武器缠绕毒之后使出斩击，\\n并在前方形成毒雾的战技，\\n缠绕武器上的毒会暂时延续。\r"
+    }
+  },
+  "300": {
+    "ArtsName": {
+      "en": "\tShield Bash\r",
+      "jp": "\tシールドバッシュ\r",
+      "zh": "\t盾牌冲击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Shield Bash\\n\\nBrace behind shield before using bodyweight to ram foes while maintaining guarding stance.\\nWeaker enemies will be shoved backwards, and can even be staggered.\r",
+      "jp": "\t戦技「シールドバッシュ」\\n\\nしっかりと盾を構え\\nガードしたまま体重を乗せてぶつける戦技\\n非力な敵を押し出し、またよろめかせる\\n\r",
+      "zh": "\t战技：盾牌冲击\\n\\n架稳盾牌、防御的同时，\\n利用全身的重量向前冲撞的战技。\\n对弱小的敌人使出，能让对方失去平衡。\r"
+    }
+  },
+  "301": {
+    "ArtsName": {
+      "en": "\tBarricade Shield\r",
+      "jp": "\t鉄壁の盾\r",
+      "zh": "\t铁壁盾防\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Barricade Shield\\n\\nSkill made famous by Sir Neidhardt.\\nFocus your energy into the shield, temporarily hardening it to deflect greater blows.\r",
+      "jp": "\t戦技「鉄壁の盾」\\n\\n騎士ナイトハルトの名で知られる戦技\\n盾に力を集中させ、一時的に硬度を増し\\nより大きな攻撃を弾けるようにする\\n\r",
+      "zh": "\t战技：铁壁盾防\\n\\n因骑士奈德哈特而闻名的战技。\\n将力量集中至盾牌，暂时强化盾牌的坚硬度，\\n能抵御更为强大的攻击。\r"
+    }
+  },
+  "302": {
+    "ArtsName": { "en": "\tParry\r", "jp": "\tパリィ\r", "zh": "\t格挡\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Parry\\n\\nUse this skill in time with a foe's melee attack to deflect it and break that foe's stance.\\nThis provides an opening to perform a critical hit.\r",
+      "jp": "\t戦技「パリィ」\\n\\n近接攻撃にタイミングを合わせて使用し\\n攻撃を逸らし、敵の体勢を崩す戦技\\n致命の一撃のチャンスとなる\\n\r",
+      "zh": "\t战技：格挡\\n\\n拨开攻击的同时，让敌人失去平衡的战技。\\n需要在敌人近距离攻击时配合使用。\\n失去平衡后，使出“致命一击”的机会随之到来。\r"
+    }
+  },
+  "303": {
+    "ArtsName": {
+      "en": "\tBuckler Parry\r",
+      "jp": "\tバックラーパリィ\r",
+      "zh": "\t小圆盾格挡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Buckler Parry\\n\\nUse this skill in time with a foe's melee attack to deflect it and break that foe's stance.\\nThis is faster than a regular parry.\r",
+      "jp": "\t戦技「バックラーパリィ」\\n\\n近接攻撃にタイミングを合わせて使用し\\n攻撃を逸らし、敵の体勢を崩す戦技\\n通常のパリィよりも、速度に優れる\\n\r",
+      "zh": "\t战技：小圆盾格挡\\n\\n拨开攻击的同时，让敌人失去平衡的战技。\\n需要在敌人近距离攻击时配合使用。\\n发动速度比战技“格挡”还快。\r"
+    }
+  },
+  "304": {
+    "ArtsName": { "en": "\tParry\r", "jp": "\tパリィ\r", "zh": "\t格挡\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Parry\\n\\nUse this skill in time with a foe's melee attack to deflect it and break that foe's stance.\\nThis provides an opening to perform a critical hit.\r",
+      "jp": "\t戦技「パリィ」\\n\\n近接攻撃にタイミングを合わせて使用し\\n攻撃を逸らし、敵の体勢を崩す戦技\\n致命の一撃のチャンスとなる\\n\r",
+      "zh": "\t战技：格挡\\n\\n拨开攻击的同时，让敌人失去平衡的战技。\\n需要在敌人近距离攻击时配合使用。\\n失去平衡后，使出“致命一击”的机会随之到来。\r"
+    }
+  },
+  "305": {
+    "ArtsName": {
+      "en": "\tCarian Retaliation\r",
+      "jp": "\tカーリアの返報\r",
+      "zh": "\t卡利亚式奉还\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Carian Retaliation\\n\\nSwing the shield to dispel incoming sorceries and incantations, transforming the magic into retaliatory glintblades.\\nCan also be used in the same way as a regular parry.\r",
+      "jp": "\t戦技「カーリアの返報」\\n\\n盾を払い、魔術や祈祷を消し去り\\nその力を輝剣として逆展開する戦技\\nまた、通常のパリィとしても機能する\\n\r",
+      "zh": "\t战技：卡利亚式奉还\\n\\n挥动盾牌消除魔法、祷告的效用，\\n再用承受的力量化为浮空辉剑的战技。\\n也能发挥与战技“格挡”相同的功能。\r"
+    }
+  },
+  "306": {
+    "ArtsName": {
+      "en": "\tStorm Wall\r",
+      "jp": "\t嵐の壁\r",
+      "zh": "\t风暴障壁\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Storm Wall\\n\\nSwing the shield to create a wall of storm winds in front of you, deflecting arrows and other such physical projectiles.\\nCan also be used in the same way as a regular parry.\r",
+      "jp": "\t戦技「嵐の壁」\\n\\n盾を払い、前方に嵐の壁を発生させ\\n矢などの飛び道具を逸らせる戦技\\nまた、通常のパリィとしても機能する\\n\r",
+      "zh": "\t战技：风暴障壁\\n\\n挥动盾牌，在自身前方形成风暴障壁，\\n让箭之类的远攻道具偏移的战技。\\n也能发挥与战技“格挡”相同的功能。\r"
+    }
+  },
+  "307": {
+    "ArtsName": {
+      "en": "\tGolden Parry\r",
+      "jp": "\t黄金パリィ\r",
+      "zh": "\t黄金格挡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Golden Parry\\n\\nPerform an Erdtree incantation and swing the shield to deflect enemy attacks and break their stance.\\nEffective even at a slight distance.\r",
+      "jp": "\t戦技「黄金パリィ」\\n\\n黄金樹の祈祷と共に、盾を払い\\n敵の攻撃を逸らし、体勢を崩す戦技\\n少し離れた距離でも有効となる\\n\r",
+      "zh": "\t战技：黄金格挡\\n\\n执行黄金树祷告的同时挥动盾牌，\\n让敌人的攻击偏移，并失去平衡的战技。\\n与敌人有些距离也能产生效用。\r"
+    }
+  },
+  "308": {
+    "ArtsName": {
+      "en": "\tShield Crash\r",
+      "jp": "\t突撃バッシュ\r",
+      "zh": "\t突进冲击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Shield Crash\\n\\nTwo-hand the shield and charge forwards while maintaining guard. Weaker enemies will be shoved backwards and can even be staggered.\\nHold to extend the duration of the charge forwards.\r",
+      "jp": "\t戦技「突撃バッシュ」\\n\\n両手で盾を構え、ガードしたまま突撃する戦技\\n非力な敵を押し出し、またよろめかせる\\n長押しで前進距離を伸ばすことができる\\n\r",
+      "zh": "\t战技：突进冲击\\n\\n用双手共持盾牌，\\n防御的同时，向前突进的战技。\\n对弱小的敌人使出，能让对方失去平衡。\\n持续发动能增加移动距离。\r"
+    }
+  },
+  "309": {
+    "ArtsName": {
+      "en": "\tThops's Barrier\r",
+      "jp": "\tトープスの力場\r",
+      "zh": "\t托普斯的力场\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Thops's Barrier\\n\\nErect a magical forcefield while swinging the shield to deflect sorceries and incantations.\\nCan also be used in the same way as a regular parry.\r",
+      "jp": "\t戦技「トープスの力場」\\n\\n魔力の力場と共に、盾を払い\\n魔術や祈祷を逸らす戦技\\nまた、通常のパリィとしても機能する\\n\r",
+      "zh": "\t战技：托普斯的力场\\n\\n张开魔力力场的同时挥动盾牌，\\n能拨开魔法、祷告的战技。\\n也能发挥与战技“格挡”相同的功能。\r"
+    }
+  },
+  "400": {
+    "ArtsName": {
+      "en": "\tThrough and Through\r",
+      "jp": "\t貫通射撃\r",
+      "zh": "\t贯穿射击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Through and Through\\n\\nPowerful archery skill using a greatbow held in an oblique stance.\\nReady the greatbow, then twist the bowstring to fire a mighty greatarrow that can penetrate through enemies.\r",
+      "jp": "\t戦技「貫通射撃」\\n\\n大弓を半身に構える、剛力の射手の戦技\\n構えながら、大矢を捻り射ることで\\nそれは、敵の体を貫通する\\n\r",
+      "zh": "\t战技：贯穿射击\\n\\n能侧身拉开大弓，强大的射手战技。\\n拉开大弓的同时也扭转弓弦，\\n增加大箭的旋转度，借此贯穿敌人的身体。\r"
+    }
+  },
+  "401": {
+    "ArtsName": {
+      "en": "\tBarrage\r",
+      "jp": "\t連続射撃\r",
+      "zh": "\t连续射击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Barrage\\n\\nArchery skill using a bow held horizontally.\\nReady the bow, then fire off a rapid succession of shots faster than the eye can see.\r",
+      "jp": "\t戦技「連続射撃」\\n\\n水平に弓を構える、射手の戦技\\n構えながら、目にも止まらぬ速さで\\n連続で矢を射ることができる\\n\r",
+      "zh": "\t战技：连续射击\\n\\n能水平拉弓的射手战技。\\n摆出架式后，能以肉眼难以追上的速度，\\n连续射出箭。\r"
+    }
+  },
+  "402": {
+    "ArtsName": {
+      "en": "\tMighty Shot\r",
+      "jp": "\t強射\r",
+      "zh": "\t拉满弓\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Mighty Shot\\n\\nArchery skill performed from an oblique stance.\\nReady the bow, then pull the bowstring to its limit to enhance the power of the shot, penetrating the enemy's guard.\r",
+      "jp": "\t戦技「強射」\\n\\n半身に弓を構える、射手の戦技\\n構えながら、引き絞って射ることで\\nその矢は威力を増し、ガードを貫く\\n\r",
+      "zh": "\t战技：拉满弓\\n\\n能侧身拉弓的射手战技。\\n摆出架式后，用力拉满弓，\\n能提升箭的攻击威力，突破敌人防御。\r"
+    }
+  },
+  "404": {
+    "ArtsName": {
+      "en": "\tEnchanted Shot\r",
+      "jp": "\t宿し撃ち\r",
+      "zh": "\t宿灵射击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Enchanted Shot\\n\\nArchery skill that enlivens the arrow with spiritual essence.\\nThe resulting shot will fly faster than regular shots and change its trajectory to follow the target.\r",
+      "jp": "\t戦技「宿し撃ち」\\n\\n弓を構え、矢に霊を宿して射る戦技\\nその矢は、通常よりも速く飛び\\n目標を追うように、その軌道を変える\\n\r",
+      "zh": "\t战技：宿灵射击\\n\\n摆出架式，让灵魂寄宿在箭之上，\\n再射击的战技。飞行速度比一般的箭更快。\\n仿佛会追踪目标，飞行轨道会随之调整。\r"
+    }
+  },
+  "405": {
+    "ArtsName": {
+      "en": "\tSky Shot\r",
+      "jp": "\t空撃ち\r",
+      "zh": "\t对空射击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Sky Shot\\n\\nArchery skill performed from a low stance.\\nReady the bow, then fire an arrow high up into the air, arcing so as to strike the enemy from above when it comes down.\r",
+      "jp": "\t戦技「空撃ち」\\n\\n低い姿勢で弓を構える、射手の戦技\\n構えながら、空に向かい矢を射る\\nその矢は、敵の頭上に降ってくる\\n\r",
+      "zh": "\t战技：对空射击\\n\\n压低身形拉弓的射手战技。\\n摆出架式后，朝天空射出箭，\\n箭会从敌人上方落下。\r"
+    }
+  },
+  "406": {
+    "ArtsName": {
+      "en": "\tRain of Arrows\r",
+      "jp": "\tアローレイン\r",
+      "zh": "\t箭雨\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Rain of Arrows\\n\\nArchery skill performed from a low stance.\\nReady the bow, then fire a burst of arrows into the sky to shower the enemy with projectiles.\r",
+      "jp": "\t戦技「アローレイン」\\n\\n低い姿勢で弓を構える戦技\\n構えながら、複数の矢を一気に空に射る\\nそれは、雨のごとく敵に降り注ぐ\\n\r",
+      "zh": "\t战技：箭雨\\n\\n压低身形拉弓的战技。\\n摆出架式后，朝天空一口气射出多支箭，\\n箭会如雨一般，从敌人上方倾注而下。\r"
+    }
+  },
+  "407": {
+    "ArtsName": { "en": "", "jp": "\t不可視の矢\r", "zh": "" },
+    "ArtsCaption": {
+      "en": "\tSkill: Invisible Arrow\\n\\nNearly invisible magic arrow that leaves\\nno trail and disappears on impact.\r",
+      "jp": "\t不可視の矢\r",
+      "zh": "\t无形箭\r"
+    }
+  },
+  "501": {
+    "ArtsName": {
+      "en": "\tHoarfrost Stomp\r",
+      "jp": "\t霜踏み\r",
+      "zh": "\t冻霜踏地\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Hoarfrost Stomp\\n\\nStomp hard to spread a trail of freezing mist on the ground.\\nThe mist applies the frost status effect.\r",
+      "jp": "\t戦技「霜踏み」\\n\\n大地を強く踏み、霜の地走りを起こす戦技\\n霜には、冷気の状態異常効果がある\\n\r",
+      "zh": "\t战技：冻霜踏地\\n\\n大力踏向地面，让冻霜随之扩散的战技。\\n冻霜会引发异常状态冻伤。\r"
+    }
+  },
+  "502": {
+    "ArtsName": {
+      "en": "\tStorm Stomp\r",
+      "jp": "\t嵐脚\r",
+      "zh": "\t风暴足\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Storm Stomp\\n\\nOne of the skills that channel the tempests of Stormveil.\\nStomp hard on the ground to kick up a momentary storm.\r",
+      "jp": "\t戦技「嵐脚」\\n\\nストームヴィルの嵐の戦技のひとつ\\n大地を強く踏み、自らの周りに一瞬の嵐を起こす\\n\r",
+      "zh": "\t战技：风暴足\\n\\n史东薇尔的风暴战技之一。\\n能大力踏向地面，在自身周围引发瞬间的风暴。\r"
+    }
+  },
+  "503": {
+    "ArtsName": { "en": "\tKick\r", "jp": "\tキック\r", "zh": "\t踢击\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Kick\\n\\nPush an enemy back with a high kick.\\nEffective against enemies who are guarding, and can break a foe's stance.\\nSometimes a simple tool is the most effective.\r",
+      "jp": "\t戦技「キック」\\n\\n脚を大きく上げ、蹴りつける戦技\\nガードに対し有効で、体勢を崩すことができる\\n単純だが実戦的な戦技\\n\r",
+      "zh": "\t战技：踢击\\n\\n大幅抬起脚向前踢的战技。\\n对正在防御的敌人很有效，能使对方失去平衡。\\n朴实却又实用的战技。\r"
+    }
+  },
+  "504": {
+    "ArtsName": {
+      "en": "\tLightning Ram\r",
+      "jp": "\t雷の羊\r",
+      "zh": "\t雷电羊球\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Lightning Ram\\n\\nSkill inspired by tumbling rams.\\nLet out a bleat, then tumble forwards, clad in lightning.\\nTumbles can be repeated in rapid succession.\r",
+      "jp": "\t戦技「雷の羊」\\n\\n前転する羊を師とする戦技\\n嘶きの後、雷を纏ってごろりと前転する\\n連続で転がることができる\\n\r",
+      "zh": "\t战技：雷电羊球\\n\\n仿效向前滚的羊而出现的战技。\\n发出叫声后，能缠绕雷电向前滚动，\\n可以连续滚动。\r"
+    }
+  },
+  "505": {
+    "ArtsName": {
+      "en": "\tFlame of the Redmanes\r",
+      "jp": "\t赤獅子の炎\r",
+      "zh": "\t红狮子火焰\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Flame of the Redmanes\\n\\nSkill of the Redmanes, who fought alongside General Radahn.\\nProduce a powerful burst of flames in a wide frontward arc.\r",
+      "jp": "\t戦技「赤獅子の炎」\\n\\n将軍ラダーンと共に戦った、赤獅子の軍勢の戦技\\n前方広範囲に、強い炎を放つ\\n\r",
+      "zh": "\t战技：红狮子火焰\\n\\n与拉塔恩将军并肩作战的\\n红狮子军队所使用的战技。\\n能朝前方释放大范围的强烈火焰。\r"
+    }
+  },
+  "506": {
+    "ArtsName": {
+      "en": "\tGround Slam\r",
+      "jp": "\tヒップドロップ\r",
+      "zh": "\t坠落震击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Ground Slam\\n\\nJump up high into the air and crash down on the ground ahead.\\nThe resulting pratfall sends a powerful shockwave in all directions.\r",
+      "jp": "\t戦技「ヒップドロップ」\\n\\nふわりと前方に跳躍し\\nそのまま、重い尻を落としていく戦技\\nその尻撃は、激しい衝撃波を発生させる\\n\r",
+      "zh": "\t战技：坠落震击\\n\\n轻盈向前跳，再顺势用臀部\\n用力向下坠落的战技。\\n此攻击能引发剧烈的冲击波。\r"
+    }
+  },
+  "507": {
+    "ArtsName": {
+      "en": "\tGolden Slam\r",
+      "jp": "\t黄金の尻撃\r",
+      "zh": "\t黄金坠落震击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Golden Slam\\n\\nSkill of the avatars who protect Minor Erdtrees.\\nJump up high into the air and crash down on the ground ahead.\\nThe resulting pratfall sends golden shockwaves in all directions.\r",
+      "jp": "\t戦技「黄金の尻撃」\\n\\n小黄金樹を守る、化身の戦技\\nふわりと前方に跳躍し、重い尻を落とす\\nその尻撃は、黄金の衝撃波を発生させる\\n\r",
+      "zh": "\t战技：黄金坠落震击\\n\\n守护小黄金树的化身使用的战技。\\n能轻盈向前跳，用臀部用力向下坠落，\\n此攻击能引发黄金冲击波。\r"
+    }
+  },
+  "508": {
+    "ArtsName": {
+      "en": "\tWaves of Darkness\r",
+      "jp": "\t暗黒波\r",
+      "zh": "\t黑暗波动\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Waves of Darkness\\n\\nPlunge armament into the ground to release three waves of darkness.\\nFollow up with a strong attack to swing the armament in a sweeping strike.\r",
+      "jp": "\t戦技「暗黒波」\\n\\n武器を地面に突き立て、自らの周りに\\n三度の暗黒波を発生させる戦技\\n強攻撃で、回転薙ぎ払いに繋げられる\\n\r",
+      "zh": "\t战技：黑暗波动\\n\\n将武器刺入地面后，在自身周围\\n产生三道黑暗波动的战技。\\n发动后接着使出重攻击，能回旋横扫攻击。\r"
+    }
+  },
+  "509": {
+    "ArtsName": {
+      "en": "\tHoarah Loux's Earthshaker\r",
+      "jp": "\tホーラ・ルーの地揺らし\r",
+      "zh": "\t荷莱·露的撼地\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Hoarah Loux's Earthshaker\\n\\nSlam both hands onto the ground to violently shake the earth and unleash a shockwave.\\nFollow up with an additional input to slam the ground again.\r",
+      "jp": "\t戦技「ホーラ・ルーの地揺らし」\\n\\n広げた両手で地面を叩き\\n衝撃波と共に、大地を激しく揺らす戦技\\n追加入力で、もう一度地面を叩く\\n\r",
+      "zh": "\t战技：荷莱·露的撼地\\n\\n以张开的双臂敲向地面，\\n产生冲击波，引发剧烈摇晃的战技。\\n再次发动能再一次敲击地面。\r"
+    }
+  },
+  "600": {
+    "ArtsName": {
+      "en": "\tDetermination\r",
+      "jp": "\tデターミネーション\r",
+      "zh": "\t决心\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Determination\\n\\nA knightly skill.\\nHold the flat of the armament to your face and pledge your resolve, powering up your next attack.\r",
+      "jp": "\t戦技「デターミネーション」\\n\\n騎士たちの戦技\\n武器を眼前に掲げ、決意を誓い\\n次の一撃の威力を高める\\n\r",
+      "zh": "\t战技：决心\\n\\n骑士们的战技。\\n将武器移向眼前、指向天空，坚定决心，\\n提升下一记攻击的威力。\r"
+    }
+  },
+  "601": {
+    "ArtsName": {
+      "en": "\tRoyal Knight's Resolve\r",
+      "jp": "\t王騎士の決意\r",
+      "zh": "\t侍王骑士的决心\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Royal Knight's Resolve\\n\\nSkill of the knights who once served the Elden Lord.\\nHold the flat of the armament to your face and pledge your resolve, greatly powering up your next attack.\r",
+      "jp": "\t戦技「王騎士の決意」\\n\\nかつてエルデの王に仕えた、騎士たちの戦技\\n武器を眼前に掲げ、決意を誓い\\n次の一撃の威力を大きく高める\\n\r",
+      "zh": "\t战技：侍王骑士的决心\\n\\n过去侍奉艾尔登之王的骑士们使用的战技。\\n将武器移向眼前、指向天空，坚定决心，\\n大幅提升下一记攻击的威力。\r"
+    }
+  },
+  "602": {
+    "ArtsName": {
+      "en": "\tAssassin's Gambit\r",
+      "jp": "\t暗殺の作法\r",
+      "zh": "\t暗杀办法\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Assassin's Gambit\\n\\nSkill that masks the user's presence at the cost of a self-inflicted wound.\\nGrants near-invisibility and silences footsteps.\r",
+      "jp": "\t戦技「暗殺の作法」\\n\\n自らを傷付け、その存在を消す戦技\\n使用者の姿は視認し難くなり\\nまたその足音も消える\\n\r",
+      "zh": "\t战技：暗杀办法\\n\\n自伤之后，消除自身存在的战技。\\n能让施放者的身影难以辨认，\\n也能消除施放者的脚步声。\r"
+    }
+  },
+  "603": {
+    "ArtsName": {
+      "en": "\tGolden Vow\r",
+      "jp": "\t黄金樹に誓って\r",
+      "zh": "\t黄金树立誓\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Golden Vow\\n\\nSkill passed down from antiquity among the knights of the capital. Raise armament aloft and pledge to honor the Erdtree in battle, granting self and nearby allies increased attack power and defense.\r",
+      "jp": "\t戦技「黄金樹に誓って」\\n\\n王都の騎士たちに、古くから伝わる戦技\\n武器を掲げ、黄金樹に戦いを誓い\\n自らと周囲の味方の、攻撃力と防御力を高める\\n\r",
+      "zh": "\t战技：黄金树立誓\\n\\n王城骑士们自古继承而来的战技。\\n将武器指向天空，发誓为黄金树而战，\\n提升自己与周围我方人物的攻击力与防御力。\r"
+    }
+  },
+  "604": {
+    "ArtsName": {
+      "en": "\tSacred Order\r",
+      "jp": "\t聖律\r",
+      "zh": "\t圣律\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Sacred Order\\n\\nSkill of the Golden Order fundamentalist knights.\\nPerform a salute and grant the armament holy essence.\\nHighly effective against Those Who Live in Death.\r",
+      "jp": "\t戦技「聖律」\\n\\n黄金律原理主義の騎士たちの戦技\\n敬礼と共に、武器に聖性を付与する\\n特に、死に生きる者たちに効果が高い\\n\r",
+      "zh": "\t战技：圣律\\n\\n黄金律法基本主义者的骑士们使用的战技。\\n敬礼的同时，能替武器附加神圣性。\\n对死诞者的伤害尤为巨大。\r"
+    }
+  },
+  "605": {
+    "ArtsName": {
+      "en": "\tShared Order\r",
+      "jp": "\t聖律共有\r",
+      "zh": "\t共享圣律\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Shared Order\\n\\nSkill of the Golden Order fundamentalist knights.\\nGrant the armament and those of nearby allies holy essence.\\nHighly effective against Those Who Live in Death.\r",
+      "jp": "\t戦技「聖律共有」\\n\\n黄金律原理主義の騎士たちの戦技\\n自らと周囲の味方の武器に、聖性を付与する\\n特に、死に生きる者たちに効果が高い\\n\r",
+      "zh": "\t战技：共享圣律\\n\\n黄金律法基本主义者的骑士们使用的战技。\\n能替自身与周围我方人物的武器附加神圣性。\\n对死诞者的伤害尤为巨大。\r"
+    }
+  },
+  "606": {
+    "ArtsName": { "en": "\tSeppuku\r", "jp": "\t切腹\r", "zh": "\t切腹\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Seppuku\\n\\nA forbidden technique used by swordsmen from the Land of Reeds. Plunge the blade into your stomach to stain it with blood. Increases attack power and improves ability to inflict blood loss.\r",
+      "jp": "\t戦技「切腹」\\n\\n葦の地の剣客の、禁じられた奥義\\n自らの腹を深く刺し、刃を血で染め\\n攻撃力と、出血の状態異常効果を高める\\n\r",
+      "zh": "\t战技：切腹\\n\\n芦苇之地的剑客，禁用的奥义。\\n将武器深深刺入自己的腹部，染上鲜血，\\n能提升攻击力、强化异常状态出血的效果。\r"
+    }
+  },
+  "607": {
+    "ArtsName": {
+      "en": "\tCragblade\r",
+      "jp": "\t岩石剣\r",
+      "zh": "\t岩石剑\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Cragblade\\n\\nSkill that manipulates gravity.\\nBury the armament in the ground, pulling rocks from the earth to reinforce it. Increases attack power and makes it easier to break enemy stance.\r",
+      "jp": "\t戦技「岩石剣」\\n\\n重力の技として知られる戦技\\n武器を地面に叩きつけ、岩石を纏わせる\\n攻撃力が高まり、また敵の体勢を崩しやすい\\n\r",
+      "zh": "\t战技：岩石剑\\n\\n以重力招式为人知晓的战技。\\n将武器敲向地面，让岩石攀附其上。\\n能提升攻击力，也容易让敌人失去平衡。\r"
+    }
+  },
+  "650": {
+    "ArtsName": {
+      "en": "\tBarbaric Roar\r",
+      "jp": "\t野蛮な咆哮\r",
+      "zh": "\t野蛮咆哮\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Barbaric Roar\\n\\nLet loose a bestial roar to rally the spirit and increase attack power.\\nWhile active, strong attacks change to savage combo attacks.\r",
+      "jp": "\t戦技「野蛮な咆哮」\\n\\n獣じみた咆哮を上げ\\n自らを鼓舞し、攻撃力を高める戦技\\n効果中、強攻撃が野蛮な連撃となる\\n\r",
+      "zh": "\t战技：野蛮咆哮\\n\\n发出野兽般的咆哮，\\n借此激励自己，提升攻击力的战技。\\n在战技有效期间内，重攻击会变成野蛮连击。\r"
+    }
+  },
+  "651": {
+    "ArtsName": {
+      "en": "\tWar Cry\r",
+      "jp": "\tウォークライ\r",
+      "zh": "\t战吼\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: War Cry\\n\\nGive a war cry to rally the spirit and increase attack power.\\nWhile active, strong attacks change to charging attacks.\r",
+      "jp": "\t戦技「ウォークライ」\\n\\n咆哮により自らを鼓舞し、攻撃力を高める戦技\\n効果中、強攻撃が突進攻撃となる\\n\r",
+      "zh": "\t战技：战吼\\n\\n透过咆哮激励自己，提升攻击力的战技。\\n在战技有效期间内，重攻击会变成突进攻击。\r"
+    }
+  },
+  "652": {
+    "ArtsName": {
+      "en": "\tBeast's Roar\r",
+      "jp": "\t獣の咆哮\r",
+      "zh": "\t野兽咆哮\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Beast's Roar\\n\\nUnleash a beastly roar, rending the air as a forward-travelling projectile.\r",
+      "jp": "\t戦技「獣の咆哮」\\n\\n獣じみた咆哮を上げ、空気を切り裂き\\nそれを弾丸として前方に放つ戦技\\n\r",
+      "zh": "\t战技：野兽咆哮\\n\\n发出野兽般的咆哮，划破空气，\\n将咆哮声化成球体释放的战技。\r"
+    }
+  },
+  "653": {
+    "ArtsName": {
+      "en": "\tTroll's Roar\r",
+      "jp": "\tトロルの咆哮\r",
+      "zh": "\t山妖咆哮\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Troll's Roar\\n\\nLook into the distance and let out an intense roar, generating a powerful shockwave that blows back surrounding foes.\\nFollow up with a strong attack to slam the armament down.\r",
+      "jp": "\t戦技「トロルの咆哮」\\n\\n彼方を見上げて咆哮し\\n周囲を吹き飛ばす、衝撃波を発生させる\\nまた、強攻撃で激しい叩きつけに繋げられる\\n\r",
+      "zh": "\t战技：山妖咆哮\\n\\n望向远方发出咆哮，\\n能弹飞周围人物，产生冲击波。\\n发动后接着使出重攻击，能激烈敲击。\r"
+    }
+  },
+  "654": {
+    "ArtsName": {
+      "en": "\tBraggart's Roar\r",
+      "jp": "\t誇示する咆哮\r",
+      "zh": "\t夸耀咆哮\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Braggart's Roar\\n\\nDeclare your presence with a boastful roar.\\nRaises attack power, defense, and stamina recovery speed.\r",
+      "jp": "\t戦技「誇示する咆哮」\\n\\n自らを誇示するように咆哮し\\n攻撃力、防御力、スタミナ回復速度を高める戦技\\n\r",
+      "zh": "\t战技：夸耀咆哮\\n\\n犹如夸耀自我般发出咆哮，\\n能提升攻击力、防御力、精力恢复速度的战技。\r"
+    }
+  },
+  "700": {
+    "ArtsName": { "en": "\tEndure\r", "jp": "\t我慢\r", "zh": "\t忍耐\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Endure\\n\\nAssume an anchored stance to brace for incoming attacks, briefly boosting poise.\\nDamage taken while using this skill is reduced.\r",
+      "jp": "\t戦技「我慢」\\n\\n覚悟と共に腰を落とし踏ん張り\\n瞬間的に、強靭度を高める戦技\\n我慢中は被ダメージも軽減される\\n\r",
+      "zh": "\t战技：忍耐\\n\\n心中做好准备放低重心，站稳步伐，\\n能瞬间提升强韧度的战技。\\n在战技有效期间内，能减轻受到的损伤。\r"
+    }
+  },
+  "701": {
+    "ArtsName": {
+      "en": "\tVow of the Indomitable\r",
+      "jp": "\t無敵\r",
+      "zh": "\t无敌\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Vow of the Indomitable\\n\\nSkill of the ancient warriors of the Erdtree.\\nHold shield aloft to imbue yourself with golden power, granting momentary invincibility.\r",
+      "jp": "\t戦技「無敵」\\n\\n黄金樹の古い戦士たちの戦技\\n盾を掲げ、黄金の力を身体に纏い\\n瞬間的に無敵になる\\n\r",
+      "zh": "\t战技：无敌\\n\\n黄金树的古老战士们使用的战技。\\n高举盾牌，让黄金力量充满全身，\\n能够瞬间呈现无敌状态。\r"
+    }
+  },
+  "702": {
+    "ArtsName": { "en": "\tHoly Ground\r", "jp": "\t聖域\r", "zh": "\t圣域\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Holy Ground\\n\\nRaise shield to create an Erdtree-consecrated area that continuously restores HP and boosts defense for self and allies inside it.\r",
+      "jp": "\t戦技「聖域」\\n\\n盾を掲げ、黄金樹の聖域を展開する戦技\\nＨＰを持続的に回復し、防御力も高める\\n聖域内の味方にも同様の効果がある\\n\r",
+      "zh": "\t战技：圣域\\n\\n高举盾牌，展开黄金树圣域的战技。\\n能持续恢复血量，提升防御力，\\n圣域内的我方人物也能蒙受相同效果。\r"
+    }
+  },
+  "800": {
+    "ArtsName": {
+      "en": "\tQuickstep\r",
+      "jp": "\tクイックステップ\r",
+      "zh": "\t碎步\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Quickstep\\n\\nSkill prized by the crafty and fleet of foot.\\nPerform a quickstep maneuver that allows for circling around lock-on targets.\r",
+      "jp": "\t戦技「クイックステップ」\\n\\n機敏さと攪乱で戦う者たちの戦技\\n素早くステップ移動する\\nターゲット固定状態では、回り込みとなる\\n\r",
+      "zh": "\t战技：碎步\\n\\n以速度干扰敌人的战斗者们使用的战技。\\n能以轻盈步伐快速移动。\\n在锁定目标的状态下使用，能以目标为中心移动。\r"
+    }
+  },
+  "801": {
+    "ArtsName": {
+      "en": "\tBloodhound's Step\r",
+      "jp": "\t猟犬のステップ\r",
+      "zh": "\t猎犬步法\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Bloodhound's Step\\n\\nSkill that allows the user to become temporarily invisible while dodging at high speed. Moves faster and travels farther than a regular quickstep.\\nThis skill can be used to circle around lock-on targets.\r",
+      "jp": "\t戦技「猟犬のステップ」\\n\\n一瞬に姿を消し、ステップ移動する戦技\\nそれは高速で、また移動距離も長い\\nターゲット固定状態では、回り込みとなる\\n\r",
+      "zh": "\t战技：猎犬步法\\n\\n能瞬间消失身影，以踏步移动的战技。\\n移动速度快，距离也长。\\n在锁定目标的状态下使用，能以目标为中心移动。\r"
+    }
+  },
+  "802": {
+    "ArtsName": {
+      "en": "\tRaptor of the Mists\r",
+      "jp": "\t霧の猛禽\r",
+      "zh": "\t潜雾猛禽\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Raptor of the Mists\\n\\nDuck into a low stance, momentarily vanishing.\\nIf an enemy attack connects, avian wings will allow for a quick escape into the air.\r",
+      "jp": "\t戦技「霧の猛禽」\\n\\n体を沈め、瞬間的に姿を消す戦技\\n攻撃を受けると、猛禽の羽を生じ\\n一瞬に空に飛ぶ\\n\r",
+      "zh": "\t战技：潜雾猛禽\\n\\n压低身形，瞬间消失身影的战技。\\n受到攻击时能长出猛禽翅膀，\\n瞬间一跃而起。\r"
+    }
+  },
+  "850": {
+    "ArtsName": {
+      "en": "\tWhite Shadow's Lure\r",
+      "jp": "\t白い影の誘い\r",
+      "zh": "\t白影诱惑\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: White Shadow's Lure\\n\\nHold armament in a brief, silent prayer to create a white shadow.\\nThe apparition lures in foes of human build who are not in combat, drawing their aggression. Effective on demi-humans even if they are already in a combat state.\r",
+      "jp": "\t戦技「白い影の誘い」\\n\\n武器に念じ、前方に白い影を生じ\\n戦闘状態にない人の類を引き寄せ、攻撃を誘う戦技\\n亜人に対しては、戦闘状態であっても効果がある\\n\r",
+      "zh": "\t战技：白影诱惑\\n\\n对着武器发愿，在自身前方形成白色影子。\\n能吸引非战斗状态，为人类之身的敌人注意，\\n引诱对方攻击的战技。但对上亚人时，\\n即使对方在战斗状态，也具有诱敌效用。\r"
+    }
+  },
+  "1000": {
+    "ArtsName": {
+      "en": "\tSurge of Faith\r",
+      "jp": "\t噴き上がる信仰\r",
+      "zh": "\t信仰喷发\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Surge of Faith\\n\\nSet the flames of Birac's faith ablaze in the cranial vessel, then raise it aloft to rain down fireballs in all directions.\\nRepeated inputs will continue to raise the armament aloft, continuing the attack.\r",
+      "jp": "\t専用戦技「噴き上がる信仰」\\n\\n尊顔の盃に、ビラクの信仰の炎を燃やし\\nそれを突き上げ、大量の火を噴き上げる戦技\\n追加入力で、何度でも突き上げる\\n\r",
+      "zh": "\t专用战技：信仰喷发\\n\\n在尊容火杯里，燃烧彼拉克的信仰火焰，\\n再将火杯向上突刺，喷发大量火焰的战技。\\n再次发动能多次向上突刺。\r"
+    }
+  },
+  "1001": {
+    "ArtsName": {
+      "en": "\tFlame Spit\r",
+      "jp": "\t炎の唾\r",
+      "zh": "\t火焰唾球\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Flame Spit\\n\\nReady the shield, then launch a fireball from the barrel.\\nThe fireball explodes on impact.\r",
+      "jp": "\t専用戦技「炎の唾」\\n\\n盾を構え、砲身から火の玉を放つ戦技\\n火の玉は、着弾により爆発する\\n\r",
+      "zh": "\t专用战技：火焰唾球\\n\\n举起盾牌，从炮管发射火焰球的战技。\\n火焰球会在命中后爆炸。\r"
+    }
+  },
+  "1002": {
+    "ArtsName": {
+      "en": "\tTongues of Fire\r",
+      "jp": "\t火炎舌\r",
+      "zh": "\t火焰舌柱\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Tongues of Fire\\n\\nReady the shield, then spray violent jets of fire from the tongues protruding from its maw.\\nHold to continue spraying fire. This skill can be used while walking.\r",
+      "jp": "\t専用戦技「火炎舌」\\n\\n盾を構え、舌先から炎を激しく噴射する戦技\\n長押ししている間、炎を噴射し続け\\nまた、そのまま歩くこともできる\\n\r",
+      "zh": "\t专用战技：火焰舌柱\\n\\n举起盾牌，从舌尖喷出猛烈火焰的战技。\\n持续发动的期间能持续喷出火焰，\\n也能在发动战技时走动。\r"
+    }
+  },
+  "1003": {
+    "ArtsName": {
+      "en": "\tOracular Bubble\r",
+      "jp": "\t神託のシャボン\r",
+      "zh": "\t神谕泡泡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Oracular Bubble\\n\\nBlow on the horn to release a magic bubble.\\nThe bubble floats gently through the air towards its target.\r",
+      "jp": "\t専用戦技「神託のシャボン」\\n\\n笛を吹き、魔力のシャボンを放つ戦技\\nシャボンはゆっくりと飛びながら\\n目標にふわふわと向かっていく\\n\r",
+      "zh": "\t专用战技：神谕泡泡\\n\\n吹奏笛子，释放魔力泡泡的战技。\\n泡泡会缓缓飘动，并朝目标飞去。\r"
+    }
+  },
+  "1004": {
+    "ArtsName": {
+      "en": "\tBubble Shower\r",
+      "jp": "\t降り注ぐシャボン\r",
+      "zh": "\t倾注泡泡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Bubble Shower\\n\\nBlow on the horn to release a spume of magic bubbles.\\nThe bubbles float gently before raining down on the target.\r",
+      "jp": "\t専用戦技「降り注ぐシャボン」\\n\\n笛を吹き、魔力のシャボンを大量に放つ戦技\\nシャボンはゆっくりと飛びながら、降り注ぐ\\n\r",
+      "zh": "\t专用战技：倾注泡泡\\n\\n吹奏笛子，释放大量魔力泡泡的战技。\\n泡泡会缓缓飘动，并朝目标倾注而下。\r"
+    }
+  },
+  "1005": {
+    "ArtsName": {
+      "en": "\tGreat Oracular Bubble\r",
+      "jp": "\t神託の大シャボン\r",
+      "zh": "\t神谕大泡泡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Great Oracular Bubble\\n\\nBlow on the horn to release a massive magic bubble.\\nThe bubble floats gently through the air towards its target.\r",
+      "jp": "\t専用戦技「神託の大シャボン」\\n\\n笛を吹き、魔力の大シャボンを放つ戦技\\n大シャボンはゆっくりと飛びながら\\n目標にふわふわと向かっていく\\n\r",
+      "zh": "\t专用战技：神谕大泡泡\\n\\n吹奏笛子，释放魔力大泡泡的战技。\\n大泡泡会缓缓飘动，并朝目标飞去。\r"
+    }
+  },
+  "1006": {
+    "ArtsName": {
+      "en": "\tSea of Magma\r",
+      "jp": "\t溶岩の海\r",
+      "zh": "\t熔岩海\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Sea of Magma\\n\\nSwing a molten whip overhead to temporarily cover the surrounding area in a sea of magma.\\nHold to continue swinging the lava whip.\r",
+      "jp": "\t専用戦技「溶岩の海」\\n\\n溶岩の鞭を大きく振り回し\\n一時、自分の周りに溶岩の海を生じる戦技\\n長押ししている間、鞭を振り回し続ける\\n\r",
+      "zh": "\t专用战技：熔岩海\\n\\n能大幅挥动熔岩鞭子，\\n暂时在自身周围形成熔岩海的战技。\\n持续发动的时间，能持续挥舞熔岩鞭子。\r"
+    }
+  },
+  "1007": {
+    "ArtsName": {
+      "en": "\tViper Bite\r",
+      "jp": "\t毒蛇の噛みつき\r",
+      "zh": "\t毒蛇咬杀\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Viper Bite\\n\\nGive the shield a quick shake to temporarily bring the bronze viper to life, inciting it to lash out and bite foes.\r",
+      "jp": "\t専用戦技「毒蛇の噛みつき」\\n\\n盾をゆっくりと揺らし\\n青銅の毒蛇に一時の生命を与え\\n首を伸ばし、噛みつかせる戦技\\n\r",
+      "zh": "\t专用战技：毒蛇咬杀\\n\\n轻轻摇动盾牌，\\n暂时赋予青铜制毒蛇生命，\\n让毒蛇伸长身体，咬向敌人的战技。\r"
+    }
+  },
+  "1008": {
+    "ArtsName": {
+      "en": "\tMoonlight Greatsword\r",
+      "jp": "\t月光剣\r",
+      "zh": "\t月光剑\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Moonlight Greatsword\\n\\nRaise the sword aloft, bathing it in the light of the dark moon.\\nTemporarily increases magic attack power and imbues blade with frost.\\nCharged attacks release blasts of moonlight.\r",
+      "jp": "\t専用戦技「月光剣」\\n\\n剣を掲げ、暗月の月光を輝かせる戦技\\n魔力攻撃力を一時的に高め、剣身に冷気を纏う\\nまた、タメ攻撃で月光の光波を放つ\\n\r",
+      "zh": "\t专用战技：月光剑\\n\\n高举剑，让整把剑发出暗月月光的战技。\\n能暂时提升魔力属性攻击力，\\n让剑身缠绕冻伤寒气。\\n蓄力攻击能释放月光波。\r"
+    }
+  },
+  "1009": {
+    "ArtsName": {
+      "en": "\tSiluria's Woe\r",
+      "jp": "\tシルリアの渦\r",
+      "zh": "\t志留亚的漩涡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Siluria's Woe\\n\\nThrust the weapon in a spiraling motion, surrounding it in a vortex of wind.\\nCharged attacks have the power to blow away enemies and can fire the tornado forwards.\r",
+      "jp": "\t専用戦技「シルリアの渦」\\n\\n樹槍を回転させ、風の渦を纏って突き出す戦技\\nタメ使用で、敵を吹き飛ばす威力を持ち\\nまた、風の渦を前方に放つことができる\\n\r",
+      "zh": "\t专用战技：志留亚的漩涡\\n\\n旋转树矛、缠绕风流漩涡，再使出突刺的战技。\\n借由蓄力发动，会变得具有弹飞敌人的威力，\\n也能朝前方释放风流漩涡。\r"
+    }
+  },
+  "1010": {
+    "ArtsName": {
+      "en": "\tRallying Standard\r",
+      "jp": "\t軍旗の下に\r",
+      "zh": "\t归于麾下\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Rallying Standard\\n\\nHoist the war banner aloft and give a rallying command.\\nRaises attack power and defense for self and nearby allies.\r",
+      "jp": "\t専用戦技「軍旗の下に」\\n\\n軍旗を掲げ、勇ましく号令をかける戦技\\n自らと周囲の味方の、攻撃力と防御力を高める\\n\r",
+      "zh": "\t专用战技：归于麾下\\n\\n高举军旗，以勇猛姿态发出号令的战技。\\n能提升自身与周围我方人物的攻击力、防御力。\r"
+    }
+  },
+  "1011": {
+    "ArtsName": {
+      "en": "\tBear Witness!\r",
+      "jp": "\tご照覧あれい！\r",
+      "zh": "\t敬请见证！\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Bear Witness!\\n\\nGrant the small dragon a fleeting glimpse of life and thrust it skyward, spewing flames over a wide frontward area.\r",
+      "jp": "\t専用戦技「ご照覧あれい！」\\n\\n小さな竜に、一時の生命を与え\\nそれを天に突き上げることで\\n竜の炎を、前方広範囲に降らせる戦技\\n\r",
+      "zh": "\t专用战技：敬请见证！\\n\\n暂时赋予小型龙生命，高举指向天空，\\n朝前方大范围落下龙焰的战技。\r"
+    }
+  },
+  "1012": {
+    "ArtsName": {
+      "en": "\tEochaid's Dancing Blade\r",
+      "jp": "\tエオヒドの剣舞\r",
+      "zh": "\t欧赫剑舞\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Eochaid's Dancing Blade\\n\\nInfuse the sword with energy, then fling it forwards in a corkscrew attack. The sword continuously deals damage while violently spinning.\\nCharge the attack to increase reach and duration of the spin.\r",
+      "jp": "\t専用戦技「エオヒドの剣舞」\\n\\n剣に気を宿し、捻りを加え前方に放つ戦技\\nその剣は激しく回転し、連続でダメージを与える\\nタメ使用で飛距離を増し、回転の持続時間も増す\\n\r",
+      "zh": "\t专用战技：欧赫剑舞\\n\\n把气灌入剑中，旋转之后朝前方释放的战技。\\n整把剑会剧烈旋转，给予连续伤害。\\n借由蓄力发动，能提升飞翔距离与旋转时间。\r"
+    }
+  },
+  "1013": {
+    "ArtsName": {
+      "en": "\tSoul Stifler\r",
+      "jp": "\t霊障招き\r",
+      "zh": "\t恶意气息\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Soul Stifler\\n\\nRaise the greathorn's wings to summon a soul-sapping miasma.\\nEnemies in the affected area will temporarily suffer from reduced defense.\r",
+      "jp": "\t専用戦技「霊障招き」\\n\\n大角の翼を掲げ、霊障を招く戦技\\n周囲の敵の防御力を一時的に低下させる\\n\r",
+      "zh": "\t专用战技：恶意气息\\n\\n高举展翼大角，招来恶意气息的战技。\\n能暂时降低周围敌人的防御力。\r"
+    }
+  },
+  "1014": {
+    "ArtsName": {
+      "en": "\tTaker's Flames\r",
+      "jp": "\t略奪の炎\r",
+      "zh": "\t掠夺火焰\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Taker's Flames\\n\\nRaise the sacred sword aloft to set it ablaze with blasphemous flames, then bring it down to fire off a forward blast.\\nThe flames steal HP from those they touch.\r",
+      "jp": "\t専用戦技「略奪の炎」\\n\\n聖剣を掲げ、冒涜の炎を燃やし\\n激しく前方に放つ戦技\\nその炎は、ＨＰを奪う\\n\r",
+      "zh": "\t专用战技：掠夺火焰\\n\\n高举圣剑，燃起亵渎火焰，\\n再朝前方释放烈火的战技。\\n火焰会夺取血量。\r"
+    }
+  },
+  "1015": {
+    "ArtsName": {
+      "en": "\tShriek of Milos\r",
+      "jp": "\tミエロスの絶叫\r",
+      "zh": "\t灭洛斯的狂嚎\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Shriek of Milos\\n\\nLets out a horrific cursed scream that reduces all damage negation and status resistances for nearby foes.\\nWhile active, strong attacks will change to a combo attack.\r",
+      "jp": "\t専用戦技「ミエロスの絶叫」\\n\\n呪われた、おぞましい絶叫を上げ\\n周囲の敵の、すべての属性カット率と\\nすべての状態異常耐性を低下させる戦技\\nまた効果中、強攻撃が連撃となる\\n\r",
+      "zh": "\t专用战技：灭洛斯的狂嚎\\n\\n发出带有诅咒的恐怖狂嚎，\\n让周围的敌人降低所有属性的减伤率、\\n所有异常状态的抵抗力。\\n在战技有效期间内，重攻击会变成连击。\r"
+    }
+  },
+  "1016": {
+    "ArtsName": {
+      "en": "\tReduvia Blood Blade\r",
+      "jp": "\tレドゥビアの血刃\r",
+      "zh": "\t逆刺血刃\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Reduvia Blood Blade\\n\\nSlash with the wicked dagger, transforming its never-drying bloodstains into airborne blades that cause blood loss.\\nCan be fired in rapid succession.\r",
+      "jp": "\t専用戦技「レドゥビアの血刃」\\n\\nぎざ刃の乾かぬ血濡れを\\n出血を強いる刃となし放つ戦技\\n連続で放つことができる\\n\r",
+      "zh": "\t专用战技：逆刺血刃\\n\\n将锯齿状剑刃上的湿漉鲜血，\\n化为引发出血的刀刃，释放而出的战技。\\n可以连续施放。\r"
+    }
+  },
+  "1017": {
+    "ArtsName": {
+      "en": "\tGlintstone Dart\r",
+      "jp": "\t輝石の彗礫\r",
+      "zh": "\t辉石彗砾\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Glintstone Dart\\n\\nSkill that builds from the Glintstone Pebble sorcery.\\nCharge the skill to upgrade it to Glintstone Dart.\\nFollow up with a strong attack to chain this skill into a lunging thrust.\r",
+      "jp": "\t専用戦技「輝石の彗礫」\\n\\n「輝石のつぶて」の魔術を用いる戦技\\nタメ使用で、それは「輝石の彗礫」となる\\nまた強攻撃で、大きく踏み込む突きに繋げられる\\n\r",
+      "zh": "\t专用战技：辉石彗砾\\n\\n能施展魔法“辉石魔砾”的战技。\\n借由蓄力发动，能变成“辉石彗砾”。\\n发动后接着使出重攻击，\\n能大幅向前跨出，再突刺攻击，\r"
+    }
+  },
+  "1018": {
+    "ArtsName": {
+      "en": "\tFlowing Form\r",
+      "jp": "\t流体化\r",
+      "zh": "\t流体化\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Flowing Form\\n\\nTemporarily transforms armament into its liquid form.\\nSwing the armament like a whip to perform a sweeping slice over a wide area.\r",
+      "jp": "\t専用戦技「流体化」\\n\\n武器を一時的に流体となす戦技\\n鞭のように振るい、広範囲を斬り払う\\n\r",
+      "zh": "\t专用战技：流体化\\n\\n让武器暂时化为流体的战技。\\n能像软鞭般挥动，大范围横扫敌人。\r"
+    }
+  },
+  "1019": {
+    "ArtsName": {
+      "en": "\tNight-and-Flame Stance\r",
+      "jp": "\t夜と炎の構え\r",
+      "zh": "\t夜与火的架式\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Night-and-Flame Stance\\n\\nHold the sword level and prepare to cast a sorcery.\\nFollow up with a normal attack to cast the Night Comet sorcery, or a strong attack to sweep forward with a burst of flames.\r",
+      "jp": "\t専用戦技「夜と炎の構え」\\n\\n剣を水平に構え、魔術に繋げる戦技\\n通常攻撃で、魔力を夜の彗星として放ち\\n強攻撃で、前方広範囲を炎で薙ぎ払う\\n\r",
+      "zh": "\t专用战技：夜与火的架式\\n\\n举起剑与地面平行，接着施展魔法的战技。\\n轻攻击能将魔力化为“黑夜彗星”释放；\\n重攻击能用火焰大范围横扫前方。\r"
+    }
+  },
+  "1020": {
+    "ArtsName": {
+      "en": "\tWave of Gold\r",
+      "jp": "\t黄金波\r",
+      "zh": "\t黄金波动\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Wave of Gold\\n\\nImbue the sword with bygone golden glory, then fire it at foes.\\nA wide, golden wave fans out forwards, sweeping through all enemies caught in its path.\r",
+      "jp": "\t専用戦技「黄金波」\\n\\n剣身に往時の黄金を宿し、放つ戦技\\n黄金の波は、前方扇状に大きく広がり\\nあらゆる敵を薙ぎ払う\\n\r",
+      "zh": "\t专用战技：黄金波动\\n\\n将剑身寄宿旧时的黄金，接着释放的战技。\\n黄金波动会朝前方扇状大幅扩散，\\n横扫所有敌人。\r"
+    }
+  },
+  "1021": {
+    "ArtsName": {
+      "en": "\tRuinous Ghostflame\r",
+      "jp": "\t滅びの霊炎\r",
+      "zh": "\t毁灭灵火\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Ruinous Ghostflame\\n\\nSwing the sword to bathe its blade in ghostflame.\\nThe ghostflame adds magic damage to attacks, and also has a bitterly cold bite.\r",
+      "jp": "\t専用戦技「滅びの霊炎」\\n\\n剣を振り、その刀身に霊炎を纏わせる戦技\\n霊炎は魔力属性のダメージを与え\\nまた、とても冷たい\\n\r",
+      "zh": "\t专用战技：毁灭灵火\\n\\n挥动剑，让剑身缠绕灵火的战技。\\n灵火能给予魔力属性伤害。\\n此外，灵火非常地冰冷。\r"
+    }
+  },
+  "1022": {
+    "ArtsName": {
+      "en": "\tEstablish Order\r",
+      "jp": "\t黄金律掲揚\r",
+      "zh": "\t高举黄金律法\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Establish Order\\n\\nRaise the armament in a salute, releasing a golden explosion.\\nRepeated inputs send out waves of golden light.\r",
+      "jp": "\t専用戦技「黄金律掲揚」\\n\\n敬礼と共に武器を掲揚し\\n黄金の炸裂を生じる戦技\\n追加入力で、黄金の光波を放つ\\n\r",
+      "zh": "\t专用战技：高举黄金律法\\n\\n敬礼的同时高举武器，\\n形成黄金爆炸的战技。\\n再次发动，能释放黄金光波。\r"
+    }
+  },
+  "1023": {
+    "ArtsName": {
+      "en": "\tMists of Slumber\r",
+      "jp": "\t眠りの霧\r",
+      "zh": "\t催眠烟雾\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Mists of Slumber\\n\\nReleases a faint purple mist that spreads across a wide frontwards area.\\nThis mist inflicts the sleep ailment upon foes.\r",
+      "jp": "\t専用戦技「眠りの霧」\\n\\n前方広範囲に、薄紫の霧を生じる戦技\\nその霧には、睡眠の状態異常効果がある\\n\r",
+      "zh": "\t专用战技：催眠烟雾\\n\\n朝前方形成大范围淡紫色烟雾的战技。\\n淡紫色烟雾具有引发异常状态催眠的效果。\r"
+    }
+  },
+  "1024": {
+    "ArtsName": {
+      "en": "\tSpearcall Ritual\r",
+      "jp": "\t槍呼びの儀\r",
+      "zh": "\t唤矛仪式\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Spearcall Ritual\\n\\nThrust the spear high, bearing prayers into the sky to summon a downpour of spectral spears.\r",
+      "jp": "\t専用戦技「槍呼びの儀」\\n\\n祈りと共に槍を空に突き上げ\\n降り注ぐ、無数の霊槍を呼ぶ戦技\\n\r",
+      "zh": "\t专用战技：唤矛仪式\\n\\n祈祷的同时高举矛，指向天空，\\n召唤倾注而下的无数灵矛的战技。\r"
+    }
+  },
+  "1025": {
+    "ArtsName": {
+      "en": "\tWolf's Assault\r",
+      "jp": "\t狼の襲撃\r",
+      "zh": "\t狼袭\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Wolf's Assault\\n\\nInfuse the greatsword with frost, then perform a forward somersault to plunge it into the ground. Then, pull it out to release a cold blast.\r",
+      "jp": "\t専用戦技「狼の襲撃」\\n\\n剣身に冷気を纏い、回転しながら前方に跳躍し\\nその勢いのまま、大剣を地に突き立てる戦技\\nそれを引き抜く時、冷気の爆発を伴う\\n\r",
+      "zh": "\t专用战技：狼袭\\n\\n剑身缠绕寒气，一边旋身一边向前跳，\\n再顺势将大剑刺入地面的战技。\\n拔起大剑的同时，会引发寒气爆炸。\r"
+    }
+  },
+  "1026": {
+    "ArtsName": {
+      "en": "\tThundercloud Form\r",
+      "jp": "\t雷雲の姿\r",
+      "zh": "\t雷云化身\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Thundercloud Form\\n\\nTemporarily transform into a red thundercloud and fly through the air, then plunge down with a lightning-infused blade.\\nHold to increase the reach of the thundercloud form.\r",
+      "jp": "\t専用戦技「雷雲の姿」\\n\\n自らの姿を一時赤い雷雲と化し\\n空を駆け、雷を纏った剣身で貫く戦技\\n長押しで、空を駆ける距離が伸びる\\n\r",
+      "zh": "\t专用战技：雷云化身\\n\\n自己暂时化为红色雷云，飞上空中，\\n再用缠绕雷电的剑身贯穿敌人的战技。\\n持续发动能增加在空中移动的距离。\r"
+    }
+  },
+  "1027": {
+    "ArtsName": {
+      "en": "\tCursed-Blood Slice\r",
+      "jp": "\t呪血の斬撃\r",
+      "zh": "\t咒血斩击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Cursed-Blood Slice\\n\\nBrace, then charge forward to deliver a downward diagonal slice.\\nThe bloody trail of the blade is followed by a burst of flame.\\nAdditional input allows for a follow-up attack.\r",
+      "jp": "\t専用戦技「呪血の斬撃」\\n\\n構えから一気に踏み込み、斬り下ろす戦技\\nその血の剣閃は、一瞬遅れて炎の爆発を伴う\\nまた、追加入力で追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：咒血斩击\\n\\n摆出架式后一口气向前冲，使出下砍的战技。\\n下砍后的鲜血剑光会伴随较晚引发的火焰爆炸。\\n再次发动能使出追击。\r"
+    }
+  },
+  "1028": {
+    "ArtsName": {
+      "en": "\tWaterfowl Dance\r",
+      "jp": "\t水鳥乱舞\r",
+      "zh": "\t水鸟乱舞\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Waterfowl Dance\\n\\nPerform a series of one-footed leaps in the manner of a waterfowl to unleash a swift yet graceful slashing combo.\\nRepeated inputs allow for up to two follow-up attacks.\r",
+      "jp": "\t専用戦技「水鳥乱舞」\\n\\n水鳥のごとく一本足で跳び\\n超高速の連続斬りに繋げる戦技\\n追加入力で、二度まで追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：水鸟乱舞\\n\\n犹如水鸟般单脚跳跃，\\n再使出超高速连斩的战技。\\n再次发动，能使出最多两次的追击。\r"
+    }
+  },
+  "1029": {
+    "ArtsName": {
+      "en": "\tGold Breaker\r",
+      "jp": "\t黄金砕き\r",
+      "zh": "\t黄金碎击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Gold Breaker\\n\\nLeap up high and, while suspended in midair, imbue the rune shard with light before smashing it down hard onto the ground.\\nThe heroic Radagon's signature attack.\r",
+      "jp": "\t専用戦技「黄金砕き」\\n\\nふわりと跳躍し、ルーンの破片に光を宿し\\nそれを空中から、思い切り叩きつける戦技\\nラダゴンの英雄的殴打\\n\r",
+      "zh": "\t专用战技：黄金碎击\\n\\n轻盈跳起，让卢恩碎片蕴藏光芒，\\n再从空中用力敲下的战技。\\n拉达冈英雄般的敲击。\r"
+    }
+  },
+  "1030": {
+    "ArtsName": {
+      "en": "\tI Command Thee, Kneel!\r",
+      "jp": "\t地に伏せよ！\r",
+      "zh": "\t跪下吧！\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: I Command Thee, Kneel!\\n\\nRepeatedly smash the Axe of Godrick into the ground, unleashing two earth-shaking shockwaves.\\nFollow up with an additional input to produce a third shockwave.\r",
+      "jp": "\t専用戦技「地に伏せよ！」\\n\\n王斧を地面に連続で突き立て\\n衝撃波と共に、大地を二度揺らす戦技\\n追加入力で、もう一度激しく大地を揺らす\\n\r",
+      "zh": "\t专用战技：跪下吧！\\n\\n将王斧连续刺向地面，产生冲击波之余，\\n也撼动地面两次的战技。\\n再次发动，能再一次剧烈撼动地面。\r"
+    }
+  },
+  "1031": {
+    "ArtsName": {
+      "en": "\tRegal Roar\r",
+      "jp": "\t王の雄叫び\r",
+      "zh": "\t王者嘶吼\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Regal Roar\\n\\nLet loose a mighty war cry, raising attack power, while sending out a shockwave that cannot be guarded against by stomping the ground. While active, strong attack becomes a lunging slash.\r",
+      "jp": "\t専用戦技「王の雄叫び」\\n\\n雄叫びを上げ、攻撃力を高める戦技\\n大地を踏む衝撃波はガードすることができず\\n効果中、強攻撃が踏み込み斬りとなる\\n\r",
+      "zh": "\t专用战技：王者嘶吼\\n\\n发出嘶吼，提升攻击力的战技。\\n踏地时的冲击波无法用防御挡下。\\n在战技有效时间内，\\n重攻击会变成前踏斩击。\r"
+    }
+  },
+  "1032": {
+    "ArtsName": {
+      "en": "\tStarcaller Cry\r",
+      "jp": "\t星呼び\r",
+      "zh": "\t唤星\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Starcaller Cry\\n\\nBring the two swords together and roar into the skies, pulling in enemies with a gravitational wave.\\nFollow up with an additional input to slam down with gravity-infused swords.\r",
+      "jp": "\t専用戦技「星呼び」\\n\\n両の剣を合わせた後、空に雄叫び\\n重力波により、敵を引き寄せる戦技\\n追加入力で、重力を纏った剣を叩きつける\\n\r",
+      "zh": "\t专用战技：唤星\\n\\n双剑交错、指向天空的同时发出嘶吼，\\n利用重力波拉近敌人的战技。\\n再次发动，能用缠绕重力的剑使出敲击。\r"
+    }
+  },
+  "1033": {
+    "ArtsName": {
+      "en": "\tWave of Destruction\r",
+      "jp": "\t崩壊波\r",
+      "zh": "\t崩坏波\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Wave of Destruction\\n\\nRaise the sword up high, then strike it against the ground to fire off a wave of gravitational force.\r",
+      "jp": "\t専用戦技「崩壊波」\\n\\n剣を掲げた後、それを叩きつけ\\n地を走る重力波を放つ戦技\\n\r",
+      "zh": "\t专用战技：崩坏波\\n\\n高举剑之后向下敲，\\n释放于地面爬行的重力波的战技。\r"
+    }
+  },
+  "1034": {
+    "ArtsName": {
+      "en": "\tBloodboon Ritual\r",
+      "jp": "\t血授の儀\r",
+      "zh": "\t授血仪式\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Bloodboon Ritual\\n\\nRaise the sacred spear and pierce the body of the Formless Mother. Stab up to three times, creating explosions of blood with each thrust.\\nThis skill will coat the armament with bloodflame for a while.\r",
+      "jp": "\t専用戦技「血授の儀」\\n\\n聖槍を掲げ、姿なき母の身体を刺す戦技\\n三度まで刺し、刺す度に血の爆発を生じる\\n聖槍は血炎を纏い、それはしばらく継続する\\n\r",
+      "zh": "\t专用战技：授血仪式\\n\\n高举圣矛，刺进无形之母体内的战技。\\n最多能刺三次，每次都会引发鲜血爆炸。\\n缠绕圣矛上的血焰会暂时延续。\r"
+    }
+  },
+  "1035": {
+    "ArtsName": {
+      "en": "\tFlowing Form\r",
+      "jp": "\t流体化\r",
+      "zh": "\t流体化\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Flowing Form\\n\\nTemporarily transforms armament into its liquid form. Swing the armament like a whip to strike surroundings before slamming its teardrop-shaped head down.\r",
+      "jp": "\t専用戦技「流体化」\\n\\n武器を一時的に流体となす戦技\\n大きく振り回し、周囲を薙ぎ払った後\\n滴状の打撃部を叩きつける\\n\r",
+      "zh": "\t专用战技：流体化\\n\\n让武器暂时化为流体的战技。\\n能大幅挥动，大范围横扫敌人，\\n再用泪滴状的打击部位向下敲。\r"
+    }
+  },
+  "1036": {
+    "ArtsName": {
+      "en": "\tBlade of Death\r",
+      "jp": "\t死の刃\r",
+      "zh": "\t死亡刀刃\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Blade of Death\\n\\nUnleash the power of the Rune of Death to fire off a blade-like projectile.\\nIn addition to dealing immediate damage, the blade reduces the enemy's maximum HP and continues to wear down HP for a while.\r",
+      "jp": "\t専用戦技「死の刃」\\n\\n死のルーンの力を解放し、刃となして放つ戦技\\nダメージを与えると共に、最大ＨＰを減少させ\\nしばらくの間ＨＰを削り続ける\\n\r",
+      "zh": "\t专用战技：死亡刀刃\\n\\n解放死亡卢恩的力量，\\n将力量化为刀刃后释放的战技。\\n给予敌人伤害的同时，也会减少血量上限，\\n并且在一定时间内，血量会持续减少。\r"
+    }
+  },
+  "1037": {
+    "ArtsName": {
+      "en": "\tBlade of Gold\r",
+      "jp": "\t黄金の刃\r",
+      "zh": "\t黄金刀刃\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Blade of Gold\\n\\nLeap into the air, charging the armament with golden flames that are then shot at the enemy as a single, blade-like projectile.\\nInflicts holy damage.\r",
+      "jp": "\t専用戦技「黄金の刃」\\n\\n宙に跳び、武器に黄金の炎を纏わせ\\nそれを刃となして放つ戦技\\n聖属性のダメージを与える\\n\r",
+      "zh": "\t专用战技：黄金刀刃\\n\\n跳至空中，让武器缠绕黄金火焰，\\n将火焰化为刀刃后释放的战技。\\n能给予圣属性伤害。\r"
+    }
+  },
+  "1038": {
+    "ArtsName": {
+      "en": "\tDestined Death\r",
+      "jp": "\t運命の死\r",
+      "zh": "\t命定之死\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Destined Death\\n\\nSet free the remnants of Destined Death, plunging the greatsword into the ground to summon a myriad of blades. In addition to dealing immediate damage, this attack reduces the enemy's maximum HP and continues to wear down HP for a short time.\r",
+      "jp": "\t専用戦技「運命の死」\\n\\n運命の死、その残滓を解放し\\n大剣を地に突き立て、無数の刃を生じる戦技\\nダメージを与えると共に、最大ＨＰを減少させ\\nごく短時間の間、ＨＰを細かく削り続ける\\n\r",
+      "zh": "\t专用战技：命定之死\\n\\n解放命定之死残留的碎屑，\\n将大剑刺向地面，形成无数刀刃的战技。\\n给予敌人伤害的同时，也会减少血量上限，\\n并且在短暂时间内，血量会些微持续减少。\r"
+    }
+  },
+  "1039": {
+    "ArtsName": {
+      "en": "\tSpinning Wheel\r",
+      "jp": "\t車輪回転\r",
+      "zh": "\t旋转刺轮\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Spinning Wheel\\n\\nStrike the wheel against the ground to set it spinning at top speed. Hold to keep the wheel spinning. Can be used while walking to push the armament into enemies.\r",
+      "jp": "\t専用戦技「車輪回転」\\n\\n地面を擦り、高速で車輪を回転させる戦技\\n長押しで、高速回転状態を維持することができ\\nそのまま歩き、敵に車輪を押し当てることもできる\\n\r",
+      "zh": "\t专用战技：旋转刺轮\\n\\n摩擦地面，让刺轮高速旋转的战技。\\n持续发动能让刺轮维持高速旋转，\\n也能直接移动，将刺轮推向敌人。\r"
+    }
+  },
+  "1040": {
+    "ArtsName": {
+      "en": "\tAlabaster Lords' Pull\r",
+      "jp": "\t白王の引力波\r",
+      "zh": "\t白王引力波\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Alabaster Lord's Pull\\n\\nThrust the armament into the ground to create a gravity well. In addition to dealing damage, this attack pulls enemies in.\\nHas a greater area of effect than Gravitas.\r",
+      "jp": "\t専用戦技「白王の引力波」\\n\\n武器を地面に刺し、重力波を発生させ\\nダメージを与えると共に、敵を引き寄せる戦技\\n「グラビタス」よりも有効範囲が広い\\n\r",
+      "zh": "\t专用战技：白王引力波\\n\\n将武器刺入地面，产生重力波，\\n能给予敌人伤害，同时将对方拉近自己的战技。\\n与战技“重力”相比，有效范围更广。\r"
+    }
+  },
+  "1041": {
+    "ArtsName": {
+      "en": "\tOnyx Lords' Repulsion\r",
+      "jp": "\t黒王の斥力波\r",
+      "zh": "\t黑王推力波\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Onyx Lord's Repulsion\\n\\nThrust the armament into the ground to create a gravity well. In addition to dealing damage, this attack sends enemies flying away.\r",
+      "jp": "\t専用戦技「黒王の斥力波」\\n\\n武器を地面に刺し、重力波を発生させ\\nダメージを与えると共に、敵を弾き飛ばす戦技\\n\r",
+      "zh": "\t专用战技：黑王推力波\\n\\n将武器刺入地面，产生重力波，\\n能给予敌人伤害，同时将对方弹飞的战技。\r"
+    }
+  },
+  "1042": {
+    "ArtsName": {
+      "en": "\tOath of Vengeance\r",
+      "jp": "\t復讐の誓い\r",
+      "zh": "\t复仇誓言\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Oath of Vengeance\\n\\nSwear an oath upon the greatsword to avenge the clan, temporarily raising all attributes for a certain duration. While the oath's effects are active, poise will also be increased.\r",
+      "jp": "\t専用戦技「復讐の誓い」\\n\\n大剣に一族の復讐を誓い\\n一定時間、すべての能力値を高める戦技\\n誓いの瞬間は、強靭度も高まっている\\n\r",
+      "zh": "\t专用战技：复仇誓言\\n\\n对大剑立下为一族复仇的誓言，\\n一定时间内，提升所有能力值的战技。\\n在立誓的那一瞬间，也会提升强韧度。\r"
+    }
+  },
+  "1043": {
+    "ArtsName": {
+      "en": "\tIce Lightning Sword\r",
+      "jp": "\t氷雷剣\r",
+      "zh": "\t冰雷剑\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Ice Lightning Sword\\n\\nCall down a bolt of ice lightning into the blade and bring it down upon a foe.\\nThe ice lightning effect will persist for a while.\r",
+      "jp": "\t専用戦技「氷雷剣」\\n\\n掲げた刀身に氷雷を呼び、斬り下ろす戦技\\n刃に纏う氷雷は、しばらく継続する\\n\r",
+      "zh": "\t专用战技：冰雷剑\\n\\n高举刀身召唤冰雷，再一斩而下的战技。\\n缠绕刀身上的冰雷会暂时延续。\r"
+    }
+  },
+  "1044": {
+    "ArtsName": {
+      "en": "\tRegal Beastclaw\r",
+      "jp": "\t獣王の爪\r",
+      "zh": "\t兽王爪\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Regal Beastclaw\\n\\nSlam the hammer into the ground, rending the land asunder with the armament's five bestial claws.\r",
+      "jp": "\t専用戦技「獣王の爪」\\n\\n大槌を地面に叩きつけ\\n五本の獣爪で、大地を大きく引き裂く戦技\\n\r",
+      "zh": "\t专用战技：兽王爪\\n\\n将大锤敲向地面，\\n让五只兽爪大幅撕裂大地的战技。\r"
+    }
+  },
+  "1045": {
+    "ArtsName": {
+      "en": "\tFlame Dance\r",
+      "jp": "\t炎の舞\r",
+      "zh": "\t火焰舞\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Flame Dance\\n\\nImbue the red braid with the Giants' Flame and lash out in a wide range with a series of agile swings.\r",
+      "jp": "\t専用戦技「炎の舞」\\n\\n赤髪の鞭に巨人の火を燃やし\\n流れるように連続で、広範囲を薙ぎ払う戦技\\n\r",
+      "zh": "\t专用战技：火焰舞\\n\\n在红发鞭点燃巨人火焰，流水一般地\\n使出连续大范围横扫攻击的战技。\r"
+    }
+  },
+  "1046": {
+    "ArtsName": {
+      "en": "\tClaw Flick\r",
+      "jp": "\t爪弾き\r",
+      "zh": "\t弹指\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Claw Flick\\n\\nCause the finger to swell, then flex to build up strength before giving enemies an almighty flick.\r",
+      "jp": "\t専用戦技「爪弾き」\\n\\n指を膨張させると共に、折り曲げて力をため\\n爪先で敵を弾き飛ばす戦技\\n\r",
+      "zh": "\t专用战技：弹指\\n\\n让手指膨胀变大，弯曲蓄满力量，\\n再用指尖弹飞敌人的战技。\r"
+    }
+  },
+  "1047": {
+    "ArtsName": { "en": "\tNebula\r", "jp": "\t星雲\r", "zh": "\t星云\r" },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Nebula\\n\\nImbue the Naturalborn's stars with magic to perform a sweeping strike.\\nThis attack leaves a dark cloud of stars in its wake that lingers briefly before exploding.\r",
+      "jp": "\t専用戦技「星雲」\\n\\n落とし子の星屑に魔力を込め\\n薙ぎ払う攻撃と共に、暗黒の星雲を生じる戦技\\n星雲は、一瞬の後、爆発して消える\\n\r",
+      "zh": "\t专用战技：星云\\n\\n对弃子的星星们灌入魔力，\\n使出横扫攻击的同时，形成黑暗星云的战技。\\n星云会在短时间内爆炸消失。\r"
+    }
+  },
+  "1048": {
+    "ArtsName": {
+      "en": "\tGhostflame Ignition\r",
+      "jp": "\t霊炎発火\r",
+      "zh": "\t点燃灵火\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Ghostflame Ignition\\n\\nThrust out the barbed rod and set its tip alight with ghostflame.\\nFollow up with a normal attack to set the ground ablaze with ghostflame, or a strong attack to trigger a massive explosion.\r",
+      "jp": "\t専用戦技「霊炎発火」\\n\\n突き出した鉤棒の先に、霊炎を生じる戦技\\n通常攻撃で、霊炎を地に這わせて放ち\\n強攻撃で、それを大きく爆発させる\\n\r",
+      "zh": "\t专用战技：点燃灵火\\n\\n从钩状前端产生灵火的战技。\\n发动后接着使出轻攻击，能释放爬行地面的灵火。\\n使出重攻击能引爆灵火，形成大爆炸。\r"
+    }
+  },
+  "1049": {
+    "ArtsName": {
+      "en": "\tAncient Lightning Spear\r",
+      "jp": "\t古雷の槍\r",
+      "zh": "\t古雷电枪\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Ancient Lightning Spear\\n\\nImbue the armament with the ancient dragons' red lightning, then throw it as a spear.\\nCan be charged to increase its power.\r",
+      "jp": "\t専用戦技「古雷の槍」\\n\\n古竜の武器たる赤い雷を武器に纏い\\nそれを、槍となして投擲する戦技\\nタメ使用で強化される\\n\r",
+      "zh": "\t专用战技：古雷电枪\\n\\n将古龙的武器──红色雷电缠绕在武器上，\\n再将雷电化成枪，投掷而出的战技。\\n借由蓄力发动，能提升威力。\r"
+    }
+  },
+  "1050": {
+    "ArtsName": {
+      "en": "\tFrenzyflame Thrust\r",
+      "jp": "\t狂い火突き\r",
+      "zh": "\t癫火突击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Frenzyflame Thrust\\n\\nImbue the spear with the flame of frenzy and leap forwards, plunging it into the ground and setting off a maddening explosion.\\nThe skill inflicts both the enemy and the user with madness.\r",
+      "jp": "\t専用戦技「狂い火突き」\\n\\n狂い火を槍に纏い、前方に跳躍し\\n突き下ろしと共に、激しい爆発を生じる戦技\\nこの戦技は、使用者にも発狂を蓄積する\\n\r",
+      "zh": "\t专用战技：癫火突击\\n\\n将癫火缠绕矛之后向前跳，\\n向下刺出的同时，引发剧烈爆炸的战技。\\n施放者也会累积发狂量表。\r"
+    }
+  },
+  "1051": {
+    "ArtsName": {
+      "en": "\tMiquella's Ring of Light\r",
+      "jp": "\tミケラの光輪\r",
+      "zh": "\t米凯拉的光环\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Miquella's Ring of Light\\n\\nSummon Miquella's shining halo and fire it forwards.\\nCan be fired in rapid succession.\r",
+      "jp": "\t専用戦技「ミケラの光輪」\\n\\nミケラの輝く光輪を生じ、前方に放つ戦技\\n連続で放つことができる\\n\r",
+      "zh": "\t专用战技：米凯拉的光环\\n\\n形成米凯拉的闪耀光环，再向前释放的战技。\\n可以连续施放。\r"
+    }
+  },
+  "1052": {
+    "ArtsName": {
+      "en": "\tGolden Tempering\r",
+      "jp": "\t黄金の剣技\r",
+      "zh": "\t黄金剑技\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Golden Tempering\\n\\nCross the two swords to grant their attacks holy essence.\\nWhile in effect, strong attack performs a dual-wielding combo attack.\r",
+      "jp": "\t専用戦技「黄金の剣技」\\n\\n二つの剣を交差させ、聖属性の攻撃力を付与する戦技\\n効果中、強攻撃が二刀の連撃となる\\n\r",
+      "zh": "\t专用战技：黄金剑技\\n\\n将两把剑交叉，附加圣属性攻击力的战技。\\n在战技有效时间内，\\n重攻击会变成双剑连击。\r"
+    }
+  },
+  "1053": {
+    "ArtsName": {
+      "en": "\tLast Rites\r",
+      "jp": "\t弔いの墓標\r",
+      "zh": "\t哀悼墓碑\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Last Rites\\n\\nRaise the epitaph to grant the effect of Sacred Order to yourself and allies in the vicinity.\\nParticularly effective at laying to rest Those Who Live in Death.\r",
+      "jp": "\t専用戦技「弔いの墓標」\\n\\n墓標を掲げ、周囲の味方を含め\\n聖律の力を付与する戦技\\n死に生きる者たちを良く弔う\\n\r",
+      "zh": "\t专用战技：哀悼墓碑\\n\\n高举墓碑，包含周围我方人物\\n附加圣律力量的战技。\\n对死诞者的哀悼效果特别卓越。\r"
+    }
+  },
+  "1054": {
+    "ArtsName": {
+      "en": "\tUnblockable Blade\r",
+      "jp": "\t防ぎ得ぬ刃\r",
+      "zh": "\t不可挡之刃\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Unblockable Blade\\n\\nImbue the cipher blade with light, extending its length, then strike with a sudden sweeping attack.\\nThis attack cannot be blocked.\r",
+      "jp": "\t専用戦技「防ぎ得ぬ刃」\\n\\n秘文字の刃に光を宿し、その長さを増し\\n一気に広範囲を斬り払う戦技\\nこの攻撃をガードすることはできない\\n\r",
+      "zh": "\t专用战技：不可挡之刃\\n\\n让秘文剑刃蕴藏光芒，\\n增加剑身长度，使出大范围斩击的战技。\\n此攻击无法用防御挡下。\r"
+    }
+  },
+  "1055": {
+    "ArtsName": {
+      "en": "\tEochaid's Dancing Blade\r",
+      "jp": "\tエオヒドの剣舞\r",
+      "zh": "\t欧赫剑舞\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Eochaid's Dancing Blade\\n\\nInfuse the sword with energy, then fling it forwards in a corkscrew attack. The sword continuously deals damage while violently spinning.\\nCharge the attack to increase reach and duration of the spin.\r",
+      "jp": "\t専用戦技「エオヒドの剣舞」\\n\\n剣に気を宿し、捻りを加え前方に放つ戦技\\nその剣は激しく回転し、連続でダメージを与える\\nタメ使用で飛距離を増し、回転の持続時間も増す\\n\r",
+      "zh": "\t专用战技：欧赫剑舞\\n\\n把气灌入剑中，旋转之后朝前方释放的战技。\\n整把剑会剧烈旋转，给予连续损伤。\\n借由蓄力发动，能提升飞翔距离与旋转时间。\r"
+    }
+  },
+  "1167": {
+    "ArtsName": {
+      "en": "\tCorpse Wax Cutter\r",
+      "jp": "\t死蝋斬り\r",
+      "zh": "\t尸蜡斩击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Corpse Wax Cutter\\n\\nLost skill of ancient heroes.\\nLift the sword up high to release the power of corpse wax and launch it forwards as a blade-like projectile.\\n\r",
+      "jp": "\t専用戦技「死蝋斬り」\\n\\n古い英雄たちの失われた戦技\\n高く掲げた剣身に、死蝋の力を開放し\\nそれを刃として前方に放つ\\n\r",
+      "zh": "\t专用战技：尸蜡斩击\\n\\n古英雄们的失传战技。\\n高举剑身，解放尸蜡的力量，\\n将力量化为刀刃，朝前方释放。\r"
+    }
+  },
+  "1168": {
+    "ArtsName": {
+      "en": "\tZamor Ice Storm\r",
+      "jp": "\tザミェルの氷嵐\r",
+      "zh": "\t萨米尔冰风暴\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Zamor Ice Storm\\n\\nPlunge the curved sword into the ground, building power before unleashing a freezing storm that batters the surroundings.\r",
+      "jp": "\t専用戦技「ザミェルの氷嵐」\\n\\n湾刀を地に刺し、力を込め\\n周囲に冷気の嵐を生じる戦技\\n\r",
+      "zh": "\t专用战技：萨米尔冰风暴\\n\\n将弯刀刺入地面，向下使力，\\n在周围形成寒气风暴的战技。\r"
+    }
+  },
+  "1169": {
+    "ArtsName": {
+      "en": "\tRadahn's Rain\r",
+      "jp": "\tラダーンの驟雨\r",
+      "zh": "\t拉塔恩的骤雨\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Radahn's Rain\\n\\nArchery skill performed from a low stance.\\nReady the bow and fire a sudden flurry of arrows up into the sky. The arrows will pour on foes like rain.\r",
+      "jp": "\t専用戦技「ラダーンの驟雨」\\n\\n低い姿勢で弓を構える戦技\\n構えながら、多数の矢を一気に空に射る\\nそれは、驟雨のごとく敵に降り注ぐ\\n\r",
+      "zh": "\t专用战技：拉塔恩的骤雨\\n\\n压低身形拉弓的战技。\\n摆出架式后，朝天空一口气射出大量的箭，\\n箭会如骤雨一般，从敌人上方倾注而下。\r"
+    }
+  },
+  "1170": {
+    "ArtsName": {
+      "en": "\tThe Queen's Black Flame\r",
+      "jp": "\t女王の黒炎\r",
+      "zh": "\t女王黑焰\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: The Queen's Black Flame\\n\\nSet the blade ablaze with the god-slaying black flame before delivering a sweeping slash. Additional input allows for a follow-up attack. The black flames will continue to wear down HP for a while.\r",
+      "jp": "\t専用戦技「女王の黒炎」\\n\\n剣身に神狩りの黒炎を燃やし、斬り払う戦技\\n追加入力で追撃に繋げられる\\nまた黒炎は、しばらくの間ＨＰを削り続ける\\n\r",
+      "zh": "\t专用战技：女王黑焰\\n\\n在剑身点燃狩猎神祇的黑焰，\\n使出斩击的战技。再次发动能使出追击。\\n黑焰会在一定时间内，让血量持续减少。\r"
+    }
+  },
+  "1171": {
+    "ArtsName": {
+      "en": "\tDynast's Finesse\r",
+      "jp": "\t王朝剣技\r",
+      "zh": "\t王朝剑技\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Dynast's Finesse\\n\\nNimbly avoid an attack, securing some distance from foes. Follow up with strong attack to perform a sudden lunge, and press strong attack again to perform a sweeping slice.\r",
+      "jp": "\t専用戦技「王朝剣技」\\n\\n華麗に攻撃を回避し、敵と距離を取る戦技\\n強攻撃で、一気に前進する突きに繋げられ\\n更なる強攻撃は斬り払いとなる\\n\r",
+      "zh": "\t专用战技：王朝剑技\\n\\n优雅地闪避攻击，与敌人拉开距离的战技。\\n发动后接着使出重攻击，\\n能一口气向前推进，突刺攻击。\\n再次使出重攻击，能横扫攻击。\r"
+    }
+  },
+  "1172": {
+    "ArtsName": {
+      "en": "\tMagma Shower\r",
+      "jp": "\t溶岩撒き\r",
+      "zh": "\t泼洒熔岩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Magma Shower\\n\\nSlash at foes in a twirling motion while scattering magma all around.\\nAdditional input allows for a follow-up attack.\r",
+      "jp": "\t専用戦技「溶岩撒き」\\n\\n体を回転させて敵を斬りつけながら\\n周囲に、溶岩を撒き散らす戦技\\n追加入力で追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：泼洒熔岩\\n\\n旋身砍向敌人的同时，\\n朝周围喷洒熔岩的战技。\\n再次发动能使出追击。\r"
+    }
+  },
+  "1173": {
+    "ArtsName": { "en": "\tNebula\r", "jp": "\t星雲\r", "zh": "\t星云\r" },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Nebula\\n\\nImbue the Naturalborn's wings with magic to send forth a dark cloud of stars that lingers briefly before exploding.\r",
+      "jp": "\t専用戦技「星雲」\\n\\n落とし子の薄羽に魔力を込め\\n前方に、暗黒の星雲を生じる戦技\\n星雲は、一瞬の後、爆発して消える\\n\r",
+      "zh": "\t专用战技：星云\\n\\n对弃子的薄翼灌入魔力，\\n在前方形成黑暗星云的战技。\\n星云会在短时间内爆炸消失。\r"
+    }
+  },
+  "1174": {
+    "ArtsName": {
+      "en": "\tDeath Flare\r",
+      "jp": "\t死のフレア\r",
+      "zh": "\t死亡闪焰\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Death Flare\\n\\nSet the lusterless sun ablaze with the Prince of Death's flames, inflicting the death ailment upon foes.\\nFollow up with an additional input to bring down the armament, triggering an explosion.\r",
+      "jp": "\t専用戦技「死のフレア」\\n\\n色を失くした太陽に、死王子の炎を宿す戦技\\nそれは、死の状態異常効果を持つ\\n追加入力で斬り下ろし、炎を爆発させる\\n\r",
+      "zh": "\t专用战技：死亡闪焰\\n\\n让失色的太阳蕴藏死王子火焰的战技。\\n能够引发异常状态死亡。\\n再次发动能使出下砍，引爆火焰。\r"
+    }
+  },
+  "1175": {
+    "ArtsName": {
+      "en": "\tBloodhound's Finesse\r",
+      "jp": "\t猟犬の剣技\r",
+      "zh": "\t猎犬剑技\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Bloodhound's Finesse\\n\\nSlash upwards with the Bloodhound's Fang, using the momentum of the strike to perform a backwards somersault and gain some distance from foes. Follow up with a strong attack to perform the Bloodhound's Step attack.\r",
+      "jp": "\t専用戦技「猟犬の剣技」\\n\\n長牙を大きく斬り上げながら\\n回転して敵との距離を取る戦技\\n強攻撃で、猟犬のステップからの追撃を行う\\n\r",
+      "zh": "\t专用战技：猎犬剑技\\n\\n用长牙大幅上砍的同时，\\n旋身与敌人拉开距离的战技。\\n发动后接着使出重攻击，\\n能踩出“猎犬步法”向前追击。\r"
+    }
+  },
+  "1176": {
+    "ArtsName": {
+      "en": "\tMagma Guillotine\r",
+      "jp": "\t溶岩ギロチン\r",
+      "zh": "\t熔岩断首\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Magma Guillotine\\n\\nGrab the scalesword with both hands, as a wyrm would hold it in its mouth, and leap forwards, smashing it into the ground and triggering a blast of magma. Follow up with an additional input to perform a chopping attack.\r",
+      "jp": "\t専用戦技「溶岩ギロチン」\\n\\n鱗剣を咥えるように持ち、前方に跳躍して\\n叩き付けと共に、溶岩の爆発を生じる戦技\\n追加入力で、引き斬りの追撃を行う\\n\r",
+      "zh": "\t专用战技：熔岩断首\\n\\n横摆鳞剑、剑锋下转往前跳，\\n向下敲击的同时，引爆熔岩的战技。\\n再次发动能使出拉近追击。\r"
+    }
+  },
+  "1177": {
+    "ArtsName": {
+      "en": "\tCorpse Piler\r",
+      "jp": "\t死屍累々\r",
+      "zh": "\t尸横遍野\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Corpse Piler\\n\\nForms a blade of cursed blood for repeated, interweaving successive attacks. Follow up with an additional input for further successive attacks. \r",
+      "jp": "\t専用戦技「死屍累々」\\n\\n呪われた血を刃となし\\n交差する連撃を繰り出す戦技\\n追加入力で、更なる連撃に繋がる\\n\r",
+      "zh": "\t战技：尸横遍野\\n\\n将诅咒之血化为刀刃，\\n形成交叉连击的战技。\\n再次发动能使出更多连击。\r"
+    }
+  },
+  "1178": {
+    "ArtsName": {
+      "en": "\tTransient Moonlight\r",
+      "jp": "\t束の間の月影\r",
+      "zh": "\t隙间月影\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Transient Moonlight\\n\\nSheathe blade, holding it at the hip in a composed stance.\\nFollow up with either a normal or a strong attack to draw the blade at great speed for an instant slash attack. Both attacks fire off a wave of light.\r",
+      "jp": "\t専用戦技「束の間の月影」\\n\\n刀身を鞘に収め、腰だめに静かに構える戦技\\n通常攻撃および強攻撃で、高速の斬撃に繋げ\\nそれぞれ光波を放つ\\n\r",
+      "zh": "\t专用战技：隙间月影\\n\\n收刀入腰间刀鞘，\\n摆出架式后静止不动的战技。\\n发动后接着使出轻攻击或重攻击，\\n能在高速斩击之余，也释放光波。\r"
+    }
+  },
+  "1179": {
+    "ArtsName": {
+      "en": "\tBloodblade Dance\r",
+      "jp": "\t血刃乱舞\r",
+      "zh": "\t血刃乱舞\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Bloodblade Dance\\n\\nLeap at foe to perform a flurry of tornado-like attacks.\\nFollow up with an additional input to perform an attack that ends in an evasive maneuver.\r",
+      "jp": "\t専用戦技「血刃乱舞」\\n\\n跳躍から、旋風のごとき連撃を繰り出す戦技\\n追加入力で、追撃の後に引いて距離を取る\\n\r",
+      "zh": "\t专用战技：血刃乱舞\\n\\n跳起之后，犹如旋风般使出连击的战技。\\n再次发动能在追击之后，与敌人拉开距离。\r"
+    }
+  },
+  "1180": {
+    "ArtsName": { "en": "", "jp": "\t死蝶の舞\r", "zh": "" },
+    "ArtsCaption": {
+      "en": "\tSkill: Death Monarch\\n\\nLaunch summoned death monarchs at enemies,\\nsiphoning HP from those hit and returning\\nit to the caster.\r",
+      "jp": "\t戦技「死蝶の舞」\\n\\n魔力で召喚した死の蝶が敵に襲いかかる戦技\\n被弾した相手の生命力を奪い\\n使用者のHPを回復させる\\n\r",
+      "zh": "\t死蝶之舞\r"
+    }
+  },
+  "1181": {
+    "ArtsName": {
+      "en": "",
+      "jp": "\tミケラの秘剣\r",
+      "zh": "\t米凯拉的奥秘剑\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Miquella's Hidden Blade\\n\\nConjures a blade blessed with Miquella's protection, and performs an attack that is highly damaging against those who live in death.\r",
+      "jp": "\t戦技「ミケラの秘剣」\\n\\nミケラの加護を刀身に宿し\\n死に生きる者たちに対する攻撃力を高める戦技\\n\r",
+      "zh": "\t战技：米凯拉的奥秘剑\\n\\n让米凯拉的庇佑蕴藏剑身之上，\\n对上死诞者能提升攻击力的战技。\r"
+    }
+  },
+  "1182": {
+    "ArtsName": {
+      "en": "\tKnowledge Above All\r",
+      "jp": "\t百智の世界\r",
+      "zh": "\t百智的世界\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Knowledge Above All\\n\\nRaise the scepter to manifest the realm of the All-Knowing. Enemy magic and holy damage negation will be reduced for all within the area, including the caster.\r",
+      "jp": "\t専用戦技「百智の世界」\\n\\n王笏を掲げ、周囲に百智の領域を展開する戦技\\n自らを含む、領域内のすべての者について\\n魔力および聖カット率が低下する\\n\r",
+      "zh": "\t专用战技：百智的世界\\n\\n高举权杖，在周围展开百智领域的战技。\\n包含自身与领域内的人物\\n降低魔力、圣属性减伤率。\r"
+    }
+  },
+  "1183": {
+    "ArtsName": {
+      "en": "\tDevourer of Worlds\r",
+      "jp": "\t世界喰らい\r",
+      "zh": "\t吞世\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Devourer of Worlds\\n\\nCharge the scepter with magic and strike it against the ground to steal the HP of all nearby enemies.\r",
+      "jp": "\t専用戦技「世界喰らい」\\n\\n魔力を込めた王笏を地に据え\\n周囲すべての敵から、ＨＰを奪う戦技\\n\r",
+      "zh": "\t专用战技：吞世\\n\\n将灌入魔力的权杖伫立地面，\\n从周围所有敌人身上夺取血量的战技。\r"
+    }
+  },
+  "1184": {
+    "ArtsName": {
+      "en": "\tFamilial Rancor\r",
+      "jp": "\t家族の怨霊\r",
+      "zh": "\t家族怨魂\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Familial Rancor\\n\\nGently rattle the copper heads to summon vengeful spirits that chase down foes.\\nThe anguish of a spouse and children invites accursed wrath.\r",
+      "jp": "\t専用戦技「家族の怨霊」\\n\\n赤銅の首をゆっくりと揺らしながら\\n追いすがる怨霊たちを呼ぶ戦技\\n妻子の苦悶が、祟り招くのだ\\n\r",
+      "zh": "\t专用战技：家族怨魂\\n\\n一边轻晃红铜制的头颅，\\n一边召唤穷追不舍的怨魂群的战技。\\n妻与子的苦痛是怨魂作祟的源头。\r"
+    }
+  },
+  "1185": {
+    "ArtsName": {
+      "en": "\tRosus's Summons\r",
+      "jp": "\tローゼスの呼び声\r",
+      "zh": "\t罗泽司的唤声\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Rosus's Summons\\n\\nRaise the axe aloft to summon those lost in death.\\nThree skeletons will appear at a distance and attack in tandem before vanishing.\r",
+      "jp": "\t専用戦技「ローゼスの呼び声」\\n\\n斧を掲げ、死に迷う者たちを呼び出す戦技\\n三体が、離れた場所に呼び出され\\n召喚者に合わせて攻撃した後、消えてしまう\\n\r",
+      "zh": "\t专用战技：罗泽司的唤声\\n\\n高举斧，召唤迷途死者们的战技。\\n三位死者会在远方现身，\\n配合施放者一起攻击后，消失踪影。\r"
+    }
+  },
+  "1186": {
+    "ArtsName": {
+      "en": "\tThunderstorm\r",
+      "jp": "\t雷嵐\r",
+      "zh": "\t雷电风暴\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Thunderstorm\\n\\nImbue the armament's wing-blade with lightning and swing it around to create a tempestuous lightning storm. Follow up with an additional input to perform up to two spinning attacks.\\nThe lightning will stay on the blade for a while.\r",
+      "jp": "\t専用戦技「雷嵐」\\n\\n翼の刃に雷を纏い、周囲に雷嵐を発生させる戦技\\n追加入力で、二度まで、回転する追撃に繋がる\\nまた、刃の纏った雷はしばらく継続する\\n\r",
+      "zh": "\t专用战技：雷电风暴\\n\\n让羽翼斧刃缠绕雷电，\\n在周围形成雷电风暴的战技。\\n再次发动，能使出最多两次的旋身追击。\\n缠绕斧刃上的雷电会暂时延续。\r"
+    }
+  },
+  "1187": {
+    "ArtsName": {
+      "en": "\tSacred Phalanx\r",
+      "jp": "\t聖槍の壁\r",
+      "zh": "\t圣矛障壁\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Sacred Phalanx\\n\\nRelease the power of a hidden incantation to erect a palisade of golden spears frontwards.\r",
+      "jp": "\t専用戦技「聖槍の壁」\\n\\n秘められた祈祷の力を解放し\\n前面に、黄金の槍衾を展開する戦技\\n\r",
+      "zh": "\t专用战技：圣矛障壁\\n\\n释放蕴藏的祷告力量，\\n在前方展开黄金矛阵的战技。\r"
+    }
+  },
+  "1188": {
+    "ArtsName": {
+      "en": "\tGreat-Serpent Hunt\r",
+      "jp": "\t大蛇狩り\r",
+      "zh": "\t狩猎大蛇\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Great-Serpent Hunt\\n\\nPerform a powerful forward lunge and follow up with an upward thrust via additional input. When fighting a great serpent, a long blade of light will appear, revealing the armament's true power.\r",
+      "jp": "\t専用戦技「大蛇狩り」\\n\\n全力で突き、追加入力で突き上げる戦技\\n大蛇と対した時、長き光の刃を生じ\\n真の力を発揮する\\n\r",
+      "zh": "\t专用战技：狩猎大蛇\\n\\n能全力突刺，再次发动后\\n会向上突刺攻击的战技。\\n对上大蛇时会产生长形光刃，\\n展现出真正的力量。\r"
+    }
+  },
+  "1189": {
+    "ArtsName": {
+      "en": "\tAngel's Wings\r",
+      "jp": "\t天使の翼\r",
+      "zh": "\t天使羽翼\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Angel's Wings\\n\\nJump and imbue the wing-blade of the armament with light, then deliver a slashing attack on the enemy.\\nThe white wings impede recovery actions using a flask of tears.\r",
+      "jp": "\t専用戦技「天使の翼」\\n\\n跳躍と共に、翼の刃に白い光を宿し\\nそのまま斬りつける戦技\\n白き翼は、聖杯瓶による回復を阻害する\\n\r",
+      "zh": "\t专用战技：天使羽翼\\n\\n跳起的同时，让羽翼镰刃蕴藏白光，\\n再顺势斩下的战技。\\n白色羽翼能妨碍圣杯瓶的恢复效用。\r"
+    }
+  },
+  "1190": {
+    "ArtsName": {
+      "en": "\tStorm Kick\r",
+      "jp": "\t嵐蹴撃\r",
+      "zh": "\t风暴踢击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Storm Kick\\n\\nThrust the prosthetic leg blade into the ground, creating a storm.\\nFollow up with a strong attack to perform a lightning-infused jumping attack.\r",
+      "jp": "\t専用戦技「嵐蹴撃」\\n\\n義足の刃を地に突き立て、嵐を生じる戦技\\n強攻撃で、その刃に雷を纏った\\n跳躍攻撃に繋げられる\\n\r",
+      "zh": "\t专用战技：风暴踢击\\n\\n将义足的刀刃刺入地面，形成风暴的战技。\\n发动后接着使出重攻击，\\n能让刀刃缠绕雷电，再跳跃攻击。\r"
+    }
+  },
+  "1191": {
+    "ArtsName": {
+      "en": "\tUnblockable Blade\r",
+      "jp": "\t防ぎ得ぬ刃\r",
+      "zh": "\t不可挡之刃\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Unblockable Blade\\n\\nImbue the cipher blade with light, then lunge forward with a sudden piercing attack.\\nThis attack cannot be blocked.\r",
+      "jp": "\t専用戦技「防ぎ得ぬ刃」\\n\\n秘文字の刃に光を宿し\\n一気に前進して、刺し貫く戦技\\nこの攻撃をガードすることはできない\\n\r",
+      "zh": "\t专用战技：不可挡之刃\\n\\n让秘文剑刃蕴藏光芒，\\n再一口气推进，贯穿敌人的战技。\\n此攻击无法用防御挡下。\r"
+    }
+  },
+  "1192": {
+    "ArtsName": {
+      "en": "\tSorcery of the Crozier\r",
+      "jp": "\t錫杖の魔術\r",
+      "zh": "\t锡杖魔法\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Sorcery of the Crozier\\n\\nChannel magic into the glintstone to activate an ancient sorcery, producing floating magic projectiles that chase enemies automatically.\r",
+      "jp": "\t専用戦技「錫杖の魔術」\\n\\n輝石に魔力を込め、古い魔術を発動する戦技\\n自律して対象に向かう魔法弾を、周囲に浮遊させる\\n\r",
+      "zh": "\t专用战技：锡杖魔法\\n\\n将辉石灌入魔力，触发古老魔法的战技。\\n周围会出现自动飞向敌人的浮空魔法球。\r"
+    }
+  },
+  "1193": {
+    "ArtsName": {
+      "en": "\tErdtree Slam\r",
+      "jp": "\t黄金樹の尻撃\r",
+      "zh": "\t黄金树坠落震击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Erdtree Slam\\n\\nJump up high into the air and crash down on the ground ahead. The resulting pratfall sends golden shockwaves in all directions.\\nThis is the most powerful of all the Ground Slam skills.\r",
+      "jp": "\t専用戦技「黄金樹の尻撃」\\n\\nふわりと前方に跳躍し、重い尻を落とし\\n黄金の衝撃波を発生させる戦技\\n尻撃の中で、最も威力が高い\\n\r",
+      "zh": "\t专用战技：黄金树坠落震击\\n\\n轻盈向前跳，用臀部用力向下坠落，\\n引发黄金冲击波的战技。\\n在坠落震击的战技中，威力最为强大。\r"
+    }
+  },
+  "1194": {
+    "ArtsName": {
+      "en": "\tGravity Bolt\r",
+      "jp": "\t重力雷\r",
+      "zh": "\t重力雷电\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Gravity Bolt\\n\\nImbue the jaw of the fallingstar beast with gravitational lightning, sending a bolt crashing down a short distance away.\\nCan be fired in rapid succession.\r",
+      "jp": "\t専用戦技「重力雷」\\n\\n星獣の片顎に、重力の雷を宿し\\n離れた場所に、その落雷を呼ぶ戦技\\n連続で放つことができる\\n\r",
+      "zh": "\t专用战技：重力雷电\\n\\n让星兽半颚蕴藏重力雷电，\\n借此在远方召唤落雷的战技。\\n可以连续施放。\r"
+    }
+  },
+  "1195": {
+    "ArtsName": {
+      "en": "\tFires of Slumber\r",
+      "jp": "\t眠りの炎\r",
+      "zh": "\t催眠火焰\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Fires of Slumber\\n\\nBlow into the candlestick's flame, creating a stream of hazy purple fire to cover the ground ahead.\\nThe intoxicating flames inflict the sleep ailment upon foes.\r",
+      "jp": "\t専用戦技「眠りの炎」\\n\\n燭台の火に息を吹き付け\\n薄紫の火で、前方広範囲を焼き払う戦技\\n睡眠の状態異常効果がある\\n\r",
+      "zh": "\t专用战技：催眠火焰\\n\\n吐气吹向烛台的火焰，用淡紫色的火焰\\n朝前方大范围横扫的战技。\\n具有引发异常状态催眠的效果。\r"
+    }
+  },
+  "1196": {
+    "ArtsName": {
+      "en": "\tGolden Retaliation\r",
+      "jp": "\t黄金の返報\r",
+      "zh": "\t黄金式奉还\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Golden Retaliation\\n\\nReady the shield to unleash its protective incantation.\\nThis will dispel sorceries and incantations, retaliating with golden power.\r",
+      "jp": "\t専用戦技「黄金の返報」\\n\\n盾を構え、守りの祈祷を解放する戦技\\n魔術や祈祷を消し去り、黄金の力を返報する\\n\r",
+      "zh": "\t专用战技：黄金式奉还\\n\\n手持盾牌，释放守护祷告的战技。\\n能消除魔法、祷告的效用，以黄金力量奉还。\r"
+    }
+  },
+  "1197": {
+    "ArtsName": {
+      "en": "\tContagious Fury\r",
+      "jp": "\t伝染する怒り\r",
+      "zh": "\t共鸣愤怒\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Contagious Fury\\n\\nIncite the jellyfish's wrath and allow its fury to flow through you.\\nRaises attack power for a certain duration.\r",
+      "jp": "\t専用戦技「伝染する怒り」\\n\\nクラゲの怒りを誘い\\nそれを自らに伝染させる戦技\\n一定時間、攻撃力が高まる\\n\r",
+      "zh": "\t专用战技：共鸣愤怒\\n\\n诱发水母的愤怒，\\n让自己也感同身受的战技。\\n一定时间内，提升攻击力。\r"
+    }
+  },
+  "1198": {
+    "ArtsName": {
+      "en": "\tOrdovis's Vortex\r",
+      "jp": "\tオルドビスの渦\r",
+      "zh": "\t奥陶琵斯的漩涡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Ordovis's Vortex\\n\\nChannel the power of the crucible to spin the entire sword in midair, building momentum before slamming the blade down onto the ground.\\nThis skill can be charged to increase its power.\r",
+      "jp": "\t専用戦技「オルドビスの渦」\\n\\n坩堝の渦の力で、剣全体を激しく回転させ\\nそのまま、大地に叩きつける戦技\\nタメ使用で強化される\\n\r",
+      "zh": "\t专用战技：奥陶琵斯的漩涡\\n\\n用熔炉的漩涡力量激烈旋转整个剑身，\\n再顺势敲向地面的战技。\\n借由蓄力发动，能提升威力。\r"
+    }
+  },
+  "1199": {
+    "ArtsName": {
+      "en": "\tSpinning Weapon\r",
+      "jp": "\t回れ回れ\r",
+      "zh": "\t转啊转\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Spinning Weapon\\n\\nChannel magic into the glintstone to suspend the scepter in mid air and cause it to spin violently.\\nThose it touches will suffer successive magic attacks.\r",
+      "jp": "\t専用戦技「回れ回れ」\\n\\n輝石に魔力を込め、王笏を前方に浮かせ\\nそれを高速に回転させる戦技\\n触れる者に、魔力の連撃をなす\\n\r",
+      "zh": "\t专用战技：转啊转\\n\\n将辉石灌入魔力，让权杖浮在自身前方\\n再高速旋转的战技。\\n触碰到的人物会受到魔力连击。\r"
+    }
+  },
+  "2000": {
+    "ArtsName": {
+      "en": "\tDryleaf Whirlwind\r",
+      "jp": "\t落葉旋風脚\r",
+      "zh": "\t落叶旋风脚\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Dryleaf Whirlwind\\n\\nThis skill represents the pinnacle of Dane's footwork-based martial artistry.\\nRise into the air with a series of spinning kicks before crashing down with one final strike. Imbues kicking attacks with energy, increasing their range.\r",
+      "jp": "\t戦技「落葉旋風脚」\\n\\nダン流蹴術の奥義たる戦技\\n連続する回転蹴りで上昇し、最後に蹴り下ろす\\n蹴撃は気を纏い、攻撃範囲が広い\\n\r",
+      "zh": "\t战技：落叶旋风脚\\n\\n丹恩流踢击术的奥义。\\n连续回旋踢的同时身体上浮，最后下踢的战技。\\n踢击会缠绕气，因此攻击范围较广。\r"
+    }
+  },
+  "2001": {
+    "ArtsName": {
+      "en": "\tAspects of the Crucible: Wings\r",
+      "jp": "\t坩堝の諸相・翼\r",
+      "zh": "\t熔炉百相之羽\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Aspects of the Crucible: Wings\\n\\nThis skill originates from the lifeforms of the Crucible.\\nGrow a golden pair of wings and take to the air before diving down at the foe, weapon first. A spinning attack is performed when wielding a twinblade.\r",
+      "jp": "\t戦技「坩堝の諸相・翼」\\n\\n坩堝の生命に由来する戦技\\n黄金の翼を生じ、飛翔して武器を掲げ突撃する\\n両刃剣では、突撃は回転撃となる\\n\r",
+      "zh": "\t战技：熔炉百相之羽\\n\\n源自熔炉生命的战技。\\n能形成黄金双翼，飞起的同时高举武器突击。\\n装备双头剑时，突击会变成回旋攻击。\r"
+    }
+  },
+  "4000": {
+    "ArtsName": {
+      "en": "\tSpinning Gravity Thrust\r",
+      "jp": "\t重力回転突き\r",
+      "zh": "\t重力旋刺\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Spinning Gravity Thrust\\n\\nA gravity skill honed by the disciples of an Alabaster Lord. Uses gravitational power to hang in the air before rotating the body and charging forward. An additional input allows for a follow-up attack.\r",
+      "jp": "\t戦技「重力回転突き」\\n\\nかつて、白王に学んだ者たちが修めた重力の技\\n重力で浮き上がった後、体ごと回転しながら突撃する\\n追加入力で、もう一度突撃する\\n\r",
+      "zh": "\t战技：重力旋刺\\n\\n过去师从白王的人们学习的重力招式。\\n借由重力浮起，再全身旋转展开突刺。\\n再次发动能再一次突刺。\r"
+    }
+  },
+  "4010": {
+    "ArtsName": { "en": "\tPalm Blast\r", "jp": "\t発勁\r", "zh": "\t发劲\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Palm Blast\\n\\nSkill of the spiritual seekers known as the Dryleaf Sect. Imbues hand with energy before using a palm strike to unleash an explosive blast. The already formidable power and impact can be bolstered by charging the attack.\r",
+      "jp": "\t戦技「発勁」\\n\\n落葉派と呼ばれる求道者たちの戦技\\n気を込めた掌底を打ち出し、それを爆発させる\\n威力、衝撃ともに大きく、タメ使用で強化される\\n\r",
+      "zh": "\t战技：发劲\\n\\n人称“落叶派”的求道者们使用的战技。\\n将气运至掌底，出掌后引发爆炸。\\n攻击威力与冲击力道的表现皆优秀，\\n借由蓄力发动，能提升威力。\r"
+    }
+  },
+  "4020": {
+    "ArtsName": {
+      "en": "\tPiercing Throw\r",
+      "jp": "\t貫通投擲\r",
+      "zh": "\t贯穿投掷\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Piercing Throw\\n\\nThrow armament with a powerful spin, causing it to bore through foes. When using this skill, the armament can be thrown further than normal and also pierce through enemies.\r",
+      "jp": "\t戦技「貫通投擲」\\n\\n武器に強い捻りを加えて投擲する戦技\\nそれは、常よりも長い距離を飛び\\n敵の体を貫通する\\n\r",
+      "zh": "\t战技：贯穿投掷\\n\\n在武器缠绕强力旋流，再投掷而出的战技。\\n飞翔距离会比平时更长，能够贯穿敌人。\r"
+    }
+  },
+  "4030": {
+    "ArtsName": {
+      "en": "\tScattershot Throw\r",
+      "jp": "\t散弾投擲\r",
+      "zh": "\t多重投掷\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Scattershot Throw\\n\\nEmploy smithing arts to conjure multiple copies of the armament in both hands and throw them all at once. Follow up with an additional input to throw again.\r",
+      "jp": "\t戦技「散弾投擲」\\n\\n鍛冶術により、両手に武器を複製し\\n多数を同時に投擲する戦技\\n追加入力で、もう一度投擲する\\n\r",
+      "zh": "\t战技：多重投掷\\n\\n透过锻造术的力量，在双手复制出武器，\\n再同时、大量投掷出去的战技。\\n再次发动能再一次投掷。\r"
+    }
+  },
+  "4040": {
+    "ArtsName": {
+      "en": "\tWall of Sparks\r",
+      "jp": "\t囲む火花の香り\r",
+      "zh": "\t四面火花香\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Wall of Sparks\\n\\nScatter perfumed powder in vicinity, producing intense sparks after a brief delay. Can be charged to increase power and range.\\nThe properties of the sparks are determined by the perfume bottle used.\r",
+      "jp": "\t戦技「囲む火花の香り」\\n\\n自らの周囲に広く香粉を散布し\\n時間差で、大きな火花を生じる戦技\\nタメ使用で強化され、火花の範囲が広がる\\n火花の性質は、調香瓶の種類により変化する\\n\r",
+      "zh": "\t战技：四面火花香\\n\\n在自身周围大范围释放香粉，\\n一定时间后，形成大型火花的战技。\\n借由蓄力发动能提升威力，扩大火花的范围。\\n火花的性质会随着调香瓶的种类变化。\r"
+    }
+  },
+  "4050": {
+    "ArtsName": {
+      "en": "\tRolling Sparks\r",
+      "jp": "\t連なる火花の香り\r",
+      "zh": "\t串联火花香\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Rolling Sparks\\n\\nScatter perfumed powder before you, triggering rolling explosions of deadly sparks.\\nThe properties of the sparks are determined by the perfume bottle used.\r",
+      "jp": "\t戦技「連なる火花の香り」\\n\\n前方に香粉を散布し、時間差で\\n連なるように大きな火花を生じる戦技\\n火花の性質は、調香瓶の種類により変化する\\n\r",
+      "zh": "\t战技：串联火花香\\n\\n朝前方释放香粉，一定时间后，\\n形成先后出现的大型火花的战技。\\n火花的性质会随着调香瓶的种类变化。\r"
+    }
+  },
+  "4060": {
+    "ArtsName": {
+      "en": "\tRaging Beast\r",
+      "jp": "\t獣の急襲\r",
+      "zh": "\t野兽突袭\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Raging Beast\\n\\nStep with the swiftness of a beast, leap high, and slash foe from above. Initial step can be taken forward, backward, left, or right. Strong attack allows for a follow-up attack.\r",
+      "jp": "\t戦技「獣の急襲」\\n\\n獣のような素早いステップから\\n高く跳び、上空から敵を切り裂く戦技\\nステップの方向は前後左右に制御でき\\nまた、強攻撃で追撃に繋げられる\\n\r",
+      "zh": "\t战技：野兽突袭\\n\\n如野兽般地向前快速踏步，\\n再跳至半空，撕裂敌人的战技。\\n能控制往前后，或是左右方向踏步。\\n发动后接着使出重攻击，能追加攻击。\r"
+    }
+  },
+  "4070": {
+    "ArtsName": {
+      "en": "\tSavage Claws\r",
+      "jp": "\t獣爪撃\r",
+      "zh": "\t野兽爪击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Savage Claws\\n\\nPounce like a beast to viciously slash into foe with left and right claws.\r",
+      "jp": "\t戦技「獣爪撃」\\n\\n獣のごとき低い跳躍から\\n左右の爪で、激しく敵を切り裂く戦技\\n\r",
+      "zh": "\t战技：野兽爪击\\n\\n如野兽般地压低身形，跳起后挥舞左右双爪，\\n猛力撕裂敌人的战技。\r"
+    }
+  },
+  "4080": {
+    "ArtsName": {
+      "en": "\tRed Bear Hunt\r",
+      "jp": "\t赤熊の狩り\r",
+      "zh": "\t红熊猎法\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Red Bear Hunt\\n\\nSlaughters prey with sharp claws in a great swipe of the arm. The attack creates a vacuum which deals continuous damage. Repeated inputs allow for up to two follow-up attacks.\r",
+      "jp": "\t専用戦技「赤熊の狩り」\\n\\n腕を大きく振り上げ、鋭い爪で得物を屠る戦技\\nその攻撃は真空を生じ、連続でダメージを与える\\n追加入力で、二度まで追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：红熊猎法\\n\\n大幅高举手臂，用锐利爪子撕裂猎物的战技。\\n攻击时会形成真空，给予连续伤害。\\n再次发动能使出最多两次的追击。\r"
+    }
+  },
+  "4090": {
+    "ArtsName": {
+      "en": "\tBlind Spot\r",
+      "jp": "\t死角の一撃\r",
+      "zh": "\t死角一击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Blind Spot\\n\\nLeap into close quarters to take advantage of the enemy's blind spot and gore them from the side. Inputs determine which side you strike from. This attack slips below the opponent's guard.\r",
+      "jp": "\t戦技「死角の一撃」\\n\\n敵の懐の低い位置に跳び込み\\n側面の死角から、刃を突き立てる戦技\\n跳び込む方向は左右に制御でき\\nその攻撃はガードをかいくぐる\\n\r",
+      "zh": "\t战技：死角一击\\n\\n压低身形踏出步伐，与敌人拉近距离，\\n再从侧面死角攻击的战技。\\n能控制往左、右方踏出步伐，\\n也能绕过武器的防御，进行攻击。\r"
+    }
+  },
+  "4100": {
+    "ArtsName": { "en": "\tSwift Slash\r", "jp": "\t速斬\r", "zh": "\t迅斩\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Swift Slash\\n\\nA skill passed down amongst hornsent swordsmen. Take a swift forward step to slice through foes. This sharp strike also fires off a shearing vacuum. Can be charged to increase the skill's power and the distance of the forward step.\r",
+      "jp": "\t戦技「速斬」\\n\\n角人の剣士に伝わる戦技\\n瞬速の踏み込みから敵を斬る\\nその一撃は鋭く、切り裂く真空を生じる\\nタメ使用で強化され、踏み込む距離が伸びる\\n\r",
+      "zh": "\t战技：迅斩\\n\\n角人剑士继承而来的战技。\\n在迅速踏出步伐的同时，砍向敌人。\\n攻击快而凌厉，会形成撕裂敌人的真空。\\n借由蓄力发动能提升威力，增加踏出步伐时的距离。\r"
+    }
+  },
+  "4110": {
+    "ArtsName": {
+      "en": "\tOverhead Stance\r",
+      "jp": "\t大上段\r",
+      "zh": "\t大上段\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Overhead Stance\\n\\nA skill that starts with the blade held high in a ready stance.\\nExecute a normal attack from this stance to step forward and slash downwards, or a strong attack to deliver a series of downward slashes.\r",
+      "jp": "\t戦技「大上段」\\n\\n頭上に高く剣を構える戦技　\\n通常攻撃で、踏み込み斬り下ろし\\n強攻撃で連続斬り下ろしに派生する\\n\r",
+      "zh": "\t战技：大上段\\n\\n将剑高举过头，摆出架式的战技。\\n轻攻击能向前踏出再下砍。\\n重攻击能使出连续下砍。\r"
+    }
+  },
+  "4120": {
+    "ArtsName": {
+      "en": "\tWing Stance\r",
+      "jp": "\t片翼の構え\r",
+      "zh": "\t单翼架式\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Wing Stance\\n\\nCalmly assume a right-sided stance. Normal attack triggers a rapid three-slash combination. Strong attack triggers a leaping thrust.\r",
+      "jp": "\t戦技「片翼の構え」\\n\\n静かに右側に構え、攻撃に繋げる戦技\\n通常攻撃で、高速の三連撃に\\n強攻撃で、跳躍からの突きに派生する\\n\r",
+      "zh": "\t战技：单翼架式\\n\\n将武器向右平举，摆出架式后静止不动，\\n接着使出攻击的战技。\\n轻攻击能使出高速三连击。\\n重攻击能在跳起之后，使出突刺。\r"
+    }
+  },
+  "4130": {
+    "ArtsName": { "en": "\tBlinkbolt\r", "jp": "\t瞬雷\r", "zh": "\t瞬雷\r" },
+    "ArtsCaption": {
+      "en": "\tSkill: Blinkbolt\\n\\nSkill used by the golden knights who served Godwyn. From a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed.\r",
+      "jp": "\t戦技「瞬雷」\\n\\nゴッドウィンに仕えた黄金の騎士たちの戦技\\n低い構えから、自らを雷に変じ\\n前方に高速移動する\\n\r",
+      "zh": "\t战技：瞬雷\\n\\n侍奉葛德文的黄金骑士们使用的战技。\\n压低身形摆出架式，将自身化为雷电，\\n朝前方快速移动。\r"
+    }
+  },
+  "4140": {
+    "ArtsName": {
+      "en": "\tFlame Skewer\r",
+      "jp": "\t火の串刺し\r",
+      "zh": "\t火焰穿刺\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Flame Skewer\\n\\nSkill of Queelign of the Fire Knights. Enwreathe armament in flame and assume a low stance before skewering the enemy in a single motion. Strong attack unleashes a follow-up flame attack.\r",
+      "jp": "\t戦技「火の串刺し」\\n\\n火の騎士、クウィラインの戦技\\n武器に火を纏わせ、低い姿勢で踏み込み\\nそのまま一気に、敵を串刺しにする\\n強攻撃で、追撃の火を放つ\\n\r",
+      "zh": "\t战技：火焰穿刺\\n\\n“火焰骑士”昆兰的战技。\\n在武器缠绕火焰，压低身形向前踏出，\\n一口气刺穿敌人。\\n使出重攻击，能释放追击火焰。\r"
+    }
+  },
+  "4150": {
+    "ArtsName": {
+      "en": "\tSavage Lion's Claw\r",
+      "jp": "\t猛獅子斬り\r",
+      "zh": "\t勇猛狮子斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Savage Lion's Claw\\n\\nSkill of the particularly brave, even among the Redmanes. Somersault forwards, striking foes with armament. An additional strike may be performed with an additional input.\r",
+      "jp": "\t戦技「猛獅子斬り」\\n\\n赤獅子の中でも、特に勇猛な戦士の戦技\\n前方に跳躍し、回転しながら武器を叩き付ける\\n追加入力で、もう一度武器を叩き付ける\\n\r",
+      "zh": "\t战技：勇猛狮子斩\\n\\n在红狮子之中，特别勇猛的战士使用的战技。\\n能朝前方跳跃，一边旋身一边以武器敲击。\\n再次发动，能再一次以武器敲击。\r"
+    }
+  },
+  "4160": {
+    "ArtsName": {
+      "en": "\tDivine Beast Frost Stomp\r",
+      "jp": "\t神獣霜踏み\r",
+      "zh": "\t神兽冻霜踏地\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Divine Beast Frost Stomp\\n\\nA skill which imitates the wrath of the divine beast's dance. Lift a leg up high and stamp it down with great force. Sends a powerful wave of frost straight out along the ground. Can be charged to increase power and range.\r",
+      "jp": "\t戦技「神獣霜踏み」\\n\\n神獣獅子舞の振るう怒りの戦技\\n足を振り上げ、大地に強く踏みしめ\\n前方に、激しい霜の地走りを起こす\\nタメ使用で強化され、地走りの範囲が広がる\\n\r",
+      "zh": "\t战技：神兽冻霜踏地\\n\\n神兽舞狮展现愤怒的战技。\\n能举起脚大力踏向地面，\\n让剧烈冻霜朝前方随之扩散。\\n借由蓄力发动能提升威力，扩大冻霜扩散的范围。\r"
+    }
+  },
+  "4170": {
+    "ArtsName": {
+      "en": "\tFlame Spear\r",
+      "jp": "\t火の槍\r",
+      "zh": "\t火焰枪\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Flame Spear\\n\\nSkill of Kood, captain of the Fire Knights.\\nReady weapon for a thrusting attack and unleash a spear of flame straight ahead. Charge the attack to increase damage dealt and distance travelled.\r",
+      "jp": "\t戦技「火の槍」\\n\\n火の騎士の筆頭、クードの戦技\\n武器を突くように構え、前方に火の槍を放つ\\nタメ使用で強化され、槍の飛距離も伸びる\\n\r",
+      "zh": "\t战技：火焰枪\\n\\n火焰骑士的首席，库德的战技。\\n将武器指向前方，摆出准备突刺的架式，\\n再朝前方释放火焰枪。\\n借由蓄力发动能提升威力、提升枪的飞翔距离。\r"
+    }
+  },
+  "4180": {
+    "ArtsName": {
+      "en": "\tCarian Sovereignty\r",
+      "jp": "\tロイヤル・カーリア\r",
+      "zh": "\t尊矣卡利亚\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Carian Sovereignty\\n\\nSkill passed down the Carian royal family. Transform blade into a magical greatsword and bring it down. Additional input follows up with a horizontal sweep. Charge either attack to enhance potency.\r",
+      "jp": "\t戦技「ロイヤル・カーリア」\\n\\nカーリアの王族に伝わる戦技\\n剣身を魔力の大剣と化し、振り下ろす\\n追加入力で、水平に広範囲を薙ぎ払う\\nどちらの攻撃も、タメ使用で強化される\\n\r",
+      "zh": "\t战技：尊矣卡利亚\\n\\n卡利亚王室成员传承而来的战技。\\n将剑身化为魔力大剑，再向下挥舞。\\n再次发动，能大范围水平横扫。\\n上述攻击能借由蓄力发动，提升威力。\r"
+    }
+  },
+  "4190": {
+    "ArtsName": {
+      "en": "\tShriek of Sorrow\r",
+      "jp": "\t悲痛の叫び\r",
+      "zh": "\t悲恸惨叫\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Shriek of Sorrow\\n\\nSkill utilized by the downtrodden. Scream, causing nearby enemies to flinch, while also recalling deep-seated resentment, boosting attack power based on the amount of HP remaining. The lower the HP, the greater the effect.\r",
+      "jp": "\t戦技「悲痛の叫び」\\n\\n蹂躙された者たちの戦技\\n叫び声をあげ、周囲の敵を怯ませると同時に\\n深い恨みを思い出し、自らの攻撃力を高める\\n自身のＨＰが減っているほど、効果が高い\\n\r",
+      "zh": "\t战技：悲恸惨叫\\n\\n遭受蹂躏的人们使用的战技。\\n惨叫出声，让周围敌人陷入硬直的同时，\\n再回想起深仇大恨，提升自身的攻击力。\\n自身的血量越低，效果越佳。\r"
+    }
+  },
+  "4200": {
+    "ArtsName": {
+      "en": "\tShield Strike\r",
+      "jp": "\t盾攻撃\r",
+      "zh": "\t盾牌攻击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Shield Strike\\n\\nA skill that uses the shield to attack.\\nRepeated inputs allow for up to three follow-up attacks.\r",
+      "jp": "\t戦技「盾攻撃」\\n\\n盾による攻撃を行う戦技\\n追加入力で、三度まで追撃に繋げられる\\n\r",
+      "zh": "\t战技：盾牌攻击\\n\\n透过盾牌进行攻击的战技。\\n再次发动能使出最多三次的追击。\r"
+    }
+  },
+  "4210": {
+    "ArtsName": {
+      "en": "\tIgon's Drake Hunt\r",
+      "jp": "\tエーゴンの竜狩り\r",
+      "zh": "\t埃贡的猎龙\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Igon's Drake Hunt\\n\\nSkill of Igon, drake warrior. Ready the bow before unleashing a twisted shot with a great bellow that considerably enhances its power.\r",
+      "jp": "\t戦技「エーゴンの竜狩り」\\n\\n竜の戦士、エーゴンの戦技\\n大弓を半身に構え、咆哮と共に捻り射ることで\\nその攻撃力を大きく高める\\n\r",
+      "zh": "\t战技：埃贡的猎龙\\n\\n“龙战士”埃贡的战技。\\n能侧身拉开大弓，发出咆哮的同时\\n扭转弓弦射击，借此大幅提升攻击力。\r"
+    }
+  },
+  "4220": {
+    "ArtsName": {
+      "en": "\tGhostflame Call\r",
+      "jp": "\t霊炎呼び\r",
+      "zh": "\t唤起灵火\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: Ghostflame Call\\n\\nThrust out armament to summon ghostflame.\\nFollow up with a normal attack to set the ground ablaze with ghostflame, or a strong attack to trigger a massive explosion.\r",
+      "jp": "\t戦技「霊炎呼び」\\n\\n突き出した武器に、霊炎を呼ぶ戦技\\n通常攻撃で、霊炎を地に這わせて放ち\\n強攻撃で、それを大きく爆発させる\\n\r",
+      "zh": "\t战技：唤起灵火\\n\\n在指向前方的武器，召唤灵火的战技。\\n轻攻击能释放爬行地面的灵火；\\n重攻击能引爆灵火，形成大爆炸。\r"
+    }
+  },
+  "5000": {
+    "ArtsName": {
+      "en": "\tDragonwound Slash\r",
+      "jp": "\t竜傷斬り\r",
+      "zh": "\t伤龙斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Dragonwound Slash\\n\\nDesigned to hunt colossal dragons, this skill cloaks the armament with a jagged gravel-stone aura before performing a high leaping slash. Charge the attack to also fire off the aura.\r",
+      "jp": "\t専用戦技「竜傷斬り」\\n\\n巨大な竜を狩るための戦技\\nさざれ石の逆棘にオーラを纏わせ\\n跳躍して、その頂点で叩き斬る\\nまたタメ使用で、そのオーラを放つ\\n\r",
+      "zh": "\t专用战技：伤龙斩\\n\\n狩猎巨大龙而有的战技。\\n将气缠绕在碎石倒刺后跳起，\\n跳到最高点之后，再向下斩击。\\n借由蓄力发动，能释放气。\r"
+    }
+  },
+  "5010": {
+    "ArtsName": {
+      "en": "\tNeedle Piercer\r",
+      "jp": "\t針の貫き\r",
+      "zh": "\t贯刺针\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Needle Piercer\\n\\nSkill of Needle Knight Leda. Generates ten gold needles which pierce their target all at once. Those pierced are purged of all ailments and special effects alike.\r",
+      "jp": "\t専用戦技「針の貫き」\\n\\n針の騎士、レダの戦技\\n十本の黄金の針を生じ、対象を一時に刺し貫く\\nまた、刺し貫いた対象のあらゆる状態異常と\\n特殊な効果を消し去る\\n\r",
+      "zh": "\t专用战技：贯刺针\\n\\n“金针骑士”蕾妲的战技。\\n形成十根黄金针，瞬间贯穿敌人。\\n能消除受贯穿对象的特殊效果，\\n以及所有异常状态。\r"
+    }
+  },
+  "5020": {
+    "ArtsName": { "en": "\tLight\r", "jp": "\t光\r", "zh": "\t光明\r" },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Light\\n\\nUnleashes the light carved in the armament's blade. Send the sword aloft to let loose a blinding light whose many rays sweep through the surrounding area. Also temporarily boosts one's own holy attacks.\r",
+      "jp": "\t専用戦技「光」\\n\\n刀身に刻まれた光を解放する戦技\\n剣を中空に掲げ、眩い光を生じ\\n幾本もの光線で周囲を薙ぎ払う\\nまた一時的に、自らの聖攻撃力が高まる\\n\r",
+      "zh": "\t专用战技：光明\\n\\n让刻划在剑身的光芒，释放而出的战技。\\n将剑身举至半空，形成眩目光芒，\\n再以数道光线横扫周围。\\n能暂时提升自身的圣属性攻击力。\r"
+    }
+  },
+  "5030": {
+    "ArtsName": { "en": "\tDarkness\r", "jp": "\t闇\r", "zh": "\t黑暗\r" },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Darkness\\n\\nRaise the sword aloft and cleave surroundings with darkness. Deals holy damage and temporarily reduces holy damage negation.\r",
+      "jp": "\t専用戦技「闇」\\n\\n剣を中空に掲げ、闇で周囲を薙ぎ払う戦技\\n聖属性のダメージを与えると共に\\n一時的に、聖カット率を低下させる\\n\r",
+      "zh": "\t专用战技：黑暗\\n\\n将剑举至半空，以黑暗横扫周围的战技。\\n给予敌人圣属性伤害的同时，\\n也能暂时降低对方的圣属性减伤率。\r"
+    }
+  },
+  "5040": {
+    "ArtsName": {
+      "en": "\tOnze's Line of Stars\r",
+      "jp": "\tオンジの連星\r",
+      "zh": "\t翁吉的连星\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Onze's Line of Stars\\n\\nThis skill, named after a demi-human swordmaster, imbues sorcerous energy into lined glintstones and executes a slash attack. Repeated inputs allow for up to two follow-up attacks, each dealing greater damage than the last.\r",
+      "jp": "\t専用戦技「オンジの連星」\\n\\n亜人の剣聖の名を冠した戦技\\n連なる輝石に魔力を込めた斬撃\\n追加入力で、二度まで追撃に繋げられ\\n追撃する度に強化される\\n\r",
+      "zh": "\t专用战技：翁吉的连星\\n\\n以亚人剑圣的名字命名的战技。\\n对相连的辉石灌注魔力后，使出斩击。\\n再次发动能使出最多两次的追击。\\n每一次追击，威力会随之提升。\r"
+    }
+  },
+  "5050": {
+    "ArtsName": {
+      "en": "\tThe Poison Flower Blooms Twice\r",
+      "jp": "\t毒花は二度刺す\r",
+      "zh": "\t双刺毒花\r"
+    },
+    "ArtsCaption": {
+      "en": "\tSkill: The Poison Flower Blooms Twice\\n\\nConjures stingers of scarlet rot from below to stab the enemy. Landing a follow-up attack on a foe already inflicted with poison or rot deals massive damage in one fell swoop.\r",
+      "jp": "\t戦技「毒花は二度刺す」\\n\\n足元に朱い腐敗の棘を生じ、敵を刺す戦技\\n既に毒あるいは腐敗状態の敵に追撃が成功すれば\\n一気に大ダメージを与える\\n\r",
+      "zh": "\t战技：双刺毒花\\n\\n在脚底形成猩红腐败的棘刺，刺向敌人的战技。\\n对上陷入中毒或猩红腐败状态的敌人，\\n如果成功使出追击，能一口气给予大伤害。\r"
+    }
+  },
+  "5080": {
+    "ArtsName": {
+      "en": "\tSpinning Guillotine\r",
+      "jp": "\t回転ギロチン\r",
+      "zh": "\t回旋断首\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Spinning Guillotine\\n\\nHold the putrid blade at both ends and arch body backwards to deliver a powerful overhead chop. Repeated inputs deliver follow-up attacks for as long as stamina allows. Strong attack performs a leap followed by a spinning attack.\r",
+      "jp": "\t専用戦技「回転ギロチン」\\n\\n武器の両端を持ち、体を反り返らせながら\\n泥濘の刃で頭上から叩き斬る戦技\\n追加入力で、スタミナの続く限り追撃し\\n強攻撃で、跳躍からの回転攻撃に繋げられる\\n\r",
+      "zh": "\t专用战技：回旋断首\\n\\n手持武器的两端，一边后弯身体，\\n一边用融泥刀由上而下敲击的战技。\\n再次发动，只要还有精力就能一直追击。\\n发动后使出重攻击，能在跳跃之后使出回旋攻击。\r"
+    }
+  },
+  "5090": {
+    "ArtsName": {
+      "en": "\tUnending Dance\r",
+      "jp": "\t終わりなき舞い\r",
+      "zh": "\t无尽之舞\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Unending Dance\\n\\nA furious dance formed by a succession of slashing attacks. Hold the button down to sustain the dance for as long as stamina allows.\r",
+      "jp": "\t専用戦技「終わりなき舞い」\\n\\n激しく舞い踊り、連続で斬撃を繰り出す戦技\\n長押ししている間は、スタミナの続く限り\\nその舞踏が終わることはない\\n\r",
+      "zh": "\t专用战技：无尽之舞\\n\\n激烈舞动之余，连续使出斩击的战技。\\n持续发动的期间，\\n只要还有精力，就能一直舞动。\r"
+    }
+  },
+  "5100": {
+    "ArtsName": {
+      "en": "\tRevenger's Blade\r",
+      "jp": "\t復讐の刃\r",
+      "zh": "\t复仇之刃\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Revenger's Blade\\n\\nDash up to an enemy and slash them open with the blades held in each hand. By holding down the button, the initial dash will be extended. Follow up with strong attack to hack the enemy to pieces.\r",
+      "jp": "\t専用戦技「復讐の刃」\\n\\n敵の懐に走り込み、二刀を左右に斬り開く戦技\\n長押しにより、走り込みの距離は長くなる\\nまた、強攻撃で滅多斬りに繋げられる\\n\r",
+      "zh": "\t专用战技：复仇之刃\\n\\n手持双刀冲到敌人面前，再左右挥砍的战技。\\n持续发动能提升冲刺的距离，\\n发动后接着使出重攻击，能疯狂挥砍。\r"
+    }
+  },
+  "5110": {
+    "ArtsName": {
+      "en": "\tMists of Eternal Sleep\r",
+      "jp": "\t永眠の霧\r",
+      "zh": "\t永眠烟雾\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Mists of Eternal Sleep\\n\\nReleases a velvety purple mist that spreads across a wide frontal area. Afflicts foes with eternal sleep.\r",
+      "jp": "\t専用戦技「永眠の霧」\\n\\n前方広範囲に、昏紫の霧を生じる戦技\\nその霧には、永眠の状態異常効果がある\\n\r",
+      "zh": "\t专用战技：永眠烟雾\\n\\n朝前方形成大范围暗紫色烟雾的战技。\\n暗紫色烟雾具有引发异常状态永眠的效果。\r"
+    }
+  },
+  "5120": {
+    "ArtsName": {
+      "en": "\tDynastic Sickleplay\r",
+      "jp": "\t王朝鎌技\r",
+      "zh": "\t王朝镰技\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Dynastic Sickleplay\\n\\nA finessed evasive skill that creates space to maneuver. Inputs dictate direction of the backstep. Follow up with strong attack to perform an advancing upward slash. Press strong attack again to bring the weapon back down.\r",
+      "jp": "\t専用戦技「王朝鎌技」\\n\\n華麗に攻撃を回避し、敵と距離を取る戦技\\n回避の方向は左右後ろに制御できる\\n強攻撃で、前進からの斬り上げに繋げられ\\n更なる強攻撃で、再び華麗に斬り下がる\\n\r",
+      "zh": "\t专用战技：王朝镰技\\n\\n优雅地闪避攻击，与敌人拉开距离的战技。\\n能控制往左右，或往后方进行闪避。\\n发动后接着使出重攻击，能一边前进，一边上砍。\\n再次使出重攻击，能优雅地下砍再往后闪避。\r"
+    }
+  },
+  "5130": {
+    "ArtsName": {
+      "en": "\tBlinkbolt: Twinaxe\r",
+      "jp": "\t瞬雷・双斧\r",
+      "zh": "\t瞬雷之对斧\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Blinkbolt: Twinaxe\\n\\nFrom a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed. Strong attack performs a lightning-charged spinning slash.\r",
+      "jp": "\t専用戦技「瞬雷・双斧」\\n\\n低い構えから、自らを雷に変じ\\n前方に高速移動する戦技\\n強攻撃で、雷を纏った回転斬りに繋げられる\\n\r",
+      "zh": "\t专用战技：瞬雷之对斧\\n\\n压低身形摆出架式，将自身化为雷电，\\n朝前方快速移动的战技。\\n发动后使出重攻击，能使出缠绕雷电的回旋斩。\r"
+    }
+  },
+  "5140": {
+    "ArtsName": {
+      "en": "\tBlinkbolt: Long-hafted Axe\r",
+      "jp": "\t瞬雷・長柄斧\r",
+      "zh": "\t瞬雷之长柄斧\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Blinkbolt: Long-hafted Axe\\n\\nFrom a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed. Strong attack performs a lightning-charged leaping slash.\r",
+      "jp": "\t専用戦技「瞬雷・長柄斧」\\n\\n低い構えから、自らを雷に変じ\\n前方に高速移動する戦技\\n強攻撃で、雷を纏った跳躍斬りに繋げられる\\n\r",
+      "zh": "\t专用战技：瞬雷之长柄斧\\n\\n压低身形摆出架式，将自身化为雷电，\\n朝前方快速移动的战技。\\n发动后使出重攻击，能使出缠绕雷电的跳跃斩。\r"
+    }
+  },
+  "5150": {
+    "ArtsName": {
+      "en": "\tPromised Consort\r",
+      "jp": "\t約束の王\r",
+      "zh": "\t约定之王\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Promised Consort\\n\\nImbue the two greatswords with the light of Miquella, then deliver a slashing attack accompanied by columns of light. Additional input allows for up to two follow-up attacks.\r",
+      "jp": "\t専用戦技「約束の王」\\n\\n二本の大剣にミケラの光を纏い\\n光の柱を伴う斬撃を繰り出す戦技\\n追加入力で、二度まで連撃に繋げられる\\n\r",
+      "zh": "\t专用战技：约定之王\\n\\n在两把大剑的剑身缠绕米凯拉的光，\\n使出伴随光柱的连续斩击。\\n再次发动，能使出最多两次的连击。\r"
+    }
+  },
+  "5160": {
+    "ArtsName": {
+      "en": "\tShadow Sunflower Headbutt\r",
+      "jp": "\t影輪頭突き\r",
+      "zh": "\t影轮草头槌\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Shadow Sunflower Headbutt\\n\\nSlam down the blossom of a large shadow sunflower, sending out a shockwave that flattens foes. Repeated inputs allow for up to two follow-up attacks.\r",
+      "jp": "\t専用戦技「影輪頭突き」\\n\\n影輪草の大花を叩きつけ\\n衝撃波と共に敵を圧し潰す戦技\\n追加入力で、二度まで追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：影轮草头槌\\n\\n用影轮草的大花朵敲击，\\n形成冲击波的同时，重压敌人的战技。\\n再次发动能使出最多两次的追击。\r"
+    }
+  },
+  "5170": {
+    "ArtsName": {
+      "en": "\tMoon-and-Fire Stance\r",
+      "jp": "\t月と火の構え\r",
+      "zh": "\t月与火的架式\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Moon-and-Fire Stance\\n\\nAssume ready stance, swords imbued with magic. Follow up with normal attack to cast glintstone light waves, or strong attack to perform a spinning attack that bathes the area with flame. Light waves can have up to two follow-up casts with additional inputs.\r",
+      "jp": "\t専用戦技「月と火の構え」\\n\\n二本の剣に魔力を込めて構え、魔術に繋げる戦技\\n通常攻撃で、連続して輝石の光波を放ち\\nまた強攻撃で、回転しながら周囲を火で薙ぎ払う\\n光波は、追加入力で二度まで追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：月与火的架式\\n\\n举起两把灌注魔力的剑，接着施展魔法的战技。\\n轻攻击能连续释放辉石光波；\\n重攻击能一边旋身，一边用火焰横扫周围。\\n光波能以再次发动，使出最多两次的追击。\r"
+    }
+  },
+  "5180": {
+    "ArtsName": {
+      "en": "\tDevonia's Vortex\r",
+      "jp": "\tデボニアの渦\r",
+      "zh": "\t泥盆亚的漩涡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Devonia's Vortex\\n\\nUsing the power of the Crucible vortex, violently spin the hammer around and slam the ground, causing a shockwave. This skill can be charged to increase its power.\r",
+      "jp": "\t専用戦技「デボニアの渦」\\n\\n坩堝の渦の力で、大槌全体を激しく回転させ\\nそのまま、衝撃と共に大地に叩き付ける戦技\\nタメ使用で強化される\\n\r",
+      "zh": "\t专用战技：泥盆亚的漩涡\\n\\n用熔炉的漩涡力量激烈旋转整个大槌，\\n再顺势敲向地面，引发冲击的战技。\\n借由蓄力发动，能提升威力。\r"
+    }
+  },
+  "5190": {
+    "ArtsName": {
+      "en": "\tMessmer's Assault\r",
+      "jp": "\tメスメルの強襲\r",
+      "zh": "\t梅瑟莫的强攻\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Messmer's Assault\\n\\nA fierce succession of attacks using a flame-coated spear tip. Repeated inputs allow up to two follow-up attacks. The final move thrusts the spear into the ground, causing countless spears to form in the surrounding area.\r",
+      "jp": "\t専用戦技「メスメルの強襲」\\n\\n刃に火を纏った激しい連撃の戦技\\n追加入力で、二度まで追撃に繋げられ\\nその最後に、周囲に無数の槍を生成する\\n\r",
+      "zh": "\t专用战技：梅瑟莫的强攻\\n\\n让刀刃缠绕火焰，使出猛烈连击的战技。\\n再次发动能使出最多两次的追击。\\n追击的尾声，会在周围形成无数的矛。\r"
+    }
+  },
+  "5210": {
+    "ArtsName": {
+      "en": "\tSleep Evermore\r",
+      "jp": "\t永遠に眠れ\r",
+      "zh": "\t永恒沉眠\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Sleep Evermore\\n\\nPierces the enemy deeply with a poison-coated needle that delivers eternal sleep. If the follow-up strike lands upon a foe who is already in a state of slumber or eternal sleep, it will deal significant damage.\r",
+      "jp": "\t専用戦技「永遠に眠れ」\\n\\n永眠の毒針で、敵を深く刺し貫く戦技\\n既に睡眠あるいは永眠状態の敵に追撃が成功すれば\\n一気に大ダメージを与える\\n\r",
+      "zh": "\t专用战技：永恒沉眠\\n\\n用永眠的毒针，深深刺进敌人身体的战技。\\n对上陷入催眠或永眠状态的敌人，\\n如果成功使出追击，能一口气给予大伤害。\r"
+    }
+  },
+  "5220": {
+    "ArtsName": {
+      "en": "\tGolden Crux\r",
+      "jp": "\t黄金の磔\r",
+      "zh": "\t黄金穿刺\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Golden Crux\\n\\nLeap up and skewer foe from overhead. If successful, the weapon's barbs unfold to excruciate from within; else, additional input releases barbs in the area. There is something of the Golden Order in the sight of those fixed upon this crux.\r",
+      "jp": "\t専用戦技「黄金の磔」\\n\\n宙にふわりと飛び、頭上から突き下ろす戦技\\n敵を貫いた時は、逆棘を開き内から酷く傷付け\\nそうでない時は、追加入力で周囲に逆棘を展開する\\nその敵を貫く様は、どこか黄金の律に似ている\\n\r",
+      "zh": "\t专用战技：黄金穿刺\\n\\n轻柔跳上半空，从头部向下刺击的战技。\\n贯穿敌人时，会从内部张开倒刺，重创对方；\\n没有贯穿敌人时，再次发动能在周围形成倒刺。\\n贯穿敌人时的模样，与黄金律法有些相似。\r"
+    }
+  },
+  "5230": {
+    "ArtsName": {
+      "en": "\tMoore's Charge\r",
+      "jp": "\tムーアの突撃\r",
+      "zh": "\t穆尔的突击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Moore's Charge\\n\\nReady the shield with both hands, then charge forth while maintaining guard, ending in a shove imbued with verdigris magic. Knocks back nearby enemies, but does not cause significant harm. Hold to extend the length of the charge.\r",
+      "jp": "\t専用戦技「ムーアの突撃」\\n\\n両手で盾を構え、ガードしたまま突撃し\\n最後に、緑青の魔力を込めて押し出す戦技\\n周囲の敵を吹き飛ばすが、酷く傷付けることはない\\n長押しで前進距離を伸ばすことができる\\n\r",
+      "zh": "\t专用战技：穆尔的突击\\n\\n用双手共持盾牌，防御的同时向前突进，\\n最后再灌注铜绿魔力，向前推出的战技。\\n能弹飞周围敌人，但不会给予大幅伤害。\\n持续发动能增加移动距离。\r"
+    }
+  },
+  "5240": {
+    "ArtsName": {
+      "en": "\tWhite Light Charge\r",
+      "jp": "\t白光の突撃\r",
+      "zh": "\t白光突袭\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: White Light Charge\\n\\nSummons white light from the crevice in the weapon's ancient meteoric ore, using its power for a charging attack which pierces foes. Additional input causes the light to explode.\r",
+      "jp": "\t専用戦技「白光の突撃」\\n\\n古隕鉄の裂け目に白い光を生じ\\nその力で突撃し、敵を刺し貫く戦技\\n追加入力で、その光を爆発させる\\n\r",
+      "zh": "\t专用战技：白光突袭\\n\\n从古铁陨石的裂缝形成白色光芒，\\n再顺势展开突袭，贯穿敌人的战技。\\n再次发动，能引爆光芒。\r"
+    }
+  },
+  "5250": {
+    "ArtsName": {
+      "en": "\tRancor Slash\r",
+      "jp": "\t怨霊斬り\r",
+      "zh": "\t怨魂斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Rancor Slash\\n\\nSpin around, slashing foes while summoning vengeful spirits which chase down foes. Additional input allows for a follow-up attack.\r",
+      "jp": "\t専用戦技「怨霊斬り」\\n\\n体を回転させて、敵を斬りつけながら\\n追いすがる怨霊を呼ぶ戦技\\n追加入力で、追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：怨魂斩\\n\\n一边旋身砍向敌人，\\n一边召唤穷追不舍的怨魂的战技。\\n再次发动能使出追击。\r"
+    }
+  },
+  "5260": {
+    "ArtsName": {
+      "en": "\tWitching Hour Slash\r",
+      "jp": "\t夜闇の斬撃\r",
+      "zh": "\t夜暗斩击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Witching Hour Slash\\n\\nHold the sword level and infuse it with the dark of Night before unleashing a series of incorporeal attacks. This attack cannot be blocked. Can be charged to increase its power.\r",
+      "jp": "\t専用戦技「夜闇の斬撃」\\n\\n水平に構えた剣に夜の闇を纏い\\n連続で、実体のない斬撃を繰り出す戦技\\nガードすることはできず、タメ使用で強化される\\n\r",
+      "zh": "\t专用战技：夜暗斩击\\n\\n水平持刀，让夜的黑暗缠绕刀身，\\n再连续使出无形斩击的战技。\\n此战技无法用防御挡下，\\n借由蓄力发动能提升威力。\r"
+    }
+  },
+  "5270": {
+    "ArtsName": {
+      "en": "\tEuporia Vortex\r",
+      "jp": "\tエウポリアの渦\r",
+      "zh": "\t艾珀莉亚漩涡\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Euporia Vortex\\n\\nUsing the power of the vortex, violently twirl the armament, dealing multiple slashes directly ahead. The greater the restored luster of the blades, the greater the power of this skill. However, use of this skill will fully consume the blades' luster.\r",
+      "jp": "\t専用戦技「エウポリアの渦」\\n\\n渦の力で武器全体を激しく回転させ\\nそのまま、前方を連続で斬りつける戦技\\n輝きを取り戻しているほど、威力が高まる\\n戦技の使用により、その輝きは失われる\\n\r",
+      "zh": "\t专用战技：艾珀莉亚漩涡\\n\\n借由漩涡的力量激烈旋转整个剑身，\\n再顺势朝前方连续斩击的战技。\\n剑的光辉恢复得越多，威力就越强大。\\n在发动战技之后，会失去光辉。\r"
+    }
+  },
+  "5280": {
+    "ArtsName": {
+      "en": "\tSmithing Art Spears\r",
+      "jp": "\t鍛冶術の槍\r",
+      "zh": "\t锻造术之矛\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Smithing Art Spears\\n\\nSlam the red-hot anvil into the ground, sending up countless spears as it is pulled out. The spears disappear instantly.\r",
+      "jp": "\t専用戦技「鍛冶術の槍」\\n\\n赤熱した鍛冶床を地面に叩きつける戦技\\n引き抜きと共に、地面から無数の槍を生成する\\nその槍はすぐに消えてしまう\\n\r",
+      "zh": "\t专用战技：锻造术之矛\\n\\n将加热到火红的铁砧敲击地面的战技。\\n在拔起武器的同时，能从地面形成无数的矛，\\n而形成的矛会立刻消失。\r"
+    }
+  },
+  "5290": {
+    "ArtsName": {
+      "en": "\tRancor Slash\r",
+      "jp": "\t怨霊斬り\r",
+      "zh": "\t怨魂斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Rancor Slash\\n\\nSpin around, slashing foes while summoning vengeful spirits which chase down foes. Additional input allows for a follow-up attack.\r",
+      "jp": "\t専用戦技「怨霊斬り」\\n\\n体を回転させて、敵を斬りつけながら\\n追いすがる怨霊を呼ぶ戦技\\n追加入力で、追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：怨魂斩\\n\\n一边旋身砍向敌人，\\n一边召唤穷追不舍的怨魂的战技。\\n再次发动能使出追击。\r"
+    }
+  },
+  "5300": {
+    "ArtsName": {
+      "en": "\tRomina's Purification\r",
+      "jp": "\tロミナの祓い\r",
+      "zh": "\t萝蜜娜的解厄\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Romina's Purification\\n\\nImbues bud-blade with scarlet rot butterflies before unleashing two large sweeping slashes. This was once considered a sacred act of purification.\r",
+      "jp": "\t専用戦技「ロミナの祓い」\\n\\n蕾の刃に朱い腐敗の蝶を纏わせ\\n大きく二度、撫で斬りする戦技\\nかつて、それは聖なる祓いであった\\n\r",
+      "zh": "\t专用战技：萝蜜娜的解厄\\n\\n在花蕾刀身缠绕猩红腐败的蝴蝶，\\n使出两次大幅度轻柔斩击的战技。\\n在过去，这是神圣的解厄作法。\r"
+    }
+  },
+  "5310": {
+    "ArtsName": {
+      "en": "\tPoison Spear-Hand Strike\r",
+      "jp": "\t毒の貫手\r",
+      "zh": "\t贯穿毒手\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Poison Spear-Hand Strike\\n\\nMakes hand into the shape of a spear before unleashing a plunging stab that penetrates the body of the enemy. Afflicts foe with a large dose of deadly poison.\r",
+      "jp": "\t専用戦技「毒の貫手」\\n\\n指先を前に向けながら差し出し\\n敵の身体を、ずぶりと貫く戦技\\n大量の猛毒を一気に蓄積する\\n\r",
+      "zh": "\t专用战技：贯穿毒手\\n\\n指尖向前用力刺出，贯穿敌人身体的战技。\\n能一口气大量累积剧毒。\r"
+    }
+  },
+  "5320": {
+    "ArtsName": {
+      "en": "\tMadding Spear-Hand Strike\r",
+      "jp": "\t発狂の貫手\r",
+      "zh": "\t贯穿癫狂手\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Madding Spear-Hand Strike\\n\\nMakes hand into the shape of a spear before unleashing a plunging stab that penetrates the body of the enemy. Afflicts foe with a large dose of madness.\r",
+      "jp": "\t専用戦技「発狂の貫手」\\n\\n指先を前に向けながら差し出し\\n敵の身体を、ずぶりと貫く戦技\\n大量の発狂を一気に蓄積する\\n\r",
+      "zh": "\t专用战技：贯穿癫狂手\\n\\n指尖向前用力刺出，贯穿敌人身体的战技。\\n能一口气大量累积发狂量表。\r"
+    }
+  },
+  "5330": {
+    "ArtsName": {
+      "en": "\tFeeble Lord's Frenzied Flame\r",
+      "jp": "\t弱き王の狂い火\r",
+      "zh": "\t弱小王的癫火\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Feeble Lord's Frenzied Flame\\n\\nHold torch out in front and spit out frenzied flame. Afflicts those caught in its area of effect with madness, along with the user themselves. The skill will continue for as long as the button is held down. Can be used while moving.\r",
+      "jp": "\t専用戦技「弱き王の狂い火」\\n\\n松明を前方に掲げ、狂い火を撒き散らす戦技\\n周囲および使用者自身に発狂を蓄積する\\n長押している間は、ずっと継続し\\n足を止めずに使用できる\\n\r",
+      "zh": "\t专用战技：弱小王的癫火\\n\\n朝前方高举火把，散布癫火的战技。\\n发动者与周围人物会累积发狂量表。\\n持续发动能够维持使用。\\n可以走动发动。\r"
+    }
+  },
+  "5340": {
+    "ArtsName": {
+      "en": "\tRepeating Fire\r",
+      "jp": "\t連弩の連射\r",
+      "zh": "\t连射弩的射击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Repeating Fire\\n\\nThis skill readies the weapon's rapid-fire mechanism. Once in ready stance, crank the handle to fire bolts in rapid succession.\r",
+      "jp": "\t専用戦技「連弩の連射」\\n\\n連射機構を起動して構える戦技\\nその構えから、手前のハンドルを回し\\n連続でボルトを撃ち出すことができる\\n\r",
+      "zh": "\t专用战技：连射弩的射击\\n\\n启动连射构造之后，摆出架式的战技。\\n在摆出架式后，能转动眼前的手把，\\n连续射出弩箭。\r"
+    }
+  },
+  "5350": {
+    "ArtsName": {
+      "en": "\tDeadly Dance\r",
+      "jp": "\t災いの舞い\r",
+      "zh": "\t灾厄之舞\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Deadly Dance\\n\\nAn aggressive spinning skill that tears into foes using the circular blades held in each hand. Additional input allows for a sharp axe-kick follow-up.\r",
+      "jp": "\t専用戦技「災いの舞い」\\n\\n両手に円の刃を持ち\\n激しい回転で敵を切り裂く戦技\\n追加入力で、鋭い踵落としに繋げられる\\n\r",
+      "zh": "\t专用战技：灾厄之舞\\n\\n双手各持一把圆刃刀，\\n快速旋身，斩杀敌人的战技。\\n再次发动，能使出俐落下压踢。\r"
+    }
+  },
+  "5360": {
+    "ArtsName": {
+      "en": "\tFan Shot\r",
+      "jp": "\t扇射ち\r",
+      "zh": "\t扇形射击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Fan Shot\\n\\nThis skill uses the bow held horizontally. Readies eight arrows at once, firing them in a fan-shaped arc.\r",
+      "jp": "\t専用戦技「扇射ち」\\n\\n水平に弓を構える戦技\\n八本もの矢を同時につがえ\\n扇状に射ることができる\\n\r",
+      "zh": "\t专用战技：扇形射击\\n\\n水平持弓，摆出架式的战技。\\n能同时架上八支箭，以扇形发射。\r"
+    }
+  },
+  "5370": {
+    "ArtsName": {
+      "en": "\tDiscus Hurl\r",
+      "jp": "\t円盤投擲\r",
+      "zh": "\t飞盘投掷\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Discus Hurl\\n\\nThrows the roundshield like a discus using the smithing arts. Once thrown, the shield will remain airbone for a moment before beginning a vertical rotation that chases down its target.\r",
+      "jp": "\t専用戦技「円盤投擲」\\n\\n鍛冶術による投擲の戦技\\n円盤のように投擲された盾は\\n一時滞空した後、縦回転しながら対象に向かう\\n\r",
+      "zh": "\t专用战技：飞盘投掷\\n\\n由锻造术催生的投掷战技。\\n能将盾牌如飞盘般投掷出去。\\n盾牌在空中短暂停留后，\\n会以垂直方向旋转，飞向敌人。\r"
+    }
+  },
+  "5380": {
+    "ArtsName": {
+      "en": "\tFlower Dragonbolt\r",
+      "jp": "\t花の竜雷\r",
+      "zh": "\t花之龙雷\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Flower Dragonbolt\\n\\nCalls down the red lightning of the ancient dragons to strike a target. Deals lightning damage and also temporarily reduces the target's lightning damage negation. Can be charged to increase its power.\r",
+      "jp": "\t専用戦技「花の竜雷」\\n\\n対象に古竜の赤い落雷を落とす戦技\\n雷属性のダメージを与えると共に\\n一時的に、雷カット率を低下させる\\nタメ使用で強化される\\n\r",
+      "zh": "\t专用战技：花之龙雷\\n\\n对敌人降下古龙红落雷的战技。\\n给予敌人雷属性伤害的同时，\\n也能暂时降低对方的雷属性减伤率。\\n借由蓄力发动，能提升威力。\r"
+    }
+  },
+  "5390": {
+    "ArtsName": {
+      "en": "\tKowtower's Resentment\r",
+      "jp": "\t叩頭憤怒\r",
+      "zh": "\t叩头之怒\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Kowtower's Resentment\\n\\nSkill performed as a violent bow using a finger's foremost protrusion. Resentment builds as it is forced to bow, making it explode with anger. Hold button down to further increase resentment. \r",
+      "jp": "\t専用戦技「叩頭憤怒」\\n\\n指頭で激しくお辞儀をする戦技\\nそのままに憤怒をため爆発させる\\n長押しにより、憤怒は大きくなる\\n\r",
+      "zh": "\t专用战技：叩头之怒\\n\\n用头部指激动致意的战技。\\n致意之后会累积怒气，引发爆炸。\\n持续发动，怒气会累积得更多。\r"
+    }
+  },
+  "5420": {
+    "ArtsName": {
+      "en": "\tPainful Strike\r",
+      "jp": "\t痛打\r",
+      "zh": "\t痛击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Painful Strike\\n\\nA chastening whip strike, honed to maximize pain. Temporarily reduces the rate at which stamina recovers. Thus does the pain encourage obedience.\r",
+      "jp": "\t専用戦技「痛打」\\n\\n特に痛みを与えるための鞭の一撃\\n一時的にスタミナ回復速度を低下させる\\nそして、痛みは人を従順にする\\n\r",
+      "zh": "\t专用战技：痛击\\n\\n为了给予痛楚，特意使出的软鞭攻击。\\n能暂时降低精力的恢复速度。\\n痛楚，会使人屈服。\r"
+    }
+  },
+  "5430": {
+    "ArtsName": {
+      "en": "\tSolitary Moon Slash\r",
+      "jp": "\t弧月斬り\r",
+      "zh": "\t孤月斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Solitary Moon Slash\\n\\nSharply slash downward using the greatsword, shooting forward an arc of light. Strong attack allows for an advancing follow-up.\r",
+      "jp": "\t専用戦技「孤月斬り」\\n\\n大剣を鋭く斬り下ろし\\n弧状の光波を前方に放つ戦技\\n強攻撃で、前進する追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：孤月斩\\n\\n用大剑迅速下砍，\\n朝前方释放弧形光波的战技。\\n发动后使出重攻击，能向前移动、使出追击。\r"
+    }
+  },
+  "5440": {
+    "ArtsName": {
+      "en": "\tRevenge of the Night\r",
+      "jp": "\t夜の返報\r",
+      "zh": "\t黑夜式奉还\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Revenge of the Night\\n\\nUnleashes the dark of Night imbued with magic power. If used immediately after blocking an incoming attack, its power is absorbed, bolstering the strength of this skill.\r",
+      "jp": "\t専用戦技「夜の返報」\\n\\n夜の闇に魔力を込めて放つ戦技\\n攻撃をガードした直後に使うことで\\nその力を吸収し、威力が増す\\n\r",
+      "zh": "\t专用战技：黑夜式奉还\\n\\n对夜的黑暗灌注魔力，再行释放的战技。\\n在防住攻击的当下立刻发动，\\n能吸收攻击的力量，提升威力。\r"
+    }
+  },
+  "5450": {
+    "ArtsName": {
+      "en": "\tWeed Cutter\r",
+      "jp": "\t草刈り\r",
+      "zh": "\t割草\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Weed Cutter\\n\\nPerforms scythe-like horizontal swings with the sword, cutting men down as if they were weeds. Additional inputs allow for the continuation of the attack for as long as stamina remains.\r",
+      "jp": "\t専用戦技「草刈り」\\n\\n大きく剣を薙ぎ、無造作に人を刈る戦技\\n追加入力で、攻撃を継続することができ\\nスタミナが尽きるまで続けられる\\n\r",
+      "zh": "\t专用战技：割草\\n\\n大幅度挥舞剑，随意割除人命的战技。\\n再次发动，能持续进行攻击，\\n直到精力耗尽才会停止。\r"
+    }
+  },
+  "5460": {
+    "ArtsName": {
+      "en": "\tBlindfold of Happiness\r",
+      "jp": "\t幸せな目隠し\r",
+      "zh": "\t幸福遮眼\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Blindfold of Happiness\\n\\nSwing the head while covering the eyes, unleashing a wail of lamentation while temporarily making the user of this skill harder to see. To those who seek happiness, blindness is bliss.\r",
+      "jp": "\t専用戦技「幸せな目隠し」\\n\\n瞳を塞ぎながら顔を揺らし、嘆き声と共に\\n使用者の姿を一時的に見え難くする戦技\\n幸せになりたければ、何も見ないことだ\\n\r",
+      "zh": "\t专用战技：幸福遮眼\\n\\n遮住头颅的双眼、摇动头颅。\\n发出喟叹声的同时，\\n让发动者的身影暂时难以辨识的战技。\\n想得到幸福，就视而不见吧。\r"
+    }
+  },
+  "5470": {
+    "ArtsName": {
+      "en": "\tJori's Inquisition\r",
+      "jp": "\tイオリの責問\r",
+      "zh": "\t约里的拷问\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Jori's Inquisition\\n\\nThrust the greatstaff into the air, firing off a succession of golden barb-like arcs. Holding the button down extends the barrage for a short duration.\r",
+      "jp": "\t専用戦技「イオリの責問」\\n\\n大杖を突きつけるように掲げ\\n逆棘の似姿たる黄金の弧を連続で放つ戦技\\n長押しにより、暫くの間放ち続ける\\n\r",
+      "zh": "\t专用战技：约里的拷问\\n\\n面向敌人举起大杖，\\n连续释放形似倒刺的黄金弯弧。\\n持续发动，会在短暂时间内继续释放。\r"
+    }
+  },
+  "5480": {
+    "ArtsName": {
+      "en": "\tRoaring Bash\r",
+      "jp": "\t咆哮バッシュ\r",
+      "zh": "\t咆哮冲击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Roaring Bash\\n\\nRoar like a golden lion and deliver a shield bash from a guarding position. Knocks back and staggers foes over a wide radius.\r",
+      "jp": "\t専用戦技「咆哮バッシュ」\\n\\n黄金獅子の咆哮と共に\\nガードしたままの盾を叩き付ける戦技\\n敵を押し出し、よろめかせる範囲が広い\\n\r",
+      "zh": "\t专用战技：咆哮冲击\\n\\n黄金狮子发出咆哮的同时，举起盾牌，\\n再以防御姿势，直接用盾牌推击的战技。\\n推动敌人，或让敌人失去平衡的有效范围较广。\r"
+    }
+  },
+  "5490": {
+    "ArtsName": {
+      "en": "\tDeadly Poison Spray\r",
+      "jp": "\t猛毒散布\r",
+      "zh": "\t释放剧毒\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Deadly Poison Spray\\n\\nSwings the perfume bottle overhead, wafting perfumed powder of deadly poison over a wide area. Poison shall dance upon the air and pour down in quiet calm.\r",
+      "jp": "\t専用戦技「猛毒散布」\\n\\n調香瓶を頭上で大きく振り回し\\n広範囲に猛毒の香粉を散布する戦技\\n猛毒は美しく舞い、静かに降り注ぐ\\n\r",
+      "zh": "\t专用战技：释放剧毒\\n\\n拿出调香瓶，高举过头大幅挥动，\\n大范围释放剧毒香粉的战技。\\n剧毒优美舞动，悄然洒落。\r"
+    }
+  },
+  "5500": {
+    "ArtsName": {
+      "en": "\tFlare, O Serpent\r",
+      "jp": "\t蛇よ燃えろ\r",
+      "zh": "\t蛇啊，燃烧吧\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Flare, O Serpent\\n\\nIgnites a flame inside the snakes, temporarily empowering flame attacks. Once ignited, strong attacks and other moves that strike the ground will cause an explosion.\r",
+      "jp": "\t専用戦技「蛇よ燃えろ」\\n\\n蛇の内にある火を燃え上がらせ\\n一時的に、炎攻撃力を高める戦技\\nその状態で、強攻撃などで地面を叩いたとき\\n衝撃により爆発が発生する\\n\r",
+      "zh": "\t专用战技：蛇啊，燃烧吧\\n\\n在蛇的内部燃起烈火，\\n暂时提升火属性攻击力的战技。\\n在此状态下，使出重攻击等等，\\n敲击地面的动作时，会因为冲击而产生爆炸。\r"
+    }
+  },
+  "5510": {
+    "ArtsName": {
+      "en": "\tScattershot (Claws)\r",
+      "jp": "\t散弾投擲・爪\r",
+      "zh": "\t多重投掷之爪\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Scattershot (Claws)\\n\\nEmploy smithing arts to conjure multiple copies of the claws in both hands and throw them all at once. Follow up with an additional input to throw again.\r",
+      "jp": "\t専用戦技「散弾投擲・爪」\\n\\n鍛冶術により、両手に爪を複製し\\n多数を同時に投擲する戦技\\n追加入力で、もう一度投擲する\\n\r",
+      "zh": "\t专用战技：多重投掷之爪\\n\\n透过锻造术的力量，在双手复制出钩爪，\\n再同时、大量投掷出去的战技。\\n再次发动能再一次投掷。\r"
+    }
+  },
+  "5520": {
+    "ArtsName": {
+      "en": "\tHone Blade\r",
+      "jp": "\t刃研ぎ\r",
+      "zh": "\t磨刀\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Hone Blade\\n\\nPerform a stroking action to sharpen blade, honing its cutting edge and increasing amount of HP recovered. The greater potentates treasure the tools of their practice.\r",
+      "jp": "\t専用戦技「刃研ぎ」\\n\\n刃を撫でるように研ぐことで\\n切れ味を高め、ＨＰの回復量を増す戦技\\n大壺師たちは、生業の道具を大事にする\\n\r",
+      "zh": "\t专用战技：磨刀\\n\\n轻柔地磨刀，提升刀的锋利度，\\n同时提升血量恢复量的战技。\\n大维壶师们很珍惜赖以为生的工具。\r"
+    }
+  },
+  "5530": {
+    "ArtsName": {
+      "en": "\tHorn Calling\r",
+      "jp": "\t角降ろし\r",
+      "zh": "\t角降临\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Horn Calling\\n\\nInvokes tangled horns to cover the weapon's blade. Drive the weapon into the ground, calling up a cluster of piercing horns.\r",
+      "jp": "\t専用戦技「角降ろし」\\n\\n刀身に混じり角を降ろす戦技\\nそのまま武器を地面に刺し\\n突き上げる角の刺を生成する\\n\r",
+      "zh": "\t专用战技：角降临\\n\\n让混生角降临剑身的战技。\\n直接将武器刺入地面，\\n能形成向上刺起的角刺。\r"
+    }
+  },
+  "5540": {
+    "ArtsName": {
+      "en": "\tHorn Calling: Storm\r",
+      "jp": "\t角降ろし・嵐\r",
+      "zh": "\t角降临之风暴\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Horn Calling: Storm\\n\\nInvokes tangled horns to cover the weapon's blade. Call a storm into the horns, then mow through enemies. Additional inputs allow for up to two follow-up attacks.\r",
+      "jp": "\t専用戦技「角降ろし・嵐」\\n\\n刀身に混じり角を降ろす戦技\\nその角に嵐を呼び、敵を薙ぎ払う\\n追加入力で、二度まで追撃に繋げられる\\n\r",
+      "zh": "\t专用战技：角降临之风暴\\n\\n让混生角降临剑身的战技。\\n能以混生角唤起风暴，横扫敌人。\\n再次发动能使出最多两次的追击。\r"
+    }
+  },
+  "5550": {
+    "ArtsName": {
+      "en": "\tTremendous Phalanx\r",
+      "jp": "\t巨剣陣\r",
+      "zh": "\t巨剑阵\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Tremendous Phalanx\\n\\nSkill of the enchanted troll knights. Creates a defensive arch of enormous magic glintblades overhead, which automatically attack nearby foes. Follow up with a strong attack to chain this skill into a lunging thrust.\r",
+      "jp": "\t専用戦技「巨剣陣」\\n\\nトロルの魔術騎士たちの戦技\\n巨大な魔力の輝剣で、円陣を展開する\\n輝剣は、自動的に近い敵に向かい飛ぶ\\n強攻撃で、大きく踏み込む突きに繋げられる\\n\r",
+      "zh": "\t专用战技：巨剑阵\\n\\n山妖魔法骑士们使用的战技。\\n能形成巨型魔力辉剑排成的圆阵。\\n辉剑会自动飞向、攻击附近的敌人。\\n发动后使出重攻击，能向前大幅跨出、突刺攻击。\r"
+    }
+  },
+  "5560": {
+    "ArtsName": {
+      "en": "\tBloodfiends' Bloodboon\r",
+      "jp": "\t血鬼の血授\r",
+      "zh": "\t血怪授血\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Bloodfiends' Bloodboon\\n\\nRaise the sacred spear and pierce the body of the mother of truth, creating an explosion of bloodflame in the area surrounding the target. Additional input allows for up to three follow-up attacks.\r",
+      "jp": "\t専用戦技「血鬼の血授」\\n\\n聖槍を掲げ、真実の母の身体を刺す戦技\\n対象の周囲に血炎の爆発を生じる\\n追加入力で、三度まで連続で使用できる\\n\r",
+      "zh": "\t专用战技：血怪授血\\n\\n高举圣矛，刺进真实之母体内的战技。\\n能在敌人周围形成血焰爆炸。\\n再次发动，能连续使出最多三次。\r"
+    }
+  },
+  "5570": {
+    "ArtsName": {
+      "en": "\tDragonform Flame\r",
+      "jp": "\t竜姿の炎\r",
+      "zh": "\t龙形火焰\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Dragonform Flame\\n\\nSpew fire from a dragon-form maw, sweeping in a frontward arc. The flames on the ground will continue to burn for a short time.\r",
+      "jp": "\t専用戦技「竜姿の炎」\\n\\n竜姿の口から炎を吹かせる戦技\\n左右に揺れながら、前方を焼き払う\\nその炎は、少しの間、地面を燃やし続ける\\n\r",
+      "zh": "\t专用战技：龙形火焰\\n\\n从龙造型的嘴巴部分，喷出火焰的战技。\\n能朝前方左右横扫喷火。\\n火焰会短暂停留，持续燃烧地面。\r"
+    }
+  },
+  "5580": {
+    "ArtsName": {
+      "en": "\tLightspeed Slash\r",
+      "jp": "\t光速斬\r",
+      "zh": "\t光速斩\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Lightspeed Slash\\n\\nAssume a luminous form and leap forward to deliver a downward slash at the speed of light. This attack will be followed up by an additional light attack. Charge to increase power of the skill and number of follow-up attacks.\r",
+      "jp": "\t専用戦技「光速斬」\\n\\n自ら光となって跳び、光速で斬り下ろす戦技\\nその攻撃には、連続で光の追撃が発生する\\nタメ使用で強化され、追撃数が増える\\n\r",
+      "zh": "\t专用战技：光速斩\\n\\n将自身化成光，跳起后光速下砍的战技。\\n攻击之后会形成光的连续追击。\\n借由蓄力发动，能强化威力、增加追击次数。\r"
+    }
+  },
+  "5600": {
+    "ArtsName": {
+      "en": "\tRancor Shot\r",
+      "jp": "\t怨霊撃ち\r",
+      "zh": "\t怨魂射击\r"
+    },
+    "ArtsCaption": {
+      "en": "\tUnique Skill: Rancor Shot\\n\\nImbue arrows with vengeful spirits, before firing off a barrage. Imbued arrows chase down foes as they cut through the air.\r",
+      "jp": "\t専用戦技「怨霊撃ち」\\n\\n矢に怨霊を呼び、それを連続で射る戦技\\n怨霊の矢は、敵に追いすがるように飛ぶ\\n\r",
+      "zh": "\t专用战技：怨魂射击\\n\\n召唤怨魂附在箭上，再连续射击的战技。\\n附有怨魂的箭会穷追不舍地追踪敌人。\r"
+    }
+  },
+  "": {
+    "ArtsName": { "en": "", "jp": "", "zh": "" },
+    "ArtsCaption": { "en": "", "jp": "", "zh": "" }
+  }
+}

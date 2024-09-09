@@ -1,0 +1,7034 @@
+{
+  "10000": {
+    "PlaceName": {
+      "en": "\tStormveil Castle\r",
+      "jp": "\tストームヴィル城\r",
+      "zh": "\t史东薇尔城\r"
+    }
+  },
+  "10010": {
+    "PlaceName": {
+      "en": "\tChapel of Anticipation\r",
+      "jp": "\t王を待つ礼拝堂\r",
+      "zh": "\t候王礼拜堂\r"
+    }
+  },
+  "11000": {
+    "PlaceName": {
+      "en": "\tLeyndell, Royal Capital\r",
+      "jp": "\t王都ローデイル\r",
+      "zh": "\t王城罗德尔\r"
+    }
+  },
+  "11050": {
+    "PlaceName": {
+      "en": "\tLeyndell, Ashen Capital\r",
+      "jp": "\t灰都ローデイル\r",
+      "zh": "\t灰城罗德尔\r"
+    }
+  },
+  "11100": {
+    "PlaceName": {
+      "en": "\tRoundtable Hold\r",
+      "jp": "\t円卓\r",
+      "zh": "\t圆桌厅堂\r"
+    }
+  },
+  "12010": {
+    "PlaceName": {
+      "en": "\tAinsel River Main\r",
+      "jp": "\tエインセル河本流\r",
+      "zh": "\t安瑟尔河主流\r"
+    }
+  },
+  "12011": {
+    "PlaceName": {
+      "en": "\tLake of Rot\r",
+      "jp": "\t腐れ湖\r",
+      "zh": "\t腐败湖\r"
+    }
+  },
+  "12012": {
+    "PlaceName": {
+      "en": "\tAinsel River\r",
+      "jp": "\tエインセル河\r",
+      "zh": "\t安瑟尔河\r"
+    }
+  },
+  "12020": {
+    "PlaceName": {
+      "en": "\tNokron, Eternal City\r",
+      "jp": "\t永遠の都、ノクローン\r",
+      "zh": "\t“永恒之城”诺克隆恩\r"
+    }
+  },
+  "12030": {
+    "PlaceName": {
+      "en": "\tDeeproot Depths\r",
+      "jp": "\t深き根の底\r",
+      "zh": "\t深根底层\r"
+    }
+  },
+  "12050": {
+    "PlaceName": {
+      "en": "\tMohgwyn Palace\r",
+      "jp": "\tモーグウィン王朝\r",
+      "zh": "\t蒙格温王朝\r"
+    }
+  },
+  "12070": {
+    "PlaceName": {
+      "en": "\tSiofra River\r",
+      "jp": "\tシーフラ河\r",
+      "zh": "\t希芙拉河\r"
+    }
+  },
+  "13000": {
+    "PlaceName": {
+      "en": "\tCrumbling Farum Azula\r",
+      "jp": "\t崩れゆくファルム・アズラ\r",
+      "zh": "\t逐渐崩毁的法姆·亚兹拉\r"
+    }
+  },
+  "14000": {
+    "PlaceName": {
+      "en": "\tAcademy of Raya Lucaria\r",
+      "jp": "\t魔術学院レアルカリア\r",
+      "zh": "\t魔法学院雷亚卢卡利亚\r"
+    }
+  },
+  "15000": {
+    "PlaceName": {
+      "en": "\tElphael, Brace of the Haligtree\r",
+      "jp": "\t聖樹の支え、エブレフェール\r",
+      "zh": "\t“圣树分枝”艾布雷菲尔\r"
+    }
+  },
+  "15001": {
+    "PlaceName": {
+      "en": "\tMiquella's Haligtree\r",
+      "jp": "\tミケラの聖樹\r",
+      "zh": "\t米凯拉的圣树\r"
+    }
+  },
+  "16000": {
+    "PlaceName": {
+      "en": "\tVolcano Manor\r",
+      "jp": "\t火山館\r",
+      "zh": "\t火山官邸\r"
+    }
+  },
+  "18000": {
+    "PlaceName": {
+      "en": "\tStranded Graveyard\r",
+      "jp": "\t漂着墓地\r",
+      "zh": "\t漂流墓地\r"
+    }
+  },
+  "18001": {
+    "PlaceName": {
+      "en": "\tFringefolk Hero's Grave\r",
+      "jp": "\t辺境の英雄墓\r",
+      "zh": "\t边境英雄墓地\r"
+    }
+  },
+  "19000": {
+    "PlaceName": {
+      "en": "\tStone Platform\r",
+      "jp": "\t石舞台\r",
+      "zh": "\t石舞台\r"
+    }
+  },
+  "20000": {
+    "PlaceName": {
+      "en": "\tBelurat, Tower Settlement\r",
+      "jp": "\t塔の街、ベルラート\r",
+      "zh": "\t“塔之镇”贝瑞特\r"
+    }
+  },
+  "20010": {
+    "PlaceName": {
+      "en": "\tEnir-Ilim\r",
+      "jp": "\tエニル・イリム\r",
+      "zh": "\t艾尼尔·伊利姆\r"
+    }
+  },
+  "21000": {
+    "PlaceName": {
+      "en": "\tShadow Keep\r",
+      "jp": "\t影の城\r",
+      "zh": "\t幽影城\r"
+    }
+  },
+  "21001": {
+    "PlaceName": {
+      "en": "\tShadow Keep, Church District\r",
+      "jp": "\t影の城、教区\r",
+      "zh": "\t幽影城（教区）\r"
+    }
+  },
+  "21010": {
+    "PlaceName": {
+      "en": "\tSpecimen Storehouse\r",
+      "jp": "\t種の保管庫\r",
+      "zh": "\t物种保藏库\r"
+    }
+  },
+  "22000": {
+    "PlaceName": {
+      "en": "\tStone Coffin Fissure\r",
+      "jp": "\t石棺の大穴\r",
+      "zh": "\t石棺大洞\r"
+    }
+  },
+  "28000": {
+    "PlaceName": {
+      "en": "\tMidra's Manse\r",
+      "jp": "\tミドラーの館\r",
+      "zh": "\t米德拉府邸\r"
+    }
+  },
+  "30000": {
+    "PlaceName": {
+      "en": "\tTombsward Catacombs\r",
+      "jp": "\t霊廟ヶ原の地下墓\r",
+      "zh": "\t灵庙原野地下墓地\r"
+    }
+  },
+  "30010": {
+    "PlaceName": {
+      "en": "\tImpaler's Catacombs\r",
+      "jp": "\t串刺しの地下墓\r",
+      "zh": "\t穿刺地下墓地\r"
+    }
+  },
+  "30020": {
+    "PlaceName": {
+      "en": "\tStormfoot Catacombs\r",
+      "jp": "\t嵐の麓の地下墓\r",
+      "zh": "\t风暴根脚的地下墓地\r"
+    }
+  },
+  "30030": {
+    "PlaceName": {
+      "en": "\tRoad's End Catacombs\r",
+      "jp": "\t行き止まりの地下墓\r",
+      "zh": "\t绝路地下墓地\r"
+    }
+  },
+  "30040": {
+    "PlaceName": {
+      "en": "\tMurkwater Catacombs\r",
+      "jp": "\t曇り川の地下墓\r",
+      "zh": "\t蒙流地下墓地\r"
+    }
+  },
+  "30050": {
+    "PlaceName": {
+      "en": "\tBlack Knife Catacombs\r",
+      "jp": "\t黒き刃の地下墓\r",
+      "zh": "\t黑刀地下墓地\r"
+    }
+  },
+  "30060": {
+    "PlaceName": {
+      "en": "\tCliffbottom Catacombs\r",
+      "jp": "\t断崖下の地下墓\r",
+      "zh": "\t断崖下的地下墓地\r"
+    }
+  },
+  "30070": {
+    "PlaceName": {
+      "en": "\tWyndham Catacombs\r",
+      "jp": "\tウィンダムの地下墓\r",
+      "zh": "\t威达姆地下墓地\r"
+    }
+  },
+  "30080": {
+    "PlaceName": {
+      "en": "\tSainted Hero's Grave\r",
+      "jp": "\t貴き者たちの英雄墓\r",
+      "zh": "\t尊贵者的英雄墓地\r"
+    }
+  },
+  "30090": {
+    "PlaceName": {
+      "en": "\tGelmir Hero's Grave\r",
+      "jp": "\tゲルミアの英雄墓\r",
+      "zh": "\t格密尔英雄墓地\r"
+    }
+  },
+  "30100": {
+    "PlaceName": {
+      "en": "\tAuriza Hero's Grave\r",
+      "jp": "\tアウレーザの英雄墓\r",
+      "zh": "\t亚雷萨英雄墓地\r"
+    }
+  },
+  "30110": {
+    "PlaceName": {
+      "en": "\tDeathtouched Catacombs\r",
+      "jp": "\t死に触れた地下墓\r",
+      "zh": "\t死亡降临的地下墓地\r"
+    }
+  },
+  "30120": {
+    "PlaceName": {
+      "en": "\tUnsightly Catacombs\r",
+      "jp": "\t醜き地下墓\r",
+      "zh": "\t丑恶地下墓地\r"
+    }
+  },
+  "30130": {
+    "PlaceName": {
+      "en": "\tAuriza Side Tomb\r",
+      "jp": "\tアウレーザの副墓\r",
+      "zh": "\t亚雷萨副墓地\r"
+    }
+  },
+  "30140": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree Catacombs\r",
+      "jp": "\t小黄金樹の地下墓\r",
+      "zh": "\t小黄金树地下墓地\r"
+    }
+  },
+  "30150": {
+    "PlaceName": {
+      "en": "\tCaelid Catacombs\r",
+      "jp": "\tケイリッドの地下墓\r",
+      "zh": "\t盖利德地下墓地\r"
+    }
+  },
+  "30160": {
+    "PlaceName": {
+      "en": "\tWar-Dead Catacombs\r",
+      "jp": "\t英霊たちの地下墓\r",
+      "zh": "\t英灵地下墓地\r"
+    }
+  },
+  "30170": {
+    "PlaceName": {
+      "en": "\tGiant-Conquering Hero's Grave\r",
+      "jp": "\t巨人戦争の英雄墓\r",
+      "zh": "\t巨人战争的英雄墓地\r"
+    }
+  },
+  "30180": {
+    "PlaceName": {
+      "en": "\tGiants' Mountaintop Catacombs\r",
+      "jp": "\t巨人山嶺の地下墓\r",
+      "zh": "\t巨人山顶地下墓地\r"
+    }
+  },
+  "30190": {
+    "PlaceName": {
+      "en": "\tConsecrated Snowfield Catacombs\r",
+      "jp": "\t聖別雪原の地下墓\r",
+      "zh": "\t化圣雪原地下墓地\r"
+    }
+  },
+  "30200": {
+    "PlaceName": {
+      "en": "\tHidden Path to the Haligtree\r",
+      "jp": "\t聖樹への秘路\r",
+      "zh": "\t通往圣树的密道\r"
+    }
+  },
+  "31000": {
+    "PlaceName": {
+      "en": "\tMurkwater Cave\r",
+      "jp": "\t曇り川の洞窟\r",
+      "zh": "\t蒙流洞窟\r"
+    }
+  },
+  "31010": {
+    "PlaceName": {
+      "en": "\tEarthbore Cave\r",
+      "jp": "\t穴下りの洞窟\r",
+      "zh": "\t垂穴洞窟\r"
+    }
+  },
+  "31020": {
+    "PlaceName": {
+      "en": "\tTombsward Cave\r",
+      "jp": "\t霊廟ヶ原の洞窟\r",
+      "zh": "\t灵庙原野洞窟\r"
+    }
+  },
+  "31030": {
+    "PlaceName": {
+      "en": "\tGroveside Cave\r",
+      "jp": "\t林脇の洞窟\r",
+      "zh": "\t近林洞窟\r"
+    }
+  },
+  "31040": {
+    "PlaceName": {
+      "en": "\tStillwater Cave\r",
+      "jp": "\t溜水の洞窟\r",
+      "zh": "\t留水洞窟\r"
+    }
+  },
+  "31050": {
+    "PlaceName": {
+      "en": "\tLakeside Crystal Cave\r",
+      "jp": "\t湖脇の結晶洞窟\r",
+      "zh": "\t湖旁结晶洞窟\r"
+    }
+  },
+  "31060": {
+    "PlaceName": {
+      "en": "\tAcademy Crystal Cave\r",
+      "jp": "\t学院の結晶洞窟\r",
+      "zh": "\t学院结晶洞窟\r"
+    }
+  },
+  "31070": {
+    "PlaceName": {
+      "en": "\tSeethewater Cave\r",
+      "jp": "\t煮え立ち川の洞窟\r",
+      "zh": "\t沸滚河洞窟\r"
+    }
+  },
+  "31090": {
+    "PlaceName": {
+      "en": "\tVolcano Cave\r",
+      "jp": "\t火山の洞窟\r",
+      "zh": "\t火山洞窟\r"
+    }
+  },
+  "31100": {
+    "PlaceName": {
+      "en": "\tDragonbarrow Cave\r",
+      "jp": "\t竜塚の洞窟\r",
+      "zh": "\t龙墓洞窟\r"
+    }
+  },
+  "31110": {
+    "PlaceName": {
+      "en": "\tSellia Hideaway\r",
+      "jp": "\tサリアの隠し洞窟\r",
+      "zh": "\t瑟利亚隐藏洞窟\r"
+    }
+  },
+  "31120": {
+    "PlaceName": {
+      "en": "\tCave of the Forlorn\r",
+      "jp": "\t寄る辺の洞窟\r",
+      "zh": "\t安身洞窟\r"
+    }
+  },
+  "31150": {
+    "PlaceName": {
+      "en": "\tCoastal Cave\r",
+      "jp": "\t海岸の洞窟\r",
+      "zh": "\t海岸洞窟\r"
+    }
+  },
+  "31170": {
+    "PlaceName": {
+      "en": "\tHighroad Cave\r",
+      "jp": "\t高路下の洞窟\r",
+      "zh": "\t大道下的洞窟\r"
+    }
+  },
+  "31180": {
+    "PlaceName": {
+      "en": "\tPerfumer's Grotto\r",
+      "jp": "\t調香師の隠し洞窟\r",
+      "zh": "\t调香师的隐藏洞窟\r"
+    }
+  },
+  "31190": {
+    "PlaceName": {
+      "en": "\tSage's Cave\r",
+      "jp": "\t賢者の洞窟\r",
+      "zh": "\t贤者的洞窟\r"
+    }
+  },
+  "31200": {
+    "PlaceName": {
+      "en": "\tAbandoned Cave\r",
+      "jp": "\t廃棄洞窟\r",
+      "zh": "\t废弃洞窟\r"
+    }
+  },
+  "31210": {
+    "PlaceName": {
+      "en": "\tGaol Cave\r",
+      "jp": "\t牢獄洞窟\r",
+      "zh": "\t牢狱洞窟\r"
+    }
+  },
+  "31220": {
+    "PlaceName": {
+      "en": "\tSpiritcaller Cave\r",
+      "jp": "\t霊喚びの洞窟\r",
+      "zh": "\t唤灵洞窟\r"
+    }
+  },
+  "32000": {
+    "PlaceName": {
+      "en": "\tMorne Tunnel\r",
+      "jp": "\tモーンの坑道\r",
+      "zh": "\t摩恩坑道\r"
+    }
+  },
+  "32010": {
+    "PlaceName": {
+      "en": "\tLimgrave Tunnels\r",
+      "jp": "\tリムグレイブ坑道\r",
+      "zh": "\t宁姆格福坑道\r"
+    }
+  },
+  "32020": {
+    "PlaceName": {
+      "en": "\tRaya Lucaria Crystal Tunnel\r",
+      "jp": "\tレアルカリア結晶坑道\r",
+      "zh": "\t雷亚卢卡利亚结晶坑道\r"
+    }
+  },
+  "32040": {
+    "PlaceName": {
+      "en": "\tOld Altus Tunnel\r",
+      "jp": "\t旧アルター坑道\r",
+      "zh": "\t旧亚坛坑道\r"
+    }
+  },
+  "32050": {
+    "PlaceName": {
+      "en": "\tAltus Tunnel\r",
+      "jp": "\tアルター坑道\r",
+      "zh": "\t亚坛坑道\r"
+    }
+  },
+  "32070": {
+    "PlaceName": {
+      "en": "\tGael Tunnel\r",
+      "jp": "\tゲール坑道\r",
+      "zh": "\t盖尔坑道\r"
+    }
+  },
+  "32080": {
+    "PlaceName": {
+      "en": "\tSellia Crystal Tunnel\r",
+      "jp": "\tサリアの結晶坑道\r",
+      "zh": "\t瑟利亚结晶坑道\r"
+    }
+  },
+  "32110": {
+    "PlaceName": {
+      "en": "\tYelough Anix Tunnel\r",
+      "jp": "\tイエロ・アニスの坑道\r",
+      "zh": "\t耶罗·亚尼斯坑道\r"
+    }
+  },
+  "34100": {
+    "PlaceName": {
+      "en": "\tDivine Tower of Limgrave\r",
+      "jp": "\tリムグレイブの神授塔\r",
+      "zh": "\t宁姆格福神授塔\r"
+    }
+  },
+  "34110": {
+    "PlaceName": {
+      "en": "\tCarian Study Hall\r",
+      "jp": "\tカーリアの書院\r",
+      "zh": "\t卡利亚书斋\r"
+    }
+  },
+  "34111": {
+    "PlaceName": {
+      "en": "\tDivine Tower of Liurnia\r",
+      "jp": "\tリエーニエの神授塔\r",
+      "zh": "\t利耶尼亚神授塔\r"
+    }
+  },
+  "34120": {
+    "PlaceName": {
+      "en": "\tSealed Tunnel\r",
+      "jp": "\t封印された坑道\r",
+      "zh": "\t封印坑道\r"
+    }
+  },
+  "34121": {
+    "PlaceName": {
+      "en": "\tDivine Tower of West Altus\r",
+      "jp": "\t西アルターの神授塔\r",
+      "zh": "\t西亚坛神授塔\r"
+    }
+  },
+  "34130": {
+    "PlaceName": {
+      "en": "\tDivine Tower of Caelid\r",
+      "jp": "\tケイリッドの神授塔\r",
+      "zh": "\t盖利德神授塔\r"
+    }
+  },
+  "34140": {
+    "PlaceName": {
+      "en": "\tDivine Tower of East Altus\r",
+      "jp": "\t東アルターの神授塔\r",
+      "zh": "\t东亚坛神授塔\r"
+    }
+  },
+  "34150": {
+    "PlaceName": {
+      "en": "\tIsolated Divine Tower\r",
+      "jp": "\t孤絶した神授塔\r",
+      "zh": "\t孤立神授塔\r"
+    }
+  },
+  "35000": {
+    "PlaceName": {
+      "en": "\tSubterranean Shunning-Grounds\r",
+      "jp": "\t忌み捨ての地下\r",
+      "zh": "\t弃置恶兆的地底\r"
+    }
+  },
+  "35002": {
+    "PlaceName": {
+      "en": "\tLeyndell Catacombs\r",
+      "jp": "\tローデイルの地下墓\r",
+      "zh": "\t罗德尔地下墓地\r"
+    }
+  },
+  "39200": {
+    "PlaceName": {
+      "en": "\tRuin-Strewn Precipice\r",
+      "jp": "\t古遺跡断崖\r",
+      "zh": "\t古遗迹断崖\r"
+    }
+  },
+  "40000": {
+    "PlaceName": {
+      "en": "\tFog Rift Catacombs\r",
+      "jp": "\t霧谷の地下墓\r",
+      "zh": "\t雾谷地下墓地\r"
+    }
+  },
+  "40010": {
+    "PlaceName": {
+      "en": "\tScorpion River Catacombs\r",
+      "jp": "\tサソリ川の地下墓\r",
+      "zh": "\t蝎河地下墓地\r"
+    }
+  },
+  "40020": {
+    "PlaceName": {
+      "en": "\tDarklight Catacombs\r",
+      "jp": "\t闇照らしの地下墓\r",
+      "zh": "\t驱暗地下墓地\r"
+    }
+  },
+  "41000": {
+    "PlaceName": {
+      "en": "\tBelurat Gaol\r",
+      "jp": "\tベルラートの牢獄\r",
+      "zh": "\t贝瑞特监牢\r"
+    }
+  },
+  "41010": {
+    "PlaceName": {
+      "en": "\tBonny Gaol\r",
+      "jp": "\tボニの牢獄\r",
+      "zh": "\t波尼监牢\r"
+    }
+  },
+  "41020": {
+    "PlaceName": {
+      "en": "\tLamenter's Gaol\r",
+      "jp": "\t嘆きの牢獄\r",
+      "zh": "\t喟叹监牢\r"
+    }
+  },
+  "42000": {
+    "PlaceName": {
+      "en": "\tRuined Forge Lava Intake\r",
+      "jp": "\t溶岩筒の鍛冶遺跡\r",
+      "zh": "\t熔岩管锻造遗迹\r"
+    }
+  },
+  "42020": {
+    "PlaceName": {
+      "en": "\tRuined Forge of Starfall Past\r",
+      "jp": "\t古隕鉄の鍛冶遺跡\r",
+      "zh": "\t古铁陨石锻造遗迹\r"
+    }
+  },
+  "42030": {
+    "PlaceName": {
+      "en": "\tTaylew's Ruined Forge\r",
+      "jp": "\tテウルの鍛冶遺跡\r",
+      "zh": "\t泰乌尔锻造遗迹\r"
+    }
+  },
+  "43000": {
+    "PlaceName": {
+      "en": "\tRivermouth Cave\r",
+      "jp": "\t川終わりの洞窟\r",
+      "zh": "\t河尾洞窟\r"
+    }
+  },
+  "43010": {
+    "PlaceName": {
+      "en": "\tDragon's Pit\r",
+      "jp": "\t竜の穴\r",
+      "zh": "\t龙洞\r"
+    }
+  },
+  "61000": {
+    "PlaceName": {
+      "en": "\tLimgrave\r",
+      "jp": "\tリムグレイブ\r",
+      "zh": "\t宁姆格福\r"
+    }
+  },
+  "61001": {
+    "PlaceName": {
+      "en": "\tStormhill\r",
+      "jp": "\t嵐の丘\r",
+      "zh": "\t风暴山丘\r"
+    }
+  },
+  "61002": {
+    "PlaceName": {
+      "en": "\tWeeping Peninsula\r",
+      "jp": "\t啜り泣きの半島\r",
+      "zh": "\t啜泣半岛\r"
+    }
+  },
+  "62000": {
+    "PlaceName": {
+      "en": "\tLiurnia of the Lakes\r",
+      "jp": "\t湖のリエーニエ\r",
+      "zh": "\t湖之利耶尼亚\r"
+    }
+  },
+  "62001": {
+    "PlaceName": {
+      "en": "\tBellum Highway\r",
+      "jp": "\tベイルム街道\r",
+      "zh": "\t彼鲁姆大道\r"
+    }
+  },
+  "62002": {
+    "PlaceName": {
+      "en": "\tMoonlight Altar\r",
+      "jp": "\t月光の祭壇\r",
+      "zh": "\t月光祭坛\r"
+    }
+  },
+  "63000": {
+    "PlaceName": {
+      "en": "\tAltus Plateau\r",
+      "jp": "\tアルター高原\r",
+      "zh": "\t亚坛高原\r"
+    }
+  },
+  "63001": {
+    "PlaceName": {
+      "en": "\tMt. Gelmir\r",
+      "jp": "\tゲルミア火山\r",
+      "zh": "\t格密尔火山\r"
+    }
+  },
+  "63002": {
+    "PlaceName": {
+      "en": "\tCapital Outskirts\r",
+      "jp": "\t王都外廓\r",
+      "zh": "\t王城外围\r"
+    }
+  },
+  "63003": {
+    "PlaceName": {
+      "en": "\tForbidden Lands\r",
+      "jp": "\t禁域\r",
+      "zh": "\t禁域\r"
+    }
+  },
+  "64000": {
+    "PlaceName": {
+      "en": "\tCaelid\r",
+      "jp": "\tケイリッド\r",
+      "zh": "\t盖利德\r"
+    }
+  },
+  "64001": {
+    "PlaceName": {
+      "en": "\tGreyoll's Dragonbarrow\r",
+      "jp": "\tグレイオールの竜塚\r",
+      "zh": "\t桂奥尔龙墓\r"
+    }
+  },
+  "64002": {
+    "PlaceName": {
+      "en": "\tSwamp of Aeonia\r",
+      "jp": "\tエオニアの沼\r",
+      "zh": "\t艾奥尼亚沼泽\r"
+    }
+  },
+  "65000": {
+    "PlaceName": {
+      "en": "\tMountaintops of the Giants\r",
+      "jp": "\t巨人たちの山嶺\r",
+      "zh": "\t巨人山顶\r"
+    }
+  },
+  "65001": {
+    "PlaceName": {
+      "en": "\tFlame Peak\r",
+      "jp": "\t火の頂\r",
+      "zh": "\t火焰之巅\r"
+    }
+  },
+  "65002": {
+    "PlaceName": {
+      "en": "\tConsecrated Snowfield\r",
+      "jp": "\t聖別雪原\r",
+      "zh": "\t化圣雪原\r"
+    }
+  },
+  "68000": {
+    "PlaceName": {
+      "en": "\tGravesite Plain\r",
+      "jp": "\t墓地平原\r",
+      "zh": "\t墓地平原\r"
+    }
+  },
+  "68200": {
+    "PlaceName": {
+      "en": "\tCastle Ensis\r",
+      "jp": "\tエンシスの城砦\r",
+      "zh": "\t恩希斯城\r"
+    }
+  },
+  "68300": {
+    "PlaceName": {
+      "en": "\tCerulean Coast\r",
+      "jp": "\t青海岸\r",
+      "zh": "\t青蓝海岸\r"
+    }
+  },
+  "68400": {
+    "PlaceName": {
+      "en": "\tCharo's Hidden Grave\r",
+      "jp": "\tカロの隠し墓地\r",
+      "zh": "\t卡罗隐藏墓地\r"
+    }
+  },
+  "68500": {
+    "PlaceName": {
+      "en": "\tJagged Peak\r",
+      "jp": "\tギザ山\r",
+      "zh": "\t尖刺山\r"
+    }
+  },
+  "68501": {
+    "PlaceName": {
+      "en": "\tFoot of the Jagged Peak\r",
+      "jp": "\tギザ山の麓\r",
+      "zh": "\t尖刺山的山脚\r"
+    }
+  },
+  "68600": {
+    "PlaceName": {
+      "en": "\tAbyssal Woods\r",
+      "jp": "\t奈落の森\r",
+      "zh": "\t谷底森林\r"
+    }
+  },
+  "69000": {
+    "PlaceName": {
+      "en": "\tScadu Altus\r",
+      "jp": "\t影のアルター\r",
+      "zh": "\t幽影亚坛\r"
+    }
+  },
+  "69001": {
+    "PlaceName": {
+      "en": "\tRauh Base\r",
+      "jp": "\tラウフの麓\r",
+      "zh": "\t劳弗下方\r"
+    }
+  },
+  "69200": {
+    "PlaceName": {
+      "en": "\tScaduview\r",
+      "jp": "\t影を仰ぐ露台\r",
+      "zh": "\t望影露台\r"
+    }
+  },
+  "69400": {
+    "PlaceName": {
+      "en": "\tAncient Ruins of Rauh\r",
+      "jp": "\tラウフの古遺跡\r",
+      "zh": "\t劳弗古遗迹\r"
+    }
+  },
+  "100000": {
+    "PlaceName": {
+      "en": "\tGodrick the Grafted\r",
+      "jp": "\t接ぎ木のゴドリック\r",
+      "zh": "\t“接肢”葛瑞克\r"
+    }
+  },
+  "100001": {
+    "PlaceName": {
+      "en": "\tMargit, the Fell Omen\r",
+      "jp": "\t忌み鬼、マルギット\r",
+      "zh": "\t“恶兆妖鬼”玛尔基特\r"
+    }
+  },
+  "100002": {
+    "PlaceName": {
+      "en": "\tCastleward Tunnel\r",
+      "jp": "\t城に向かう隧道\r",
+      "zh": "\t通城隧道\r"
+    }
+  },
+  "100003": {
+    "PlaceName": {
+      "en": "\tGateside Chamber\r",
+      "jp": "\t城門脇の小部屋\r",
+      "zh": "\t门旁小屋\r"
+    }
+  },
+  "100004": {
+    "PlaceName": {
+      "en": "\tStormveil Cliffside\r",
+      "jp": "\tストームヴィル断崖\r",
+      "zh": "\t史东薇尔断崖\r"
+    }
+  },
+  "100005": {
+    "PlaceName": {
+      "en": "\tRampart Tower\r",
+      "jp": "\t城壁の塔\r",
+      "zh": "\t城墙塔\r"
+    }
+  },
+  "100006": {
+    "PlaceName": {
+      "en": "\tLiftside Chamber\r",
+      "jp": "\t昇降機側の部屋\r",
+      "zh": "\t升降机旁房间\r"
+    }
+  },
+  "100007": {
+    "PlaceName": {
+      "en": "\tSecluded Cell\r",
+      "jp": "\t奥まった小部屋\r",
+      "zh": "\t深处小房间\r"
+    }
+  },
+  "100008": {
+    "PlaceName": {
+      "en": "\tStormveil Main Gate\r",
+      "jp": "\tストームヴィル正門\r",
+      "zh": "\t史东薇尔正门\r"
+    }
+  },
+  "110000": {
+    "PlaceName": {
+      "en": "\tElden Throne\r",
+      "jp": "\tエルデの王座\r",
+      "zh": "\t艾尔登宝座\r"
+    }
+  },
+  "110001": {
+    "PlaceName": {
+      "en": "\tErdtree Sanctuary\r",
+      "jp": "\t黄金樹の大聖堂\r",
+      "zh": "\t黄金树大教堂\r"
+    }
+  },
+  "110002": {
+    "PlaceName": {
+      "en": "\tEast Capital Rampart\r",
+      "jp": "\t王都東城壁\r",
+      "zh": "\t王城东边城墙\r"
+    }
+  },
+  "110003": {
+    "PlaceName": {
+      "en": "\tLower Capital Church\r",
+      "jp": "\t王都下層、教会\r",
+      "zh": "\t王城底层教堂\r"
+    }
+  },
+  "110004": {
+    "PlaceName": {
+      "en": "\tAvenue Balcony\r",
+      "jp": "\t大通り脇の露台\r",
+      "zh": "\t大道旁露台\r"
+    }
+  },
+  "110005": {
+    "PlaceName": {
+      "en": "\tWest Capital Rampart\r",
+      "jp": "\t王都西城壁\r",
+      "zh": "\t王城西边城墙\r"
+    }
+  },
+  "110007": {
+    "PlaceName": {
+      "en": "\tQueen's Bedchamber\r",
+      "jp": "\t女王の閨\r",
+      "zh": "\t女王闺阁\r"
+    }
+  },
+  "110008": {
+    "PlaceName": {
+      "en": "\tFortified Manor, First Floor\r",
+      "jp": "\t城館一階\r",
+      "zh": "\t城寨一楼\r"
+    }
+  },
+  "110009": {
+    "PlaceName": {
+      "en": "\tDivine Bridge\r",
+      "jp": "\t神授橋\r",
+      "zh": "\t神授桥\r"
+    }
+  },
+  "110070": {
+    "PlaceName": {
+      "en": "\tVolcano Manor Request: Vargram\r",
+      "jp": "\t火山館からの依頼「バルグラム」\r",
+      "zh": "\t火山官邸的委托：巴格莱姆\r"
+    }
+  },
+  "110500": {
+    "PlaceName": {
+      "en": "\tElden Throne\r",
+      "jp": "\tエルデの王座\r",
+      "zh": "\t艾尔登宝座\r"
+    }
+  },
+  "110501": {
+    "PlaceName": {
+      "en": "\tErdtree Sanctuary\r",
+      "jp": "\t黄金樹の大聖堂\r",
+      "zh": "\t黄金树大教堂\r"
+    }
+  },
+  "110502": {
+    "PlaceName": {
+      "en": "\tEast Capital Rampart\r",
+      "jp": "\t王都東城壁\r",
+      "zh": "\t王城东边城墙\r"
+    }
+  },
+  "110503": {
+    "PlaceName": {
+      "en": "\tLeyndell, Capital of Ash\r",
+      "jp": "\t灰の王都、ローデイル\r",
+      "zh": "\t“灰烬王城”罗德尔\r"
+    }
+  },
+  "110504": {
+    "PlaceName": {
+      "en": "\tQueen's Bedchamber\r",
+      "jp": "\t女王の閨\r",
+      "zh": "\t女王闺阁\r"
+    }
+  },
+  "110505": {
+    "PlaceName": {
+      "en": "\tDivine Bridge\r",
+      "jp": "\t神授橋\r",
+      "zh": "\t神授桥\r"
+    }
+  },
+  "111000": {
+    "PlaceName": {
+      "en": "\tTable of Lost Grace\r",
+      "jp": "\t大祝福\r",
+      "zh": "\t大赐福\r"
+    }
+  },
+  "120100": {
+    "PlaceName": {
+      "en": "\tDragonkin Soldier of Nokstella\r",
+      "jp": "\tノクステラの竜人兵\r",
+      "zh": "\t诺克史黛拉的龙人士兵\r"
+    }
+  },
+  "120101": {
+    "PlaceName": {
+      "en": "\tAinsel River Well Depths\r",
+      "jp": "\tエインセル河、井戸下\r",
+      "zh": "\t安瑟尔河（井底）\r"
+    }
+  },
+  "120102": {
+    "PlaceName": {
+      "en": "\tAinsel River Sluice Gate\r",
+      "jp": "\tエインセル河、水門\r",
+      "zh": "\t安瑟尔河（水门）\r"
+    }
+  },
+  "120103": {
+    "PlaceName": {
+      "en": "\tAinsel River Downstream\r",
+      "jp": "\tエインセル河、下流\r",
+      "zh": "\t安瑟尔河（下游）\r"
+    }
+  },
+  "120104": {
+    "PlaceName": {
+      "en": "\tAinsel River Main\r",
+      "jp": "\tエインセル河本流\r",
+      "zh": "\t安瑟尔河主流\r"
+    }
+  },
+  "120105": {
+    "PlaceName": {
+      "en": "\tNokstella, Eternal City\r",
+      "jp": "\t永遠の都、ノクステラ\r",
+      "zh": "\t“永恒之城”诺克史黛拉\r"
+    }
+  },
+  "120106": {
+    "PlaceName": {
+      "en": "\tLake of Rot Shoreside\r",
+      "jp": "\t腐れ湖の岸\r",
+      "zh": "\t腐败湖畔\r"
+    }
+  },
+  "120107": {
+    "PlaceName": {
+      "en": "\tLake of Rot\r",
+      "jp": "\t腐れ湖\r",
+      "zh": "\t腐败湖\r"
+    }
+  },
+  "120108": {
+    "PlaceName": {
+      "en": "\tGrand Cloister\r",
+      "jp": "\t大回廊\r",
+      "zh": "\t大回廊\r"
+    }
+  },
+  "120109": {
+    "PlaceName": {
+      "en": "\tNokstella Waterfall Basin\r",
+      "jp": "\tノクステラ滝壺\r",
+      "zh": "\t诺克史黛拉水潭\r"
+    }
+  },
+  "120200": {
+    "PlaceName": {
+      "en": "\tGreat Waterfall Basin\r",
+      "jp": "\t大滝壺\r",
+      "zh": "\t大瀑布水潭\r"
+    }
+  },
+  "120201": {
+    "PlaceName": {
+      "en": "\tMimic Tear\r",
+      "jp": "\t写し身の雫\r",
+      "zh": "\t仿身泪滴\r"
+    }
+  },
+  "120203": {
+    "PlaceName": {
+      "en": "\tSiofra River Bank\r",
+      "jp": "\tシーフラ河、岸辺\r",
+      "zh": "\t希芙拉河（岸边）\r"
+    }
+  },
+  "120204": {
+    "PlaceName": {
+      "en": "\tWorshippers' Woods\r",
+      "jp": "\t信奉者の森\r",
+      "zh": "\t信仰者森林\r"
+    }
+  },
+  "120206": {
+    "PlaceName": {
+      "en": "\tAncestral Woods\r",
+      "jp": "\t祖霊の森\r",
+      "zh": "\t祖灵森林\r"
+    }
+  },
+  "120207": {
+    "PlaceName": {
+      "en": "\tAqueduct-Facing Cliffs\r",
+      "jp": "\t水道橋を臨む断崖\r",
+      "zh": "\t导水桥旁断崖\r"
+    }
+  },
+  "120208": {
+    "PlaceName": {
+      "en": "\tNight's Sacred Ground\r",
+      "jp": "\t夜の神域\r",
+      "zh": "\t黑夜神域\r"
+    }
+  },
+  "120209": {
+    "PlaceName": {
+      "en": "\tBelow the Well\r",
+      "jp": "\t奥井戸の下\r",
+      "zh": "\t出口井的下方\r"
+    }
+  },
+  "120300": {
+    "PlaceName": {
+      "en": "\tPrince of Death's Throne\r",
+      "jp": "\t死王子の座\r",
+      "zh": "\t死王子宝座\r"
+    }
+  },
+  "120301": {
+    "PlaceName": {
+      "en": "\tRoot-Facing Cliffs\r",
+      "jp": "\t根を臨む断崖\r",
+      "zh": "\t树根旁断崖\r"
+    }
+  },
+  "120302": {
+    "PlaceName": {
+      "en": "\tGreat Waterfall Crest\r",
+      "jp": "\t大滝口\r",
+      "zh": "\t大瀑布顶端\r"
+    }
+  },
+  "120303": {
+    "PlaceName": {
+      "en": "\tDeeproot Depths\r",
+      "jp": "\t深き根の底\r",
+      "zh": "\t深根底层\r"
+    }
+  },
+  "120304": {
+    "PlaceName": {
+      "en": "\tThe Nameless Eternal City\r",
+      "jp": "\t名も無き永遠の都\r",
+      "zh": "\t无名永恒之城\r"
+    }
+  },
+  "120305": {
+    "PlaceName": {
+      "en": "\tAcross the Roots\r",
+      "jp": "\t根渡りの先\r",
+      "zh": "\t树根前路\r"
+    }
+  },
+  "120400": {
+    "PlaceName": {
+      "en": "\tAstel, Naturalborn of the Void\r",
+      "jp": "\t暗黒の落とし子、アステール\r",
+      "zh": "\t“黑暗弃子”艾丝缇\r"
+    }
+  },
+  "120500": {
+    "PlaceName": {
+      "en": "\tCocoon of the Empyrean\r",
+      "jp": "\t神人眠りの繭\r",
+      "zh": "\t神人坠眠之茧\r"
+    }
+  },
+  "120501": {
+    "PlaceName": {
+      "en": "\tPalace Approach Ledge-Road\r",
+      "jp": "\t王朝に至る崖路\r",
+      "zh": "\t通往王朝的崖上道路\r"
+    }
+  },
+  "120502": {
+    "PlaceName": {
+      "en": "\tDynasty Mausoleum Entrance\r",
+      "jp": "\t王朝廟入口\r",
+      "zh": "\t王朝庙（入口）\r"
+    }
+  },
+  "120503": {
+    "PlaceName": {
+      "en": "\tDynasty Mausoleum Midpoint\r",
+      "jp": "\t王朝廟中腹\r",
+      "zh": "\t王朝庙（中段）\r"
+    }
+  },
+  "120700": {
+    "PlaceName": {
+      "en": "\tSiofra River Well Depths\r",
+      "jp": "\tシーフラ河、井戸下\r",
+      "zh": "\t希芙拉河（井底）\r"
+    }
+  },
+  "120701": {
+    "PlaceName": {
+      "en": "\tNokron, Eternal City\r",
+      "jp": "\t永遠の都、ノクローン\r",
+      "zh": "\t“永恒之城”诺克隆恩\r"
+    }
+  },
+  "130000": {
+    "PlaceName": {
+      "en": "\tMaliketh, the Black Blade\r",
+      "jp": "\t黒き剣のマリケス\r",
+      "zh": "\t“黑剑”玛利喀斯\r"
+    }
+  },
+  "130001": {
+    "PlaceName": {
+      "en": "\tDragonlord Placidusax\r",
+      "jp": "\t竜王プラキドサクス\r",
+      "zh": "\t“龙王”普拉顿桑克斯\r"
+    }
+  },
+  "130002": {
+    "PlaceName": {
+      "en": "\tDragon Temple Altar\r",
+      "jp": "\t竜聖堂の祭壇\r",
+      "zh": "\t龙教堂祭坛\r"
+    }
+  },
+  "130003": {
+    "PlaceName": {
+      "en": "\tCrumbling Beast Grave\r",
+      "jp": "\t崩れゆく獣墓\r",
+      "zh": "\t渐毁野兽墓\r"
+    }
+  },
+  "130004": {
+    "PlaceName": {
+      "en": "\tCrumbling Beast Grave Depths\r",
+      "jp": "\t崩れゆく獣墓、奥部\r",
+      "zh": "\t渐毁野兽墓（深处）\r"
+    }
+  },
+  "130005": {
+    "PlaceName": {
+      "en": "\tTempest-Facing Balcony\r",
+      "jp": "\t竜巻を臨む露台\r",
+      "zh": "\t龙卷旁露台\r"
+    }
+  },
+  "130006": {
+    "PlaceName": {
+      "en": "\tDragon Temple\r",
+      "jp": "\t竜の聖堂\r",
+      "zh": "\t龙教堂\r"
+    }
+  },
+  "130007": {
+    "PlaceName": {
+      "en": "\tDragon Temple Transept\r",
+      "jp": "\t竜の聖堂、翼廊\r",
+      "zh": "\t龙教堂（耳堂）\r"
+    }
+  },
+  "130008": {
+    "PlaceName": {
+      "en": "\tDragon Temple Lift\r",
+      "jp": "\t竜の聖堂、昇降機前\r",
+      "zh": "\t龙教堂（升降机前）\r"
+    }
+  },
+  "130009": {
+    "PlaceName": {
+      "en": "\tDragon Temple Rooftop\r",
+      "jp": "\t竜の聖堂、屋根上\r",
+      "zh": "\t龙教堂（屋顶）\r"
+    }
+  },
+  "130010": {
+    "PlaceName": {
+      "en": "\tBeside the Great Bridge\r",
+      "jp": "\t大橋梁の脇\r",
+      "zh": "\t大桥侧边\r"
+    }
+  },
+  "140000": {
+    "PlaceName": {
+      "en": "\tRaya Lucaria Grand Library\r",
+      "jp": "\tレアルカリア大書庫\r",
+      "zh": "\t雷亚卢卡利亚大书库\r"
+    }
+  },
+  "140001": {
+    "PlaceName": {
+      "en": "\tDebate Parlor\r",
+      "jp": "\t討論室\r",
+      "zh": "\t讨论室\r"
+    }
+  },
+  "140002": {
+    "PlaceName": {
+      "en": "\tChurch of the Cuckoo\r",
+      "jp": "\tカッコウの教会\r",
+      "zh": "\t杜鹃教堂\r"
+    }
+  },
+  "140003": {
+    "PlaceName": {
+      "en": "\tSchoolhouse Classroom\r",
+      "jp": "\t学び舎の一室\r",
+      "zh": "\t校舍内的教室\r"
+    }
+  },
+  "150000": {
+    "PlaceName": {
+      "en": "\tMalenia, Goddess of Rot\r",
+      "jp": "\t腐敗の女神、マレニア\r",
+      "zh": "\t“腐败女神”玛莲妮亚\r"
+    }
+  },
+  "150001": {
+    "PlaceName": {
+      "en": "\tPrayer Room\r",
+      "jp": "\t祈祷室\r",
+      "zh": "\t祈祷室\r"
+    }
+  },
+  "150002": {
+    "PlaceName": {
+      "en": "\tElphael Inner Wall\r",
+      "jp": "\tエブレフェールの内壁\r",
+      "zh": "\t艾布雷菲尔城墙内部\r"
+    }
+  },
+  "150003": {
+    "PlaceName": {
+      "en": "\tDrainage Channel\r",
+      "jp": "\t排水路\r",
+      "zh": "\t排水通道\r"
+    }
+  },
+  "150004": {
+    "PlaceName": {
+      "en": "\tHaligtree Roots\r",
+      "jp": "\t聖樹最下層\r",
+      "zh": "\t圣树底层\r"
+    }
+  },
+  "150005": {
+    "PlaceName": {
+      "en": "\tHaligtree Promenade\r",
+      "jp": "\t聖樹の大舞台\r",
+      "zh": "\t圣树大舞台\r"
+    }
+  },
+  "150006": {
+    "PlaceName": {
+      "en": "\tHaligtree Canopy\r",
+      "jp": "\t聖樹の高枝\r",
+      "zh": "\t圣树树冠\r"
+    }
+  },
+  "150007": {
+    "PlaceName": {
+      "en": "\tHaligtree Town\r",
+      "jp": "\t聖樹街\r",
+      "zh": "\t圣树镇\r"
+    }
+  },
+  "150008": {
+    "PlaceName": {
+      "en": "\tHaligtree Town Plaza\r",
+      "jp": "\t聖樹街、広場\r",
+      "zh": "\t圣树镇（广场）\r"
+    }
+  },
+  "160000": {
+    "PlaceName": {
+      "en": "\tRykard, Lord of Blasphemy\r",
+      "jp": "\t冒涜の君主、ライカード\r",
+      "zh": "\t“亵渎君王”拉卡德\r"
+    }
+  },
+  "160001": {
+    "PlaceName": {
+      "en": "\tTemple of Eiglay\r",
+      "jp": "\tエーグレーの聖堂\r",
+      "zh": "\t艾格蕾教堂\r"
+    }
+  },
+  "160002": {
+    "PlaceName": {
+      "en": "\tVolcano Manor\r",
+      "jp": "\t火山館\r",
+      "zh": "\t火山官邸\r"
+    }
+  },
+  "160003": {
+    "PlaceName": {
+      "en": "\tPrison Town Church\r",
+      "jp": "\t牢街教会\r",
+      "zh": "\t牢镇教堂\r"
+    }
+  },
+  "160004": {
+    "PlaceName": {
+      "en": "\tGuest Hall\r",
+      "jp": "\t迎賓館\r",
+      "zh": "\t迎宾厅\r"
+    }
+  },
+  "160005": {
+    "PlaceName": {
+      "en": "\tAudience Pathway\r",
+      "jp": "\t謁見の道\r",
+      "zh": "\t谒见之路\r"
+    }
+  },
+  "160006": {
+    "PlaceName": {
+      "en": "\tAbductor Virgin\r",
+      "jp": "\t人さらいの乙女人形\r",
+      "zh": "\t掳人少女人偶\r"
+    }
+  },
+  "160007": {
+    "PlaceName": {
+      "en": "\tSubterranean Inquisition Chamber\r",
+      "jp": "\t地の底の責問所\r",
+      "zh": "\t地底拷问所\r"
+    }
+  },
+  "180000": {
+    "PlaceName": {
+      "en": "\tCave of Knowledge\r",
+      "jp": "\t学びの洞窟\r",
+      "zh": "\t求学洞窟\r"
+    }
+  },
+  "180001": {
+    "PlaceName": {
+      "en": "\tStranded Graveyard\r",
+      "jp": "\t漂着墓地\r",
+      "zh": "\t漂流墓地\r"
+    }
+  },
+  "190000": {
+    "PlaceName": {
+      "en": "\tFractured Marika\r",
+      "jp": "\t壊れかけのマリカ\r",
+      "zh": "\t濒毁玛莉卡\r"
+    }
+  },
+  "200000": {
+    "PlaceName": {
+      "en": "\tTheatre of the Divine Beast\r",
+      "jp": "\t神獣舞台\r",
+      "zh": "\t神兽舞台\r"
+    }
+  },
+  "200001": {
+    "PlaceName": {
+      "en": "\tBelurat, Tower Settlement\r",
+      "jp": "\t塔の街、ベルラート\r",
+      "zh": "\t“塔之镇”贝瑞特\r"
+    }
+  },
+  "200002": {
+    "PlaceName": {
+      "en": "\tSmall Private Altar\r",
+      "jp": "\t民家の小祭壇\r",
+      "zh": "\t民宅小祭坛\r"
+    }
+  },
+  "200003": {
+    "PlaceName": {
+      "en": "\tStagefront\r",
+      "jp": "\t舞台前\r",
+      "zh": "\t舞台前方\r"
+    }
+  },
+  "200100": {
+    "PlaceName": {
+      "en": "\tGate of Divinity\r",
+      "jp": "\t神の門\r",
+      "zh": "\t神之门\r"
+    }
+  },
+  "200102": {
+    "PlaceName": {
+      "en": "\tEnir-Ilim: Outer Wall\r",
+      "jp": "\tエニル・イリム外壁\r",
+      "zh": "\t艾尼尔·伊利姆外墙\r"
+    }
+  },
+  "200103": {
+    "PlaceName": {
+      "en": "\tFirst Rise\r",
+      "jp": "\t第一塔\r",
+      "zh": "\t第一塔\r"
+    }
+  },
+  "200104": {
+    "PlaceName": {
+      "en": "\tSpiral Rise\r",
+      "jp": "\t螺旋塔\r",
+      "zh": "\t螺旋塔\r"
+    }
+  },
+  "200105": {
+    "PlaceName": {
+      "en": "\tCleansing Chamber Anteroom\r",
+      "jp": "\t清めの間、前室\r",
+      "zh": "\t净身厅前室\r"
+    }
+  },
+  "200106": {
+    "PlaceName": {
+      "en": "\tDivine Gate Front Staircase\r",
+      "jp": "\t神の門、前階段\r",
+      "zh": "\t神之门（门前楼梯平台）\r"
+    }
+  },
+  "210001": {
+    "PlaceName": {
+      "en": "\tMain Gate Plaza\r",
+      "jp": "\t正門広場\r",
+      "zh": "\t正门广场\r"
+    }
+  },
+  "210002": {
+    "PlaceName": {
+      "en": "\tShadow Keep Main Gate\r",
+      "jp": "\t影の城、正門\r",
+      "zh": "\t幽影城（正门）\r"
+    }
+  },
+  "210006": {
+    "PlaceName": {
+      "en": "\tChurch District Entrance\r",
+      "jp": "\t教区入口\r",
+      "zh": "\t教区入口\r"
+    }
+  },
+  "210007": {
+    "PlaceName": {
+      "en": "\tSunken Chapel\r",
+      "jp": "\t水没した礼拝堂\r",
+      "zh": "\t沉水礼拜堂\r"
+    }
+  },
+  "210008": {
+    "PlaceName": {
+      "en": "\tTree-Worship Passage\r",
+      "jp": "\t拝樹の暗道\r",
+      "zh": "\t礼树暗道\r"
+    }
+  },
+  "210009": {
+    "PlaceName": {
+      "en": "\tTree-Worship Sanctum\r",
+      "jp": "\t拝樹教会\r",
+      "zh": "\t礼树教堂\r"
+    }
+  },
+  "210100": {
+    "PlaceName": {
+      "en": "\tMessmer's Dark Chamber\r",
+      "jp": "\tメスメルの暗室\r",
+      "zh": "\t梅瑟莫的暗室\r"
+    }
+  },
+  "210101": {
+    "PlaceName": {
+      "en": "\tStorehouse, First Floor\r",
+      "jp": "\t保管庫一階\r",
+      "zh": "\t保藏库（一楼）\r"
+    }
+  },
+  "210102": {
+    "PlaceName": {
+      "en": "\tStorehouse, Fourth Floor\r",
+      "jp": "\t保管庫四階\r",
+      "zh": "\t保藏库（四楼）\r"
+    }
+  },
+  "210103": {
+    "PlaceName": {
+      "en": "\tStorehouse, Seventh Floor\r",
+      "jp": "\t保管庫七階\r",
+      "zh": "\t保藏库（七楼）\r"
+    }
+  },
+  "210104": {
+    "PlaceName": {
+      "en": "\tDark Chamber Entrance\r",
+      "jp": "\t暗室前\r",
+      "zh": "\t暗室门前\r"
+    }
+  },
+  "210106": {
+    "PlaceName": {
+      "en": "\tStorehouse, Back Section\r",
+      "jp": "\t保管庫、裏区画\r",
+      "zh": "\t保藏库（内区）\r"
+    }
+  },
+  "210107": {
+    "PlaceName": {
+      "en": "\tStorehouse, Loft\r",
+      "jp": "\t保管庫、屋根裏\r",
+      "zh": "\t保藏库（阁楼）\r"
+    }
+  },
+  "210201": {
+    "PlaceName": {
+      "en": "\tWest Rampart\r",
+      "jp": "\t西の城壁\r",
+      "zh": "\t西边城墙\r"
+    }
+  },
+  "220000": {
+    "PlaceName": {
+      "en": "\tGarden of Deep Purple\r",
+      "jp": "\t深紫の花園\r",
+      "zh": "\t深紫花园\r"
+    }
+  },
+  "220001": {
+    "PlaceName": {
+      "en": "\tStone Coffin Fissure\r",
+      "jp": "\t石棺の大穴\r",
+      "zh": "\t石棺大洞\r"
+    }
+  },
+  "220002": {
+    "PlaceName": {
+      "en": "\tFissure Cross\r",
+      "jp": "\t大穴の十字\r",
+      "zh": "\t大洞的十字记号\r"
+    }
+  },
+  "220003": {
+    "PlaceName": {
+      "en": "\tFissure Waypoint\r",
+      "jp": "\t大穴中腹\r",
+      "zh": "\t大洞中段\r"
+    }
+  },
+  "220004": {
+    "PlaceName": {
+      "en": "\tFissure Depths\r",
+      "jp": "\t大穴深部\r",
+      "zh": "\t大洞深处\r"
+    }
+  },
+  "250000": {
+    "PlaceName": {
+      "en": "\tFinger Birthing Grounds\r",
+      "jp": "\t指の産所\r",
+      "zh": "\t指头产房\r"
+    }
+  },
+  "280000": {
+    "PlaceName": {
+      "en": "\tDiscussion Chamber\r",
+      "jp": "\t対話室\r",
+      "zh": "\t对谈室\r"
+    }
+  },
+  "280001": {
+    "PlaceName": {
+      "en": "\tManse Hall\r",
+      "jp": "\t館の広間\r",
+      "zh": "\t府邸大厅\r"
+    }
+  },
+  "280002": {
+    "PlaceName": {
+      "en": "\tMidra's Library\r",
+      "jp": "\tミドラーの書庫\r",
+      "zh": "\t米德拉的书库\r"
+    }
+  },
+  "280003": {
+    "PlaceName": {
+      "en": "\tSecond Floor Chamber\r",
+      "jp": "\t二階の小部屋\r",
+      "zh": "\t二楼小房间\r"
+    }
+  },
+  "300000": {
+    "PlaceName": {
+      "en": "\tTombsward Catacombs\r",
+      "jp": "\t霊廟ヶ原の地下墓\r",
+      "zh": "\t灵庙原野地下墓地\r"
+    }
+  },
+  "300100": {
+    "PlaceName": {
+      "en": "\tImpaler's Catacombs\r",
+      "jp": "\t串刺しの地下墓\r",
+      "zh": "\t穿刺地下墓地\r"
+    }
+  },
+  "300200": {
+    "PlaceName": {
+      "en": "\tStormfoot Catacombs\r",
+      "jp": "\t嵐の麓の地下墓\r",
+      "zh": "\t风暴根脚的地下墓地\r"
+    }
+  },
+  "300300": {
+    "PlaceName": {
+      "en": "\tRoad's End Catacombs\r",
+      "jp": "\t行き止まりの地下墓\r",
+      "zh": "\t绝路地下墓地\r"
+    }
+  },
+  "300400": {
+    "PlaceName": {
+      "en": "\tMurkwater Catacombs\r",
+      "jp": "\t曇り川の地下墓\r",
+      "zh": "\t蒙流地下墓地\r"
+    }
+  },
+  "300500": {
+    "PlaceName": {
+      "en": "\tBlack Knife Catacombs\r",
+      "jp": "\t黒き刃の地下墓\r",
+      "zh": "\t黑刀地下墓地\r"
+    }
+  },
+  "300600": {
+    "PlaceName": {
+      "en": "\tCliffbottom Catacombs\r",
+      "jp": "\t断崖下の地下墓\r",
+      "zh": "\t断崖下的地下墓地\r"
+    }
+  },
+  "300700": {
+    "PlaceName": {
+      "en": "\tWyndham Catacombs\r",
+      "jp": "\tウィンダムの地下墓\r",
+      "zh": "\t威达姆地下墓地\r"
+    }
+  },
+  "300800": {
+    "PlaceName": {
+      "en": "\tSainted Hero's Grave\r",
+      "jp": "\t貴き者たちの英雄墓\r",
+      "zh": "\t尊贵者的英雄墓地\r"
+    }
+  },
+  "300900": {
+    "PlaceName": {
+      "en": "\tGelmir Hero's Grave\r",
+      "jp": "\tゲルミアの英雄墓\r",
+      "zh": "\t格密尔英雄墓地\r"
+    }
+  },
+  "301000": {
+    "PlaceName": {
+      "en": "\tAuriza Hero's Grave\r",
+      "jp": "\tアウレーザの英雄墓\r",
+      "zh": "\t亚雷萨英雄墓地\r"
+    }
+  },
+  "301100": {
+    "PlaceName": {
+      "en": "\tDeathtouched Catacombs\r",
+      "jp": "\t死に触れた地下墓\r",
+      "zh": "\t死亡降临的地下墓地\r"
+    }
+  },
+  "301200": {
+    "PlaceName": {
+      "en": "\tUnsightly Catacombs\r",
+      "jp": "\t醜き地下墓\r",
+      "zh": "\t丑恶地下墓地\r"
+    }
+  },
+  "301300": {
+    "PlaceName": {
+      "en": "\tAuriza Side Tomb\r",
+      "jp": "\tアウレーザの副墓\r",
+      "zh": "\t亚雷萨副墓地\r"
+    }
+  },
+  "301400": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree Catacombs\r",
+      "jp": "\t小黄金樹の地下墓\r",
+      "zh": "\t小黄金树地下墓地\r"
+    }
+  },
+  "301500": {
+    "PlaceName": {
+      "en": "\tCaelid Catacombs\r",
+      "jp": "\tケイリッドの地下墓\r",
+      "zh": "\t盖利德地下墓地\r"
+    }
+  },
+  "301600": {
+    "PlaceName": {
+      "en": "\tWar-Dead Catacombs\r",
+      "jp": "\t英霊たちの地下墓\r",
+      "zh": "\t英灵地下墓地\r"
+    }
+  },
+  "301700": {
+    "PlaceName": {
+      "en": "\tGiant-Conquering Hero's Grave\r",
+      "jp": "\t巨人戦争の英雄墓\r",
+      "zh": "\t巨人战争的英雄墓地\r"
+    }
+  },
+  "301800": {
+    "PlaceName": {
+      "en": "\tGiants' Mountaintop Catacombs\r",
+      "jp": "\t巨人山嶺の地下墓\r",
+      "zh": "\t巨人山顶地下墓地\r"
+    }
+  },
+  "301900": {
+    "PlaceName": {
+      "en": "\tConsecrated Snowfield Catacombs\r",
+      "jp": "\t聖別雪原の地下墓\r",
+      "zh": "\t化圣雪原地下墓地\r"
+    }
+  },
+  "302000": {
+    "PlaceName": {
+      "en": "\tHidden Path to the Haligtree\r",
+      "jp": "\t聖樹への秘路\r",
+      "zh": "\t通往圣树的密道\r"
+    }
+  },
+  "310000": {
+    "PlaceName": {
+      "en": "\tMurkwater Cave\r",
+      "jp": "\t曇り川の洞窟\r",
+      "zh": "\t蒙流洞窟\r"
+    }
+  },
+  "310100": {
+    "PlaceName": {
+      "en": "\tEarthbore Cave\r",
+      "jp": "\t穴下りの洞窟\r",
+      "zh": "\t垂穴洞窟\r"
+    }
+  },
+  "310200": {
+    "PlaceName": {
+      "en": "\tTombsward Cave\r",
+      "jp": "\t霊廟ヶ原の洞窟\r",
+      "zh": "\t灵庙原野洞窟\r"
+    }
+  },
+  "310300": {
+    "PlaceName": {
+      "en": "\tGroveside Cave\r",
+      "jp": "\t林脇の洞窟\r",
+      "zh": "\t近林洞窟\r"
+    }
+  },
+  "310400": {
+    "PlaceName": {
+      "en": "\tStillwater Cave\r",
+      "jp": "\t溜水の洞窟\r",
+      "zh": "\t留水洞窟\r"
+    }
+  },
+  "310500": {
+    "PlaceName": {
+      "en": "\tLakeside Crystal Cave\r",
+      "jp": "\t湖脇の結晶洞窟\r",
+      "zh": "\t湖旁结晶洞窟\r"
+    }
+  },
+  "310600": {
+    "PlaceName": {
+      "en": "\tAcademy Crystal Cave\r",
+      "jp": "\t学院の結晶洞窟\r",
+      "zh": "\t学院结晶洞窟\r"
+    }
+  },
+  "310700": {
+    "PlaceName": {
+      "en": "\tSeethewater Cave\r",
+      "jp": "\t煮え立ち川の洞窟\r",
+      "zh": "\t沸滚河洞窟\r"
+    }
+  },
+  "310900": {
+    "PlaceName": {
+      "en": "\tVolcano Cave\r",
+      "jp": "\t火山の洞窟\r",
+      "zh": "\t火山洞窟\r"
+    }
+  },
+  "311000": {
+    "PlaceName": {
+      "en": "\tDragonbarrow Cave\r",
+      "jp": "\t竜塚の洞窟\r",
+      "zh": "\t龙墓洞窟\r"
+    }
+  },
+  "311100": {
+    "PlaceName": {
+      "en": "\tSellia Hideaway\r",
+      "jp": "\tサリアの隠し洞窟\r",
+      "zh": "\t瑟利亚隐藏洞窟\r"
+    }
+  },
+  "311200": {
+    "PlaceName": {
+      "en": "\tCave of the Forlorn\r",
+      "jp": "\t寄る辺の洞窟\r",
+      "zh": "\t安身洞窟\r"
+    }
+  },
+  "311500": {
+    "PlaceName": {
+      "en": "\tCoastal Cave\r",
+      "jp": "\t海岸の洞窟\r",
+      "zh": "\t海岸洞窟\r"
+    }
+  },
+  "311700": {
+    "PlaceName": {
+      "en": "\tHighroad Cave\r",
+      "jp": "\t高路下の洞窟\r",
+      "zh": "\t大道下的洞窟\r"
+    }
+  },
+  "311800": {
+    "PlaceName": {
+      "en": "\tPerfumer's Grotto\r",
+      "jp": "\t調香師の隠し洞窟\r",
+      "zh": "\t调香师的隐藏洞窟\r"
+    }
+  },
+  "311900": {
+    "PlaceName": {
+      "en": "\tSage's Cave\r",
+      "jp": "\t賢者の洞窟\r",
+      "zh": "\t贤者的洞窟\r"
+    }
+  },
+  "312000": {
+    "PlaceName": {
+      "en": "\tAbandoned Cave\r",
+      "jp": "\t廃棄洞窟\r",
+      "zh": "\t废弃洞窟\r"
+    }
+  },
+  "312100": {
+    "PlaceName": {
+      "en": "\tGaol Cave\r",
+      "jp": "\t牢獄洞窟\r",
+      "zh": "\t牢狱洞窟\r"
+    }
+  },
+  "312200": {
+    "PlaceName": {
+      "en": "\tSpiritcaller Cave\r",
+      "jp": "\t霊喚びの洞窟\r",
+      "zh": "\t唤灵洞窟\r"
+    }
+  },
+  "320000": {
+    "PlaceName": {
+      "en": "\tMorne Tunnel\r",
+      "jp": "\tモーンの坑道\r",
+      "zh": "\t摩恩坑道\r"
+    }
+  },
+  "320100": {
+    "PlaceName": {
+      "en": "\tLimgrave Tunnels\r",
+      "jp": "\tリムグレイブ坑道\r",
+      "zh": "\t宁姆格福坑道\r"
+    }
+  },
+  "320200": {
+    "PlaceName": {
+      "en": "\tRaya Lucaria Crystal Tunnel\r",
+      "jp": "\tレアルカリア結晶坑道\r",
+      "zh": "\t雷亚卢卡利亚结晶坑道\r"
+    }
+  },
+  "320400": {
+    "PlaceName": {
+      "en": "\tOld Altus Tunnel\r",
+      "jp": "\t旧アルター坑道\r",
+      "zh": "\t旧亚坛坑道\r"
+    }
+  },
+  "320500": {
+    "PlaceName": {
+      "en": "\tAltus Tunnel\r",
+      "jp": "\tアルター坑道\r",
+      "zh": "\t亚坛坑道\r"
+    }
+  },
+  "320700": {
+    "PlaceName": {
+      "en": "\tGael Tunnel\r",
+      "jp": "\tゲール坑道\r",
+      "zh": "\t盖尔坑道\r"
+    }
+  },
+  "320701": {
+    "PlaceName": {
+      "en": "\tRear Gael Tunnel Entrance\r",
+      "jp": "\tゲール坑道、裏口\r",
+      "zh": "\t盖尔坑道（侧门口）\r"
+    }
+  },
+  "320800": {
+    "PlaceName": {
+      "en": "\tSellia Crystal Tunnel\r",
+      "jp": "\tサリアの結晶坑道\r",
+      "zh": "\t瑟利亚结晶坑道\r"
+    }
+  },
+  "321100": {
+    "PlaceName": {
+      "en": "\tYelough Anix Tunnel\r",
+      "jp": "\tイエロ・アニスの坑道\r",
+      "zh": "\t耶罗·亚尼斯坑道\r"
+    }
+  },
+  "341000": {
+    "PlaceName": {
+      "en": "\tLimgrave Tower Bridge\r",
+      "jp": "\tリムグレイブの神授塔、橋梁\r",
+      "zh": "\t宁姆格福神授塔（桥上）\r"
+    }
+  },
+  "341002": {
+    "PlaceName": {
+      "en": "\tDivine Tower of Limgrave\r",
+      "jp": "\tリムグレイブの神授塔\r",
+      "zh": "\t宁姆格福神授塔\r"
+    }
+  },
+  "341100": {
+    "PlaceName": {
+      "en": "\tStudy Hall Entrance\r",
+      "jp": "\t書院入口\r",
+      "zh": "\t书斋入口\r"
+    }
+  },
+  "341101": {
+    "PlaceName": {
+      "en": "\tLiurnia Tower Bridge\r",
+      "jp": "\tリエーニエの神授塔、橋梁\r",
+      "zh": "\t利耶尼亚神授塔（桥上）\r"
+    }
+  },
+  "341102": {
+    "PlaceName": {
+      "en": "\tDivine Tower of Liurnia\r",
+      "jp": "\tリエーニエの神授塔\r",
+      "zh": "\t利耶尼亚神授塔\r"
+    }
+  },
+  "341200": {
+    "PlaceName": {
+      "en": "\tDivine Tower of West Altus\r",
+      "jp": "\t西アルターの神授塔\r",
+      "zh": "\t西亚坛神授塔\r"
+    }
+  },
+  "341201": {
+    "PlaceName": {
+      "en": "\tSealed Tunnel\r",
+      "jp": "\t封印された坑道\r",
+      "zh": "\t封印坑道\r"
+    }
+  },
+  "341202": {
+    "PlaceName": {
+      "en": "\tDivine Tower of West Altus: Gate\r",
+      "jp": "\t西アルターの神授塔、門前\r",
+      "zh": "\t西亚坛神授塔（门口）\r"
+    }
+  },
+  "341300": {
+    "PlaceName": {
+      "en": "\tDivine Tower of Caelid\r",
+      "jp": "\tケイリッドの神授塔\r",
+      "zh": "\t盖利德神授塔\r"
+    }
+  },
+  "341301": {
+    "PlaceName": {
+      "en": "\tDivine Tower of Caelid: Basement\r",
+      "jp": "\tケイリッドの神授塔、地下\r",
+      "zh": "\t盖利德神授塔（地底）\r"
+    }
+  },
+  "341302": {
+    "PlaceName": {
+      "en": "\tDivine Tower of Caelid: Center\r",
+      "jp": "\tケイリッドの神授塔、中腹\r",
+      "zh": "\t盖利德神授塔（中段）\r"
+    }
+  },
+  "341400": {
+    "PlaceName": {
+      "en": "\tDivine Tower of East Altus: Gate\r",
+      "jp": "\t東アルターの神授塔、門前\r",
+      "zh": "\t东亚坛神授塔（门口）\r"
+    }
+  },
+  "341401": {
+    "PlaceName": {
+      "en": "\tDivine Tower of East Altus\r",
+      "jp": "\t東アルターの神授塔\r",
+      "zh": "\t东亚坛神授塔\r"
+    }
+  },
+  "341470": {
+    "PlaceName": {
+      "en": "\tThe Rold Route\r",
+      "jp": "\tロルドへの途上\r",
+      "zh": "\t前往洛德的中途\r"
+    }
+  },
+  "341500": {
+    "PlaceName": {
+      "en": "\tIsolated Divine Tower\r",
+      "jp": "\t孤絶した神授塔\r",
+      "zh": "\t孤立神授塔\r"
+    }
+  },
+  "350000": {
+    "PlaceName": {
+      "en": "\tCathedral of the Forsaken\r",
+      "jp": "\t忌み捨ての大聖堂\r",
+      "zh": "\t弃置恶兆的大教堂\r"
+    }
+  },
+  "350001": {
+    "PlaceName": {
+      "en": "\tUnderground Roadside\r",
+      "jp": "\t地下大通り脇\r",
+      "zh": "\t地底大道旁\r"
+    }
+  },
+  "350002": {
+    "PlaceName": {
+      "en": "\tForsaken Depths\r",
+      "jp": "\t忌み捨ての底\r",
+      "zh": "\t弃置恶兆的底层\r"
+    }
+  },
+  "350003": {
+    "PlaceName": {
+      "en": "\tLeyndell Catacombs\r",
+      "jp": "\tローデイルの地下墓\r",
+      "zh": "\t罗德尔地下墓地\r"
+    }
+  },
+  "350004": {
+    "PlaceName": {
+      "en": "\tFrenzied Flame Proscription\r",
+      "jp": "\t狂い火の封印\r",
+      "zh": "\t癫火封印\r"
+    }
+  },
+  "390000": {
+    "PlaceName": {
+      "en": "\tMagma Wyrm Makar\r",
+      "jp": "\t溶岩土竜、マカール\r",
+      "zh": "\t“熔岩土龙”马卡尔\r"
+    }
+  },
+  "390001": {
+    "PlaceName": {
+      "en": "\tRuin-Strewn Precipice\r",
+      "jp": "\t古遺跡断崖\r",
+      "zh": "\t古遗迹断崖\r"
+    }
+  },
+  "390002": {
+    "PlaceName": {
+      "en": "\tRuin-Strewn Precipice Overlook\r",
+      "jp": "\t古遺跡断崖、対岸\r",
+      "zh": "\t古遗迹断崖（对岸）\r"
+    }
+  },
+  "392070": {
+    "PlaceName": {
+      "en": "\tVolcano Manor Request: Tragoth\r",
+      "jp": "\t火山館からの依頼「トラゴス」\r",
+      "zh": "\t火山官邸的委托：忒拉格斯\r"
+    }
+  },
+  "400000": {
+    "PlaceName": {
+      "en": "\tFog Rift Catacombs\r",
+      "jp": "\t霧谷の地下墓\r",
+      "zh": "\t雾谷地下墓地\r"
+    }
+  },
+  "400100": {
+    "PlaceName": {
+      "en": "\tScorpion River Catacombs\r",
+      "jp": "\tサソリ川の地下墓\r",
+      "zh": "\t蝎河地下墓地\r"
+    }
+  },
+  "400200": {
+    "PlaceName": {
+      "en": "\tDarklight Catacombs\r",
+      "jp": "\t闇照らしの地下墓\r",
+      "zh": "\t驱暗地下墓地\r"
+    }
+  },
+  "410000": {
+    "PlaceName": {
+      "en": "\tBelurat Gaol\r",
+      "jp": "\tベルラートの牢獄\r",
+      "zh": "\t贝瑞特监牢\r"
+    }
+  },
+  "410100": {
+    "PlaceName": {
+      "en": "\tBonny Gaol\r",
+      "jp": "\tボニの牢獄\r",
+      "zh": "\t波尼监牢\r"
+    }
+  },
+  "410200": {
+    "PlaceName": {
+      "en": "\tLamenter's Gaol\r",
+      "jp": "\t嘆きの牢獄\r",
+      "zh": "\t喟叹监牢\r"
+    }
+  },
+  "420000": {
+    "PlaceName": {
+      "en": "\tRuined Forge Lava Intake\r",
+      "jp": "\t溶岩筒の鍛冶遺跡\r",
+      "zh": "\t熔岩管锻造遗迹\r"
+    }
+  },
+  "420200": {
+    "PlaceName": {
+      "en": "\tRuined Forge of Starfall Past\r",
+      "jp": "\t古隕鉄の鍛冶遺跡\r",
+      "zh": "\t古铁陨石锻造遗迹\r"
+    }
+  },
+  "420300": {
+    "PlaceName": {
+      "en": "\tTaylew's Ruined Forge\r",
+      "jp": "\tテウルの鍛冶遺跡\r",
+      "zh": "\t泰乌尔锻造遗迹\r"
+    }
+  },
+  "430000": {
+    "PlaceName": {
+      "en": "\tRivermouth Cave\r",
+      "jp": "\t川終わりの洞窟\r",
+      "zh": "\t河尾洞窟\r"
+    }
+  },
+  "430100": {
+    "PlaceName": {
+      "en": "\tDragon's Pit\r",
+      "jp": "\t竜の穴\r",
+      "zh": "\t龙洞\r"
+    }
+  },
+  "430101": {
+    "PlaceName": {
+      "en": "\tDragon's Pit Terminus\r",
+      "jp": "\t竜の穴、終端\r",
+      "zh": "\t龙洞（终点）\r"
+    }
+  },
+  "450000": {
+    "PlaceName": {
+      "en": "\tRoyal Colosseum\r",
+      "jp": "\t王都闘技場\r",
+      "zh": "\t王城竞技场\r"
+    }
+  },
+  "450100": {
+    "PlaceName": {
+      "en": "\tLimgrave Colosseum\r",
+      "jp": "\tリムグレイブ闘技場\r",
+      "zh": "\t宁姆格福竞技场\r"
+    }
+  },
+  "450200": {
+    "PlaceName": {
+      "en": "\tCaelid Colosseum\r",
+      "jp": "\tケイリッド闘技場\r",
+      "zh": "\t盖利德竞技场\r"
+    }
+  },
+  "610000": {
+    "PlaceName": {
+      "en": "\tChurch of Elleh\r",
+      "jp": "\tエレの教会\r",
+      "zh": "\t艾雷教堂\r"
+    }
+  },
+  "610001": {
+    "PlaceName": {
+      "en": "\tStormhill Shack\r",
+      "jp": "\t嵐丘のボロ家\r",
+      "zh": "\t风暴山丘的破屋\r"
+    }
+  },
+  "610002": {
+    "PlaceName": {
+      "en": "\tArtist's Shack\r",
+      "jp": "\t絵描きのボロ家\r",
+      "zh": "\t画家的破屋\r"
+    }
+  },
+  "610003": {
+    "PlaceName": {
+      "en": "\tThird Church of Marika\r",
+      "jp": "\t第三マリカ教会\r",
+      "zh": "\t玛莉卡第三教堂\r"
+    }
+  },
+  "610004": {
+    "PlaceName": {
+      "en": "\tFort Haight West\r",
+      "jp": "\tハイト砦の西\r",
+      "zh": "\t海德要塞西方\r"
+    }
+  },
+  "610005": {
+    "PlaceName": {
+      "en": "\tAgheel Lake South\r",
+      "jp": "\tアギール湖南\r",
+      "zh": "\t亚基尔湖南方\r"
+    }
+  },
+  "610007": {
+    "PlaceName": {
+      "en": "\tAgheel Lake North\r",
+      "jp": "\tアギール湖北\r",
+      "zh": "\t亚基尔湖北方\r"
+    }
+  },
+  "610008": {
+    "PlaceName": {
+      "en": "\tChurch of Dragon Communion\r",
+      "jp": "\t竜餐教会\r",
+      "zh": "\t龙飨教堂\r"
+    }
+  },
+  "610009": {
+    "PlaceName": {
+      "en": "\tGatefront\r",
+      "jp": "\t関門前\r",
+      "zh": "\t关卡前方\r"
+    }
+  },
+  "610010": {
+    "PlaceName": {
+      "en": "\tGarden Beyond the Bridge\r",
+      "jp": "\t橋の先の花園\r",
+      "zh": "\t桥尾花园\r"
+    }
+  },
+  "610011": {
+    "PlaceName": {
+      "en": "\tSeaside Ruins\r",
+      "jp": "\t海を臨む古遺跡\r",
+      "zh": "\t傍海古遗迹\r"
+    }
+  },
+  "610012": {
+    "PlaceName": {
+      "en": "\tMistwood Outskirts\r",
+      "jp": "\t霧の森のはずれ\r",
+      "zh": "\t雾林边缘\r"
+    }
+  },
+  "610013": {
+    "PlaceName": { "en": "\tMistwood\r", "jp": "\t霧の森\r", "zh": "\t雾林\r" }
+  },
+  "610014": {
+    "PlaceName": {
+      "en": "\tMurkwater Coast\r",
+      "jp": "\t曇り川の岸上\r",
+      "zh": "\t蒙流岸边\r"
+    }
+  },
+  "610015": {
+    "PlaceName": {
+      "en": "\tSaintsbridge\r",
+      "jp": "\t聖人橋\r",
+      "zh": "\t圣人桥\r"
+    }
+  },
+  "610016": {
+    "PlaceName": {
+      "en": "\tSummonwater Village Outskirts\r",
+      "jp": "\t呼び水村のはずれ\r",
+      "zh": "\t水唤村外\r"
+    }
+  },
+  "610017": {
+    "PlaceName": {
+      "en": "\tWarmaster's Shack\r",
+      "jp": "\t戦学びのボロ家\r",
+      "zh": "\t习战者的破屋\r"
+    }
+  },
+  "610018": {
+    "PlaceName": {
+      "en": "\tWaypoint Ruins Cellar\r",
+      "jp": "\t宿場跡の地下室\r",
+      "zh": "\t驿站街遗迹的地下室\r"
+    }
+  },
+  "610019": {
+    "PlaceName": {
+      "en": "\tThe First Step\r",
+      "jp": "\t導きのはじまり\r",
+      "zh": "\t引导之始\r"
+    }
+  },
+  "611000": {
+    "PlaceName": {
+      "en": "\tFourth Church of Marika\r",
+      "jp": "\t第四マリカ教会\r",
+      "zh": "\t玛莉卡第四教堂\r"
+    }
+  },
+  "611001": {
+    "PlaceName": {
+      "en": "\tCastle Morne Rampart\r",
+      "jp": "\tモーンの城壁前\r",
+      "zh": "\t摩恩城（城墙前方）\r"
+    }
+  },
+  "611002": {
+    "PlaceName": {
+      "en": "\tTombsward\r",
+      "jp": "\t霊廟ヶ原\r",
+      "zh": "\t灵庙原野\r"
+    }
+  },
+  "611003": {
+    "PlaceName": {
+      "en": "\tSouth of the Lookout Tower\r",
+      "jp": "\t見張り塔の南\r",
+      "zh": "\t监视塔的南方\r"
+    }
+  },
+  "611004": {
+    "PlaceName": {
+      "en": "\tAiling Village Outskirts\r",
+      "jp": "\t病村のはずれ\r",
+      "zh": "\t病村外\r"
+    }
+  },
+  "611005": {
+    "PlaceName": {
+      "en": "\tBeside the Crater-Pocked Glade\r",
+      "jp": "\t穴あき地の脇\r",
+      "zh": "\t地坑旁\r"
+    }
+  },
+  "611006": {
+    "PlaceName": {
+      "en": "\tIsolated Merchant's Shack\r",
+      "jp": "\t隠遁商人のボロ家\r",
+      "zh": "\t隐居商人的破屋\r"
+    }
+  },
+  "611007": {
+    "PlaceName": {
+      "en": "\tBridge of Sacrifice\r",
+      "jp": "\t贄送りの大橋\r",
+      "zh": "\t献祭大桥\r"
+    }
+  },
+  "611008": {
+    "PlaceName": {
+      "en": "\tCastle Morne Lift\r",
+      "jp": "\tモーンの城、昇降機前\r",
+      "zh": "\t摩恩城（升降机前方）\r"
+    }
+  },
+  "611009": {
+    "PlaceName": {
+      "en": "\tBehind the Castle\r",
+      "jp": "\t城の裏手\r",
+      "zh": "\t城堡后方\r"
+    }
+  },
+  "611010": {
+    "PlaceName": {
+      "en": "\tBeside the Rampart Gaol\r",
+      "jp": "\t城壁牢の脇\r",
+      "zh": "\t城墙监牢旁\r"
+    }
+  },
+  "611011": {
+    "PlaceName": {
+      "en": "\tMorne Moangrave\r",
+      "jp": "\tモーンの嘆き墓\r",
+      "zh": "\t摩恩悲叹墓\r"
+    }
+  },
+  "611012": {
+    "PlaceName": {
+      "en": "\tChurch of Pilgrimage\r",
+      "jp": "\t巡礼教会\r",
+      "zh": "\t巡礼教堂\r"
+    }
+  },
+  "620000": {
+    "PlaceName": {
+      "en": "\tLake-Facing Cliffs\r",
+      "jp": "\t湖を臨む断崖\r",
+      "zh": "\t傍湖断崖\r"
+    }
+  },
+  "620001": {
+    "PlaceName": {
+      "en": "\tLiurnia Lake Shore\r",
+      "jp": "\tリエーニエ湖の岸辺\r",
+      "zh": "\t利耶尼亚湖（湖边）\r"
+    }
+  },
+  "620002": {
+    "PlaceName": {
+      "en": "\tLaskyar Ruins\r",
+      "jp": "\tラスカーの廃墟\r",
+      "zh": "\t拉斯卡废墟\r"
+    }
+  },
+  "620003": {
+    "PlaceName": {
+      "en": "\tScenic Isle\r",
+      "jp": "\t見晴らし島\r",
+      "zh": "\t远眺岛\r"
+    }
+  },
+  "620004": {
+    "PlaceName": {
+      "en": "\tAcademy Gate Town\r",
+      "jp": "\t学院の門前町\r",
+      "zh": "\t学院门前镇\r"
+    }
+  },
+  "620005": {
+    "PlaceName": {
+      "en": "\tMain Academy Gate\r",
+      "jp": "\t学院正門前\r",
+      "zh": "\t学院正门口\r"
+    }
+  },
+  "620010": {
+    "PlaceName": {
+      "en": "\tEast Raya Lucaria Gate\r",
+      "jp": "\tレアルカリア東門\r",
+      "zh": "\t雷亚卢卡利亚（东门）\r"
+    }
+  },
+  "620011": {
+    "PlaceName": {
+      "en": "\tBellum Church\r",
+      "jp": "\tベイルム教会\r",
+      "zh": "\t彼鲁姆教堂\r"
+    }
+  },
+  "620012": {
+    "PlaceName": {
+      "en": "\tGrand Lift of Dectus\r",
+      "jp": "\tデクタスの大昇降機\r",
+      "zh": "\t迪可达斯大升降机\r"
+    }
+  },
+  "620020": {
+    "PlaceName": {
+      "en": "\tFoot of the Four Belfries\r",
+      "jp": "\t四鐘楼の麓\r",
+      "zh": "\t四钟楼山脚\r"
+    }
+  },
+  "620021": {
+    "PlaceName": {
+      "en": "\tSorcerer's Isle\r",
+      "jp": "\t魔術師塔の小島\r",
+      "zh": "\t魔法师塔的小岛\r"
+    }
+  },
+  "620022": {
+    "PlaceName": {
+      "en": "\tNorthern Liurnia Lake Shore\r",
+      "jp": "\tリエーニエ湖、北岸\r",
+      "zh": "\t利耶尼亚湖（北岸）\r"
+    }
+  },
+  "620023": {
+    "PlaceName": {
+      "en": "\tRoad to the Manor\r",
+      "jp": "\t城館への道\r",
+      "zh": "\t通往城寨的道路\r"
+    }
+  },
+  "620024": {
+    "PlaceName": {
+      "en": "\tMain Caria Manor Gate\r",
+      "jp": "\tカーリアの城館、正門\r",
+      "zh": "\t卡利亚城寨（正门）\r"
+    }
+  },
+  "620030": {
+    "PlaceName": {
+      "en": "\tSlumbering Wolf's Shack\r",
+      "jp": "\t狼の眠るボロ家\r",
+      "zh": "\t眠狼的破屋\r"
+    }
+  },
+  "620031": {
+    "PlaceName": {
+      "en": "\tBoilprawn Shack\r",
+      "jp": "\tエビ茹でのボロ家\r",
+      "zh": "\t煮虾子的破屋\r"
+    }
+  },
+  "620032": {
+    "PlaceName": {
+      "en": "\tArtist's Shack\r",
+      "jp": "\t絵描きのボロ家\r",
+      "zh": "\t画家的破屋\r"
+    }
+  },
+  "620033": {
+    "PlaceName": {
+      "en": "\tRevenger's Shack\r",
+      "jp": "\t復讐者のボロ家\r",
+      "zh": "\t复仇者的破屋\r"
+    }
+  },
+  "620034": {
+    "PlaceName": {
+      "en": "\tFolly on the Lake\r",
+      "jp": "\t湖の東屋\r",
+      "zh": "\t湖畔凉亭\r"
+    }
+  },
+  "620035": {
+    "PlaceName": {
+      "en": "\tVillage of the Albinaurics\r",
+      "jp": "\tしろがね村\r",
+      "zh": "\t白金村\r"
+    }
+  },
+  "620036": {
+    "PlaceName": {
+      "en": "\tLiurnia Highway North\r",
+      "jp": "\tリエーニエ街道北\r",
+      "zh": "\t利耶尼亚大道（北方）\r"
+    }
+  },
+  "620037": {
+    "PlaceName": {
+      "en": "\tGate Town Bridge\r",
+      "jp": "\t門前町の橋\r",
+      "zh": "\t门前镇大桥\r"
+    }
+  },
+  "620038": {
+    "PlaceName": {
+      "en": "\tEastern Liurnia Lake Shore\r",
+      "jp": "\tリエーニエ湖、東岸\r",
+      "zh": "\t利耶尼亚湖（东岸）\r"
+    }
+  },
+  "620039": {
+    "PlaceName": {
+      "en": "\tChurch of Vows\r",
+      "jp": "\t結びの教会\r",
+      "zh": "\t结缘教堂\r"
+    }
+  },
+  "620040": {
+    "PlaceName": {
+      "en": "\tRuined Labyrinth\r",
+      "jp": "\t遺跡の迷路\r",
+      "zh": "\t遗迹迷宫\r"
+    }
+  },
+  "620041": {
+    "PlaceName": {
+      "en": "\tMausoleum Compound\r",
+      "jp": "\t霊廟の群れ\r",
+      "zh": "\t群集灵庙\r"
+    }
+  },
+  "620042": {
+    "PlaceName": {
+      "en": "\tThe Four Belfries\r",
+      "jp": "\t四鐘楼\r",
+      "zh": "\t四钟楼\r"
+    }
+  },
+  "620043": {
+    "PlaceName": {
+      "en": "\tRanni's Rise\r",
+      "jp": "\tラニの魔術師塔\r",
+      "zh": "\t菈妮魔法师塔\r"
+    }
+  },
+  "620044": {
+    "PlaceName": {
+      "en": "\tRavine-Veiled Village\r",
+      "jp": "\t谷底の隠し村\r",
+      "zh": "\t谷底秘村\r"
+    }
+  },
+  "620045": {
+    "PlaceName": {
+      "en": "\tManor Upper Level\r",
+      "jp": "\t城館上層\r",
+      "zh": "\t城寨上部\r"
+    }
+  },
+  "620046": {
+    "PlaceName": {
+      "en": "\tManor Lower Level\r",
+      "jp": "\t城館下層\r",
+      "zh": "\t城寨下部\r"
+    }
+  },
+  "620047": {
+    "PlaceName": {
+      "en": "\tRoyal Moongazing Grounds\r",
+      "jp": "\t王家の月見場\r",
+      "zh": "\t王室赏月地\r"
+    }
+  },
+  "620048": {
+    "PlaceName": {
+      "en": "\tGate Town North\r",
+      "jp": "\t門前町の北\r",
+      "zh": "\t门前镇的北方\r"
+    }
+  },
+  "620049": {
+    "PlaceName": {
+      "en": "\tEastern Tableland\r",
+      "jp": "\t東部台地\r",
+      "zh": "\t东边台地\r"
+    }
+  },
+  "620050": {
+    "PlaceName": { "en": "\tThe Ravine\r", "jp": "\t谷底\r", "zh": "\t谷底\r" }
+  },
+  "620051": {
+    "PlaceName": {
+      "en": "\tFallen Ruins of the Lake\r",
+      "jp": "\t湖の落下遺跡\r",
+      "zh": "\t湖中坠落遗迹\r"
+    }
+  },
+  "620052": {
+    "PlaceName": {
+      "en": "\tConverted Tower\r",
+      "jp": "\t改宗された塔\r",
+      "zh": "\t改宗塔\r"
+    }
+  },
+  "620053": {
+    "PlaceName": {
+      "en": "\tBehind Caria Manor\r",
+      "jp": "\tカーリアの城館、裏手\r",
+      "zh": "\t卡利亚城寨（后方）\r"
+    }
+  },
+  "620054": {
+    "PlaceName": {
+      "en": "\tFrenzied Flame Village Outskirts\r",
+      "jp": "\t狂い火村のはずれ\r",
+      "zh": "\t癫火村外\r"
+    }
+  },
+  "620055": {
+    "PlaceName": {
+      "en": "\tChurch of Inhibition\r",
+      "jp": "\t鎮めの教会\r",
+      "zh": "\t镇静教堂\r"
+    }
+  },
+  "620056": {
+    "PlaceName": {
+      "en": "\tTemple Quarter\r",
+      "jp": "\t聖堂区画\r",
+      "zh": "\t教堂区\r"
+    }
+  },
+  "620057": {
+    "PlaceName": {
+      "en": "\tEast Gate Bridge Trestle\r",
+      "jp": "\t東門橋の橋脚\r",
+      "zh": "\t东门桥的桥柱\r"
+    }
+  },
+  "620058": {
+    "PlaceName": {
+      "en": "\tCrystalline Woods\r",
+      "jp": "\t結晶の森\r",
+      "zh": "\t结晶森林\r"
+    }
+  },
+  "620059": {
+    "PlaceName": {
+      "en": "\tLiurnia Highway South\r",
+      "jp": "\tリエーニエ街道南\r",
+      "zh": "\t利耶尼亚大道（南方）\r"
+    }
+  },
+  "620060": {
+    "PlaceName": { "en": "\tJarburg\r", "jp": "\t壺村\r", "zh": "\t壶村\r" }
+  },
+  "620061": {
+    "PlaceName": {
+      "en": "\tSouth Raya Lucaria Gate\r",
+      "jp": "\tレアルカリア南門\r",
+      "zh": "\t雷亚卢卡利亚（南门）\r"
+    }
+  },
+  "620062": {
+    "PlaceName": {
+      "en": "\tRanni's Chamber\r",
+      "jp": "\tラニの部屋\r",
+      "zh": "\t菈妮的房间\r"
+    }
+  },
+  "621000": {
+    "PlaceName": {
+      "en": "\tMoonlight Altar\r",
+      "jp": "\t月光の祭壇\r",
+      "zh": "\t月光祭坛\r"
+    }
+  },
+  "621001": {
+    "PlaceName": {
+      "en": "\tCathedral of Manus Celes\r",
+      "jp": "\tマヌス・セリスの大教会\r",
+      "zh": "\t玛努斯·瑟利斯大教堂\r"
+    }
+  },
+  "621002": {
+    "PlaceName": {
+      "en": "\tAltar South\r",
+      "jp": "\t祭壇の南端\r",
+      "zh": "\t祭坛南方\r"
+    }
+  },
+  "630000": {
+    "PlaceName": {
+      "en": "\tErdtree-Gazing Hill\r",
+      "jp": "\t黄金樹を臨む丘\r",
+      "zh": "\t近黄金树的山丘\r"
+    }
+  },
+  "630001": {
+    "PlaceName": {
+      "en": "\tWindmill Village\r",
+      "jp": "\t風車村\r",
+      "zh": "\t风车村\r"
+    }
+  },
+  "630002": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree Church\r",
+      "jp": "\t小黄金樹教会\r",
+      "zh": "\t小黄金树教堂\r"
+    }
+  },
+  "630003": {
+    "PlaceName": {
+      "en": "\tAltus Highway Junction\r",
+      "jp": "\tアルター街道の三叉路\r",
+      "zh": "\t亚坛大道的三叉口\r"
+    }
+  },
+  "630004": {
+    "PlaceName": {
+      "en": "\tRampartside Path\r",
+      "jp": "\t城壁沿いの小道\r",
+      "zh": "\t城墙旁小径\r"
+    }
+  },
+  "630005": {
+    "PlaceName": {
+      "en": "\tHermit Merchant's Shack\r",
+      "jp": "\t世捨て商人のボロ家\r",
+      "zh": "\t遁世商人的破屋\r"
+    }
+  },
+  "630006": {
+    "PlaceName": {
+      "en": "\tRoad of Iniquity Side Path\r",
+      "jp": "\t罪人送りの道、小脇\r",
+      "zh": "\t移送罪人之路（路旁）\r"
+    }
+  },
+  "630007": {
+    "PlaceName": {
+      "en": "\tForest-Spanning Greatbridge\r",
+      "jp": "\t森渡の大橋\r",
+      "zh": "\t穿林大桥\r"
+    }
+  },
+  "630008": {
+    "PlaceName": {
+      "en": "\tAbandoned Coffin\r",
+      "jp": "\t捨てられた棺\r",
+      "zh": "\t弃置棺材\r"
+    }
+  },
+  "630009": {
+    "PlaceName": {
+      "en": "\tAltus Plateau\r",
+      "jp": "\tアルター高原\r",
+      "zh": "\t亚坛高原\r"
+    }
+  },
+  "630010": {
+    "PlaceName": {
+      "en": "\tBower of Bounty\r",
+      "jp": "\t豊穣の森\r",
+      "zh": "\t丰饶森林\r"
+    }
+  },
+  "630011": {
+    "PlaceName": {
+      "en": "\tOuter Wall Phantom Tree\r",
+      "jp": "\t外廓の幻影樹\r",
+      "zh": "\t城外幻影树\r"
+    }
+  },
+  "630012": {
+    "PlaceName": {
+      "en": "\tOuter Wall Battleground\r",
+      "jp": "\t外廓の戦場跡\r",
+      "zh": "\t城外战场遗迹\r"
+    }
+  },
+  "630013": {
+    "PlaceName": {
+      "en": "\tWindmill Heights\r",
+      "jp": "\t風車村高台\r",
+      "zh": "\t风车村高台\r"
+    }
+  },
+  "630014": {
+    "PlaceName": {
+      "en": "\tCapital Rampart\r",
+      "jp": "\t王都城壁前\r",
+      "zh": "\t王城城墙前方\r"
+    }
+  },
+  "630050": {
+    "PlaceName": {
+      "en": "\tCastellan's Hall\r",
+      "jp": "\t城主の広間\r",
+      "zh": "\t城主大厅\r"
+    }
+  },
+  "630051": {
+    "PlaceName": {
+      "en": "\tShaded Castle Ramparts\r",
+      "jp": "\t日陰城、城壁\r",
+      "zh": "\t日荫城（城墙）\r"
+    }
+  },
+  "630052": {
+    "PlaceName": {
+      "en": "\tShaded Castle Inner Gate\r",
+      "jp": "\t日陰城、内門\r",
+      "zh": "\t日荫城（内门）\r"
+    }
+  },
+  "631000": {
+    "PlaceName": {
+      "en": "\tBridge of Iniquity\r",
+      "jp": "\t罪人橋\r",
+      "zh": "\t罪人桥\r"
+    }
+  },
+  "631001": {
+    "PlaceName": {
+      "en": "\tNinth Mt. Gelmir Campsite\r",
+      "jp": "\t九合目\r",
+      "zh": "\t格密尔火山（第９休息站）\r"
+    }
+  },
+  "631002": {
+    "PlaceName": {
+      "en": "\tFirst Mt. Gelmir Campsite\r",
+      "jp": "\tゲルミア火山、一合目\r",
+      "zh": "\t格密尔火山（第１休息站）\r"
+    }
+  },
+  "631003": {
+    "PlaceName": {
+      "en": "\tRoad of Iniquity\r",
+      "jp": "\t罪人送りの道\r",
+      "zh": "\t移送罪人之路\r"
+    }
+  },
+  "631004": {
+    "PlaceName": {
+      "en": "\tSeethewater River\r",
+      "jp": "\t煮え立ち川\r",
+      "zh": "\t沸滚河\r"
+    }
+  },
+  "631005": {
+    "PlaceName": {
+      "en": "\tSeethewater Terminus\r",
+      "jp": "\t煮え立ち川の終端\r",
+      "zh": "\t沸滚河终点\r"
+    }
+  },
+  "631006": {
+    "PlaceName": {
+      "en": "\tCraftsman's Shack\r",
+      "jp": "\t職人のボロ家\r",
+      "zh": "\t匠人的破屋\r"
+    }
+  },
+  "631007": {
+    "PlaceName": {
+      "en": "\tPrimeval Sorcerer Azur\r",
+      "jp": "\t源流の魔術師、アズール\r",
+      "zh": "\t“起源魔法师”亚兹勒\r"
+    }
+  },
+  "640000": {
+    "PlaceName": {
+      "en": "\tSmoldering Church\r",
+      "jp": "\t燻り教会\r",
+      "zh": "\t熏火教堂\r"
+    }
+  },
+  "640001": {
+    "PlaceName": {
+      "en": "\tRotview Balcony\r",
+      "jp": "\t腐敗を臨む露台\r",
+      "zh": "\t腐败旁露台\r"
+    }
+  },
+  "640002": {
+    "PlaceName": {
+      "en": "\tCathedral of Dragon Communion\r",
+      "jp": "\t大竜餐教会\r",
+      "zh": "\t大龙飨教堂\r"
+    }
+  },
+  "640003": {
+    "PlaceName": {
+      "en": "\tSmoldering Wall\r",
+      "jp": "\t燻りの壁\r",
+      "zh": "\t熏烧火墙\r"
+    }
+  },
+  "640004": {
+    "PlaceName": {
+      "en": "\tDeep Siofra Well\r",
+      "jp": "\tシーフラ河の奥井戸\r",
+      "zh": "\t希芙拉河的出口井\r"
+    }
+  },
+  "640005": {
+    "PlaceName": {
+      "en": "\tCaelem Ruins\r",
+      "jp": "\tキレムの廃墟\r",
+      "zh": "\t奇列姆废墟\r"
+    }
+  },
+  "640006": {
+    "PlaceName": {
+      "en": "\tIsolated Merchant's Shack\r",
+      "jp": "\t隠遁商人のボロ家\r",
+      "zh": "\t隐居商人的破屋\r"
+    }
+  },
+  "640007": {
+    "PlaceName": {
+      "en": "\tHeart of Aeonia\r",
+      "jp": "\tエオニアの中心\r",
+      "zh": "\t艾奥尼亚中心地\r"
+    }
+  },
+  "640008": {
+    "PlaceName": {
+      "en": "\tChair-Crypt of Sellia\r",
+      "jp": "\tサリアの椅子廟\r",
+      "zh": "\t瑟利亚椅子庙\r"
+    }
+  },
+  "640009": {
+    "PlaceName": {
+      "en": "\tImpassable Greatbridge\r",
+      "jp": "\t不落の大橋\r",
+      "zh": "\t不破大桥\r"
+    }
+  },
+  "640010": {
+    "PlaceName": {
+      "en": "\tRedmane Castle Plaza\r",
+      "jp": "\t赤獅子城、広場\r",
+      "zh": "\t红狮子城（广场）\r"
+    }
+  },
+  "640011": {
+    "PlaceName": {
+      "en": "\tChamber Outside the Plaza\r",
+      "jp": "\t広場前の部屋\r",
+      "zh": "\t广场前房间\r"
+    }
+  },
+  "640013": {
+    "PlaceName": {
+      "en": "\tFort Gael North\r",
+      "jp": "\tゲール砦の北\r",
+      "zh": "\t盖尔要塞北方\r"
+    }
+  },
+  "640014": {
+    "PlaceName": {
+      "en": "\tStarscourge Radahn\r",
+      "jp": "\t星砕きのラダーン\r",
+      "zh": "\t“碎星”拉塔恩\r"
+    }
+  },
+  "640015": {
+    "PlaceName": {
+      "en": "\tAeonia Swamp Shore\r",
+      "jp": "\tエオニア沼の岸辺\r",
+      "zh": "\t艾奥尼亚沼泽（岸边）\r"
+    }
+  },
+  "640016": {
+    "PlaceName": {
+      "en": "\tSouthern Aeonia Swamp Bank\r",
+      "jp": "\tエオニア沼、南岸\r",
+      "zh": "\t艾奥尼亚沼泽（南岸）\r"
+    }
+  },
+  "640017": {
+    "PlaceName": {
+      "en": "\tSellia Under-Stair\r",
+      "jp": "\tサリアの街、階段下\r",
+      "zh": "\t瑟利亚镇（楼梯下方）\r"
+    }
+  },
+  "640018": {
+    "PlaceName": {
+      "en": "\tChurch of the Plague\r",
+      "jp": "\t腐れ病の教会\r",
+      "zh": "\t腐败病教堂\r"
+    }
+  },
+  "640019": {
+    "PlaceName": {
+      "en": "\tCaelid Highway South\r",
+      "jp": "\tケイリッド街道南\r",
+      "zh": "\t盖利德大道南方\r"
+    }
+  },
+  "640020": {
+    "PlaceName": {
+      "en": "\tDragonbarrow West\r",
+      "jp": "\t竜塚の西\r",
+      "zh": "\t龙墓西方\r"
+    }
+  },
+  "640021": {
+    "PlaceName": {
+      "en": "\tFort Faroth\r",
+      "jp": "\tファロス砦\r",
+      "zh": "\t法洛斯要塞\r"
+    }
+  },
+  "640022": {
+    "PlaceName": {
+      "en": "\tDragonbarrow Fork\r",
+      "jp": "\t竜塚の分かれ道\r",
+      "zh": "\t龙墓的岔路\r"
+    }
+  },
+  "640023": {
+    "PlaceName": {
+      "en": "\tLenne's Rise\r",
+      "jp": "\tレンの魔術師塔\r",
+      "zh": "\t雷恩魔法师塔\r"
+    }
+  },
+  "640024": {
+    "PlaceName": {
+      "en": "\tFarum Greatbridge\r",
+      "jp": "\tファルム大橋\r",
+      "zh": "\t法姆大桥\r"
+    }
+  },
+  "640025": {
+    "PlaceName": {
+      "en": "\tBestial Sanctum\r",
+      "jp": "\t獣の神殿\r",
+      "zh": "\t野兽神殿\r"
+    }
+  },
+  "640026": {
+    "PlaceName": {
+      "en": "\tAstray from Caelid Highway North\r",
+      "jp": "\tケイリッド街道北、逸れた先\r",
+      "zh": "\t盖利德大道北方（偏离大道后）\r"
+    }
+  },
+  "640027": {
+    "PlaceName": {
+      "en": "\tSwamp of Aeonia\r",
+      "jp": "\tエオニアの沼\r",
+      "zh": "\t艾奥尼亚沼泽\r"
+    }
+  },
+  "640028": {
+    "PlaceName": {
+      "en": "\tInner Aeonia\r",
+      "jp": "\tエオニアの沼、奥地\r",
+      "zh": "\t艾奥尼亚沼泽（深处）\r"
+    }
+  },
+  "640029": {
+    "PlaceName": {
+      "en": "\tSellia Backstreets\r",
+      "jp": "\tサリアの街裏\r",
+      "zh": "\t瑟利亚镇后侧\r"
+    }
+  },
+  "650000": {
+    "PlaceName": {
+      "en": "\tForbidden Lands\r",
+      "jp": "\t禁域\r",
+      "zh": "\t禁域\r"
+    }
+  },
+  "650001": {
+    "PlaceName": {
+      "en": "\tZamor Ruins\r",
+      "jp": "\tザミェルの廃墟\r",
+      "zh": "\t萨米尔废墟\r"
+    }
+  },
+  "650002": {
+    "PlaceName": {
+      "en": "\tAncient Snow Valley Ruins\r",
+      "jp": "\t古遺跡の雪谷\r",
+      "zh": "\t古遗迹降雪谷\r"
+    }
+  },
+  "650003": {
+    "PlaceName": {
+      "en": "\tFreezing Lake\r",
+      "jp": "\t氷結湖\r",
+      "zh": "\t结冰湖\r"
+    }
+  },
+  "650004": {
+    "PlaceName": {
+      "en": "\tFirst Church of Marika\r",
+      "jp": "\t第一マリカ教会\r",
+      "zh": "\t玛莉卡第一教堂\r"
+    }
+  },
+  "650005": {
+    "PlaceName": {
+      "en": "\tGiants' Gravepost\r",
+      "jp": "\t巨人墓標\r",
+      "zh": "\t巨人墓碑\r"
+    }
+  },
+  "650006": {
+    "PlaceName": {
+      "en": "\tChurch of Repose\r",
+      "jp": "\t安息教会\r",
+      "zh": "\t安歇教堂\r"
+    }
+  },
+  "650007": {
+    "PlaceName": {
+      "en": "\tFoot of the Forge\r",
+      "jp": "\t火の釜の麓\r",
+      "zh": "\t火焰大锅下方\r"
+    }
+  },
+  "650008": {
+    "PlaceName": {
+      "en": "\tFire Giant\r",
+      "jp": "\t火の巨人\r",
+      "zh": "\t火焰巨人\r"
+    }
+  },
+  "650009": {
+    "PlaceName": {
+      "en": "\tForge of the Giants\r",
+      "jp": "\t巨人の火の釜\r",
+      "zh": "\t巨人火焰大锅\r"
+    }
+  },
+  "650010": {
+    "PlaceName": {
+      "en": "\tGrand Lift of Rold\r",
+      "jp": "\tロルドの大昇降機\r",
+      "zh": "\t洛德大升降机\r"
+    }
+  },
+  "650050": {
+    "PlaceName": {
+      "en": "\tWhiteridge Road\r",
+      "jp": "\t雪の尾根道\r",
+      "zh": "\t降雪棱线路\r"
+    }
+  },
+  "650051": {
+    "PlaceName": {
+      "en": "\tSnow Valley Ruins Overlook\r",
+      "jp": "\t古遺跡谷の崖上\r",
+      "zh": "\t古遗迹山谷的山崖上\r"
+    }
+  },
+  "650052": {
+    "PlaceName": {
+      "en": "\tCastle Sol Main Gate\r",
+      "jp": "\tソールの城砦、正門\r",
+      "zh": "\t索尔城（正门）\r"
+    }
+  },
+  "650053": {
+    "PlaceName": {
+      "en": "\tChurch of the Eclipse\r",
+      "jp": "\t日蝕教会\r",
+      "zh": "\t日蚀教堂\r"
+    }
+  },
+  "650054": {
+    "PlaceName": {
+      "en": "\tCastle Sol Rooftop\r",
+      "jp": "\tソールの城砦、屋上\r",
+      "zh": "\t索尔城（屋顶）\r"
+    }
+  },
+  "651000": {
+    "PlaceName": {
+      "en": "\tConsecrated Snowfield\r",
+      "jp": "\t聖別雪原\r",
+      "zh": "\t化圣雪原\r"
+    }
+  },
+  "651001": {
+    "PlaceName": {
+      "en": "\tInner Consecrated Snowfield\r",
+      "jp": "\t聖別雪原、奥地\r",
+      "zh": "\t化圣雪原（深处）\r"
+    }
+  },
+  "651002": {
+    "PlaceName": {
+      "en": "\tOrdina, Liturgical Town\r",
+      "jp": "\t典礼街オルディナ\r",
+      "zh": "\t“仪典镇”奥缇那\r"
+    }
+  },
+  "651003": {
+    "PlaceName": {
+      "en": "\tApostate Derelict\r",
+      "jp": "\t棄教の廃屋\r",
+      "zh": "\t离教废屋\r"
+    }
+  },
+  "680000": {
+    "PlaceName": {
+      "en": "\tGravesite Plain\r",
+      "jp": "\t墓地平原\r",
+      "zh": "\t墓地平原\r"
+    }
+  },
+  "680001": {
+    "PlaceName": {
+      "en": "\tScorched Ruins\r",
+      "jp": "\t火に焼かれた廃墟\r",
+      "zh": "\t火吻废墟\r"
+    }
+  },
+  "680002": {
+    "PlaceName": {
+      "en": "\tThree-Path Cross\r",
+      "jp": "\t三叉路の十字\r",
+      "zh": "\t三叉口的十字记号\r"
+    }
+  },
+  "680003": {
+    "PlaceName": {
+      "en": "\tMain Gate Cross\r",
+      "jp": "\t正門前の十字\r",
+      "zh": "\t正门前方的十字记号\r"
+    }
+  },
+  "680004": {
+    "PlaceName": {
+      "en": "\tCliffroad Terminus\r",
+      "jp": "\t崖路の終わり\r",
+      "zh": "\t崖上道路的终点\r"
+    }
+  },
+  "680005": {
+    "PlaceName": {
+      "en": "\tGreatbridge, North\r",
+      "jp": "\t大橋の北\r",
+      "zh": "\t大桥北方\r"
+    }
+  },
+  "681000": {
+    "PlaceName": {
+      "en": "\tEllac River Cave\r",
+      "jp": "\tエラク川の洞窟\r",
+      "zh": "\t艾拉克河洞窟\r"
+    }
+  },
+  "681001": {
+    "PlaceName": {
+      "en": "\tPillar Path Cross\r",
+      "jp": "\t柱坂の十字\r",
+      "zh": "\t通柱坡的十字记号\r"
+    }
+  },
+  "681002": {
+    "PlaceName": {
+      "en": "\tPillar Path Waypoint\r",
+      "jp": "\t柱坂中腹\r",
+      "zh": "\t通柱坡中段\r"
+    }
+  },
+  "681003": {
+    "PlaceName": {
+      "en": "\tCastle Front\r",
+      "jp": "\t城砦正面\r",
+      "zh": "\t城的前方\r"
+    }
+  },
+  "682000": {
+    "PlaceName": {
+      "en": "\tCastle Ensis Checkpoint\r",
+      "jp": "\tエンシスの城砦、関所\r",
+      "zh": "\t恩希斯城（关卡）\r"
+    }
+  },
+  "682001": {
+    "PlaceName": {
+      "en": "\tCastle-Lord's Chamber\r",
+      "jp": "\t城主の間\r",
+      "zh": "\t城主的房间\r"
+    }
+  },
+  "682002": {
+    "PlaceName": {
+      "en": "\tEnsis Moongazing Grounds\r",
+      "jp": "\tエンシスの月見場\r",
+      "zh": "\t恩希斯赏月地\r"
+    }
+  },
+  "683000": {
+    "PlaceName": {
+      "en": "\tEllac River Downstream\r",
+      "jp": "\tエラク川下流\r",
+      "zh": "\t艾拉克河下游\r"
+    }
+  },
+  "683001": {
+    "PlaceName": {
+      "en": "\tCerulean Coast\r",
+      "jp": "\t青海岸\r",
+      "zh": "\t青蓝海岸\r"
+    }
+  },
+  "683002": {
+    "PlaceName": {
+      "en": "\tCerulean Coast West\r",
+      "jp": "\t青海岸西\r",
+      "zh": "\t青蓝海岸西边\r"
+    }
+  },
+  "683003": {
+    "PlaceName": { "en": "\tThe Fissure\r", "jp": "\t大穴\r", "zh": "\t大洞\r" }
+  },
+  "683004": {
+    "PlaceName": {
+      "en": "\tFinger Ruins of Rhia\r",
+      "jp": "\tリアの指遺跡\r",
+      "zh": "\t利亚指头遗迹\r"
+    }
+  },
+  "683005": {
+    "PlaceName": {
+      "en": "\tCerulean Coast Cross\r",
+      "jp": "\t青海岸の十字\r",
+      "zh": "\t青蓝海岸的十字记号\r"
+    }
+  },
+  "684000": {
+    "PlaceName": {
+      "en": "\tGrand Altar of Dragon Communion\r",
+      "jp": "\t竜餐の大祭壇\r",
+      "zh": "\t龙飨大祭坛\r"
+    }
+  },
+  "684001": {
+    "PlaceName": {
+      "en": "\tCharo's Hidden Grave\r",
+      "jp": "\tカロの隠し墓地\r",
+      "zh": "\t卡罗隐藏墓地\r"
+    }
+  },
+  "685000": {
+    "PlaceName": {
+      "en": "\tFoot of the Jagged Peak\r",
+      "jp": "\tギザ山の麓\r",
+      "zh": "\t尖刺山的山脚\r"
+    }
+  },
+  "685001": {
+    "PlaceName": {
+      "en": "\tJagged Peak Mountainside\r",
+      "jp": "\tギザ山、中腹\r",
+      "zh": "\t尖刺山（中段）\r"
+    }
+  },
+  "685002": {
+    "PlaceName": {
+      "en": "\tJagged Peak Summit\r",
+      "jp": "\tギザ山、山頂\r",
+      "zh": "\t尖刺山（山顶）\r"
+    }
+  },
+  "685003": {
+    "PlaceName": {
+      "en": "\tRest of the Dread Dragon\r",
+      "jp": "\t暴竜の座\r",
+      "zh": "\t狂龙之席\r"
+    }
+  },
+  "686000": {
+    "PlaceName": {
+      "en": "\tAbyssal Woods\r",
+      "jp": "\t奈落の森\r",
+      "zh": "\t谷底森林\r"
+    }
+  },
+  "686001": {
+    "PlaceName": {
+      "en": "\tDivided Falls\r",
+      "jp": "\t簾滝\r",
+      "zh": "\t水帘瀑布\r"
+    }
+  },
+  "686002": {
+    "PlaceName": {
+      "en": "\tForsaken Graveyard\r",
+      "jp": "\t見捨てられた墓地\r",
+      "zh": "\t荒废墓地\r"
+    }
+  },
+  "686003": {
+    "PlaceName": {
+      "en": "\tWoodland Trail\r",
+      "jp": "\t森の獣道\r",
+      "zh": "\t林中兽径\r"
+    }
+  },
+  "686004": {
+    "PlaceName": {
+      "en": "\tChurch Ruins\r",
+      "jp": "\t廃教会\r",
+      "zh": "\t废弃教堂\r"
+    }
+  },
+  "690000": {
+    "PlaceName": {
+      "en": "\tHighroad Cross\r",
+      "jp": "\t街道の十字\r",
+      "zh": "\t大道旁的十字记号\r"
+    }
+  },
+  "690002": {
+    "PlaceName": {
+      "en": "\tMoorth Ruins\r",
+      "jp": "\tモースの廃墟\r",
+      "zh": "\t穆斯废墟\r"
+    }
+  },
+  "690003": {
+    "PlaceName": {
+      "en": "\tBonny Village\r",
+      "jp": "\tボニ村\r",
+      "zh": "\t波尼村\r"
+    }
+  },
+  "690004": {
+    "PlaceName": {
+      "en": "\tBridge Leading to the Village\r",
+      "jp": "\t村へ続くつり橋\r",
+      "zh": "\t通村吊桥\r"
+    }
+  },
+  "690005": {
+    "PlaceName": {
+      "en": "\tChurch District Highroad\r",
+      "jp": "\t教区街道\r",
+      "zh": "\t教区大道\r"
+    }
+  },
+  "690006": {
+    "PlaceName": {
+      "en": "\tCathedral of Manus Metyr\r",
+      "jp": "\tマヌス・メテルの大教会\r",
+      "zh": "\t玛努斯·美特大教堂\r"
+    }
+  },
+  "690007": {
+    "PlaceName": {
+      "en": "\tScadu Altus, West\r",
+      "jp": "\t影のアルター、西\r",
+      "zh": "\t幽影亚坛（西方）\r"
+    }
+  },
+  "690008": {
+    "PlaceName": {
+      "en": "\tMoorth Highway, South\r",
+      "jp": "\tモース街道、南端\r",
+      "zh": "\t穆斯大道（南方）\r"
+    }
+  },
+  "690009": {
+    "PlaceName": {
+      "en": "\tFort of Reprimand\r",
+      "jp": "\t懲罰砦\r",
+      "zh": "\t惩罚要塞\r"
+    }
+  },
+  "690010": {
+    "PlaceName": {
+      "en": "\tBehind the Fort of Reprimand\r",
+      "jp": "\t懲罰砦、裏手\r",
+      "zh": "\t惩罚要塞（后方）\r"
+    }
+  },
+  "690011": {
+    "PlaceName": {
+      "en": "\tScaduview Cross\r",
+      "jp": "\t影樹を臨む十字\r",
+      "zh": "\t远望幽影树的十字记号\r"
+    }
+  },
+  "690012": {
+    "PlaceName": {
+      "en": "\tAncient Ruins Base\r",
+      "jp": "\t古遺跡の麓\r",
+      "zh": "\t古遗迹下方\r"
+    }
+  },
+  "690013": {
+    "PlaceName": {
+      "en": "\tTemple Town Ruins\r",
+      "jp": "\t神殿街の廃墟\r",
+      "zh": "\t神殿镇废墟\r"
+    }
+  },
+  "690014": {
+    "PlaceName": {
+      "en": "\tRavine North\r",
+      "jp": "\t峡谷北\r",
+      "zh": "\t峡谷北方\r"
+    }
+  },
+  "690016": {
+    "PlaceName": {
+      "en": "\tCastle Watering Hole\r",
+      "jp": "\t城下の水場\r",
+      "zh": "\t城底积水处\r"
+    }
+  },
+  "690017": {
+    "PlaceName": {
+      "en": "\tRecluses' River Upstream\r",
+      "jp": "\t隠者川上流\r",
+      "zh": "\t隐者河上游\r"
+    }
+  },
+  "690018": {
+    "PlaceName": {
+      "en": "\tRecluses' River Downstream\r",
+      "jp": "\t隠者川下流\r",
+      "zh": "\t隐者河下游\r"
+    }
+  },
+  "692000": {
+    "PlaceName": {
+      "en": "\tScaduview\r",
+      "jp": "\t影を仰ぐ露台\r",
+      "zh": "\t望影露台\r"
+    }
+  },
+  "692001": {
+    "PlaceName": {
+      "en": "\tShadow Keep, Back Gate\r",
+      "jp": "\t影の城、裏門\r",
+      "zh": "\t幽影城（后门）\r"
+    }
+  },
+  "693000": {
+    "PlaceName": {
+      "en": "\tHinterland\r",
+      "jp": "\t隠された地\r",
+      "zh": "\t隐匿之地\r"
+    }
+  },
+  "693001": {
+    "PlaceName": {
+      "en": "\tFingerstone Hill\r",
+      "jp": "\t指岩の丘\r",
+      "zh": "\t指岩山丘\r"
+    }
+  },
+  "693002": {
+    "PlaceName": {
+      "en": "\tHinterland Bridge\r",
+      "jp": "\t隠された地、橋\r",
+      "zh": "\t隐匿之地（桥边）\r"
+    }
+  },
+  "694000": {
+    "PlaceName": {
+      "en": "\tViaduct Minor Tower\r",
+      "jp": "\t高架橋の小塔\r",
+      "zh": "\t高架桥的小塔\r"
+    }
+  },
+  "694001": {
+    "PlaceName": {
+      "en": "\tRauh Ancient Ruins, East\r",
+      "jp": "\tラウフの古遺跡、東\r",
+      "zh": "\t劳弗古遗迹（东方）\r"
+    }
+  },
+  "694002": {
+    "PlaceName": {
+      "en": "\tRauh Ancient Ruins, West\r",
+      "jp": "\tラウフの古遺跡、西\r",
+      "zh": "\t劳弗古遗迹（西方）\r"
+    }
+  },
+  "694003": {
+    "PlaceName": {
+      "en": "\tChurch of the Bud, Main Entrance\r",
+      "jp": "\t蕾の教会、正門前\r",
+      "zh": "\t花蕾教堂（正门口）\r"
+    }
+  },
+  "694004": {
+    "PlaceName": {
+      "en": "\tAncient Ruins, Grand Stairway\r",
+      "jp": "\t古遺跡、大階段\r",
+      "zh": "\t古遗迹（大楼梯）\r"
+    }
+  },
+  "694005": {
+    "PlaceName": {
+      "en": "\tChurch of the Bud\r",
+      "jp": "\t蕾の教会\r",
+      "zh": "\t花蕾教堂\r"
+    }
+  },
+  "696000": {
+    "PlaceName": {
+      "en": "\tScadutree Base\r",
+      "jp": "\t影樹の麓\r",
+      "zh": "\t幽影树的树脚\r"
+    }
+  },
+  "6100300": {
+    "PlaceName": {
+      "en": "\tChurch of Elleh\r",
+      "jp": "\tエレの教会\r",
+      "zh": "\t艾雷教堂\r"
+    }
+  },
+  "6100301": {
+    "PlaceName": {
+      "en": "\tChurch of Dragon Communion\r",
+      "jp": "\t竜餐教会\r",
+      "zh": "\t龙飨教堂\r"
+    }
+  },
+  "6100302": {
+    "PlaceName": {
+      "en": "\tThird Church of Marika\r",
+      "jp": "\t第三マリカ教会\r",
+      "zh": "\t玛莉卡第三教堂\r"
+    }
+  },
+  "6100500": {
+    "PlaceName": {
+      "en": "\tMistwood Ruins\r",
+      "jp": "\t霧の森の廃墟\r",
+      "zh": "\t雾林废墟\r"
+    }
+  },
+  "6100501": {
+    "PlaceName": {
+      "en": "\tWaypoint Ruins\r",
+      "jp": "\t宿場跡\r",
+      "zh": "\t驿站街遗迹\r"
+    }
+  },
+  "6100502": {
+    "PlaceName": {
+      "en": "\tDragon-Burnt Ruins\r",
+      "jp": "\t竜に焼かれた廃墟\r",
+      "zh": "\t龙息废墟\r"
+    }
+  },
+  "6100503": {
+    "PlaceName": {
+      "en": "\tGatefront Ruins\r",
+      "jp": "\t関門前の廃墟\r",
+      "zh": "\t关卡前废墟\r"
+    }
+  },
+  "6100504": {
+    "PlaceName": {
+      "en": "\tSummonwater Village\r",
+      "jp": "\t呼び水の村\r",
+      "zh": "\t水唤村\r"
+    }
+  },
+  "6100600": {
+    "PlaceName": {
+      "en": "\tArtist's Shack\r",
+      "jp": "\t絵描きのボロ家\r",
+      "zh": "\t画家的破屋\r"
+    }
+  },
+  "6100601": {
+    "PlaceName": {
+      "en": "\tWarmaster's Shack\r",
+      "jp": "\t戦学びのボロ家\r",
+      "zh": "\t习战者的破屋\r"
+    }
+  },
+  "6100602": {
+    "PlaceName": {
+      "en": "\tStormhill Shack\r",
+      "jp": "\t嵐丘のボロ家\r",
+      "zh": "\t风暴山丘的破屋\r"
+    }
+  },
+  "6100900": {
+    "PlaceName": {
+      "en": "\tForlorn Hound Evergaol\r",
+      "jp": "\t主なき猟犬の封牢\r",
+      "zh": "\t无主猎犬的封印监牢\r"
+    }
+  },
+  "6100901": {
+    "PlaceName": {
+      "en": "\tStormhill Evergaol\r",
+      "jp": "\t嵐丘の封牢\r",
+      "zh": "\t风暴山丘的封印监牢\r"
+    }
+  },
+  "6101000": {
+    "PlaceName": {
+      "en": "\tStormgate\r",
+      "jp": "\t嵐の関門\r",
+      "zh": "\t风暴关卡\r"
+    }
+  },
+  "6101100": {
+    "PlaceName": {
+      "en": "\tBridge of Sacrifice\r",
+      "jp": "\t贄送りの大橋\r",
+      "zh": "\t献祭大桥\r"
+    }
+  },
+  "6101500": {
+    "PlaceName": {
+      "en": "\tSiofra River Well\r",
+      "jp": "\tシーフラ河の井戸\r",
+      "zh": "\t希芙拉河的入口井\r"
+    }
+  },
+  "6101800": {
+    "PlaceName": {
+      "en": "\tFort Haight\r",
+      "jp": "\tハイト砦\r",
+      "zh": "\t海德要塞\r"
+    }
+  },
+  "6103000": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6108100": {
+    "PlaceName": {
+      "en": "\tAgheel Lake\r",
+      "jp": "\tアギール湖\r",
+      "zh": "\t亚基尔湖\r"
+    }
+  },
+  "6108700": {
+    "PlaceName": {
+      "en": "\tSending Gate\r",
+      "jp": "\t転送門\r",
+      "zh": "\t传送门\r"
+    }
+  },
+  "6108701": {
+    "PlaceName": {
+      "en": "\tVolcano Manor Request: Istvan\r",
+      "jp": "\t火山館からの依頼「イシュトバーン」\r",
+      "zh": "\t火山官邸的委托：伊修托邦\r"
+    }
+  },
+  "6108702": {
+    "PlaceName": {
+      "en": "\tStarfall Crater\r",
+      "jp": "\t星の落ちた地\r",
+      "zh": "\t星星坠落之地\r"
+    }
+  },
+  "6110300": {
+    "PlaceName": {
+      "en": "\tFourth Church of Marika\r",
+      "jp": "\t第四マリカ教会\r",
+      "zh": "\t玛莉卡第四教堂\r"
+    }
+  },
+  "6110301": {
+    "PlaceName": {
+      "en": "\tChurch of Pilgrimage\r",
+      "jp": "\t巡礼教会\r",
+      "zh": "\t巡礼教堂\r"
+    }
+  },
+  "6110302": {
+    "PlaceName": {
+      "en": "\tCallu Baptismal Church\r",
+      "jp": "\tカルの洗礼教会\r",
+      "zh": "\t卡尔洗礼教堂\r"
+    }
+  },
+  "6110500": {
+    "PlaceName": {
+      "en": "\tWitchbane Ruins\r",
+      "jp": "\t魔女封じの廃墟\r",
+      "zh": "\t封印魔女的废墟\r"
+    }
+  },
+  "6110501": {
+    "PlaceName": {
+      "en": "\tTombsward Ruins\r",
+      "jp": "\t霊廟ヶ原の廃墟\r",
+      "zh": "\t灵庙原野的废墟\r"
+    }
+  },
+  "6110502": {
+    "PlaceName": {
+      "en": "\tDemi-Human Forest Ruins\r",
+      "jp": "\t亜人森の廃墟\r",
+      "zh": "\t亚人森林的废墟\r"
+    }
+  },
+  "6110600": {
+    "PlaceName": {
+      "en": "\tIsolated Merchant's Shack\r",
+      "jp": "\t隠遁商人のボロ家\r",
+      "zh": "\t隐居商人的破屋\r"
+    }
+  },
+  "6110700": {
+    "PlaceName": {
+      "en": "\tAiling Village\r",
+      "jp": "\t病村\r",
+      "zh": "\t病村\r"
+    }
+  },
+  "6110800": {
+    "PlaceName": {
+      "en": "\tForest Lookout Tower\r",
+      "jp": "\t森見張りの塔\r",
+      "zh": "\t森林监视塔\r"
+    }
+  },
+  "6110801": {
+    "PlaceName": {
+      "en": "\tTower of Return\r",
+      "jp": "\t舞い戻りの塔\r",
+      "zh": "\t归还塔\r"
+    }
+  },
+  "6110900": {
+    "PlaceName": {
+      "en": "\tWeeping Evergaol\r",
+      "jp": "\t啜り泣きの封牢\r",
+      "zh": "\t啜泣的封印监牢\r"
+    }
+  },
+  "6111700": {
+    "PlaceName": {
+      "en": "\tOridys's Rise\r",
+      "jp": "\tオリティスの魔術師塔\r",
+      "zh": "\t奥利缇斯魔法师塔\r"
+    }
+  },
+  "6112500": {
+    "PlaceName": {
+      "en": "\tCastle Morne\r",
+      "jp": "\tモーンの城\r",
+      "zh": "\t摩恩城\r"
+    }
+  },
+  "6113000": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6120000": {
+    "PlaceName": {
+      "en": "\tStormveil Castle\r",
+      "jp": "\tストームヴィル城\r",
+      "zh": "\t史东薇尔城\r"
+    }
+  },
+  "6200000": {
+    "PlaceName": {
+      "en": "\tUld Palace Ruins\r",
+      "jp": "\tウルドの王朝遺跡\r",
+      "zh": "\t兀德王朝遗迹\r"
+    }
+  },
+  "6200001": {
+    "PlaceName": {
+      "en": "\tThree Sisters\r",
+      "jp": "\tスリーシスターズ\r",
+      "zh": "\t三姊妹塔\r"
+    }
+  },
+  "6200300": {
+    "PlaceName": {
+      "en": "\tChurch of Irith\r",
+      "jp": "\tイリス教会\r",
+      "zh": "\t伊利斯教堂\r"
+    }
+  },
+  "6200301": {
+    "PlaceName": {
+      "en": "\tChurch of Vows\r",
+      "jp": "\t結びの教会\r",
+      "zh": "\t结缘教堂\r"
+    }
+  },
+  "6200302": {
+    "PlaceName": {
+      "en": "\tRose Church\r",
+      "jp": "\tバラ教会\r",
+      "zh": "\t蔷薇教堂\r"
+    }
+  },
+  "6200303": {
+    "PlaceName": {
+      "en": "\tBellum Church\r",
+      "jp": "\tベイルム教会\r",
+      "zh": "\t彼鲁姆教堂\r"
+    }
+  },
+  "6200304": {
+    "PlaceName": {
+      "en": "\tChurch of Inhibition\r",
+      "jp": "\t鎮めの教会\r",
+      "zh": "\t镇静教堂\r"
+    }
+  },
+  "6200500": {
+    "PlaceName": {
+      "en": "\tPurified Ruins\r",
+      "jp": "\t浄化された廃墟\r",
+      "zh": "\t受净化的废墟\r"
+    }
+  },
+  "6200501": {
+    "PlaceName": {
+      "en": "\tKingsrealm Ruins\r",
+      "jp": "\t王家領の廃墟\r",
+      "zh": "\t王室领地废墟\r"
+    }
+  },
+  "6200502": {
+    "PlaceName": {
+      "en": "\tLaskyar Ruins\r",
+      "jp": "\tラスカーの廃墟\r",
+      "zh": "\t拉斯卡废墟\r"
+    }
+  },
+  "6200600": {
+    "PlaceName": {
+      "en": "\tSlumbering Wolf's Shack\r",
+      "jp": "\t狼の眠るボロ家\r",
+      "zh": "\t眠狼的破屋\r"
+    }
+  },
+  "6200601": {
+    "PlaceName": {
+      "en": "\tBoilprawn Shack\r",
+      "jp": "\tエビ茹でのボロ家\r",
+      "zh": "\t煮虾子的破屋\r"
+    }
+  },
+  "6200602": {
+    "PlaceName": {
+      "en": "\tArtist's Shack\r",
+      "jp": "\t絵描きのボロ家\r",
+      "zh": "\t画家的破屋\r"
+    }
+  },
+  "6200603": {
+    "PlaceName": {
+      "en": "\tRevenger's Shack\r",
+      "jp": "\t復讐者のボロ家\r",
+      "zh": "\t复仇者的破屋\r"
+    }
+  },
+  "6200700": {
+    "PlaceName": {
+      "en": "\tVillage of the Albinaurics\r",
+      "jp": "\tしろがね村\r",
+      "zh": "\t白金村\r"
+    }
+  },
+  "6200701": {
+    "PlaceName": {
+      "en": "\tFrenzied Flame Village\r",
+      "jp": "\t狂い火村\r",
+      "zh": "\t癫火村\r"
+    }
+  },
+  "6200702": {
+    "PlaceName": { "en": "\tJarburg\r", "jp": "\t壺村\r", "zh": "\t壶村\r" }
+  },
+  "6200800": {
+    "PlaceName": {
+      "en": "\tHighway Lookout Tower\r",
+      "jp": "\t街道見張りの塔\r",
+      "zh": "\t大道监视塔\r"
+    }
+  },
+  "6200801": {
+    "PlaceName": {
+      "en": "\tFrenzy-Flaming Tower\r",
+      "jp": "\t狂い火の灯台\r",
+      "zh": "\t癫火灯塔\r"
+    }
+  },
+  "6200900": {
+    "PlaceName": {
+      "en": "\tMalefactor's Evergaol\r",
+      "jp": "\t盗人の封牢\r",
+      "zh": "\t小偷的封印监牢\r"
+    }
+  },
+  "6200901": {
+    "PlaceName": {
+      "en": "\tCuckoo's Evergaol\r",
+      "jp": "\tカッコウの封牢\r",
+      "zh": "\t杜鹃的封印监牢\r"
+    }
+  },
+  "6200902": {
+    "PlaceName": {
+      "en": "\tRoyal Grave Evergaol\r",
+      "jp": "\t王家墓地の封牢\r",
+      "zh": "\t王室墓地的封印监牢\r"
+    }
+  },
+  "6201500": {
+    "PlaceName": {
+      "en": "\tAinsel River Well\r",
+      "jp": "\tエインセル河の井戸\r",
+      "zh": "\t安瑟尔河的入口井\r"
+    }
+  },
+  "6201700": {
+    "PlaceName": {
+      "en": "\tConverted Tower\r",
+      "jp": "\t改宗された塔\r",
+      "zh": "\t改宗塔\r"
+    }
+  },
+  "6201701": {
+    "PlaceName": {
+      "en": "\tTestu's Rise\r",
+      "jp": "\tテスの魔術師塔\r",
+      "zh": "\t提斯魔法师塔\r"
+    }
+  },
+  "6201702": {
+    "PlaceName": {
+      "en": "\tSeluvis's Rise\r",
+      "jp": "\tセルブスの魔術師塔\r",
+      "zh": "\t赛尔维斯魔法师塔\r"
+    }
+  },
+  "6201703": {
+    "PlaceName": {
+      "en": "\tRanni's Rise\r",
+      "jp": "\tラニの魔術師塔\r",
+      "zh": "\t菈妮魔法师塔\r"
+    }
+  },
+  "6201704": {
+    "PlaceName": {
+      "en": "\tRenna's Rise\r",
+      "jp": "\tレナの魔術師塔\r",
+      "zh": "\t蕾娜魔法师塔\r"
+    }
+  },
+  "6201705": {
+    "PlaceName": {
+      "en": "\tConverted Fringe Tower\r",
+      "jp": "\t改宗された辺境塔\r",
+      "zh": "\t改宗边境塔\r"
+    }
+  },
+  "6202600": {
+    "PlaceName": {
+      "en": "\tCaria Manor\r",
+      "jp": "\tカーリアの城館\r",
+      "zh": "\t卡利亚城寨\r"
+    }
+  },
+  "6203000": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6203001": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6203200": {
+    "PlaceName": {
+      "en": "\tAcademy Gate Town\r",
+      "jp": "\t学院の門前町\r",
+      "zh": "\t学院门前镇\r"
+    }
+  },
+  "6203201": {
+    "PlaceName": {
+      "en": "\tTemple Quarter\r",
+      "jp": "\t聖堂区画\r",
+      "zh": "\t教堂区\r"
+    }
+  },
+  "6205200": {
+    "PlaceName": {
+      "en": "\tThe Four Belfries\r",
+      "jp": "\t四鐘楼\r",
+      "zh": "\t四钟楼\r"
+    }
+  },
+  "6210300": {
+    "PlaceName": {
+      "en": "\tCathedral of Manus Celes\r",
+      "jp": "\tマヌス・セリスの大教会\r",
+      "zh": "\t玛努斯·瑟利斯大教堂\r"
+    }
+  },
+  "6210500": {
+    "PlaceName": {
+      "en": "\tMoonfolk Ruins\r",
+      "jp": "\t月の民の廃墟\r",
+      "zh": "\t月之民废墟\r"
+    }
+  },
+  "6210501": {
+    "PlaceName": {
+      "en": "\tLunar Estate Ruins\r",
+      "jp": "\t月の貴族の廃墟\r",
+      "zh": "\t月之贵族废墟\r"
+    }
+  },
+  "6210900": {
+    "PlaceName": {
+      "en": "\tRingleader's Evergaol\r",
+      "jp": "\t刃の長の封牢\r",
+      "zh": "\t刀之首的封印监牢\r"
+    }
+  },
+  "6211500": {
+    "PlaceName": {
+      "en": "\tDeep Ainsel Well\r",
+      "jp": "\tエインセル河の奥井戸\r",
+      "zh": "\t安瑟尔河的出口井\r"
+    }
+  },
+  "6211700": {
+    "PlaceName": {
+      "en": "\tChelona's Rise\r",
+      "jp": "\tヒエロナの魔術師塔\r",
+      "zh": "\t希耶罗那魔法师塔\r"
+    }
+  },
+  "6220000": {
+    "PlaceName": {
+      "en": "\tAcademy of Raya Lucaria\r",
+      "jp": "\t魔術学院レアルカリア\r",
+      "zh": "\t魔法学院雷亚卢卡利亚\r"
+    }
+  },
+  "6300001": { "PlaceName": { "jp": "\tデクタスの大昇降機\r" } },
+  "6300300": {
+    "PlaceName": {
+      "en": "\tStormcaller Church\r",
+      "jp": "\t雷呼びの教会\r",
+      "zh": "\t唤雷教堂\r"
+    }
+  },
+  "6300301": {
+    "PlaceName": {
+      "en": "\tSecond Church of Marika\r",
+      "jp": "\t第二マリカ教会\r",
+      "zh": "\t玛莉卡第二教堂\r"
+    }
+  },
+  "6300302": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree Church\r",
+      "jp": "\t小黄金樹教会\r",
+      "zh": "\t小黄金树教堂\r"
+    }
+  },
+  "6300500": {
+    "PlaceName": {
+      "en": "\tWoodfolk Ruins\r",
+      "jp": "\t森の民の廃墟\r",
+      "zh": "\t森林之民的废墟\r"
+    }
+  },
+  "6300501": {
+    "PlaceName": {
+      "en": "\tLux Ruins\r",
+      "jp": "\tルクスの廃墟\r",
+      "zh": "\t卢克斯废墟\r"
+    }
+  },
+  "6300502": {
+    "PlaceName": {
+      "en": "\tPerfumer's Ruins\r",
+      "jp": "\t調香師の廃墟\r",
+      "zh": "\t调香师的废墟\r"
+    }
+  },
+  "6300503": {
+    "PlaceName": {
+      "en": "\tWritheblood Ruins\r",
+      "jp": "\t血の蠢く廃墟\r",
+      "zh": "\t蠕血废墟\r"
+    }
+  },
+  "6300600": {
+    "PlaceName": {
+      "en": "\tSt. Trina's Hideaway\r",
+      "jp": "\tトリーナの秘所\r",
+      "zh": "\t托莉娜的藏身所\r"
+    }
+  },
+  "6300601": {
+    "PlaceName": {
+      "en": "\tHermit Merchant's Shack\r",
+      "jp": "\t世捨て商人のボロ家\r",
+      "zh": "\t遁世商人的破屋\r"
+    }
+  },
+  "6300603": { "PlaceName": { "jp": "\t西の風車牧場\r" } },
+  "6300604": { "PlaceName": { "jp": "\t東の風車牧場\r" } },
+  "6300605": { "PlaceName": { "jp": "\t村の風車牧場\r" } },
+  "6300700": {
+    "PlaceName": {
+      "en": "\tDominula, Windmill Village\r",
+      "jp": "\t風車村ドミヌラ\r",
+      "zh": "\t风车村多明努拉\r"
+    }
+  },
+  "6300800": {
+    "PlaceName": {
+      "en": "\tHighway Lookout Tower\r",
+      "jp": "\t街道見張りの塔\r",
+      "zh": "\t大道监视塔\r"
+    }
+  },
+  "6300900": {
+    "PlaceName": {
+      "en": "\tGolden Lineage Evergaol\r",
+      "jp": "\t黄金の一族の封牢\r",
+      "zh": "\t黄金一族的封印监牢\r"
+    }
+  },
+  "6301000": {
+    "PlaceName": {
+      "en": "\tCapital Outskirts\r",
+      "jp": "\t王都、外廓\r",
+      "zh": "\t王城城墙外\r"
+    }
+  },
+  "6301300": {
+    "PlaceName": {
+      "en": "\tWoodfolk Ruins\r",
+      "jp": "\t森の民の廃墟\r",
+      "zh": "\t森林之民的废墟\r"
+    }
+  },
+  "6301700": {
+    "PlaceName": {
+      "en": "\tMirage Rise\r",
+      "jp": "\t蜃気楼の魔術師塔\r",
+      "zh": "\t海市蜃楼魔法师塔\r"
+    }
+  },
+  "6301900": {
+    "PlaceName": {
+      "en": "\tWest Windmill Pasture\r",
+      "jp": "\t西の風車牧場\r",
+      "zh": "\t西边风车牧场\r"
+    }
+  },
+  "6301901": {
+    "PlaceName": {
+      "en": "\tEast Windmill Pasture\r",
+      "jp": "\t東の風車牧場\r",
+      "zh": "\t东边风车牧场\r"
+    }
+  },
+  "6301902": {
+    "PlaceName": {
+      "en": "\tVillage Windmill Pasture\r",
+      "jp": "\t村の風車牧場\r",
+      "zh": "\t村内风车牧场\r"
+    }
+  },
+  "6301903": {
+    "PlaceName": {
+      "en": "\tDominula Checkpoint\r",
+      "jp": "\tドミヌラの関所\r",
+      "zh": "\t多明努拉关卡\r"
+    }
+  },
+  "6302100": {
+    "PlaceName": {
+      "en": "\tGrand Lift of Dectus\r",
+      "jp": "\tデクタスの大昇降機\r",
+      "zh": "\t迪可达斯大升降机\r"
+    }
+  },
+  "6302700": {
+    "PlaceName": {
+      "en": "\tThe Shaded Castle\r",
+      "jp": "\t日陰城\r",
+      "zh": "\t日荫城\r"
+    }
+  },
+  "6303000": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6303001": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6308700": {
+    "PlaceName": {
+      "en": "\tVolcano Manor Request: Rileigh\r",
+      "jp": "\t火山館からの依頼「ライリー」\r",
+      "zh": "\t火山官邸的委托：莱利\r"
+    }
+  },
+  "6310500": { "PlaceName": { "jp": "\t遺跡3-2\r" } },
+  "6310501": {
+    "PlaceName": {
+      "en": "\tWyndham Ruins\r",
+      "jp": "\tウィンダムの廃墟\r",
+      "zh": "\t威达姆废墟\r"
+    }
+  },
+  "6310600": {
+    "PlaceName": {
+      "en": "\tCorpse-Stench Shack\r",
+      "jp": "\t死体臭のボロ家\r",
+      "zh": "\t飘尸臭的破屋\r"
+    }
+  },
+  "6310601": {
+    "PlaceName": {
+      "en": "\tHermit's Shack\r",
+      "jp": "\t隠者のボロ家\r",
+      "zh": "\t遁世者的破屋\r"
+    }
+  },
+  "6310602": { "PlaceName": { "jp": "\t家3-5\r" } },
+  "6310603": { "PlaceName": { "jp": "\t家3-6\r" } },
+  "6310604": {
+    "PlaceName": {
+      "en": "\tCraftsman's Shack\r",
+      "jp": "\t職人のボロ家\r",
+      "zh": "\t匠人的破屋\r"
+    }
+  },
+  "6310700": {
+    "PlaceName": {
+      "en": "\tHermit Village\r",
+      "jp": "\t隠者の村\r",
+      "zh": "\t遁世者村\r"
+    }
+  },
+  "6311000": {
+    "PlaceName": {
+      "en": "\tLeyndell, Royal Capital\r",
+      "jp": "\t王都ローデイル\r",
+      "zh": "\t王城罗德尔\r"
+    }
+  },
+  "6311800": {
+    "PlaceName": {
+      "en": "\tFort Laiedd\r",
+      "jp": "\tライード砦\r",
+      "zh": "\t莱多要塞\r"
+    }
+  },
+  "6313000": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6316000": {
+    "PlaceName": {
+      "en": "\tVolcano Manor\r",
+      "jp": "\t火山館\r",
+      "zh": "\t火山官邸\r"
+    }
+  },
+  "6400000": {
+    "PlaceName": {
+      "en": "\tWailing Dunes\r",
+      "jp": "\t慟哭砂丘\r",
+      "zh": "\t恸哭沙丘\r"
+    }
+  },
+  "6400300": {
+    "PlaceName": {
+      "en": "\tSmoldering Church\r",
+      "jp": "\t燻り教会\r",
+      "zh": "\t熏火教堂\r"
+    }
+  },
+  "6400301": {
+    "PlaceName": {
+      "en": "\tCathedral of Dragon Communion\r",
+      "jp": "\t大竜餐教会\r",
+      "zh": "\t大龙飨教堂\r"
+    }
+  },
+  "6400302": {
+    "PlaceName": {
+      "en": "\tChurch of the Plague\r",
+      "jp": "\t腐れ病の教会\r",
+      "zh": "\t腐败病教堂\r"
+    }
+  },
+  "6400500": {
+    "PlaceName": {
+      "en": "\tForsaken Ruins\r",
+      "jp": "\t見棄てられた廃墟\r",
+      "zh": "\t荒废废墟\r"
+    }
+  },
+  "6400501": {
+    "PlaceName": {
+      "en": "\tCaelid Waypoint Ruins\r",
+      "jp": "\tケイリッドの宿場跡\r",
+      "zh": "\t盖利德的驿站街遗迹\r"
+    }
+  },
+  "6400502": {
+    "PlaceName": {
+      "en": "\tStreet of Sages Ruins\r",
+      "jp": "\t賢者街の廃墟\r",
+      "zh": "\t贤者镇的废墟\r"
+    }
+  },
+  "6400503": {
+    "PlaceName": {
+      "en": "\tCaelem Ruins\r",
+      "jp": "\tキレムの廃墟\r",
+      "zh": "\t奇列姆废墟\r"
+    }
+  },
+  "6400600": {
+    "PlaceName": {
+      "en": "\tShack of the Rotting\r",
+      "jp": "\t腐りゆく者のボロ家\r",
+      "zh": "\t步入腐败者的破屋\r"
+    }
+  },
+  "6400601": {
+    "PlaceName": {
+      "en": "\tGowry's Shack\r",
+      "jp": "\tゴーリーのボロ家\r",
+      "zh": "\t格威的破屋\r"
+    }
+  },
+  "6400800": {
+    "PlaceName": {
+      "en": "\tSwamp Lookout Tower\r",
+      "jp": "\t沼見張りの塔\r",
+      "zh": "\t沼泽监视塔\r"
+    }
+  },
+  "6401000": {
+    "PlaceName": {
+      "en": "\tSellia Gateway\r",
+      "jp": "\tサリアの関門\r",
+      "zh": "\t瑟利亚关卡\r"
+    }
+  },
+  "6401500": {
+    "PlaceName": {
+      "en": "\tDeep Siofra Well\r",
+      "jp": "\tシーフラ河の奥井戸\r",
+      "zh": "\t希芙拉河的出口井\r"
+    }
+  },
+  "6401800": {
+    "PlaceName": {
+      "en": "\tFort Gael\r",
+      "jp": "\tゲール砦\r",
+      "zh": "\t盖尔要塞\r"
+    }
+  },
+  "6401801": { "PlaceName": { "jp": "\t海辺の塔4-3\r" } },
+  "6402800": {
+    "PlaceName": {
+      "en": "\tRedmane Castle\r",
+      "jp": "\t赤獅子城\r",
+      "zh": "\t红狮子城\r"
+    }
+  },
+  "6403000": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6403001": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6403300": {
+    "PlaceName": {
+      "en": "\tSellia, Town of Sorcery\r",
+      "jp": "\t魔術街サリア\r",
+      "zh": "\t魔法镇瑟利亚\r"
+    }
+  },
+  "6410600": {
+    "PlaceName": {
+      "en": "\tIsolated Merchant's Shack\r",
+      "jp": "\t隠遁商人のボロ家\r",
+      "zh": "\t隐居商人的破屋\r"
+    }
+  },
+  "6410900": {
+    "PlaceName": {
+      "en": "\tSellia Evergaol\r",
+      "jp": "\tサリアの封牢\r",
+      "zh": "\t瑟利亚的封印监牢\r"
+    }
+  },
+  "6411700": {
+    "PlaceName": {
+      "en": "\tLenne's Rise\r",
+      "jp": "\tレンの魔術師塔\r",
+      "zh": "\t雷恩魔法师塔\r"
+    }
+  },
+  "6411800": {
+    "PlaceName": {
+      "en": "\tFort Faroth\r",
+      "jp": "\tファロス砦\r",
+      "zh": "\t法洛斯要塞\r"
+    }
+  },
+  "6413000": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6415400": {
+    "PlaceName": {
+      "en": "\tBestial Sanctum\r",
+      "jp": "\t獣の神殿\r",
+      "zh": "\t野兽神殿\r"
+    }
+  },
+  "6500300": {
+    "PlaceName": {
+      "en": "\tFirst Church of Marika\r",
+      "jp": "\t第一マリカ教会\r",
+      "zh": "\t玛莉卡第一教堂\r"
+    }
+  },
+  "6500301": {
+    "PlaceName": {
+      "en": "\tChurch of Repose\r",
+      "jp": "\t安息教会\r",
+      "zh": "\t安歇教堂\r"
+    }
+  },
+  "6500500": {
+    "PlaceName": {
+      "en": "\tZamor Ruins\r",
+      "jp": "\tザミェルの廃墟\r",
+      "zh": "\t萨米尔废墟\r"
+    }
+  },
+  "6500501": {
+    "PlaceName": {
+      "en": "\tStargazers' Ruins\r",
+      "jp": "\t星見の廃墟\r",
+      "zh": "\t观星废墟\r"
+    }
+  },
+  "6500600": {
+    "PlaceName": {
+      "en": "\tShack of the Lofty\r",
+      "jp": "\t孤高なる者のボロ家\r",
+      "zh": "\t离群独行者的破屋\r"
+    }
+  },
+  "6500900": {
+    "PlaceName": {
+      "en": "\tLord Contender's Evergaol\r",
+      "jp": "\t王に近付いた者の封牢\r",
+      "zh": "\t准王者的封印监牢\r"
+    }
+  },
+  "6501700": {
+    "PlaceName": {
+      "en": "\tHeretical Rise\r",
+      "jp": "\t異端の魔術師塔\r",
+      "zh": "\t异端魔法师塔\r"
+    }
+  },
+  "6501800": {
+    "PlaceName": {
+      "en": "\tGuardians' Garrison\r",
+      "jp": "\t監視者たちの砦\r",
+      "zh": "\t监视者要塞\r"
+    }
+  },
+  "6502100": {
+    "PlaceName": {
+      "en": "\tGrand Lift of Rold\r",
+      "jp": "\tロルドの大昇降機\r",
+      "zh": "\t洛德大升降机\r"
+    }
+  },
+  "6502900": {
+    "PlaceName": {
+      "en": "\tCastle Sol\r",
+      "jp": "\tソールの城砦\r",
+      "zh": "\t索尔城\r"
+    }
+  },
+  "6503000": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6505700": {
+    "PlaceName": {
+      "en": "\tForge of the Giants\r",
+      "jp": "\t巨人の火の釜\r",
+      "zh": "\t巨人火焰大锅\r"
+    }
+  },
+  "6508700": {
+    "PlaceName": {
+      "en": "\tGrand Lift of Rold\r",
+      "jp": "\tロルドの大昇降機\r",
+      "zh": "\t洛德大升降机\r"
+    }
+  },
+  "6508701": {
+    "PlaceName": {
+      "en": "\tVolcano Manor Request: Juno Hoslow\r",
+      "jp": "\t火山館からの依頼「ユーノ・ホスロー」\r",
+      "zh": "\t火山官邸的委托：尤诺·霍斯劳\r"
+    }
+  },
+  "6510300": {
+    "PlaceName": {
+      "en": "\tApostate Derelict\r",
+      "jp": "\t棄教の廃屋\r",
+      "zh": "\t离教废屋\r"
+    }
+  },
+  "6510500": {
+    "PlaceName": {
+      "en": "\tYelough Anix Ruins\r",
+      "jp": "\tイエロ・アニスの廃墟\r",
+      "zh": "\t耶罗·亚尼斯废墟\r"
+    }
+  },
+  "6511700": {
+    "PlaceName": {
+      "en": "\tAlbinauric Rise\r",
+      "jp": "\tしろがねの魔術師塔\r",
+      "zh": "\t白金魔法师塔\r"
+    }
+  },
+  "6513000": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree\r",
+      "jp": "\t小黄金樹\r",
+      "zh": "\t小黄金树\r"
+    }
+  },
+  "6513400": {
+    "PlaceName": {
+      "en": "\tOrdina, Liturgical Town\r",
+      "jp": "\t典礼街オルディナ\r",
+      "zh": "\t“仪典镇”奥缇那\r"
+    }
+  },
+  "6515000": {
+    "PlaceName": {
+      "en": "\tElphael, Brace of the Haligtree\r",
+      "jp": "\t聖樹の支え、エブレフェール\r",
+      "zh": "\t“圣树分枝”艾布雷菲尔\r"
+    }
+  },
+  "6515500": {
+    "PlaceName": {
+      "en": "\tMiquella's Haligtree\r",
+      "jp": "\tミケラの聖樹\r",
+      "zh": "\t米凯拉的圣树\r"
+    }
+  },
+  "6515600": {
+    "PlaceName": {
+      "en": "\tElphael, Brace of the Haligtree\r",
+      "jp": "\t聖樹の支え、エブレフェール\r",
+      "zh": "\t“圣树分枝”艾布雷菲尔\r"
+    }
+  },
+  "6604700": {
+    "PlaceName": {
+      "en": "\tUhl Palace Ruins\r",
+      "jp": "\tウルの王朝遺跡\r",
+      "zh": "\t乌鲁王朝遗迹\r"
+    }
+  },
+  "6614600": {
+    "PlaceName": {
+      "en": "\tNokstella, Eternal City\r",
+      "jp": "\t永遠の都、ノクステラ\r",
+      "zh": "\t“永恒之城”诺克史黛拉\r"
+    }
+  },
+  "6614700": {
+    "PlaceName": {
+      "en": "\tGrand Cloister\r",
+      "jp": "\t大回廊\r",
+      "zh": "\t大回廊\r"
+    }
+  },
+  "6614701": {
+    "PlaceName": {
+      "en": "\tUhl Palace Ruins\r",
+      "jp": "\tウルの王朝遺跡\r",
+      "zh": "\t乌鲁王朝遗迹\r"
+    }
+  },
+  "6654600": {
+    "PlaceName": {
+      "en": "\tNokron, Eternal City\r",
+      "jp": "\t永遠の都、ノクローン\r",
+      "zh": "\t“永恒之城”诺克隆恩\r"
+    }
+  },
+  "6654601": {
+    "PlaceName": {
+      "en": "\tNight's Sacred Ground\r",
+      "jp": "\t夜の神域\r",
+      "zh": "\t黑夜神域\r"
+    }
+  },
+  "6654602": {
+    "PlaceName": {
+      "en": "\tSiofra Aqueduct\r",
+      "jp": "\tシーフラの水道橋\r",
+      "zh": "\t希芙拉导水桥\r"
+    }
+  },
+  "6654604": {
+    "PlaceName": {
+      "en": "\tHallowhorn Grounds\r",
+      "jp": "\t角骸の霊場\r",
+      "zh": "\t角骸灵地\r"
+    }
+  },
+  "6664500": {
+    "PlaceName": {
+      "en": "\tMohgwyn Dynasty Mausoleum\r",
+      "jp": "\tモーグウィン王朝廟\r",
+      "zh": "\t蒙格温王朝庙\r"
+    }
+  },
+  "6800800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6800801": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6801000": {
+    "PlaceName": {
+      "en": "\tBelurat, Tower Settlement\r",
+      "jp": "\t塔の街、ベルラート\r",
+      "zh": "\t“塔之镇”贝瑞特\r"
+    }
+  },
+  "6804400": {
+    "PlaceName": {
+      "en": "\tAbandoned Ailing Village\r",
+      "jp": "\t病捨て村\r",
+      "zh": "\t置病村\r"
+    }
+  },
+  "6804700": {
+    "PlaceName": {
+      "en": "\tChurch of Consolation\r",
+      "jp": "\t慰めの教会\r",
+      "zh": "\t慰借教堂\r"
+    }
+  },
+  "6804701": {
+    "PlaceName": {
+      "en": "\tChurch of Benediction\r",
+      "jp": "\t恵みの教会\r",
+      "zh": "\t恩惠教堂\r"
+    }
+  },
+  "6805000": {
+    "PlaceName": {
+      "en": "\tScorched Ruins\r",
+      "jp": "\t火に焼かれた廃墟\r",
+      "zh": "\t火吻废墟\r"
+    }
+  },
+  "6805100": {
+    "PlaceName": {
+      "en": "\tProspect Town\r",
+      "jp": "\t眺望街\r",
+      "zh": "\t眺望镇\r"
+    }
+  },
+  "6805600": {
+    "PlaceName": {
+      "en": "\tWestern Nameless Mausoleum\r",
+      "jp": "\t西の無名霊廟\r",
+      "zh": "\t西方无名灵庙\r"
+    }
+  },
+  "6805900": {
+    "PlaceName": {
+      "en": "\tRun-Down Traveler's Rest\r",
+      "jp": "\t旅人のボロ家\r",
+      "zh": "\t旅人的破屋\r"
+    }
+  },
+  "6805901": {
+    "PlaceName": {
+      "en": "\tArtist's Shack\r",
+      "jp": "\t絵描きのボロ家\r",
+      "zh": "\t画家的破屋\r"
+    }
+  },
+  "6806000": {
+    "PlaceName": {
+      "en": "\tEllac Greatbridge\r",
+      "jp": "\tエラクの大橋\r",
+      "zh": "\t艾拉克大桥\r"
+    }
+  },
+  "6810800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6815700": {
+    "PlaceName": {
+      "en": "\tSuppressing Pillar\r",
+      "jp": "\t鎮めの柱\r",
+      "zh": "\t镇抚石柱\r"
+    }
+  },
+  "6815901": {
+    "PlaceName": {
+      "en": "\tElder's Hovel\r",
+      "jp": "\t老人のボロ家\r",
+      "zh": "\t老者的破屋\r"
+    }
+  },
+  "6820800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6824100": {
+    "PlaceName": {
+      "en": "\tCastle Ensis\r",
+      "jp": "\tエンシスの城砦\r",
+      "zh": "\t恩希斯城\r"
+    }
+  },
+  "6830000": {
+    "PlaceName": {
+      "en": "\tFinger Ruins of Rhia\r",
+      "jp": "\tリアの指遺跡\r",
+      "zh": "\t利亚指头遗迹\r"
+    }
+  },
+  "6830800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6831700": {
+    "PlaceName": {
+      "en": "\tStone Coffin Fissure\r",
+      "jp": "\t石棺の大穴\r",
+      "zh": "\t石棺大洞\r"
+    }
+  },
+  "6835500": {
+    "PlaceName": {
+      "en": "\tFinger Ruins of Rhia\r",
+      "jp": "\tリアの指遺跡\r",
+      "zh": "\t利亚指头遗迹\r"
+    }
+  },
+  "6835600": {
+    "PlaceName": {
+      "en": "\tSouthern Nameless Mausoleum\r",
+      "jp": "\t南の無名霊廟\r",
+      "zh": "\t南方无名灵庙\r"
+    }
+  },
+  "6835900": {
+    "PlaceName": {
+      "en": "\tFinger-Weaver's Hovel\r",
+      "jp": "\t指追いのボロ家\r",
+      "zh": "\t指头追寻者的破屋\r"
+    }
+  },
+  "6844900": {
+    "PlaceName": {
+      "en": "\tGrand Altar of Dragon Communion\r",
+      "jp": "\t竜餐の大祭壇\r",
+      "zh": "\t龙飨大祭坛\r"
+    }
+  },
+  "6861800": {
+    "PlaceName": {
+      "en": "\tMidra's Manse\r",
+      "jp": "\tミドラーの館\r",
+      "zh": "\t米德拉府邸\r"
+    }
+  },
+  "6864700": {
+    "PlaceName": {
+      "en": "\tAbandoned Church\r",
+      "jp": "\t廃教会\r",
+      "zh": "\t废弃教堂\r"
+    }
+  },
+  "6870800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6880800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6890800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6900000": {
+    "PlaceName": {
+      "en": "\tFinger Ruins of Miyr\r",
+      "jp": "\tミアの指遺跡\r",
+      "zh": "\t密亚指头遗迹\r"
+    }
+  },
+  "6900800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6900801": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6900802": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6901300": {
+    "PlaceName": {
+      "en": "\tShadow Keep\r",
+      "jp": "\t影の城\r",
+      "zh": "\t幽影城\r"
+    }
+  },
+  "6904200": {
+    "PlaceName": {
+      "en": "\tFog Rift Fort\r",
+      "jp": "\t霧谷の砦\r",
+      "zh": "\t雾谷要塞\r"
+    }
+  },
+  "6904300": {
+    "PlaceName": {
+      "en": "\tFort of Reprimand\r",
+      "jp": "\t懲罰砦\r",
+      "zh": "\t惩罚要塞\r"
+    }
+  },
+  "6904700": {
+    "PlaceName": {
+      "en": "\tChurch of the Crusade\r",
+      "jp": "\t聖戦教会\r",
+      "zh": "\t圣战教堂\r"
+    }
+  },
+  "6904800": {
+    "PlaceName": {
+      "en": "\tCathedral of Manus Metyr\r",
+      "jp": "\tマヌス・メテルの大教会\r",
+      "zh": "\t玛努斯·美特大教堂\r"
+    }
+  },
+  "6905200": {
+    "PlaceName": {
+      "en": "\tTemple Town Ruins\r",
+      "jp": "\t神殿街の廃墟\r",
+      "zh": "\t神殿镇废墟\r"
+    }
+  },
+  "6905300": {
+    "PlaceName": {
+      "en": "\tRuins of Unte\r",
+      "jp": "\tアンテの廃墟\r",
+      "zh": "\t安堤废墟\r"
+    }
+  },
+  "6905400": {
+    "PlaceName": {
+      "en": "\tMoorth Ruins\r",
+      "jp": "\tモースの廃墟\r",
+      "zh": "\t穆斯废墟\r"
+    }
+  },
+  "6905500": {
+    "PlaceName": {
+      "en": "\tFinger Ruins of Miyr\r",
+      "jp": "\tミアの指遺跡\r",
+      "zh": "\t密亚指头遗迹\r"
+    }
+  },
+  "6905600": {
+    "PlaceName": {
+      "en": "\tNorthern Nameless Mausoleum\r",
+      "jp": "\t北の無名霊廟\r",
+      "zh": "\t北方无名灵庙\r"
+    }
+  },
+  "6905601": {
+    "PlaceName": {
+      "en": "\tEastern Nameless Mausoleum\r",
+      "jp": "\t東の無名霊廟\r",
+      "zh": "\t东方无名灵庙\r"
+    }
+  },
+  "6905800": {
+    "PlaceName": {
+      "en": "\tRabbath's Rise\r",
+      "jp": "\tラバスの魔術師塔\r",
+      "zh": "\t拉巴斯魔法师塔\r"
+    }
+  },
+  "6905900": {
+    "PlaceName": {
+      "en": "\tWhipping Hut\r",
+      "jp": "\t鞭の家\r",
+      "zh": "\t软鞭小屋\r"
+    }
+  },
+  "6906100": {
+    "PlaceName": {
+      "en": "\tVillage of Flies\r",
+      "jp": "\t蠅の村\r",
+      "zh": "\t苍蝇村\r"
+    }
+  },
+  "6906800": {
+    "PlaceName": {
+      "en": "\tBonny Village\r",
+      "jp": "\tボニ村\r",
+      "zh": "\t波尼村\r"
+    }
+  },
+  "6920000": {
+    "PlaceName": {
+      "en": "\tScaduview\r",
+      "jp": "\t影を仰ぐ露台\r",
+      "zh": "\t望影露台\r"
+    }
+  },
+  "6920001": {
+    "PlaceName": {
+      "en": "\tScadutree Base\r",
+      "jp": "\t影樹の麓\r",
+      "zh": "\t幽影树的树脚\r"
+    }
+  },
+  "6924000": {
+    "PlaceName": {
+      "en": "\tScadutree Chalice\r",
+      "jp": "\t影樹の聖杯\r",
+      "zh": "\t幽影树圣杯\r"
+    }
+  },
+  "6925900": {
+    "PlaceName": {
+      "en": "\tAlbinauric's Shack\r",
+      "jp": "\tしろがねのボロ家\r",
+      "zh": "\t白金的破屋\r"
+    }
+  },
+  "6930000": {
+    "PlaceName": {
+      "en": "\tFinger Ruins of Dheo\r",
+      "jp": "\tデオの指遺跡\r",
+      "zh": "\t狄欧指头遗迹\r"
+    }
+  },
+  "6934600": {
+    "PlaceName": {
+      "en": "\tShaman Village\r",
+      "jp": "\t巫子の村\r",
+      "zh": "\t巫者村\r"
+    }
+  },
+  "6935500": {
+    "PlaceName": {
+      "en": "\tFinger Ruins of Dheo\r",
+      "jp": "\tデオの指遺跡\r",
+      "zh": "\t狄欧指头遗迹\r"
+    }
+  },
+  "6940800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "6941100": {
+    "PlaceName": {
+      "en": "\tEnir-Ilim\r",
+      "jp": "\tエニル・イリム\r",
+      "zh": "\t艾尼尔·伊利姆\r"
+    }
+  },
+  "6990800": {
+    "PlaceName": {
+      "en": "\tMiquella's Cross\r",
+      "jp": "\tミケラの十字\r",
+      "zh": "\t米凯拉的十字记号\r"
+    }
+  },
+  "8000000": {
+    "PlaceName": {
+      "en": "\tLimgrave\r",
+      "jp": "\tリムグレイブ\r",
+      "zh": "\t宁姆格福\r"
+    }
+  },
+  "8000400": {
+    "PlaceName": {
+      "en": "\tLiurnia of the Lakes\r",
+      "jp": "\t湖のリエーニエ\r",
+      "zh": "\t湖之利耶尼亚\r"
+    }
+  },
+  "8000800": {
+    "PlaceName": {
+      "en": "\tAltus Plateau\r",
+      "jp": "\tアルター高原\r",
+      "zh": "\t亚坛高原\r"
+    }
+  },
+  "8000900": {
+    "PlaceName": {
+      "en": "\tCaelid\r",
+      "jp": "\tケイリッド\r",
+      "zh": "\t盖利德\r"
+    }
+  },
+  "8001200": {
+    "PlaceName": {
+      "en": "\tMountaintops of the Giants\r",
+      "jp": "\t巨人たちの山嶺\r",
+      "zh": "\t巨人山顶\r"
+    }
+  },
+  "8010000": {
+    "PlaceName": {
+      "en": "\tAinsel River\r",
+      "jp": "\tエインセル河\r",
+      "zh": "\t安瑟尔河\r"
+    }
+  },
+  "8010200": {
+    "PlaceName": {
+      "en": "\tSiofra River\r",
+      "jp": "\tシーフラ河\r",
+      "zh": "\t希芙拉河\r"
+    }
+  },
+  "8010400": {
+    "PlaceName": {
+      "en": "\tDeeproot Depths\r",
+      "jp": "\t深き根の底\r",
+      "zh": "\t深根底层\r"
+    }
+  },
+  "8020000": {
+    "PlaceName": {
+      "en": "\tRealm of Shadow\r",
+      "jp": "\t影の地\r",
+      "zh": "\t幽影之地\r"
+    }
+  },
+  "8100001": {
+    "PlaceName": {
+      "en": "\tTenebrae Demesne\r",
+      "jp": "\tテネブレ地方\r",
+      "zh": "\t迪涅布雷地区\r"
+    }
+  },
+  "10670100": {
+    "PlaceName": {
+      "en": "\tWitchbane Ruins\r",
+      "jp": "\t魔女封じの廃墟\r",
+      "zh": "\t封印魔女的废墟\r"
+    }
+  },
+  "10670101": {
+    "PlaceName": {
+      "en": "\tThe First Step\r",
+      "jp": "\t導きのはじまり\r",
+      "zh": "\t引导之始\r"
+    }
+  },
+  "10670102": {
+    "PlaceName": {
+      "en": "\tAgheel Lake\r",
+      "jp": "\tアギール湖\r",
+      "zh": "\t亚基尔湖\r"
+    }
+  },
+  "10670103": {
+    "PlaceName": {
+      "en": "\tDragon-Burnt Ruins\r",
+      "jp": "\t竜に焼かれた廃墟\r",
+      "zh": "\t龙息废墟\r"
+    }
+  },
+  "10670104": {
+    "PlaceName": {
+      "en": "\tPeninsula Minor Erdtree\r",
+      "jp": "\t半島の小黄金樹\r",
+      "zh": "\t半岛小黄金树\r"
+    }
+  },
+  "10670105": {
+    "PlaceName": {
+      "en": "\tCastle Morne\r",
+      "jp": "\tモーンの城\r",
+      "zh": "\t摩恩城\r"
+    }
+  },
+  "10670106": {
+    "PlaceName": {
+      "en": "\tWaypoint Ruins\r",
+      "jp": "\t宿場跡\r",
+      "zh": "\t驿站街遗迹\r"
+    }
+  },
+  "10670130": {
+    "PlaceName": {
+      "en": "\tCastleward Tunnel\r",
+      "jp": "\t城に向かう隧道\r",
+      "zh": "\t通城隧道\r"
+    }
+  },
+  "10670131": {
+    "PlaceName": {
+      "en": "\tSecluded Cell\r",
+      "jp": "\t奥まった小部屋\r",
+      "zh": "\t深处小房间\r"
+    }
+  },
+  "10670132": {
+    "PlaceName": {
+      "en": "\tLiftside Chamber\r",
+      "jp": "\t昇降機側の部屋\r",
+      "zh": "\t升降机旁房间\r"
+    }
+  },
+  "10670133": {
+    "PlaceName": {
+      "en": "\tRampart Tower\r",
+      "jp": "\t城壁の塔\r",
+      "zh": "\t城墙塔\r"
+    }
+  },
+  "10670134": {
+    "PlaceName": {
+      "en": "\tStormveil Cliffside\r",
+      "jp": "\tストームヴィル断崖\r",
+      "zh": "\t史东薇尔断崖\r"
+    }
+  },
+  "10670135": {
+    "PlaceName": {
+      "en": "\tStormveil Main Gate\r",
+      "jp": "\tストームヴィル正門\r",
+      "zh": "\t史东薇尔正门\r"
+    }
+  },
+  "10670160": {
+    "PlaceName": {
+      "en": "\tTombsward Catacombs\r",
+      "jp": "\t霊廟ヶ原の地下墓\r",
+      "zh": "\t灵庙原野地下墓地\r"
+    }
+  },
+  "10670161": {
+    "PlaceName": {
+      "en": "\tImpaler's Catacombs\r",
+      "jp": "\t串刺しの地下墓\r",
+      "zh": "\t穿刺地下墓地\r"
+    }
+  },
+  "10670162": {
+    "PlaceName": {
+      "en": "\tStormfoot Catacombs\r",
+      "jp": "\t嵐の麓の地下墓\r",
+      "zh": "\t风暴根脚的地下墓地\r"
+    }
+  },
+  "10670163": {
+    "PlaceName": {
+      "en": "\tDeathtouched Catacombs\r",
+      "jp": "\t死に触れた地下墓\r",
+      "zh": "\t死亡降临的地下墓地\r"
+    }
+  },
+  "10670164": {
+    "PlaceName": {
+      "en": "\tMurkwater Catacombs\r",
+      "jp": "\t曇り川の地下墓\r",
+      "zh": "\t蒙流地下墓地\r"
+    }
+  },
+  "10670170": {
+    "PlaceName": {
+      "en": "\tTombsward Cave\r",
+      "jp": "\t霊廟ヶ原の洞窟\r",
+      "zh": "\t灵庙原野洞窟\r"
+    }
+  },
+  "10670171": {
+    "PlaceName": {
+      "en": "\tEarthbore Cave\r",
+      "jp": "\t穴下りの洞窟\r",
+      "zh": "\t垂穴洞窟\r"
+    }
+  },
+  "10670172": {
+    "PlaceName": {
+      "en": "\tMurkwater Cave\r",
+      "jp": "\t曇り川の洞窟\r",
+      "zh": "\t蒙流洞窟\r"
+    }
+  },
+  "10670173": {
+    "PlaceName": {
+      "en": "\tGroveside Cave\r",
+      "jp": "\t林脇の洞窟\r",
+      "zh": "\t近林洞窟\r"
+    }
+  },
+  "10670174": {
+    "PlaceName": {
+      "en": "\tCoastal Cave\r",
+      "jp": "\t海岸の洞窟\r",
+      "zh": "\t海岸洞窟\r"
+    }
+  },
+  "10670175": {
+    "PlaceName": {
+      "en": "\tHighroad Cave\r",
+      "jp": "\t高路下の洞窟\r",
+      "zh": "\t大道下的洞窟\r"
+    }
+  },
+  "10670180": {
+    "PlaceName": {
+      "en": "\tMorne Tunnel\r",
+      "jp": "\tモーンの坑道\r",
+      "zh": "\t摩恩坑道\r"
+    }
+  },
+  "10670181": {
+    "PlaceName": {
+      "en": "\tLimgrave Tunnels\r",
+      "jp": "\tリムグレイブ坑道\r",
+      "zh": "\t宁姆格福坑道\r"
+    }
+  },
+  "10670200": {
+    "PlaceName": {
+      "en": "\tLake Minor Erdtree\r",
+      "jp": "\t湖の小黄金樹\r",
+      "zh": "\t湖之小黄金树\r"
+    }
+  },
+  "10670201": {
+    "PlaceName": {
+      "en": "\tTemple Quarter\r",
+      "jp": "\t聖堂区画\r",
+      "zh": "\t教堂区\r"
+    }
+  },
+  "10670202": {
+    "PlaceName": {
+      "en": "\tVillage of the Albinaurics\r",
+      "jp": "\tしろがね村\r",
+      "zh": "\t白金村\r"
+    }
+  },
+  "10670203": {
+    "PlaceName": {
+      "en": "\tKingsrealm Ruins\r",
+      "jp": "\t王家領の廃墟\r",
+      "zh": "\t王室领地废墟\r"
+    }
+  },
+  "10670204": {
+    "PlaceName": {
+      "en": "\tCaria Manor\r",
+      "jp": "\tカーリアの城館\r",
+      "zh": "\t卡利亚城寨\r"
+    }
+  },
+  "10670205": {
+    "PlaceName": {
+      "en": "\tUld Minor Erdtree\r",
+      "jp": "\tウルドの小黄金樹\r",
+      "zh": "\t兀德小黄金树\r"
+    }
+  },
+  "10670230": {
+    "PlaceName": {
+      "en": "\tMain Academy Gate\r",
+      "jp": "\t学院正門前\r",
+      "zh": "\t学院正门口\r"
+    }
+  },
+  "10670231": {
+    "PlaceName": {
+      "en": "\tSchoolhouse Classroom\r",
+      "jp": "\t学び舎の一室\r",
+      "zh": "\t校舍内的教室\r"
+    }
+  },
+  "10670232": {
+    "PlaceName": {
+      "en": "\tChurch of the Cuckoo\r",
+      "jp": "\tカッコウの教会\r",
+      "zh": "\t杜鹃教堂\r"
+    }
+  },
+  "10670233": {
+    "PlaceName": {
+      "en": "\tDebate Parlor\r",
+      "jp": "\t討論室\r",
+      "zh": "\t讨论室\r"
+    }
+  },
+  "10670240": {
+    "PlaceName": {
+      "en": "\tRuin-Strewn Precipice\r",
+      "jp": "\t古遺跡断崖\r",
+      "zh": "\t古遗迹断崖\r"
+    }
+  },
+  "10670241": {
+    "PlaceName": {
+      "en": "\tRuin-Strewn Precipice Overlook\r",
+      "jp": "\t古遺跡断崖、対岸\r",
+      "zh": "\t古遗迹断崖（对岸）\r"
+    }
+  },
+  "10670260": {
+    "PlaceName": {
+      "en": "\tBlack Knife Catacombs\r",
+      "jp": "\t黒き刃の地下墓\r",
+      "zh": "\t黑刀地下墓地\r"
+    }
+  },
+  "10670261": {
+    "PlaceName": {
+      "en": "\tRoad's End Catacombs\r",
+      "jp": "\t行き止まりの地下墓\r",
+      "zh": "\t绝路地下墓地\r"
+    }
+  },
+  "10670262": {
+    "PlaceName": {
+      "en": "\tCliffbottom Catacombs\r",
+      "jp": "\t断崖下の地下墓\r",
+      "zh": "\t断崖下的地下墓地\r"
+    }
+  },
+  "10670270": {
+    "PlaceName": {
+      "en": "\tStillwater Cave\r",
+      "jp": "\t溜水の洞窟\r",
+      "zh": "\t留水洞窟\r"
+    }
+  },
+  "10670271": {
+    "PlaceName": {
+      "en": "\tLakeside Crystal Cave\r",
+      "jp": "\t湖脇の結晶洞窟\r",
+      "zh": "\t湖旁结晶洞窟\r"
+    }
+  },
+  "10670272": {
+    "PlaceName": {
+      "en": "\tAcademy Crystal Cave\r",
+      "jp": "\t学院の結晶洞窟\r",
+      "zh": "\t学院结晶洞窟\r"
+    }
+  },
+  "10670280": {
+    "PlaceName": {
+      "en": "\tRaya Lucaria Crystal Tunnel\r",
+      "jp": "\tレアルカリア結晶坑道\r",
+      "zh": "\t雷亚卢卡利亚结晶坑道\r"
+    }
+  },
+  "10670300": {
+    "PlaceName": {
+      "en": "\tFort Laiedd South\r",
+      "jp": "\tライード砦南\r",
+      "zh": "\t莱多要塞南方\r"
+    }
+  },
+  "10670301": {
+    "PlaceName": {
+      "en": "\tHermit Village Cliff Road\r",
+      "jp": "\t隠者村への崖路\r",
+      "zh": "\t通往遁世者村的崖上道路\r"
+    }
+  },
+  "10670303": {
+    "PlaceName": {
+      "en": "\tRoad of Iniquity\r",
+      "jp": "\t罪人送りの道\r",
+      "zh": "\t移送罪人之路\r"
+    }
+  },
+  "10670304": {
+    "PlaceName": {
+      "en": "\tCraftsman's Shack\r",
+      "jp": "\t職人のボロ家\r",
+      "zh": "\t匠人的破屋\r"
+    }
+  },
+  "10670305": {
+    "PlaceName": {
+      "en": "\tWyndham Ruins\r",
+      "jp": "\tウィンダムの廃墟\r",
+      "zh": "\t威达姆废墟\r"
+    }
+  },
+  "10670306": {
+    "PlaceName": {
+      "en": "\tThe Shaded Castle\r",
+      "jp": "\t日陰城\r",
+      "zh": "\t日荫城\r"
+    }
+  },
+  "10670307": {
+    "PlaceName": {
+      "en": "\tWritheblood Ruins\r",
+      "jp": "\t血の蠢く廃墟\r",
+      "zh": "\t蠕血废墟\r"
+    }
+  },
+  "10670308": {
+    "PlaceName": {
+      "en": "\tDominula, Windmill Village\r",
+      "jp": "\t風車村ドミヌラ\r",
+      "zh": "\t风车村多明努拉\r"
+    }
+  },
+  "10670309": {
+    "PlaceName": {
+      "en": "\tOuter Wall Minor Erdtree\r",
+      "jp": "\t外廓の小黄金樹\r",
+      "zh": "\t城外小黄金树\r"
+    }
+  },
+  "10670310": {
+    "PlaceName": {
+      "en": "\tOuter Wall East\r",
+      "jp": "\t外廓東\r",
+      "zh": "\t城墙外东侧\r"
+    }
+  },
+  "10670330": {
+    "PlaceName": {
+      "en": "\tEast Capital Rampart\r",
+      "jp": "\t王都東城壁\r",
+      "zh": "\t王城东边城墙\r"
+    }
+  },
+  "10670331": {
+    "PlaceName": {
+      "en": "\tAvenue Balcony\r",
+      "jp": "\t大通り脇の露台\r",
+      "zh": "\t大道旁露台\r"
+    }
+  },
+  "10670332": {
+    "PlaceName": {
+      "en": "\tLower Capital Church\r",
+      "jp": "\t王都下層、教会\r",
+      "zh": "\t王城底层教堂\r"
+    }
+  },
+  "10670333": {
+    "PlaceName": {
+      "en": "\tWest Capital Rampart\r",
+      "jp": "\t王都西城壁\r",
+      "zh": "\t王城西边城墙\r"
+    }
+  },
+  "10670334": {
+    "PlaceName": {
+      "en": "\tQueen's Bedchamber\r",
+      "jp": "\t女王の閨\r",
+      "zh": "\t女王闺阁\r"
+    }
+  },
+  "10670340": {
+    "PlaceName": {
+      "en": "\tUnderground Roadside\r",
+      "jp": "\t地下大通り脇\r",
+      "zh": "\t地底大道旁\r"
+    }
+  },
+  "10670341": {
+    "PlaceName": {
+      "en": "\tForsaken Depths\r",
+      "jp": "\t忌み捨ての底\r",
+      "zh": "\t弃置恶兆的底层\r"
+    }
+  },
+  "10670342": {
+    "PlaceName": {
+      "en": "\tLeyndell Catacombs\r",
+      "jp": "\tローデイルの地下墓\r",
+      "zh": "\t罗德尔地下墓地\r"
+    }
+  },
+  "10670351": {
+    "PlaceName": {
+      "en": "\tPrison Town Church\r",
+      "jp": "\t牢街教会\r",
+      "zh": "\t牢镇教堂\r"
+    }
+  },
+  "10670352": {
+    "PlaceName": {
+      "en": "\tGuest Hall\r",
+      "jp": "\t迎賓館\r",
+      "zh": "\t迎宾厅\r"
+    }
+  },
+  "10670353": {
+    "PlaceName": {
+      "en": "\tTemple of Eiglay\r",
+      "jp": "\tエーグレーの聖堂\r",
+      "zh": "\t艾格蕾教堂\r"
+    }
+  },
+  "10670354": {
+    "PlaceName": {
+      "en": "\tAudience Pathway\r",
+      "jp": "\t謁見の道\r",
+      "zh": "\t谒见之路\r"
+    }
+  },
+  "10670360": {
+    "PlaceName": {
+      "en": "\tSainted Hero's Grave\r",
+      "jp": "\t貴き者たちの英雄墓\r",
+      "zh": "\t尊贵者的英雄墓地\r"
+    }
+  },
+  "10670361": {
+    "PlaceName": {
+      "en": "\tGelmir Hero's Grave\r",
+      "jp": "\tゲルミアの英雄墓\r",
+      "zh": "\t格密尔英雄墓地\r"
+    }
+  },
+  "10670362": {
+    "PlaceName": {
+      "en": "\tAuriza Hero's Grave\r",
+      "jp": "\tアウレーザの英雄墓\r",
+      "zh": "\t亚雷萨英雄墓地\r"
+    }
+  },
+  "10670363": {
+    "PlaceName": {
+      "en": "\tUnsightly Catacombs\r",
+      "jp": "\t醜き地下墓\r",
+      "zh": "\t丑恶地下墓地\r"
+    }
+  },
+  "10670364": {
+    "PlaceName": {
+      "en": "\tWyndham Catacombs\r",
+      "jp": "\tウィンダムの地下墓\r",
+      "zh": "\t威达姆地下墓地\r"
+    }
+  },
+  "10670370": {
+    "PlaceName": {
+      "en": "\tSeethewater Cave\r",
+      "jp": "\t煮え立ち川の洞窟\r",
+      "zh": "\t沸滚河洞窟\r"
+    }
+  },
+  "10670371": {
+    "PlaceName": {
+      "en": "\tVolcano Cave\r",
+      "jp": "\t火山の洞窟\r",
+      "zh": "\t火山洞窟\r"
+    }
+  },
+  "10670372": {
+    "PlaceName": {
+      "en": "\tPerfumer's Grotto\r",
+      "jp": "\t調香師の隠し洞窟\r",
+      "zh": "\t调香师的隐藏洞窟\r"
+    }
+  },
+  "10670373": {
+    "PlaceName": {
+      "en": "\tSage's Cave\r",
+      "jp": "\t賢者の洞窟\r",
+      "zh": "\t贤者的洞窟\r"
+    }
+  },
+  "10670380": {
+    "PlaceName": {
+      "en": "\tOld Altus Tunnel\r",
+      "jp": "\t旧アルター坑道\r",
+      "zh": "\t旧亚坛坑道\r"
+    }
+  },
+  "10670381": {
+    "PlaceName": {
+      "en": "\tAltus Tunnel\r",
+      "jp": "\tアルター坑道\r",
+      "zh": "\t亚坛坑道\r"
+    }
+  },
+  "10670390": {
+    "PlaceName": {
+      "en": "\tSealed Tunnel\r",
+      "jp": "\t封印された坑道\r",
+      "zh": "\t封印坑道\r"
+    }
+  },
+  "10670400": {
+    "PlaceName": {
+      "en": "\tCaelid Minor Erdtree\r",
+      "jp": "\tケイリッドの小黄金樹\r",
+      "zh": "\t盖利德小黄金树\r"
+    }
+  },
+  "10670401": {
+    "PlaceName": {
+      "en": "\tCaelem Ruins\r",
+      "jp": "\tキレムの廃墟\r",
+      "zh": "\t奇列姆废墟\r"
+    }
+  },
+  "10670402": {
+    "PlaceName": {
+      "en": "\tCaelid Highway South\r",
+      "jp": "\tケイリッド街道南\r",
+      "zh": "\t盖利德大道南方\r"
+    }
+  },
+  "10670403": {
+    "PlaceName": {
+      "en": "\tSwamp of Aeonia\r",
+      "jp": "\tエオニアの沼\r",
+      "zh": "\t艾奥尼亚沼泽\r"
+    }
+  },
+  "10670404": {
+    "PlaceName": {
+      "en": "\tSellia, Town of Sorcery\r",
+      "jp": "\t魔術街サリア\r",
+      "zh": "\t魔法镇瑟利亚\r"
+    }
+  },
+  "10670405": {
+    "PlaceName": {
+      "en": "\tGreyoll's Dragonbarrow\r",
+      "jp": "\tグレイオールの竜塚\r",
+      "zh": "\t桂奥尔龙墓\r"
+    }
+  },
+  "10670406": {
+    "PlaceName": {
+      "en": "\tRedmane Castle\r",
+      "jp": "\t赤獅子城\r",
+      "zh": "\t红狮子城\r"
+    }
+  },
+  "10670407": {
+    "PlaceName": {
+      "en": "\tWailing Dunes South\r",
+      "jp": "\t慟哭砂丘南\r",
+      "zh": "\t恸哭沙丘南方\r"
+    }
+  },
+  "10670408": {
+    "PlaceName": {
+      "en": "\tDragonbarrow Minor Erdtree\r",
+      "jp": "\t竜塚の小黄金樹\r",
+      "zh": "\t龙墓小黄金树\r"
+    }
+  },
+  "10670409": {
+    "PlaceName": {
+      "en": "\tFarum Greatbridge\r",
+      "jp": "\tファルム大橋\r",
+      "zh": "\t法姆大桥\r"
+    }
+  },
+  "10670460": {
+    "PlaceName": {
+      "en": "\tMinor Erdtree Catacombs\r",
+      "jp": "\t小黄金樹の地下墓\r",
+      "zh": "\t小黄金树地下墓地\r"
+    }
+  },
+  "10670461": {
+    "PlaceName": {
+      "en": "\tCaelid Catacombs\r",
+      "jp": "\tケイリッドの地下墓\r",
+      "zh": "\t盖利德地下墓地\r"
+    }
+  },
+  "10670462": {
+    "PlaceName": {
+      "en": "\tWar-Dead Catacombs\r",
+      "jp": "\t英霊たちの地下墓\r",
+      "zh": "\t英灵地下墓地\r"
+    }
+  },
+  "10670470": {
+    "PlaceName": {
+      "en": "\tGaol Cave\r",
+      "jp": "\t牢獄洞窟\r",
+      "zh": "\t牢狱洞窟\r"
+    }
+  },
+  "10670471": {
+    "PlaceName": {
+      "en": "\tDragonbarrow Cave\r",
+      "jp": "\t竜塚の洞窟\r",
+      "zh": "\t龙墓洞窟\r"
+    }
+  },
+  "10670472": {
+    "PlaceName": {
+      "en": "\tAbandoned Cave\r",
+      "jp": "\t廃棄洞窟\r",
+      "zh": "\t废弃洞窟\r"
+    }
+  },
+  "10670473": {
+    "PlaceName": {
+      "en": "\tSellia Hideaway\r",
+      "jp": "\tサリアの隠し洞窟\r",
+      "zh": "\t瑟利亚隐藏洞窟\r"
+    }
+  },
+  "10670480": {
+    "PlaceName": {
+      "en": "\tGael Tunnel\r",
+      "jp": "\tゲール坑道\r",
+      "zh": "\t盖尔坑道\r"
+    }
+  },
+  "10670481": {
+    "PlaceName": {
+      "en": "\tSellia Crystal Tunnel\r",
+      "jp": "\tサリアの結晶坑道\r",
+      "zh": "\t瑟利亚结晶坑道\r"
+    }
+  },
+  "10670490": {
+    "PlaceName": {
+      "en": "\tDivine Tower of Caelid\r",
+      "jp": "\tケイリッドの神授塔\r",
+      "zh": "\t盖利德神授塔\r"
+    }
+  },
+  "10670500": {
+    "PlaceName": {
+      "en": "\tForbidden Lands\r",
+      "jp": "\t禁域\r",
+      "zh": "\t禁域\r"
+    }
+  },
+  "10670501": {
+    "PlaceName": {
+      "en": "\tFreezing Lake\r",
+      "jp": "\t氷結湖\r",
+      "zh": "\t结冰湖\r"
+    }
+  },
+  "10670502": {
+    "PlaceName": {
+      "en": "\tFoot of the Forge\r",
+      "jp": "\t火の釜の麓\r",
+      "zh": "\t火焰大锅下方\r"
+    }
+  },
+  "10670503": {
+    "PlaceName": {
+      "en": "\tMountaintop Minor Erdtree\r",
+      "jp": "\t山嶺の小黄金樹\r",
+      "zh": "\t山顶小黄金树\r"
+    }
+  },
+  "10670504": {
+    "PlaceName": {
+      "en": "\tAncient Valley Ruins\r",
+      "jp": "\t古遺跡谷\r",
+      "zh": "\t古遗迹山谷\r"
+    }
+  },
+  "10670505": {
+    "PlaceName": {
+      "en": "\tCastle Sol\r",
+      "jp": "\tソールの城砦\r",
+      "zh": "\t索尔城\r"
+    }
+  },
+  "10670506": {
+    "PlaceName": {
+      "en": "\tFreezing River\r",
+      "jp": "\t氷結川\r",
+      "zh": "\t结冰河\r"
+    }
+  },
+  "10670507": {
+    "PlaceName": {
+      "en": "\tSnowfield Minor Erdtree\r",
+      "jp": "\t雪原の小黄金樹\r",
+      "zh": "\t雪原小黄金树\r"
+    }
+  },
+  "10670530": {
+    "PlaceName": {
+      "en": "\tHaligtree Canopy\r",
+      "jp": "\t聖樹の高枝\r",
+      "zh": "\t圣树树冠\r"
+    }
+  },
+  "10670531": {
+    "PlaceName": {
+      "en": "\tHaligtree Town\r",
+      "jp": "\t聖樹街\r",
+      "zh": "\t圣树镇\r"
+    }
+  },
+  "10670532": {
+    "PlaceName": {
+      "en": "\tHaligtree Town Plaza\r",
+      "jp": "\t聖樹街、広場\r",
+      "zh": "\t圣树镇（广场）\r"
+    }
+  },
+  "10670534": {
+    "PlaceName": {
+      "en": "\tHaligtree Promenade\r",
+      "jp": "\t聖樹の大舞台\r",
+      "zh": "\t圣树大舞台\r"
+    }
+  },
+  "10670535": {
+    "PlaceName": {
+      "en": "\tPrayer Room\r",
+      "jp": "\t祈祷室\r",
+      "zh": "\t祈祷室\r"
+    }
+  },
+  "10670536": {
+    "PlaceName": {
+      "en": "\tElphael Inner Wall\r",
+      "jp": "\tエブレフェールの内壁\r",
+      "zh": "\t艾布雷菲尔城墙内部\r"
+    }
+  },
+  "10670537": {
+    "PlaceName": {
+      "en": "\tDrainage Channel\r",
+      "jp": "\t排水路\r",
+      "zh": "\t排水通道\r"
+    }
+  },
+  "10670539": {
+    "PlaceName": {
+      "en": "\tHaligtree Roots\r",
+      "jp": "\t聖樹最下層\r",
+      "zh": "\t圣树底层\r"
+    }
+  },
+  "10670560": {
+    "PlaceName": {
+      "en": "\tGiant-Conquering Hero's Grave\r",
+      "jp": "\t巨人戦争の英雄墓\r",
+      "zh": "\t巨人战争的英雄墓地\r"
+    }
+  },
+  "10670561": {
+    "PlaceName": {
+      "en": "\tGiants' Mountaintop Catacombs\r",
+      "jp": "\t巨人山嶺の地下墓\r",
+      "zh": "\t巨人山顶地下墓地\r"
+    }
+  },
+  "10670562": {
+    "PlaceName": {
+      "en": "\tConsecrated Snowfield Catacombs\r",
+      "jp": "\t聖別雪原の地下墓\r",
+      "zh": "\t化圣雪原地下墓地\r"
+    }
+  },
+  "10670563": {
+    "PlaceName": {
+      "en": "\tHidden Path to the Haligtree\r",
+      "jp": "\t聖樹への秘路\r",
+      "zh": "\t通往圣树的密道\r"
+    }
+  },
+  "10670570": {
+    "PlaceName": {
+      "en": "\tCave of the Forlorn\r",
+      "jp": "\t寄る辺の洞窟\r",
+      "zh": "\t安身洞窟\r"
+    }
+  },
+  "10670571": {
+    "PlaceName": {
+      "en": "\tSpiritcaller Cave\r",
+      "jp": "\t霊喚びの洞窟\r",
+      "zh": "\t唤灵洞窟\r"
+    }
+  },
+  "10670580": {
+    "PlaceName": {
+      "en": "\tYelough Anix Tunnel\r",
+      "jp": "\tイエロ・アニスの坑道\r",
+      "zh": "\t耶罗·亚尼斯坑道\r"
+    }
+  },
+  "10670610": {
+    "PlaceName": {
+      "en": "\tAinsel River Well Depths\r",
+      "jp": "\tエインセル河、井戸下\r",
+      "zh": "\t安瑟尔河（井底）\r"
+    }
+  },
+  "10670611": {
+    "PlaceName": {
+      "en": "\tAinsel River Sluice Gate\r",
+      "jp": "\tエインセル河、水門\r",
+      "zh": "\t安瑟尔河（水门）\r"
+    }
+  },
+  "10670612": {
+    "PlaceName": {
+      "en": "\tAinsel River Downstream\r",
+      "jp": "\tエインセル河、下流\r",
+      "zh": "\t安瑟尔河（下游）\r"
+    }
+  },
+  "10670613": {
+    "PlaceName": {
+      "en": "\tAinsel River Main\r",
+      "jp": "\tエインセル河本流\r",
+      "zh": "\t安瑟尔河主流\r"
+    }
+  },
+  "10670614": {
+    "PlaceName": {
+      "en": "\tNokstella, Eternal City\r",
+      "jp": "\t永遠の都、ノクステラ\r",
+      "zh": "\t“永恒之城”诺克史黛拉\r"
+    }
+  },
+  "10670615": {
+    "PlaceName": {
+      "en": "\tLake of Rot Shoreside\r",
+      "jp": "\t腐れ湖の岸\r",
+      "zh": "\t腐败湖畔\r"
+    }
+  },
+  "10670616": {
+    "PlaceName": {
+      "en": "\tGrand Cloister\r",
+      "jp": "\t大回廊\r",
+      "zh": "\t大回廊\r"
+    }
+  },
+  "10670620": {
+    "PlaceName": {
+      "en": "\tSiofra River Bank\r",
+      "jp": "\tシーフラ河、岸辺\r",
+      "zh": "\t希芙拉河（岸边）\r"
+    }
+  },
+  "10670621": {
+    "PlaceName": {
+      "en": "\tWorshippers' Woods\r",
+      "jp": "\t信奉者の森\r",
+      "zh": "\t信仰者森林\r"
+    }
+  },
+  "10670622": {
+    "PlaceName": {
+      "en": "\tMimic Tear\r",
+      "jp": "\t写し身の雫\r",
+      "zh": "\t仿身泪滴\r"
+    }
+  },
+  "10670623": {
+    "PlaceName": {
+      "en": "\tAncestral Woods\r",
+      "jp": "\t祖霊の森\r",
+      "zh": "\t祖灵森林\r"
+    }
+  },
+  "10670624": {
+    "PlaceName": {
+      "en": "\tAqueduct-Facing Cliffs\r",
+      "jp": "\t水道橋を臨む断崖\r",
+      "zh": "\t导水桥旁断崖\r"
+    }
+  },
+  "10670625": {
+    "PlaceName": {
+      "en": "\tNight's Sacred Ground\r",
+      "jp": "\t夜の神域\r",
+      "zh": "\t黑夜神域\r"
+    }
+  },
+  "10670626": {
+    "PlaceName": {
+      "en": "\tBelow the Well\r",
+      "jp": "\t奥井戸の下\r",
+      "zh": "\t出口井的下方\r"
+    }
+  },
+  "10670630": {
+    "PlaceName": {
+      "en": "\tRoot-Facing Cliffs\r",
+      "jp": "\t根を臨む断崖\r",
+      "zh": "\t树根旁断崖\r"
+    }
+  },
+  "10670631": {
+    "PlaceName": {
+      "en": "\tGreat Waterfall Crest\r",
+      "jp": "\t大滝口\r",
+      "zh": "\t大瀑布顶端\r"
+    }
+  },
+  "10670632": {
+    "PlaceName": {
+      "en": "\tDeeproot Depths\r",
+      "jp": "\t深き根の底\r",
+      "zh": "\t深根底层\r"
+    }
+  },
+  "10670633": {
+    "PlaceName": {
+      "en": "\tAcross the Roots\r",
+      "jp": "\t根渡りの先\r",
+      "zh": "\t树根前路\r"
+    }
+  },
+  "10670634": {
+    "PlaceName": {
+      "en": "\tThe Nameless Eternal City\r",
+      "jp": "\t名も無き永遠の都\r",
+      "zh": "\t无名永恒之城\r"
+    }
+  },
+  "10670650": {
+    "PlaceName": {
+      "en": "\tPalace Approach Ledge-Road\r",
+      "jp": "\t王朝に至る崖路\r",
+      "zh": "\t通往王朝的崖上道路\r"
+    }
+  },
+  "10670651": {
+    "PlaceName": {
+      "en": "\tDynasty Mausoleum Entrance\r",
+      "jp": "\t王朝廟入口\r",
+      "zh": "\t王朝庙（入口）\r"
+    }
+  },
+  "10670652": {
+    "PlaceName": {
+      "en": "\tDynasty Mausoleum Midpoint\r",
+      "jp": "\t王朝廟中腹\r",
+      "zh": "\t王朝庙（中段）\r"
+    }
+  },
+  "10670670": {
+    "PlaceName": {
+      "en": "\tSiofra River Well Depths\r",
+      "jp": "\tシーフラ河、井戸下\r",
+      "zh": "\t希芙拉河（井底）\r"
+    }
+  },
+  "10670671": {
+    "PlaceName": {
+      "en": "\tNokron, Eternal City\r",
+      "jp": "\t永遠の都、ノクローン\r",
+      "zh": "\t“永恒之城”诺克隆恩\r"
+    }
+  },
+  "10670730": {
+    "PlaceName": {
+      "en": "\tQueen's Bedchamber\r",
+      "jp": "\t女王の閨\r",
+      "zh": "\t女王闺阁\r"
+    }
+  },
+  "10670731": {
+    "PlaceName": {
+      "en": "\tErdtree Sanctuary\r",
+      "jp": "\t黄金樹の大聖堂\r",
+      "zh": "\t黄金树大教堂\r"
+    }
+  },
+  "10670740": {
+    "PlaceName": {
+      "en": "\tCrumbling Beast Grave\r",
+      "jp": "\t崩れゆく獣墓\r",
+      "zh": "\t渐毁野兽墓\r"
+    }
+  },
+  "10670741": {
+    "PlaceName": {
+      "en": "\tCrumbling Beast Grave Depths\r",
+      "jp": "\t崩れゆく獣墓、奥部\r",
+      "zh": "\t渐毁野兽墓（深处）\r"
+    }
+  },
+  "10670742": {
+    "PlaceName": {
+      "en": "\tTempest-Facing Balcony\r",
+      "jp": "\t竜巻を臨む露台\r",
+      "zh": "\t龙卷旁露台\r"
+    }
+  },
+  "10670743": {
+    "PlaceName": {
+      "en": "\tDragon Temple\r",
+      "jp": "\t竜の聖堂\r",
+      "zh": "\t龙教堂\r"
+    }
+  },
+  "10670744": {
+    "PlaceName": {
+      "en": "\tDragon Temple Altar\r",
+      "jp": "\t竜聖堂の祭壇\r",
+      "zh": "\t龙教堂祭坛\r"
+    }
+  },
+  "10670745": {
+    "PlaceName": {
+      "en": "\tDragon Temple Lift\r",
+      "jp": "\t竜の聖堂、昇降機前\r",
+      "zh": "\t龙教堂（升降机前）\r"
+    }
+  },
+  "10670746": {
+    "PlaceName": {
+      "en": "\tBeside the Great Bridge\r",
+      "jp": "\t大橋梁の脇\r",
+      "zh": "\t大桥侧边\r"
+    }
+  },
+  "10670747": {
+    "PlaceName": {
+      "en": "\tDragon Temple Rooftop\r",
+      "jp": "\t竜の聖堂、屋根上\r",
+      "zh": "\t龙教堂（屋顶）\r"
+    }
+  },
+  "10670750": {
+    "PlaceName": {
+      "en": "\tElden Throne\r",
+      "jp": "\tエルデの王座\r",
+      "zh": "\t艾尔登宝座\r"
+    }
+  },
+  "10670800": {
+    "PlaceName": {
+      "en": "\tWestern Nameless Mausoleum\r",
+      "jp": "\t西の無名霊廟\r",
+      "zh": "\t西方无名灵庙\r"
+    }
+  },
+  "10670801": {
+    "PlaceName": {
+      "en": "\tLake North of the Greatbridge\r",
+      "jp": "\t大橋の北、湖\r",
+      "zh": "\t大桥北方（湖）\r"
+    }
+  },
+  "10670802": {
+    "PlaceName": {
+      "en": "\tCastle Front\r",
+      "jp": "\t城砦正面\r",
+      "zh": "\t城的前方\r"
+    }
+  },
+  "10670803": {
+    "PlaceName": {
+      "en": "\tCastle-Lord's Chamber\r",
+      "jp": "\t城主の間\r",
+      "zh": "\t城主的房间\r"
+    }
+  },
+  "10670804": {
+    "PlaceName": {
+      "en": "\tCerulean Coast\r",
+      "jp": "\t青海岸\r",
+      "zh": "\t青蓝海岸\r"
+    }
+  },
+  "10670805": {
+    "PlaceName": {
+      "en": "\tDemi-Human Valley\r",
+      "jp": "\t亜人谷\r",
+      "zh": "\t亚人谷\r"
+    }
+  },
+  "10670806": {
+    "PlaceName": {
+      "en": "\tSouthern Nameless Mausoleum\r",
+      "jp": "\t南の無名霊廟\r",
+      "zh": "\t南方无名灵庙\r"
+    }
+  },
+  "10670807": {
+    "PlaceName": {
+      "en": "\tDrake Graveyard\r",
+      "jp": "\t飛竜の墓場\r",
+      "zh": "\t飞龙墓地\r"
+    }
+  },
+  "10670808": {
+    "PlaceName": {
+      "en": "\tHidden Grave South\r",
+      "jp": "\t隠し墓地、南\r",
+      "zh": "\t隐藏墓地（南方）\r"
+    }
+  },
+  "10670809": {
+    "PlaceName": {
+      "en": "\tHidden Grave North\r",
+      "jp": "\t隠し墓地、北\r",
+      "zh": "\t隐藏墓地（北方）\r"
+    }
+  },
+  "10670810": {
+    "PlaceName": {
+      "en": "\tFoot of the Jagged Peak\r",
+      "jp": "\tギザ山の麓\r",
+      "zh": "\t尖刺山的山脚\r"
+    }
+  },
+  "10670811": {
+    "PlaceName": {
+      "en": "\tJagged Peak Cavern\r",
+      "jp": "\tギザ山の洞穴\r",
+      "zh": "\t尖刺山洞穴\r"
+    }
+  },
+  "10670812": {
+    "PlaceName": {
+      "en": "\tJagged Peak Summit\r",
+      "jp": "\tギザ山、山頂\r",
+      "zh": "\t尖刺山（山顶）\r"
+    }
+  },
+  "10670813": {
+    "PlaceName": {
+      "en": "\tDarklight Catacombs, Lower Level\r",
+      "jp": "\t闇照らしの地下墓、最下層\r",
+      "zh": "\t驱暗地下墓地（最底层）\r"
+    }
+  },
+  "10670814": {
+    "PlaceName": {
+      "en": "\tManse Hall\r",
+      "jp": "\t館の広間\r",
+      "zh": "\t府邸大厅\r"
+    }
+  },
+  "10670815": {
+    "PlaceName": {
+      "en": "\tSecond Floor Chamber\r",
+      "jp": "\t二階の小部屋\r",
+      "zh": "\t二楼小房间\r"
+    }
+  },
+  "10670830": {
+    "PlaceName": {
+      "en": "\tStone Coffin Fissure\r",
+      "jp": "\t石棺の大穴\r",
+      "zh": "\t石棺大洞\r"
+    }
+  },
+  "10670831": {
+    "PlaceName": {
+      "en": "\tFissure Depths\r",
+      "jp": "\t大穴深部\r",
+      "zh": "\t大洞深处\r"
+    }
+  },
+  "10670840": {
+    "PlaceName": {
+      "en": "\tDarkroad Sanctuary\r",
+      "jp": "\t暗路聖堂\r",
+      "zh": "\t暗路教堂\r"
+    }
+  },
+  "10670841": {
+    "PlaceName": {
+      "en": "\tBelurat, Tower Settlement\r",
+      "jp": "\t塔の街、ベルラート\r",
+      "zh": "\t“塔之镇”贝瑞特\r"
+    }
+  },
+  "10670842": {
+    "PlaceName": {
+      "en": "\tSmall Private Altar\r",
+      "jp": "\t民家の小祭壇\r",
+      "zh": "\t民宅小祭坛\r"
+    }
+  },
+  "10670843": {
+    "PlaceName": {
+      "en": "\tStagefront\r",
+      "jp": "\t舞台前\r",
+      "zh": "\t舞台前方\r"
+    }
+  },
+  "10670850": {
+    "PlaceName": {
+      "en": "\tEnir-Ilim: Outer Wall\r",
+      "jp": "\tエニル・イリム外壁\r",
+      "zh": "\t艾尼尔·伊利姆外墙\r"
+    }
+  },
+  "10670851": {
+    "PlaceName": {
+      "en": "\tFirst Rise\r",
+      "jp": "\t第一塔\r",
+      "zh": "\t第一塔\r"
+    }
+  },
+  "10670852": {
+    "PlaceName": {
+      "en": "\tSpiral Rise\r",
+      "jp": "\t螺旋塔\r",
+      "zh": "\t螺旋塔\r"
+    }
+  },
+  "10670853": {
+    "PlaceName": {
+      "en": "\tCleansing Chamber Anteroom\r",
+      "jp": "\t清めの間、前室\r",
+      "zh": "\t净身厅前室\r"
+    }
+  },
+  "10670854": {
+    "PlaceName": {
+      "en": "\tDivine Gate Front Staircase\r",
+      "jp": "\t神の門、前階段\r",
+      "zh": "\t神之门（门前楼梯平台）\r"
+    }
+  },
+  "10670860": {
+    "PlaceName": {
+      "en": "\tFog Rift Catacombs\r",
+      "jp": "\t霧谷の地下墓\r",
+      "zh": "\t雾谷地下墓地\r"
+    }
+  },
+  "10670870": {
+    "PlaceName": {
+      "en": "\tBelurat Gaol\r",
+      "jp": "\tベルラートの牢獄\r",
+      "zh": "\t贝瑞特监牢\r"
+    }
+  },
+  "10670871": {
+    "PlaceName": {
+      "en": "\tLamenter's Gaol\r",
+      "jp": "\t嘆きの牢獄\r",
+      "zh": "\t喟叹监牢\r"
+    }
+  },
+  "10670880": {
+    "PlaceName": {
+      "en": "\tDragon's Pit\r",
+      "jp": "\t竜の穴\r",
+      "zh": "\t龙洞\r"
+    }
+  },
+  "10670900": {
+    "PlaceName": {
+      "en": "\tMoorth Highway\r",
+      "jp": "\tモース街道\r",
+      "zh": "\t穆斯大道\r"
+    }
+  },
+  "10670901": {
+    "PlaceName": {
+      "en": "\tRauh Base, Bear Woods\r",
+      "jp": "\tラウフ麓の熊森\r",
+      "zh": "\t劳弗下方的熊栖森林\r"
+    }
+  },
+  "10670902": {
+    "PlaceName": {
+      "en": "\tNorthern Nameless Mausoleum\r",
+      "jp": "\t北の無名霊廟\r",
+      "zh": "\t北方无名灵庙\r"
+    }
+  },
+  "10670903": {
+    "PlaceName": {
+      "en": "\tEastern Nameless Mausoleum\r",
+      "jp": "\t東の無名霊廟\r",
+      "zh": "\t东方无名灵庙\r"
+    }
+  },
+  "10670904": {
+    "PlaceName": {
+      "en": "\tShadow Keep, Back Gate\r",
+      "jp": "\t影の城、裏門\r",
+      "zh": "\t幽影城（后门）\r"
+    }
+  },
+  "10670906": {
+    "PlaceName": {
+      "en": "\tAncient Ruins of Rauh\r",
+      "jp": "\tラウフの古遺跡\r",
+      "zh": "\t劳弗古遗迹\r"
+    }
+  },
+  "10670907": {
+    "PlaceName": {
+      "en": "\tAncient Ruins, Under-Stair\r",
+      "jp": "\t古遺跡、大階段下\r",
+      "zh": "\t古遗迹（大楼梯下方）\r"
+    }
+  },
+  "10670908": {
+    "PlaceName": {
+      "en": "\tChurch of the Bud\r",
+      "jp": "\t蕾の教会\r",
+      "zh": "\t花蕾教堂\r"
+    }
+  },
+  "10670909": {
+    "PlaceName": {
+      "en": "\tTree-Worship Sanctum\r",
+      "jp": "\t拝樹教会\r",
+      "zh": "\t礼树教堂\r"
+    }
+  },
+  "10670910": {
+    "PlaceName": {
+      "en": "\tHinterland\r",
+      "jp": "\t隠された地\r",
+      "zh": "\t隐匿之地\r"
+    }
+  },
+  "10670911": {
+    "PlaceName": {
+      "en": "\tAltus, Bear Woods\r",
+      "jp": "\tアルターの熊森\r",
+      "zh": "\t亚坛的熊栖森林\r"
+    }
+  },
+  "10670912": {
+    "PlaceName": {
+      "en": "\tFog Rift Fort\r",
+      "jp": "\t霧谷の砦\r",
+      "zh": "\t雾谷要塞\r"
+    }
+  },
+  "10670913": {
+    "PlaceName": {
+      "en": "\tMoorth Highway, South\r",
+      "jp": "\tモース街道、南端\r",
+      "zh": "\t穆斯大道（南方）\r"
+    }
+  },
+  "10670930": {
+    "PlaceName": {
+      "en": "\tMiyr Hanging Bell\r",
+      "jp": "\tミアの吊り鐘\r",
+      "zh": "\t密亚吊钟\r"
+    }
+  },
+  "10670940": {
+    "PlaceName": {
+      "en": "\tShadow Keep Main Gate\r",
+      "jp": "\t影の城、正門\r",
+      "zh": "\t幽影城（正门）\r"
+    }
+  },
+  "10670941": {
+    "PlaceName": {
+      "en": "\tChurch District Entrance\r",
+      "jp": "\t教区入口\r",
+      "zh": "\t教区入口\r"
+    }
+  },
+  "10670942": {
+    "PlaceName": {
+      "en": "\tSunken Chapel\r",
+      "jp": "\t水没した礼拝堂\r",
+      "zh": "\t沉水礼拜堂\r"
+    }
+  },
+  "10670943": {
+    "PlaceName": {
+      "en": "\tTree-Worship Passage\r",
+      "jp": "\t拝樹の暗道\r",
+      "zh": "\t礼树暗道\r"
+    }
+  },
+  "10670945": {
+    "PlaceName": {
+      "en": "\tWest Rampart\r",
+      "jp": "\t西の城壁\r",
+      "zh": "\t西边城墙\r"
+    }
+  },
+  "10670950": {
+    "PlaceName": {
+      "en": "\tStorehouse, First Floor\r",
+      "jp": "\t保管庫一階\r",
+      "zh": "\t保藏库（一楼）\r"
+    }
+  },
+  "10670951": {
+    "PlaceName": {
+      "en": "\tStorehouse, Fourth Floor\r",
+      "jp": "\t保管庫四階\r",
+      "zh": "\t保藏库（四楼）\r"
+    }
+  },
+  "10670952": {
+    "PlaceName": {
+      "en": "\tStorehouse, Seventh Floor\r",
+      "jp": "\t保管庫七階\r",
+      "zh": "\t保藏库（七楼）\r"
+    }
+  },
+  "10670953": {
+    "PlaceName": {
+      "en": "\tDark Chamber Entrance\r",
+      "jp": "\t暗室前\r",
+      "zh": "\t暗室门前\r"
+    }
+  },
+  "10670955": {
+    "PlaceName": {
+      "en": "\tStorehouse, Back Section\r",
+      "jp": "\t保管庫、裏区画\r",
+      "zh": "\t保藏库（内区）\r"
+    }
+  },
+  "10670956": {
+    "PlaceName": {
+      "en": "\tStorehouse, Loft\r",
+      "jp": "\t保管庫、屋根裏\r",
+      "zh": "\t保藏库（阁楼）\r"
+    }
+  },
+  "10670960": {
+    "PlaceName": {
+      "en": "\tScorpion River Catacombs\r",
+      "jp": "\tサソリ川の地下墓\r",
+      "zh": "\t蝎河地下墓地\r"
+    }
+  },
+  "10670961": {
+    "PlaceName": {
+      "en": "\tDarklight Catacombs\r",
+      "jp": "\t闇照らしの地下墓\r",
+      "zh": "\t驱暗地下墓地\r"
+    }
+  },
+  "10670970": {
+    "PlaceName": {
+      "en": "\tBonny Gaol\r",
+      "jp": "\tボニの牢獄\r",
+      "zh": "\t波尼监牢\r"
+    }
+  },
+  "10670980": {
+    "PlaceName": {
+      "en": "\tRivermouth Cave\r",
+      "jp": "\t川終わりの洞窟\r",
+      "zh": "\t河尾洞窟\r"
+    }
+  },
+  "90000000": { "PlaceName": { "jp": "\t篝火\r" } },
+  "": { "PlaceName": { "en": "", "jp": "", "zh": "" } }
+}

@@ -1,0 +1,1474 @@
+{
+  "2000": {
+    "EventTextForMap": {
+      "en": "\tCannot proceed until game is fully installed\r",
+      "jp": "\tゲームのインストールが完了していないため、\\nこの先へ進むことはできません\r",
+      "zh": "\t游戏数据尚未安装完成，还不能前进。\r"
+    }
+  },
+  "4000": {
+    "EventTextForMap": {
+      "en": "\tContraption does not move\r",
+      "jp": "\t仕掛けが動かない\r",
+      "zh": "\t机关不能动。\r"
+    }
+  },
+  "4001": {
+    "EventTextForMap": {
+      "en": "\tLocked by some contraption\r",
+      "jp": "\t仕掛けで閉じられている\r",
+      "zh": "\t被机关锁住了。\r"
+    }
+  },
+  "4010": {
+    "EventTextForMap": {
+      "en": "\tCannot open from this side\r",
+      "jp": "\tこちらからは開かない\r",
+      "zh": "\t不能从这一侧打开。\r"
+    }
+  },
+  "4080": {
+    "EventTextForMap": {
+      "en": "\tThe door is shut tight\r",
+      "jp": "\t固く閉ざされている\r",
+      "zh": "\t紧闭不开。\r"
+    }
+  },
+  "4100": {
+    "EventTextForMap": {
+      "en": "\tReturn to entrance?\r",
+      "jp": "\t入り口に戻りますか？\r",
+      "zh": "\t要返回入口吗？\r"
+    }
+  },
+  "4200": {
+    "EventTextForMap": {
+      "en": "\tSomewhere, a heavy door has opened\r",
+      "jp": "\tどこかで、重い扉が開いた\r",
+      "zh": "\t某处的沉重门扉已敞开。\r"
+    }
+  },
+  "4210": {
+    "EventTextForMap": {
+      "en": "\tGuide and gatekeeper for those returning to the roots\r",
+      "jp": "\t樹に還る者たちの導き、あるいは見送り\r",
+      "zh": "\t为那回归树的人们引导，亦或是目送。\r"
+    }
+  },
+  "4300": {
+    "EventTextForMap": {
+      "en": "\tTravel to another location?\r",
+      "jp": "\t別の場所へ移動しますか？\r",
+      "zh": "\t要移动到其他地方吗？\r"
+    }
+  },
+  "6000": {
+    "EventTextForMap": {
+      "en": "\tSummon signs can now be sent to summoning pools\r",
+      "jp": "\tサイン溜まりにサインを送れるようになりました\r",
+      "zh": "\t可以将记号送往记号聚集处了。\r"
+    }
+  },
+  "20000": {
+    "EventTextForMap": {
+      "en": "\tImpenetrable thorns refuse all.\\nNone may enter the Erdtree.\r",
+      "jp": "\t拒絶の刺が、すべてを拒んでいる\\n誰も、黄金樹に入ることはできない\r",
+      "zh": "\t拒绝的刺，拒绝着一切。\\n任何人都不能进入黄金树。\r"
+    }
+  },
+  "20003": {
+    "EventTextForMap": {
+      "en": "\tYou cannot proceed without more Great Runes\r",
+      "jp": "\t大ルーンの足りぬ者は、進むことができない\r",
+      "zh": "\t身上大卢恩不足的，不得前进。\r"
+    }
+  },
+  "20004": {
+    "EventTextForMap": {
+      "en": "\tYou cannot use this without more Great Runes\r",
+      "jp": "\t大ルーンの足りぬ者は、使用できない\r",
+      "zh": "\t身上大卢恩不足的，不得使用。\r"
+    }
+  },
+  "20005": {
+    "EventTextForMap": {
+      "en": "\tSealed by Morgott the Grace-Given\r",
+      "jp": "\t祝福のモーゴットにより封印されている\r",
+      "zh": "\t受到“赐福”蒙葛特的封印。\r"
+    }
+  },
+  "20006": {
+    "EventTextForMap": {
+      "en": "\tYou cannot proceed without a ring of oath\r",
+      "jp": "\t契りの指輪を持たぬ者は、進むことができない\r",
+      "zh": "\t未持有契约戒指的，不得前进。\r"
+    }
+  },
+  "20020": {
+    "EventTextForMap": {
+      "en": "\tYou do not have the required medallion\r",
+      "jp": "\t掲げるべき割符を持っていません\r",
+      "zh": "\t未持有能高举的符节。\r"
+    }
+  },
+  "20021": {
+    "EventTextForMap": {
+      "en": "\tYou do not have the required medallion\r",
+      "jp": "\t掲げるべき割符を持っていません\r",
+      "zh": "\t未持有能高举的符节。\r"
+    }
+  },
+  "20030": {
+    "EventTextForMap": {
+      "en": "\tYou cannot proceed without a glintstone key\r",
+      "jp": "\t輝石鍵を持たぬ者は、進むことができない\r",
+      "zh": "\t未持有辉石钥匙的，不得前进。\r"
+    }
+  },
+  "20031": {
+    "EventTextForMap": {
+      "en": "\tYou cannot proceed without a sealbreaker\r",
+      "jp": "\t封印鍵を持たぬ者は、進むことができない\r",
+      "zh": "\t未持有封印钥匙的，不得前进。\r"
+    }
+  },
+  "20040": {
+    "EventTextForMap": {
+      "en": "\tSomething fits on this pedestal\r",
+      "jp": "\t何かを置く、台座のようだ\r",
+      "zh": "\t这个基座好像可以放上物品。\r"
+    }
+  },
+  "20050": {
+    "EventTextForMap": {
+      "en": "\tOpens only to those carrying a finger\r",
+      "jp": "\t指を持たぬ者に、扉は開かない\r",
+      "zh": "\t身上没有指头的，门不敞开。\r"
+    }
+  },
+  "20100": {
+    "EventTextForMap": {
+      "en": "\tSummon broken spirit?\r",
+      "jp": "\t敗残霊を召喚しますか？\r",
+      "zh": "\t要召唤战败灵体吗？\r"
+    }
+  },
+  "20200": {
+    "EventTextForMap": {
+      "en": "\tYou must solve the puzzle to enter\r",
+      "jp": "\t謎を解かぬ者は、入ることができない\r",
+      "zh": "\t无力解谜的，不得进入。\r"
+    }
+  },
+  "20210": {
+    "EventTextForMap": {
+      "en": "\tThe seal on the rise opened\r",
+      "jp": "\t魔術師塔の封印が解かれた\r",
+      "zh": "\t魔法师塔的封印解开了。\r"
+    }
+  },
+  "20300": {
+    "EventTextForMap": {
+      "en": "\tEnter evergaol?\r",
+      "jp": "\t封牢の内に入りますか？\r",
+      "zh": "\t要进入封印监牢吗？\r"
+    }
+  },
+  "20400": {
+    "EventTextForMap": {
+      "jp": "\t緑エリアの竜餐ショップに新たな品が追加されました\r"
+    }
+  },
+  "20410": {
+    "EventTextForMap": {
+      "jp": "\t平原エリアの竜餐ショップに新たな品が追加されました\r"
+    }
+  },
+  "20500": {
+    "EventTextForMap": {
+      "en": "\tClosed with an imp's seal\r",
+      "jp": "\tインプの封印で閉じられている\r",
+      "zh": "\t因为小恶魔的封印，紧闭不开。\r"
+    }
+  },
+  "20510": {
+    "EventTextForMap": {
+      "en": "\tThe imp's seal is in effect\r",
+      "jp": "\tインプの封印が施されている\r",
+      "zh": "\t上头有着小恶魔的封印。\r"
+    }
+  },
+  "20600": {
+    "EventTextForMap": {
+      "en": "\tThe Beast Eye quivers\r",
+      "jp": "\t獣の瞳が震えている\r",
+      "zh": "\t野兽眼眸正在颤动。\r"
+    }
+  },
+  "20700": {
+    "EventTextForMap": {
+      "en": "\tEnsnared in a transporter trap!\r",
+      "jp": "\t転送罠にかかった！\r",
+      "zh": "\t触动了传送陷阱！\r"
+    }
+  },
+  "30000": {
+    "EventTextForMap": {
+      "en": "\tA seal was broken in town somewhere\r",
+      "jp": "\tどこかで、街の封印が解かれた\r",
+      "zh": "\t城镇某处的封印解开了。\r"
+    }
+  },
+  "30010": {
+    "EventTextForMap": {
+      "en": "\tPower gathers somewhere in horned remains\r",
+      "jp": "\tどこかで、角骸に力が宿った\r",
+      "zh": "\t某处的角骸蕴藏了力量。\r"
+    }
+  },
+  "30020": {
+    "EventTextForMap": {
+      "en": "\tA seal was broken in town\r",
+      "jp": "\t街の封印が解かれた\r",
+      "zh": "\t城镇的封印解开了。\r"
+    }
+  },
+  "30021": {
+    "EventTextForMap": {
+      "en": "\tEnter evergaol?\r",
+      "jp": "\t封牢の内に入りますか？\r",
+      "zh": "\t要进入封印监牢吗？\r"
+    }
+  },
+  "30023": {
+    "EventTextForMap": {
+      "en": "\tHeld shut by a seal\r",
+      "jp": "\t封印で閉ざされている\r",
+      "zh": "\t因为封印，紧闭不开。\r"
+    }
+  },
+  "30030": {
+    "EventTextForMap": {
+      "en": "\tA seal was broken somewhere\r",
+      "jp": "\tどこかで封印が解かれた\r",
+      "zh": "\t某处的封印解开了。\r"
+    }
+  },
+  "30031": {
+    "EventTextForMap": {
+      "en": "\tHeld shut by a seal\r",
+      "jp": "\t封印で閉ざされている\r",
+      "zh": "\t因为封印，紧闭不开。\r"
+    }
+  },
+  "30040": {
+    "EventTextForMap": {
+      "en": "\tCannot be used now\r",
+      "jp": "\t今は使用できない\r",
+      "zh": "\t现在不能使用。\r"
+    }
+  },
+  "30050": {
+    "EventTextForMap": {
+      "en": "\tBlocked shut for now\r",
+      "jp": "\t今は閉ざされている\r",
+      "zh": "\t现在紧闭不开。\r"
+    }
+  },
+  "30051": {
+    "EventTextForMap": {
+      "en": "\tBlocked shut for now\r",
+      "jp": "\t今は閉ざされている\r",
+      "zh": "\t现在紧闭不开。\r"
+    }
+  },
+  "30060": {
+    "EventTextForMap": {
+      "en": "\tA new draconic power is available at the Cathedral of Dragon Communion\r",
+      "jp": "\t大竜餐教会に、新しい竜の力が追加されました\r",
+      "zh": "\t大龙飨教堂新增了龙的力量。\r"
+    }
+  },
+  "30061": {
+    "EventTextForMap": {
+      "en": "\tA new draconic power is available at the Cathedral of Dragon Communion\r",
+      "jp": "\t大竜餐教会に、新しい竜の力が追加されました\r",
+      "zh": "\t大龙飨教堂新增了龙的力量。\r"
+    }
+  },
+  "30062": {
+    "EventTextForMap": {
+      "en": "\tA new draconic power is available at the Cathedral of Dragon Communion\r",
+      "jp": "\t大竜餐教会に、新しい竜の力が追加されました\r",
+      "zh": "\t大龙飨教堂新增了龙的力量。\r"
+    }
+  },
+  "30063": {
+    "EventTextForMap": {
+      "en": "\tA new draconic power is available at the Cathedral of Dragon Communion\r",
+      "jp": "\t大竜餐教会に、新しい竜の力が追加されました\r",
+      "zh": "\t大龙飨教堂新增了龙的力量。\r"
+    }
+  },
+  "30064": {
+    "EventTextForMap": {
+      "en": "\tA new draconic power is available at the Cathedral of Dragon Communion\r",
+      "jp": "\t大竜餐教会に、新しい竜の力が追加されました\r",
+      "zh": "\t大龙飨教堂新增了龙的力量。\r"
+    }
+  },
+  "30065": {
+    "EventTextForMap": {
+      "en": "\tA new draconic power is available at the Cathedral of Dragon Communion\r",
+      "jp": "\t大竜餐教会に、新しい竜の力が追加されました\r",
+      "zh": "\t大龙飨教堂新增了龙的力量。\r"
+    }
+  },
+  "30066": {
+    "EventTextForMap": {
+      "en": "\tA new draconic power is available at the Cathedral of Dragon Communion\r",
+      "jp": "\t大竜餐教会に、新しい竜の力が追加されました\r",
+      "zh": "\t大龙飨教堂新增了龙的力量。\r"
+    }
+  },
+  "30080": {
+    "EventTextForMap": {
+      "en": "\tSeal can only be broken by a sealbreaker\r",
+      "jp": "\t封印鍵で閉ざされている\r",
+      "zh": "\t因为封印钥匙的效用，紧闭不开。\r"
+    }
+  },
+  "30090": {
+    "EventTextForMap": {
+      "en": "\tHere lie Aurelia and Aureliette,\\nwho never saw the stars\r",
+      "jp": "\t星を見られなかった姉妹\\nクララとクラリス\r",
+      "zh": "\t无缘见到星星的姊妹──\\n库菈菈与库菈利丝。\r"
+    }
+  },
+  "30100": {
+    "EventTextForMap": {
+      "en": "\tYou found a simple map.\\nCheck in inventory.\r",
+      "jp": "\t簡易な地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了简易地图。\\n请从置物包确认。\r"
+    }
+  },
+  "30101": {
+    "EventTextForMap": {
+      "en": "\tYou found a simple map.\\nCheck in inventory.\r",
+      "jp": "\t簡易な地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了简易地图。\\n请从置物包确认。\r"
+    }
+  },
+  "30110": {
+    "EventTextForMap": {
+      "en": "\tYou can now see the Knight of the Great Jar's red summon sign\r",
+      "jp": "\t大壺の騎士の、赤の召喚サインが見えるようになりました\r",
+      "zh": "\t已能看见大壶骑士的红色召唤记号。\r"
+    }
+  },
+  "30120": {
+    "EventTextForMap": {
+      "en": "\tNew items can be purchased from the Twin Maiden Husks\r",
+      "jp": "\t双子の老婆から、新しいアイテムが購入できるようになりました\r",
+      "zh": "\t已能透过孪生老妪购买新道具。\r"
+    }
+  },
+  "30130": {
+    "EventTextForMap": {
+      "en": "\tThe primal glintstone shudders.\\nIt seems Sellen's body has died.\r",
+      "jp": "\t原輝石が震えている\\nセレンの体が、死んだようだ\r",
+      "zh": "\t源辉石正在颤动，\\n瑟濂的身体可能已经死亡。\r"
+    }
+  },
+  "30140": {
+    "EventTextForMap": {
+      "en": "\tA red mark was made on the map\r",
+      "jp": "\t地図に赤い印が描き込まれました\r",
+      "zh": "\t地图已被画上红色标记。\r"
+    }
+  },
+  "30150": {
+    "EventTextForMap": {
+      "en": "\tYou have no Festering Bloody Finger\r",
+      "jp": "\t爛れた血指を持っていません\r",
+      "zh": "\t您未持有溃烂血指。\r"
+    }
+  },
+  "60011": {
+    "EventTextForMap": {
+      "en": "\tSeek three wise beasts\r",
+      "jp": "\t三体の賢獣を探せ\r",
+      "zh": "\t找出三只睿智兽物。\r"
+    }
+  },
+  "60021": {
+    "EventTextForMap": {
+      "en": "\tEndow the eyes of the mask in light\r",
+      "jp": "\t叡智を！\r",
+      "zh": "\t赐予智慧吧！\r"
+    }
+  },
+  "60022": {
+    "EventTextForMap": {
+      "en": "\tSeek three wise beasts\r",
+      "jp": "\t三体の賢獣を探せ\r",
+      "zh": "\t找出三只睿智兽物。\r"
+    }
+  },
+  "60023": { "EventTextForMap": { "jp": "\t内容未定\r" } },
+  "60024": { "EventTextForMap": { "jp": "\t内容未定\r" } },
+  "60025": { "EventTextForMap": { "jp": "\t内容未定\r" } },
+  "60026": {
+    "EventTextForMap": {
+      "en": "\tSeek three great wise beasts\r",
+      "jp": "\t三体の大賢獣を探せ\r",
+      "zh": "\t找出三只大型睿智兽物。\r"
+    }
+  },
+  "60027": {
+    "EventTextForMap": {
+      "en": "\tAccess to those outside of the \\nroyal family is strictly forbidden\r",
+      "jp": "\t叡智の光を！\r",
+      "zh": "\t赐予智慧之光吧！\r"
+    }
+  },
+  "60031": {
+    "EventTextForMap": {
+      "en": "\tTouch three phantom crests\r",
+      "jp": "\t三つの幻影紋章に触れよ\r",
+      "zh": "\t触碰三枚幻影徽章吧。\r"
+    }
+  },
+  "60041": { "EventTextForMap": { "jp": "\t確認中\r" } },
+  "60051": {
+    "EventTextForMap": {
+      "en": "\tFalling snow marks something unseen\r",
+      "jp": "\t降る雪は、見えぬものを示す\r",
+      "zh": "\t天降白雪，无法目视者为之现形。\r"
+    }
+  },
+  "60052": { "EventTextForMap": { "jp": "\t内容未定\r" } },
+  "60100": {
+    "EventTextForMap": {
+      "en": "\tLight the four figures in the evergaol\r",
+      "jp": "\t封牢の四像に火を灯せ\r",
+      "zh": "\t替封印监牢的四座雕像点燃火焰。\r"
+    }
+  },
+  "61010": {
+    "EventTextForMap": {
+      "en": "\tGodrick the Golden, humiliated\\nHaving tasted defeat by the Blade of Miquella\\nNow on his knees, begging for mercy\r",
+      "jp": "\t黄金のゴドリック、屈辱の戦\\nミケラの刃に、散々と敗れ\\nひれ伏し、許しを請う\r",
+      "zh": "\t“黄金”葛瑞克，耻辱之战。\\n交战“米凯拉的锋刃”，兵败如山倒。\\n跪伏于地，恳求饶命。\r"
+    }
+  },
+  "61011": {
+    "EventTextForMap": {
+      "en": "\tLord Godfrey, at last at the end of his campaign\\nHis golden armies unvanquished and unbowed\\nYet finds grace lost, tattered and faded\r",
+      "jp": "\tゴッドフレイ王の戦、最後の地\\n黄金の軍勢は止まることなく勝ち続け\\nだが祝福は失われ、色褪せた\r",
+      "zh": "\t葛孚雷王的征战，最后的地点。\\n黄金军队势如破竹，百战百胜──\\n然而失去赐福，色彩褪去。\r"
+    }
+  },
+  "61012": {
+    "EventTextForMap": {
+      "en": "\tThe siege of Castle Morne\\nA lone hero fights for his vengeance\\nOnly to fall at the hand of Lord Godfrey\r",
+      "jp": "\tモーン攻城戦\\n復讐の英雄、唯一人となって戦い\\nゴッドフレイ王に敗れる\r",
+      "zh": "\t摩恩攻城战。\\n只身一人的复仇英雄挺身而战，\\n最终败给葛孚雷王。\r"
+    }
+  },
+  "61020": {
+    "EventTextForMap": {
+      "en": "\tThis marks Malenia's southward march\\nThe Blade of Miquella and her Cleanrot Knights\\nGrant her wings never to be clipped\r",
+      "jp": "\tマレニア南進の碑\\nミケラの刃、貴腐の騎士\\nその翼を阻むものなし\r",
+      "zh": "\t玛莲妮亚向南推进的纪念碑。\\n“米凯拉的锋刃”以及尊腐骑士──\\n那高展的飞翼，无人能敌。\r"
+    }
+  },
+  "61021": {
+    "EventTextForMap": {
+      "en": "\tThe Second Liurnian War\\nNo victory for the golden, nor for the moon\\nNo prize but atonement; the birth of a vow\r",
+      "jp": "\t第二次リエーニエ戦役\\n黄金と月に勝者はなく\\nだが贖いと、結びが生まれた\r",
+      "zh": "\t第二次利耶尼亚战争。\\n黄金与月，无人胜出。\\n取而代之诞生的，是赎罪与结缘。\r"
+    }
+  },
+  "61022": {
+    "EventTextForMap": {
+      "en": "\tThe resting place of the contemptible Cuckoos\\nLost in the siege of Caria Manor\r",
+      "jp": "\tカーリア城館防衛戦\\n卑劣なるカッコウどもの屍場\r",
+      "zh": "\t卡利亚城寨保卫战。\\n卑鄙杜鹃尸横遍野之处。\r"
+    }
+  },
+  "61023": {
+    "EventTextForMap": {
+      "en": "\tThe First Liurnian War\\nRadagon's glory burns red as his hair\r",
+      "jp": "\t第一次リエーニエ戦役\\n赤髪のラダゴン、英雄となる\r",
+      "zh": "\t第一次利耶尼亚战争。\\n“红发”拉达冈成为英雄。\r"
+    }
+  },
+  "61030": {
+    "EventTextForMap": {
+      "en": "\tThe Routing of the Ancient Dragons\\nGodwyn the Golden fought to the last,\\nEarning the friendship of dread Fortissax\r",
+      "jp": "\t古竜戦役最後の地\\n黄金のゴッドウィン勇戦し\\n古竜フォルサクスを友とす\r",
+      "zh": "\t古龙战争，最后的地点。\\n“黄金”葛德文英勇作战，\\n与古龙弗尔桑克斯化敌为友。\r"
+    }
+  },
+  "61031": {
+    "EventTextForMap": {
+      "en": "\tThe First Defense of Leyndell\\nA sovereign alliance rots from within\\nTraces yet remain of bloody conspiracy\r",
+      "jp": "\t第一次ローデイル防衛戦\\n君主連合、内から瓦解し敗軍となる\\n血の陰謀、その痕跡あり\r",
+      "zh": "\t第一次罗德尔保卫战。\\n君王联军内部分裂，因此败战。\\n背后有鲜血阴谋的蛛丝马迹。\r"
+    }
+  },
+  "61032": {
+    "EventTextForMap": {
+      "en": "\tThe Second Defense of Leyndell\\nThe Fell Omen stacks high the corpses of heroes\\nYet the Erdtree remains unshaken\r",
+      "jp": "\t第二次ローデイル防衛戦\\n忌み鬼、英雄の屍を築く\\n黄金樹に揺らぎなし\r",
+      "zh": "\t第二次罗德尔保卫战。\\n“恶兆妖鬼”让成群英雄血流成河。\\n黄金树屹立不摇。\r"
+    }
+  },
+  "61033": {
+    "EventTextForMap": {
+      "en": "\tThe Assault on Volcano Manor\\nThe squalid, the sick, the blasphemous;\\na wretched, unending war with no glory\r",
+      "jp": "\t火山館攻略戦\\n穢れた者たち、疫病、冒涜\\n名誉なく、終わりもない惨戦\r",
+      "zh": "\t火山官邸攻城战。\\n成群的玷污者、疾病、亵渎──\\n毫无名誉可言，无止尽的悲惨战争。\r"
+    }
+  },
+  "61040": {
+    "EventTextForMap": {
+      "en": "\tThe Battle of Aeonia\\nRadahn and Malenia locked in stalemate\\nThen, the scarlet rot blooms\r",
+      "jp": "\tエオニアの戦い\\nラダーン、マレニアと相討ち\\n朱い腐敗の花が咲き誇る\r",
+      "zh": "\t艾奥尼亚战争。\\n拉塔恩、玛莲妮亚战成平手，\\n猩红腐败之花怒放。\r"
+    }
+  },
+  "61041": {
+    "EventTextForMap": {
+      "en": "\tThe Starscourge Conflict\\nRadahn alone holds Sellia secure\\nAnd stands tall, to shatter the stars\r",
+      "jp": "\t星砕きの戦い\\nラダーン、サリアの護りとなり\\n唯一人星に対し、それを砕く\r",
+      "zh": "\t碎星战争。\\n拉塔恩化为瑟利亚之盾，\\n独自一人挺身面对、击碎星星。\r"
+    }
+  },
+  "61050": {
+    "EventTextForMap": {
+      "en": "\tThe War against the Giants\\nChampions battle, trolls betray\\nFire vanquished, the era of the Erdtree begins\r",
+      "jp": "\t巨人戦争\\n英雄たちの戦い、トロルの裏切り\\n火の敗れ、黄金樹の時代のはじまり\r",
+      "zh": "\t巨人战争。\\n众英雄的奋战，山妖的叛离。\\n火焰败退，黄金树时代之始。\r"
+    }
+  },
+  "79000": {
+    "EventTextForMap": {
+      "en": "\tRedeemer Guilbert has invaded!\r",
+      "jp": "\t代行者ジルベールに侵入されました！\r",
+      "zh": "\t被“代理人”吉尔伯特入侵了！\r"
+    }
+  },
+  "79001": {
+    "EventTextForMap": {
+      "en": "\tRedeemer Guilbert died\r",
+      "jp": "\t代行者ジルベールが死亡しました\r",
+      "zh": "\t“代理人”吉尔伯特已死亡。\r"
+    }
+  },
+  "79002": {
+    "EventTextForMap": {
+      "en": "\tRedeemer Guilbert returned home\r",
+      "jp": "\t代行者ジルベールが帰還しました\r",
+      "zh": "\t“代理人”吉尔伯特已离开。\r"
+    }
+  },
+  "80000": {
+    "EventTextForMap": {
+      "en": "\tBloody Finger Hunter Yura was summoned\r",
+      "jp": "\t「血の指の狩人、ユラ」が召喚されました\r",
+      "zh": "\t已召唤“血指猎人”尤拉。\r"
+    }
+  },
+  "80001": {
+    "EventTextForMap": {
+      "en": "\tWith his objective accomplished, Bloody Finger Hunter Yura returned to his world\r",
+      "jp": "\t目的を果たし、「血の指の狩人、ユラ」が元の世界に戻りました\r",
+      "zh": "\t“血指猎人”尤拉 达成目标，\\n已返回原本的世界。\r"
+    }
+  },
+  "80002": {
+    "EventTextForMap": {
+      "en": "\tBloody Finger Hunter Yura has died\r",
+      "jp": "\t「血の指の狩人、ユラ」が死亡しました\r",
+      "zh": "\t“血指猎人”尤拉 已死亡。\r"
+    }
+  },
+  "80003": {
+    "EventTextForMap": {
+      "en": "\tBloody Finger Hunter Yura returned to his world\r",
+      "jp": "\t「血の指の狩人、ユラ」が元の世界に戻りました\r",
+      "zh": "\t“血指猎人”尤拉 已返回原本的世界。\r"
+    }
+  },
+  "80010": {
+    "EventTextForMap": {
+      "en": "\tBloody Finger Nerijus returned to his world\r",
+      "jp": "\t「血の指、ネリウス」が元の世界に戻りました\r",
+      "zh": "\t“血指”涅利乌斯 已返回原本的世界。\r"
+    }
+  },
+  "80020": {
+    "EventTextForMap": {
+      "en": "\tInvaded by Tanith's Knight!\r",
+      "jp": "\t「タニスの騎士」に侵入されました！\r",
+      "zh": "\t被 塔妮丝的骑士 入侵了！\r"
+    }
+  },
+  "80021": {
+    "EventTextForMap": {
+      "en": "\tTanith's Knight has died\r",
+      "jp": "\t「タニスの騎士」が死亡しました\r",
+      "zh": "\t塔妮丝的骑士 已死亡。\r"
+    }
+  },
+  "80601": {
+    "EventTextForMap": {
+      "en": "\tInvade White Mask Varré's world?\r",
+      "jp": "\t「白面のヴァレー」の世界に侵入しますか？\r",
+      "zh": "\t要入侵“白面具”梵雷的世界吗？\r"
+    }
+  },
+  "80602": {
+    "EventTextForMap": {
+      "en": "\tInvade Old Knight Istvan's world?\r",
+      "jp": "\t「古騎士、イシュトバーン」の世界に侵入しますか？\r",
+      "zh": "\t要入侵“古老骑士”伊修托邦的世界吗？\r"
+    }
+  },
+  "80603": {
+    "EventTextForMap": {
+      "en": "\tInvade Rileigh the Idle's world?\r",
+      "jp": "\t「暮れなずむライリー」の世界に侵入しますか？\r",
+      "zh": "\t要入侵“黄昏将尽”莱利的世界吗？\r"
+    }
+  },
+  "80604": {
+    "EventTextForMap": {
+      "en": "\tInvade Juno Hoslow, Knight of Blood's world?\r",
+      "jp": "\t「血潮の騎士、ユーノ・ホスロー」の世界に侵入しますか？\r",
+      "zh": "\t要入侵“血言骑士”尤诺·霍斯劳的世界吗？\r"
+    }
+  },
+  "80605": {
+    "EventTextForMap": {
+      "en": "\tInvade Vargram the Raging Wolf and Errant Sorcerer Wilhelm's world?\r",
+      "jp": "\t「狼の戦鬼、バルグラム」たちの世界に侵入しますか？\r",
+      "zh": "\t要入侵“白狼战鬼”巴格莱姆一行人的世界吗？\r"
+    }
+  },
+  "80606": {
+    "EventTextForMap": {
+      "en": "\tInvade Great Horned Tragoth's world?\r",
+      "jp": "\t「大角のトラゴス」の世界に侵入しますか？\r",
+      "zh": "\t要入侵“大角”忒拉格斯的世界吗？\r"
+    }
+  },
+  "80607": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to assist Yura, Hunter of Bloody Fingers?\r",
+      "jp": "\t「血の指の狩人、ユラ」の協力者として召喚されますか？\r",
+      "zh": "\t要作为“血指猎人”尤拉的协助者，\\n接受召唤吗？\r"
+    }
+  },
+  "80608": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to assist Sorceress Sellen?\r",
+      "jp": "\t「魔術師セレン」の協力者として召喚されますか？\r",
+      "zh": "\t要作为魔法师瑟濂的协助者，\\n接受召唤吗？\r"
+    }
+  },
+  "80609": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to challenge Sorceress Sellen?\r",
+      "jp": "\t「魔術師セレン」の敵対者として召喚されますか？\r",
+      "zh": "\t要作为魔法师瑟濂的敌对者，\\n接受召唤吗？\r"
+    }
+  },
+  "80610": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to assist Millicent?\r",
+      "jp": "\t「ミリセント」の協力者として召喚されますか？\r",
+      "zh": "\t要作为米莉森的协助者，\\n接受召唤吗？\r"
+    }
+  },
+  "80611": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to challenge Millicent?\r",
+      "jp": "\t「ミリセント」の敵対者として召喚されますか？\r",
+      "zh": "\t要作为米莉森的敌对者，\\n接受召唤吗？\r"
+    }
+  },
+  "80612": {
+    "EventTextForMap": {
+      "en": "\tInvade Magnus the Beast Claw's world?\r",
+      "jp": "\t「獣の爪、マグナス」の世界に侵入しますか？\r",
+      "zh": "\t要入侵“兽爪”玛格纳斯的世界吗？\r"
+    }
+  },
+  "80613": {
+    "EventTextForMap": {
+      "en": "\tUse Festering Bloody Finger and invade Magnus the Beast Claw's world?\r",
+      "jp": "\t爛れた血指を消費して、「獣の爪、マグナス」の世界に侵入しますか？\r",
+      "zh": "\t要消耗溃烂血指，入侵“兽爪”玛格纳斯的世界吗？\r"
+    }
+  },
+  "80800": {
+    "EventTextForMap": {
+      "en": "\tSummoned Castellan Jerren\r",
+      "jp": "\t「城主ジェーレン」を召喚しました\r",
+      "zh": "\t已召唤 城主杰廉。\r"
+    }
+  },
+  "80801": {
+    "EventTextForMap": {
+      "en": "\tCastellan Jerren has died\r",
+      "jp": "\t「城主ジェーレン」が死亡しました\r",
+      "zh": "\t城主杰廉 已死亡。\r"
+    }
+  },
+  "80802": {
+    "EventTextForMap": {
+      "en": "\tCastellan Jerren returned to his world\r",
+      "jp": "\t「城主ジェーレン」が元の世界に戻りました\r",
+      "zh": "\t城主杰廉 已返回原本的世界。\r"
+    }
+  },
+  "80810": {
+    "EventTextForMap": {
+      "en": "\tSummoned Blaidd the Half-Wolf\r",
+      "jp": "\t「半狼のブライヴ」を召喚しました\r",
+      "zh": "\t已召唤“半狼”布莱泽。\r"
+    }
+  },
+  "80811": {
+    "EventTextForMap": {
+      "en": "\tBlaidd the Half-Wolf has died\r",
+      "jp": "\t「半狼のブライヴ」が死亡しました\r",
+      "zh": "\t“半狼”布莱泽 已死亡。\r"
+    }
+  },
+  "80812": {
+    "EventTextForMap": {
+      "en": "\tBlaidd the Half-Wolf returned to his world\r",
+      "jp": "\t「半狼のブライヴ」が元の世界に戻りました\r",
+      "zh": "\t“半狼”布莱泽 已返回原本的世界。\r"
+    }
+  },
+  "80820": {
+    "EventTextForMap": {
+      "en": "\tSummoned Alexander, Warrior Jar\r",
+      "jp": "\t「戦士の壺、アレキサンダー」を召喚しました\r",
+      "zh": "\t已召唤“战士壶”亚历山大。\r"
+    }
+  },
+  "80821": {
+    "EventTextForMap": {
+      "en": "\tAlexander, Warrior Jar has died\r",
+      "jp": "\t「戦士の壺、アレキサンダー」が死亡しました\r",
+      "zh": "\t“战士壶”亚历山大 已死亡。\r"
+    }
+  },
+  "80822": {
+    "EventTextForMap": {
+      "en": "\tAlexander, Warrior Jar returned to his world\r",
+      "jp": "\t「戦士の壺、アレキサンダー」が元の世界に戻りました\r",
+      "zh": "\t“战士壶”亚历山大 已返回原本的世界。\r"
+    }
+  },
+  "80830": {
+    "EventTextForMap": {
+      "en": "\tSummoned Great Horned Tragoth\r",
+      "jp": "\t「大角のトラゴス」を召喚しました\r",
+      "zh": "\t已召唤“大角”忒拉格斯。\r"
+    }
+  },
+  "80831": {
+    "EventTextForMap": {
+      "en": "\tGreat Horned Tragoth has died\r",
+      "jp": "\t「大角のトラゴス」が死亡しました\r",
+      "zh": "\t“大角”忒拉格斯 已死亡。\r"
+    }
+  },
+  "80832": {
+    "EventTextForMap": {
+      "en": "\tGreat Horned Tragoth returned to his world\r",
+      "jp": "\t「大角のトラゴス」が元の世界に戻りました\r",
+      "zh": "\t“大角”忒拉格斯 已返回原本的世界。\r"
+    }
+  },
+  "80840": {
+    "EventTextForMap": {
+      "en": "\tSummoned Okina\r",
+      "jp": "\t「翁」を召喚しました\r",
+      "zh": "\t已召唤 老翁。\r"
+    }
+  },
+  "80841": {
+    "EventTextForMap": {
+      "en": "\tOkina has died\r",
+      "jp": "\t「翁」が死亡しました\r",
+      "zh": "\t老翁 已死亡。\r"
+    }
+  },
+  "80842": {
+    "EventTextForMap": {
+      "en": "\tOkina returned to his world\r",
+      "jp": "\t「翁」が元の世界に戻りました\r",
+      "zh": "\t老翁 已返回原本的世界。\r"
+    }
+  },
+  "80850": {
+    "EventTextForMap": {
+      "en": "\tSummoned Finger Maiden Therolina\r",
+      "jp": "\t「指巫女サロリナ」を召喚しました\r",
+      "zh": "\t已召唤 指头女巫瑟萝莉娜。\r"
+    }
+  },
+  "80851": {
+    "EventTextForMap": {
+      "en": "\tFinger Maiden Therolina has died\r",
+      "jp": "\t「指巫女サロリナ」が死亡しました\r",
+      "zh": "\t指头女巫瑟萝莉娜 已死亡。\r"
+    }
+  },
+  "80852": {
+    "EventTextForMap": {
+      "en": "\tFinger Maiden Therolina returned to her world\r",
+      "jp": "\t「指巫女サロリナ」が元の世界に戻りました\r",
+      "zh": "\t指头女巫瑟萝莉娜 已返回原本的世界。\r"
+    }
+  },
+  "80860": {
+    "EventTextForMap": {
+      "en": "\tSummoned Lionel the Lionhearted\r",
+      "jp": "\t「豪胆ライオネル」を召喚しました\r",
+      "zh": "\t已召唤“无畏”莱恩尼尔。\r"
+    }
+  },
+  "80861": {
+    "EventTextForMap": {
+      "en": "\tLionel the Lionhearted has died\r",
+      "jp": "\t「豪胆ライオネル」が死亡しました\r",
+      "zh": "\t“无畏”莱恩尼尔 已死亡。\r"
+    }
+  },
+  "80862": {
+    "EventTextForMap": {
+      "en": "\tLionel the Lionhearted returned to his world\r",
+      "jp": "\t「豪胆ライオネル」が元の世界に戻りました\r",
+      "zh": "\t“无畏”莱恩尼尔 已返回原本的世界。\r"
+    }
+  },
+  "80870": {
+    "EventTextForMap": {
+      "en": "\tSummoned Patches\r",
+      "jp": "\t「パッチ」を召喚しました\r",
+      "zh": "\t已召唤 帕奇。\r"
+    }
+  },
+  "80871": {
+    "EventTextForMap": {
+      "en": "\tPatches has died\r",
+      "jp": "\t「パッチ」が死亡しました\r",
+      "zh": "\t帕奇 已死亡。\r"
+    }
+  },
+  "80872": {
+    "EventTextForMap": {
+      "en": "\tPatches returned to his world\r",
+      "jp": "\t「パッチ」が元の世界に戻りました\r",
+      "zh": "\t帕奇 已返回原本的世界。\r"
+    }
+  },
+  "88000": {
+    "EventTextForMap": {
+      "en": "\tCommencing combat.\\nTime limit: <?matchDuel_TotalTime?>s.\r",
+      "jp": "\t闘技を開始します\\n制限時間<?matchDuel_TotalTime?>秒\r",
+      "zh": "\t开始竞技。\\n限制时间<?matchDuel_TotalTime?>秒。\r"
+    }
+  },
+  "88001": {
+    "EventTextForMap": {
+      "en": "\tCommencing combat.\\nTime limit: <?matchDM2_TotalTime?>s.\r",
+      "jp": "\t闘技を開始します\\n制限時間<?matchDM2_TotalTime?>秒\r",
+      "zh": "\t开始竞技。\\n限制时间<?matchDM2_TotalTime?>秒。\r"
+    }
+  },
+  "88002": {
+    "EventTextForMap": {
+      "en": "\tCommencing combat.\\nTime limit: <?matchDM4_TotalTime?>s.\r",
+      "jp": "\t闘技を開始します\\n制限時間<?matchDM4_TotalTime?>秒\r",
+      "zh": "\t开始竞技。\\n限制时间<?matchDM4_TotalTime?>秒。\r"
+    }
+  },
+  "88003": {
+    "EventTextForMap": {
+      "en": "\tCommencing combat.\\nTime limit: <?matchDM6_TotalTime?>s.\r",
+      "jp": "\t闘技を開始します\\n制限時間<?matchDM6_TotalTime?>秒\r",
+      "zh": "\t开始竞技。\\n限制时间<?matchDM6_TotalTime?>秒。\r"
+    }
+  },
+  "88004": {
+    "EventTextForMap": {
+      "en": "\tCommencing combat.\\nTime limit: <?matchTM1vs1_TotalTime?>s.\r",
+      "jp": "\t闘技を開始します\\n制限時間<?matchTM1vs1_TotalTime?>秒\r",
+      "zh": "\t开始竞技。\\n限制时间<?matchTM1vs1_TotalTime?>秒。\r"
+    }
+  },
+  "88005": {
+    "EventTextForMap": {
+      "en": "\tCommencing combat.\\nTime limit: <?matchTM2vs2_TotalTime?>s.\r",
+      "jp": "\t闘技を開始します\\n制限時間<?matchTM2vs2_TotalTime?>秒\r",
+      "zh": "\t开始竞技。\\n限制时间<?matchTM2vs2_TotalTime?>秒。\r"
+    }
+  },
+  "88006": {
+    "EventTextForMap": {
+      "en": "\tCommencing combat.\\nTime limit: <?matchTM3vs3_TotalTime?>s.\r",
+      "jp": "\t闘技を開始します\\n制限時間<?matchTM3vs3_TotalTime?>秒\r",
+      "zh": "\t开始竞技。\\n限制时间<?matchTM3vs3_TotalTime?>秒。\r"
+    }
+  },
+  "88020": {
+    "EventTextForMap": {
+      "en": "\t<?matchDuel_SecondHalfTime?>s remaining\r",
+      "jp": "\t残り時間、<?matchDuel_SecondHalfTime?>秒\r",
+      "zh": "\t时间剩下<?matchDuel_SecondHalfTime?>秒。\r"
+    }
+  },
+  "88021": {
+    "EventTextForMap": {
+      "en": "\t<?matchDM2_SecondHalfTime?>s remaining\r",
+      "jp": "\t残り時間、<?matchDM2_SecondHalfTime?>秒\r",
+      "zh": "\t时间剩下<?matchDM2_SecondHalfTime?>秒。\r"
+    }
+  },
+  "88022": {
+    "EventTextForMap": {
+      "en": "\t<?matchDM4_SecondHalfTime?>s remaining\r",
+      "jp": "\t残り時間、<?matchDM4_SecondHalfTime?>秒\r",
+      "zh": "\t时间剩下<?matchDM4_SecondHalfTime?>秒。\r"
+    }
+  },
+  "88023": {
+    "EventTextForMap": {
+      "en": "\t<?matchDM6_SecondHalfTime?>s remaining\r",
+      "jp": "\t残り時間、<?matchDM6_SecondHalfTime?>秒\r",
+      "zh": "\t时间剩下<?matchDM6_SecondHalfTime?>秒。\r"
+    }
+  },
+  "88024": {
+    "EventTextForMap": {
+      "en": "\t<?matchTM1vs1_SecondHalfTime?>s remaining\r",
+      "jp": "\t残り時間、<?matchTM1vs1_SecondHalfTime?>秒\r",
+      "zh": "\t时间剩下<?matchTM1vs1_SecondHalfTime?>秒。\r"
+    }
+  },
+  "88025": {
+    "EventTextForMap": {
+      "en": "\t<?matchTM2vs2_SecondHalfTime?>s remaining\r",
+      "jp": "\t残り時間、<?matchTM2vs2_SecondHalfTime?>秒\r",
+      "zh": "\t时间剩下<?matchTM2vs2_SecondHalfTime?>秒。\r"
+    }
+  },
+  "88026": {
+    "EventTextForMap": {
+      "en": "\t<?matchTM3vs3_SecondHalfTime?>s remaining\r",
+      "jp": "\t残り時間、<?matchTM3vs3_SecondHalfTime?>秒\r",
+      "zh": "\t时间剩下<?matchTM3vs3_SecondHalfTime?>秒。\r"
+    }
+  },
+  "88040": {
+    "EventTextForMap": {
+      "en": "\tCease Combat\r",
+      "jp": "\t闘技終了\r",
+      "zh": "\t竞技结束。\r"
+    }
+  },
+  "88050": {
+    "EventTextForMap": {
+      "en": "\tCombat ends in your victory!\r",
+      "jp": "\t貴方は闘技に勝利しました！\r",
+      "zh": "\t您在竞技中获胜！\r"
+    }
+  },
+  "88051": {
+    "EventTextForMap": {
+      "en": "\tCombat ends in a stalemate\r",
+      "jp": "\t貴方は闘技に引き分けました\r",
+      "zh": "\t您在竞技中不分胜负。\r"
+    }
+  },
+  "88052": {
+    "EventTextForMap": {
+      "en": "\tCombat ends in your loss\r",
+      "jp": "\t貴方は闘技に敗北しました\r",
+      "zh": "\t您在竞技中落败。\r"
+    }
+  },
+  "90000": {
+    "EventTextForMap": {
+      "en": "\tMore awaits you, in the official release\r",
+      "jp": "\tここから先は製品版でお楽しみください\r",
+      "zh": "\t接下来的游戏内容，敬请期待商品版。\r"
+    }
+  },
+  "90010": {
+    "EventTextForMap": {
+      "en": "\tCannot use this now\r",
+      "jp": "\t今は使えない\r",
+      "zh": "\t现在不能使用。\r"
+    }
+  },
+  "108000": {
+    "EventTextForMap": {
+      "en": "\tUse <?gdsparam@8000?>?\r",
+      "jp": "\t<?gdsparam@8000?>を使いますか？\r",
+      "zh": "\t要使用<?gdsparam@8000?>吗？\r"
+    }
+  },
+  "108010": {
+    "EventTextForMap": {
+      "en": "\tUse <?gdsparam@8010?>?\r",
+      "jp": "\t<?gdsparam@8010?>を使いますか？\r",
+      "zh": "\t要使用<?gdsparam@8010?>吗？\r"
+    }
+  },
+  "108186": {
+    "EventTextForMap": {
+      "en": "\tUse <?gdsparam@8186?>?\r",
+      "jp": "\t<?gdsparam@8186?>を使いますか？\r",
+      "zh": "\t要使用<?gdsparam@8186?>吗？\r"
+    }
+  },
+  "208000": {
+    "EventTextForMap": {
+      "en": "\t<?gdsparam@8000?> was lost with use\r",
+      "jp": "\t使用した<?gdsparam@8000?>が失われました\r",
+      "zh": "\t已使用<?gdsparam@8000?>。\\n道具使用后已消失。\r"
+    }
+  },
+  "208010": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@8010?>\r",
+      "jp": "\t<?gdsparam@8010?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@8010?>。\r"
+    }
+  },
+  "208134": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@8134?>\r",
+      "jp": "\t<?gdsparam@8134?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@8134?>。\r"
+    }
+  },
+  "208169": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@8169?>\r",
+      "jp": "\t<?gdsparam@8169?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@8169?>。\r"
+    }
+  },
+  "208178": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@8178?>\r",
+      "jp": "\t<?gdsparam@8178?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@8178?>。\r"
+    }
+  },
+  "208186": {
+    "EventTextForMap": {
+      "en": "\t<?gdsparam@8186?> was lost with use\r",
+      "jp": "\t使用した<?gdsparam@8186?>が失われました\r",
+      "zh": "\t已使用<?gdsparam@8186?>。\\n道具使用后已消失。\r"
+    }
+  },
+  "208197": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@8197?>\r",
+      "jp": "\t<?gdsparam@8197?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@8197?>。\r"
+    }
+  },
+  "208199": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@8199?>\r",
+      "jp": "\t<?gdsparam@8199?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@8199?>。\r"
+    }
+  },
+  "308000": {
+    "EventTextForMap": {
+      "en": "\tNo <?gdsparam@8000?> in inventory\r",
+      "jp": "\t<?gdsparam@8000?>がありません\r",
+      "zh": "\t您未持有<?gdsparam@8000?>。\r"
+    }
+  },
+  "308186": {
+    "EventTextForMap": {
+      "en": "\tNo <?gdsparam@8186?> in inventory\r",
+      "jp": "\t<?gdsparam@8186?>がありません\r",
+      "zh": "\t您未持有<?gdsparam@8186?>。\r"
+    }
+  },
+  "408000": {
+    "EventTextForMap": {
+      "en": "\tNot enough <?gdsparam@8000?>\r",
+      "jp": "\t<?gdsparam@8000?>が足りません\r",
+      "zh": "\t<?gdsparam@8000?>不足。\r"
+    }
+  },
+  "1030000": {
+    "EventTextForMap": {
+      "en": "\tMap of cross sites received.\\nCheck in inventory.\r",
+      "jp": "\t十字の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了十字记号的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "1030001": {
+    "EventTextForMap": {
+      "en": "\tMap of cross sites received.\\nCheck in inventory.\r",
+      "jp": "\t十字の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了十字记号的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "1030010": {
+    "EventTextForMap": {
+      "en": "\tMap to old ruins received.\\nCheck in inventory.\r",
+      "jp": "\t遺跡の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了遗迹的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "1030011": {
+    "EventTextForMap": {
+      "en": "\tMap to old ruins received.\\nCheck in inventory.\r",
+      "jp": "\t遺跡の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了遗迹的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "1030012": {
+    "EventTextForMap": {
+      "en": "\tMap to old ruins received.\\nCheck in inventory.\r",
+      "jp": "\t遺跡の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了遗迹的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "1030020": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here my arm sinistral.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が左腕を、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的左手臂，弃置于此。”\r"
+    }
+  },
+  "1030021": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here my eye.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が瞳を、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的眼眸，弃置于此”\r"
+    }
+  },
+  "1030022": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here the first of the flesh of my body.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が最初の肉体を、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我初次舍去的躯体，弃置于此。”\r"
+    }
+  },
+  "1030023": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here a part of the flesh of my body.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が肉体を削り、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的部分躯体，弃置于此。”\r"
+    }
+  },
+  "1030024": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here my heart.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が心臓を、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的心脏，弃置于此。”\r"
+    }
+  },
+  "1030025": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here my doubt and vacillation.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が迷いを、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的迷惘，弃置于此。”\r"
+    }
+  },
+  "1030026": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here the last of the flesh of my body.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が最後の肉体を、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我最后舍去的躯体，弃置于此。”\r"
+    }
+  },
+  "1030027": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here a part of the flesh of my body.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が肉体を削り、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的部分躯体，弃置于此。”\r"
+    }
+  },
+  "1030028": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here all my fears.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「全ての恐れを、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我所有的恐惧，弃置于此。”\r"
+    }
+  },
+  "1030029": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here my love.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が愛を、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的爱，弃置于此。”\r"
+    }
+  },
+  "1030030": {
+    "EventTextForMap": {
+      "en": "\tYuri, beloved child. Taken before his time.\r",
+      "jp": "\t私の愛しい子、儚いユーリ\r",
+      "zh": "\t我的宝贝孩子──夭逝的尤利。\r"
+    }
+  },
+  "1030040": {
+    "EventTextForMap": {
+      "en": "\tSomewhere, a great rune has broken...\r",
+      "jp": "\t何処かで、大ルーンが壊れた\r",
+      "zh": "\t某处的大卢恩已毁坏。\r"
+    }
+  },
+  "1030041": {
+    "EventTextForMap": {
+      "en": "\tAnd so too has a powerful charm.\r",
+      "jp": "\t魅了の力も、壊れたようだ\r",
+      "zh": "\t魅惑的力量好像失效了。\r"
+    }
+  },
+  "1030050": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here the flesh of my body.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が肉体を削り、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的部分躯体，弃置于此。”\r"
+    }
+  },
+  "1030051": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here my arm dextral.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が右腕を、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的右手臂，弃置于此。”\r"
+    }
+  },
+  "1030052": {
+    "EventTextForMap": {
+      "en": "\tCarved words coalesce.\\n\"I abandon here the flesh of my body.\"\r",
+      "jp": "\t刻まれた言葉が、心に浮かぶ\\n「我が肉体を削り、ここに棄てる」\r",
+      "zh": "\t刻下的话语，浮现心头：\\n“将我的部分躯体，弃置于此。”\r"
+    }
+  },
+  "2020000": {
+    "EventTextForMap": {
+      "en": "\tHead to the realm of shadow?\r",
+      "jp": "\t影の地に向かいますか？\r",
+      "zh": "\t要前往幽影之地吗？\r"
+    }
+  },
+  "2020002": {
+    "EventTextForMap": {
+      "en": "\tSealed and obscured by shadow\r",
+      "jp": "\t影に隠され、封印されている\r",
+      "zh": "\t受到幽影藏匿与封印。\r"
+    }
+  },
+  "2020004": {
+    "EventTextForMap": {
+      "en": "\tSealed and obscured by Miquella\r",
+      "jp": "\tミケラにより封印されている\r",
+      "zh": "\t受米凯拉封印。\r"
+    }
+  },
+  "2020025": {
+    "EventTextForMap": {
+      "en": "\tRaise the Stone-Sheathed Sword to the light?\r",
+      "jp": "\t石鞘の剣を、光に捧げますか？\r",
+      "zh": "\t要将石鞘剑献给光明吗？\r"
+    }
+  },
+  "2020026": {
+    "EventTextForMap": {
+      "en": "\tRaise the Stone-Sheathed Sword to the dark?\r",
+      "jp": "\t石鞘の剣を、闇に捧げますか？\r",
+      "zh": "\t要将石鞘剑献给黑暗吗？\r"
+    }
+  },
+  "2020027": {
+    "EventTextForMap": {
+      "en": "\tRaise the Sword of Darkness to the light?\r",
+      "jp": "\tダークソードを、光に捧げますか？\r",
+      "zh": "\t要将黑暗剑献给光明吗？\r"
+    }
+  },
+  "2020028": {
+    "EventTextForMap": {
+      "en": "\tRaise the Sword of Light to the dark?\r",
+      "jp": "\tライトソードを、闇に捧げますか？\r",
+      "zh": "\t要将光明剑献给黑暗吗？\r"
+    }
+  },
+  "2020030": {
+    "EventTextForMap": {
+      "en": "\tSomewhere, a spiritspring has been unsealed\r",
+      "jp": "\tどこかで、霊気流の封印が解けた\r",
+      "zh": "\t某处的灵魂气流封印已解开。\r"
+    }
+  },
+  "2030000": {
+    "EventTextForMap": {
+      "en": "\tBurn the sealing tree?\r",
+      "jp": "\t封印の木を焼きますか？\r",
+      "zh": "\t要燃烧封印之树吗？\r"
+    }
+  },
+  "2030001": {
+    "EventTextForMap": {
+      "en": "\tThe sealing tree obscures the tower in shadow.\\nIt cannot be burned without Messmer's kindling.\r",
+      "jp": "\t封印の木が、塔を影に隠している\\n「メスメルの火種」がなければ、焼くことはできない\r",
+      "zh": "\t封印之树的幽影，隐匿了塔。\\n没有“梅瑟莫的火种”，无法燃烧封印之树。\r"
+    }
+  },
+  "2062000": {
+    "EventTextForMap": {
+      "en": "\tThe very center of the Lands Between.\\nAll manners of Death wash up here, only to be suppressed.\r",
+      "jp": "\t狭間の中心\\nあらゆる死が流れ着き\\nあらゆる死を鎮める\r",
+      "zh": "\t交界地的中心──\\n所有死亡的汇集之处；\\n所有死亡受镇抚之处。\r"
+    }
+  },
+  "2080601": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to assist Needle Knight Leda?\r",
+      "jp": "\t「針の騎士、レダ」の協力者として召喚されますか？\r",
+      "zh": "\t要作为“金针骑士”蕾妲的协助者，\\n接受召唤吗？\r"
+    }
+  },
+  "2080602": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to assist Sir Ansbach?\r",
+      "jp": "\t「老兵アンスバッハ」の協力者として召喚されますか？\r",
+      "zh": "\t要作为老兵安帕赫的协助者，\\n接受召唤吗？\r"
+    }
+  },
+  "2080603": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to assist Needle Knight Leda?\r",
+      "jp": "\t「針の騎士、レダ」の協力者として召喚されますか？\r",
+      "zh": "\t要作为“金针骑士”蕾妲的协助者，\\n接受召唤吗？\r"
+    }
+  },
+  "2080604": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to assist Hornsent?\r",
+      "jp": "\t「角人」の協力者として召喚されますか？\r",
+      "zh": "\t要作为角人的协助者，\\n接受召唤吗？\r"
+    }
+  },
+  "2080605": {
+    "EventTextForMap": {
+      "en": "\tBe summoned to challenge Needle Knight Leda and her allies?\r",
+      "jp": "\t「針の騎士、レダ」と同志たちの、敵対者として召喚されますか？\r",
+      "zh": "\t要作为“金针骑士”蕾妲与其同伴的敌对者，\\n接受召唤吗？\r"
+    }
+  },
+  "2080800": {
+    "EventTextForMap": {
+      "en": "\tSummon Drake Warrior Igon?\r",
+      "jp": "\t「竜の戦士、エーゴン」を召喚しますか？\r",
+      "zh": "\t要召唤“龙战士”埃贡吗？\r"
+    }
+  },
+  "2080810": {
+    "EventTextForMap": {
+      "en": "\tSummon Thiollier?\r",
+      "jp": "\t「ティエリエ」を召喚しますか？\r",
+      "zh": "\t要召唤休里耶吗？\r"
+    }
+  },
+  "2080840": {
+    "EventTextForMap": {
+      "en": "\tSummon Pureblood Knight Ansbach?\\nThis cooperator will not arrive until the time is right.\r",
+      "jp": "\t「純血騎士、アンスバッハ」を召喚しますか？\\nこの協力者は、後ほど召喚されます\r",
+      "zh": "\t要召唤“纯血骑士”安帕赫吗？\\n（将于稍后召唤此协助者。）\r"
+    }
+  },
+  "2080850": {
+    "EventTextForMap": {
+      "en": "\tSummon Thiollier?\\nThis cooperator will not arrive until the time is right.\r",
+      "jp": "\t「ティエリエ」を召喚しますか？\\nこの協力者は、後ほど召喚されます\r",
+      "zh": "\t要召唤休里耶吗？\\n（将于稍后召唤此协助者。）\r"
+    }
+  },
+  "2080860": {
+    "EventTextForMap": {
+      "en": "\tSummon Sanguine Noble Nataan?\\nThis cooperator will not arrive until the time is right.\r",
+      "jp": "\t「血の貴族、ナタン」を召喚しますか？\\nこの協力者は、後ほど召喚されます\r",
+      "zh": "\t要召唤“鲜血贵族”奈坦吗？\\n（将于稍后召唤此协助者。）\r"
+    }
+  },
+  "2080870": {
+    "EventTextForMap": {
+      "en": "\tSummon Hornsent?\r",
+      "jp": "\t「角人」を召喚しますか？\r",
+      "zh": "\t要召唤角人吗？\r"
+    }
+  },
+  "2080880": {
+    "EventTextForMap": {
+      "en": "\tSummon Swordhand of Night Jolán?\r",
+      "jp": "\t「夜の剣士、ヨラーン」を召喚しますか？\r",
+      "zh": "\t要召唤“黑夜剑士”约兰吗？\r"
+    }
+  },
+  "20208004": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@2008004?>\r",
+      "jp": "\t<?gdsparam@2008004?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@2008004?>。\r"
+    }
+  },
+  "20208005": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@2008005?>\r",
+      "jp": "\t<?gdsparam@2008005?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@2008005?>。\r"
+    }
+  },
+  "20208006": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@2008006?>\r",
+      "jp": "\t<?gdsparam@2008006?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@2008006?>。\r"
+    }
+  },
+  "20208013": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@2008013?>\r",
+      "jp": "\t<?gdsparam@2008013?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@2008013?>。\r"
+    }
+  },
+  "20208023": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@2008023?>\r",
+      "jp": "\t<?gdsparam@2008023?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@2008023?>。\r"
+    }
+  },
+  "20208036": {
+    "EventTextForMap": {
+      "en": "\tUsed <?gdsparam@2008036?>\r",
+      "jp": "\t<?gdsparam@2008036?>を使いました\r",
+      "zh": "\t已使用<?gdsparam@2008036?>。\r"
+    }
+  },
+  "": { "EventTextForMap": { "en": "", "jp": "", "zh": "" } }
+}

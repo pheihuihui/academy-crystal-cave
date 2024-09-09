@@ -1,0 +1,1813 @@
+{
+  "1": { "GR_Dialogues": { "en": "\tOK\r", "jp": "\tOK\r", "zh": "\t确定\r" } },
+  "2": {
+    "GR_Dialogues": { "en": "\tCANCEL\r", "jp": "\tCANCEL\r", "zh": "\t取消\r" }
+  },
+  "3": { "GR_Dialogues": { "en": "\tYES\r", "jp": "\tYES\r", "zh": "\t是\r" } },
+  "4": { "GR_Dialogues": { "en": "\tNO\r", "jp": "\tNO\r", "zh": "\t否\r" } },
+  "15": {
+    "GR_Dialogues": {
+      "en": "\tRETRY\r",
+      "jp": "\tリトライ\r",
+      "zh": "\t重试\r"
+    }
+  },
+  "16": {
+    "GR_Dialogues": {
+      "en": "\tCONTINUE\r",
+      "jp": "\t続ける\r",
+      "zh": "\t继续\r"
+    }
+  },
+  "17": {
+    "GR_Dialogues": {
+      "en": "\tRETURN TO TITLE\r",
+      "jp": "\tタイトル画面に戻る\r",
+      "zh": "\t返回标题画面\r"
+    }
+  },
+  "40200": {
+    "GR_Dialogues": {
+      "en": "\tInsufficient runes\r",
+      "jp": "\t必要なルーンが足りません\r",
+      "zh": "\t所需卢恩不足。\r"
+    }
+  },
+  "40201": {
+    "GR_Dialogues": {
+      "en": "\tAdditional items required\r",
+      "jp": "\t必要なアイテムが足りません\r",
+      "zh": "\t所需道具不足。\r"
+    }
+  },
+  "40202": {
+    "GR_Dialogues": {
+      "en": "\tInsufficient items/runes\r",
+      "jp": "\t必要なルーン、アイテムが足りません\r",
+      "zh": "\t所需卢恩、道具不足。\r"
+    }
+  },
+  "40300": {
+    "GR_Dialogues": {
+      "en": "\tReturning to default settings.\\nIs that okay?\r",
+      "jp": "\t設定を初期状態に戻します\\nよろしいですか？\r",
+      "zh": "\t配置将恢复为默认，\\n您确定吗？\r"
+    }
+  },
+  "40500": {
+    "GR_Dialogues": {
+      "en": "\tRestoring all default settings.\\nIs that okay?\r",
+      "jp": "\tすべての設定を初期状態に戻します\\nよろしいですか？\r",
+      "zh": "\t所有配置将恢复为默认，\\n您确定吗？\r"
+    }
+  },
+  "102000": {
+    "GR_Dialogues": {
+      "en": "\tLeaving <?itemName?>.\\nIs that okay?\r",
+      "jp": "\t<?itemName?> を置きます\\nよろしいですか？\r",
+      "zh": "\t将放置<?itemName?>，\\n您确定吗？\r"
+    }
+  },
+  "102001": {
+    "GR_Dialogues": {
+      "en": "\tDiscarding <?itemName?>.\\nIs that okay?\r",
+      "jp": "\t<?itemName?> を破棄します\\nよろしいですか？\r",
+      "zh": "\t将丢弃<?itemName?>，\\n您确定吗？\r"
+    }
+  },
+  "102002": {
+    "GR_Dialogues": {
+      "en": "\tLeaving all selected items.\\nIs that okay?\r",
+      "jp": "\t選択中のアイテムを全て置きます\\nよろしいですか？\r",
+      "zh": "\t将放置所有选择的道具，\\n您确定吗？\r"
+    }
+  },
+  "102003": {
+    "GR_Dialogues": {
+      "en": "\tDiscarding all selected items.\\nIs that okay?\r",
+      "jp": "\t選択中のアイテムを全て破棄します\\nよろしいですか？\r",
+      "zh": "\t将丢弃所有选择的道具，\\n您确定吗？\r"
+    }
+  },
+  "102004": {
+    "GR_Dialogues": {
+      "en": "\tOnly eight items can be left at once. If you leave any more items,\\nthe items you left earlier will be lost, starting with the oldest.\\nIs that okay?\r",
+      "jp": "\t置かれているアイテムが８個を超えてしまうため\\n古いアイテムから消えてしまいます\\nよろしいですか？\r",
+      "zh": "\t放置的道具已超过８个。\\n从最先放置的道具开始，道具将依序消失。\\n\\n您确定吗？\r"
+    }
+  },
+  "102005": {
+    "GR_Dialogues": {
+      "en": "\tAshes of War are applied to <?itemName?>.\\nIf this item is lost, its Ashes of War will be lost as well.\\nIs that okay?\r",
+      "jp": "\t<?itemName?>には戦灰が使用されています\\n置いたアイテムが失われると、戦灰も一緒に失われます\\nよろしいですか？\r",
+      "zh": "\t<?itemName?>已使用战灰。\\n放置此道具，在它消失后也会失去战灰。\\n\\n您确定吗？\r"
+    }
+  },
+  "102006": {
+    "GR_Dialogues": {
+      "en": "\tAshes of War are applied to <?itemName?>.\\nIf you discard this item, its Ashes of War will be lost.\\nIs that okay?\r",
+      "jp": "\t<?itemName?>には戦灰が使用されています\\nアイテムを破棄すると、戦灰も一緒に失われます\\nよろしいですか？\r",
+      "zh": "\t<?itemName?>已使用战灰。\\n丢弃此道具也会失去战灰。\\n\\n您确定吗？\r"
+    }
+  },
+  "102007": {
+    "GR_Dialogues": {
+      "en": "\tAshes of War are applied to an item you've selected.\\nIf that item is lost, its Ashes of War will be lost as well.\\nIs that okay?\r",
+      "jp": "\t選択中のアイテムに、戦灰が使用されたものが含まれています\\n置いたアイテムが失われると、戦灰も一緒に失われます\\nよろしいですか？\r",
+      "zh": "\t所选择的道具中包含已使用战灰的道具。\\n放置道具，在它消失后也会失去战灰。\\n\\n您确定吗？\r"
+    }
+  },
+  "102008": {
+    "GR_Dialogues": {
+      "en": "\tAshes of War are applied to an item you've selected.\\nIf you discard that item, its Ashes of War will be lost.\\nIs that okay?\r",
+      "jp": "\t選択中のアイテムに、戦灰が使用されたものが含まれています\\nアイテムを破棄すると、戦灰も一緒に失われます\\nよろしいですか？\r",
+      "zh": "\t所选择的道具中包含已使用战灰的道具。\\n丢弃道具也会失去战灰。\\n\\n您确定吗？\r"
+    }
+  },
+  "102010": {
+    "GR_Dialogues": {
+      "en": "\tThis action will exceed maximum runes.\\nRunes exceeding maximum will be lost.\\nUse regardless?\r",
+      "jp": "\t所持ルーンの上限を超えてしまいます\\n上限を超えたルーンは失われますが、それでも使用しますか？\r",
+      "zh": "\t将超过可持有卢恩的上限，\\n使用后超过上限的卢恩将会消失。\\n\\n确定要使用吗？\r"
+    }
+  },
+  "102020": {
+    "GR_Dialogues": {
+      "en": "\tCannot remove these Ashes of War as the maximum\\namount that you can hold has been reached\r",
+      "jp": "\t所持上限を超えてしまうため、この戦灰をはずせません\r",
+      "zh": "\t已超过持有上限，无法移除战灰。\r"
+    }
+  },
+  "102021": {
+    "GR_Dialogues": {
+      "en": "\tCurrently applied Ashes of War cannot be removed as the\\nmaximum amount that you can hold has been reached\r",
+      "jp": "\t所持上限を超えてしまうため、使用中の戦灰をはずせません\r",
+      "zh": "\t已超过持有上限，无法移除使用中的战灰。\r"
+    }
+  },
+  "103000": {
+    "GR_Dialogues": {
+      "en": "\tUnable to use this item effectively with present attributes\r",
+      "jp": "\t必要能力値が足りていません\\n本来の性能を発揮できません\r",
+      "zh": "\t必需能力值不足，\\n无法发挥原有性能。\r"
+    }
+  },
+  "103001": {
+    "GR_Dialogues": {
+      "en": "\tUnable to use this item effectively with present attributes,\\nunless wielded with both hands\r",
+      "jp": "\t必要能力値が足りていません\\n両手持ちの場合のみ、本来の性能を発揮します\r",
+      "zh": "\t必需能力值不足。\\n以双手共持，才能发挥原有性能。\r"
+    }
+  },
+  "103005": {
+    "GR_Dialogues": {
+      "en": "\tCannot summon this spirit at present level\r",
+      "jp": "\tこの霊体を召喚するには、レベルが足りていません\r",
+      "zh": "\t必需等级不足，无法召唤此灵魂。\r"
+    }
+  },
+  "103110": {
+    "GR_Dialogues": {
+      "en": "\tCannot equip talisman as an incompatible talisman is currently equipped\r",
+      "jp": "\t装備中の別のタリスマンと干渉するため\\nこのタリスマンを装備できません\r",
+      "zh": "\t此护符与其他装备中的护符冲突，\\n因此无法装备。\r"
+    }
+  },
+  "103130": {
+    "GR_Dialogues": {
+      "en": "\tCannot change equipment at this time\r",
+      "jp": "\t現在、装備を変更することはできません\r",
+      "zh": "\t目前不能更换装备。\r"
+    }
+  },
+  "103140": {
+    "GR_Dialogues": {
+      "en": "\tLoss of memory slots will result in removal of any excess sorceries or incantations.\\nIs that okay?\r",
+      "jp": "\t記憶スロットが減少するため\\nスロット数を超える魔術／祈祷を記憶からはずします\\nよろしいですか？\r",
+      "zh": "\t因为记忆空格减少，\\n超过可记忆上限的魔法、祷告将被移除。\\n\\n您确定吗？\r"
+    }
+  },
+  "103141": {
+    "GR_Dialogues": {
+      "en": "\tSorceries and incantations exceeding the number of memory slots have been removed\r",
+      "jp": "\tスロット数を超える魔術／祈祷を記憶からはずしました\r",
+      "zh": "\t超过可记忆上限的魔法、祷告，已被移除。\r"
+    }
+  },
+  "104000": {
+    "GR_Dialogues": {
+      "en": "\tMultiplayer password history\r",
+      "jp": "\tマルチプレイ合言葉履歴\r",
+      "zh": "\t多人联机游玩的暗号记录\r"
+    }
+  },
+  "104001": {
+    "GR_Dialogues": {
+      "en": "\tSelect password\r",
+      "jp": "\t設定したい合言葉を選んでください\r",
+      "zh": "\t请选择想要使用的暗号。\r"
+    }
+  },
+  "104002": {
+    "GR_Dialogues": {
+      "en": "\tGroup password history\r",
+      "jp": "\tグループ合言葉履歴\r",
+      "zh": "\t群组暗号记录\r"
+    }
+  },
+  "104003": {
+    "GR_Dialogues": {
+      "en": "\tSelect password\r",
+      "jp": "\t設定したい合言葉を選んでください\r",
+      "zh": "\t请选择想要使用的暗号。\r"
+    }
+  },
+  "104004": {
+    "GR_Dialogues": {
+      "en": "\tNo multiplayer password history\r",
+      "jp": "\tマルチプレイ合言葉履歴が存在しません\r",
+      "zh": "\t没有多人联机游玩的暗号记录。\r"
+    }
+  },
+  "104005": {
+    "GR_Dialogues": {
+      "en": "\tNo group password history\r",
+      "jp": "\tグループ合言葉履歴が存在しません\r",
+      "zh": "\t没有群组暗号的记录。\r"
+    }
+  },
+  "104010": {
+    "GR_Dialogues": {
+      "en": "\tUsing a Finger Remedy will send summoned spirits home.\\nIs that okay?\r",
+      "jp": "\t指薬を使用すると、召喚されている霊体は帰還します\\nよろしいですか？\r",
+      "zh": "\t使用指药之后，会遣返召唤中的灵魂。\\n\\n您确定吗？\r"
+    }
+  },
+  "104020": {
+    "GR_Dialogues": {
+      "en": "\tUsing a Finger Remedy will retract your summon sign.\\nIs that okay?\r",
+      "jp": "\t指薬を使用すると、召喚サインは取り消されます\\nよろしいですか？\r",
+      "zh": "\t使用指药之后，会抹除召唤记号。\\n\\n您确定吗？\r"
+    }
+  },
+  "110000": {
+    "GR_Dialogues": {
+      "en": "\tSave the game and return to title menu?\r",
+      "jp": "\tゲームを保存して、タイトル画面に戻ります\\nよろしいですか？\r",
+      "zh": "\t将保存游戏进度，返回标题画面。\\n\\n您确定吗？\r"
+    }
+  },
+  "110010": {
+    "GR_Dialogues": {
+      "en": "\tSave the game and return to the desktop?\r",
+      "jp": "\tゲームを保存して、デスクトップに戻ります\\nよろしいですか？\r",
+      "zh": "\t将保存游戏进度，返回桌面。\\n\\n您确定吗？\r"
+    }
+  },
+  "110100": {
+    "GR_Dialogues": {
+      "en": "\tEnabling ray tracing will lock performance settings\\nto prioritize quality.\r",
+      "jp": "\tレイトレーシングを有効にした場合\\nパフォーマンス設定は画質優先で固定されます\r",
+      "zh": "\t当开启光线追踪，\\n画面品质配置将固定为“画质优先”。\r"
+    }
+  },
+  "110316": {
+    "GR_Dialogues": {
+      "en": "\tReturn to the title menu to change language settings\r",
+      "jp": "\t言語を変更したい場合は\\nタイトル画面に戻って設定してください\r",
+      "zh": "\t如果想要改变显示语言，\\n请返回标题画面进行配置。\r"
+    }
+  },
+  "111100": {
+    "GR_Dialogues": {
+      "en": "\tSettings have been changed.\\nThis will revert to the previous setting in <?remainingSec?> seconds.\\nKeep current settings?\r",
+      "jp": "\t設定を変更しました\\n<?remainingSec?>秒後に元の設定に戻します\\n現在の設定を反映しますか？\r",
+      "zh": "\t配置已变更，\\n将在<?remainingSec?>秒后恢复原本的配置。\\n\\n要套用目前的配置吗？\r"
+    }
+  },
+  "111101": {
+    "GR_Dialogues": {
+      "en": "\tKeep current settings?\r",
+      "jp": "\t現在の設定を反映しますか？\r",
+      "zh": "\t要套用目前的配置吗？\r"
+    }
+  },
+  "111102": {
+    "GR_Dialogues": {
+      "en": "\tSome settings will only be applied after returning to title menu\r",
+      "jp": "\t一部の設定は、タイトル画面に戻るまで反映されません\r",
+      "zh": "\t部分配置必须在返回标题画面后才会套用。\r"
+    }
+  },
+  "111103": {
+    "GR_Dialogues": {
+      "en": "\tThis setting will be applied after restarting the game\r",
+      "jp": "\tこの項目はタイトルの再起動後に反映されます\r",
+      "zh": "\t此项目将在重新启动游戏后套用。\r"
+    }
+  },
+  "111104": {
+    "GR_Dialogues": {
+      "en": "\tSettings have been changed.\\nThis will revert to the previous setting in <?remainingSec?> seconds.\\nKeep current settings?\r",
+      "jp": "\t設定を変更しました\\n<?remainingSec?>秒後に元の設定に戻します\\n現在の設定を反映しますか？\r",
+      "zh": "\t配置已变更，\\n将在<?remainingSec?>秒后恢复原本的配置。\\n\\n要套用目前的配置吗？\r"
+    }
+  },
+  "111105": {
+    "GR_Dialogues": {
+      "en": "\tSome settings will only be applied after returning to title menu\r",
+      "jp": "\t一部の設定は、タイトル画面に戻るまで反映されません\r",
+      "zh": "\t部分配置必须在返回标题画面后才会套用。\r"
+    }
+  },
+  "111106": {
+    "GR_Dialogues": {
+      "en": "\tHDR turned off\r",
+      "jp": "\tHDRをOFFに変更しました\r",
+      "zh": "\t高动态范围成像（ＨＤＲ）已变更为关闭。\r"
+    }
+  },
+  "111107": {
+    "GR_Dialogues": {
+      "en": "\tHDR turned on\r",
+      "jp": "\tHDRをONに変更しました\r",
+      "zh": "\t高动态范围成像（ＨＤＲ）已变更为开启。\r"
+    }
+  },
+  "111108": {
+    "GR_Dialogues": {
+      "en": "\tThe frame rate limit setting will be changed, as the previous value is now invalid.\r",
+      "jp": "\tフレームレート制限の設定が不適切になったため\\n設定を変更します\r",
+      "zh": "\t目前的帧率上限为无效配置，\\n将进行自动调整。\r"
+    }
+  },
+  "111110": {
+    "GR_Dialogues": {
+      "en": "\tSome setting changes have not been applied.\\nTo apply these changes, return to the title menu.\r",
+      "jp": "\t変更が反映されていない設定があります\\n変更を反映するには、一度タイトル画面に戻ってください\r",
+      "zh": "\t有部分变更的配置尚未套用。\\n请返回标题画面，以套用配置。\r"
+    }
+  },
+  "211001": {
+    "GR_Dialogues": {
+      "en": "\tTraveling to <?placeName?>.\\nIs that okay?\r",
+      "jp": "\t<?placeName?>に移動します\\nよろしいですか？\r",
+      "zh": "\t将传送至<?placeName?>。\\n您确定吗？\r"
+    }
+  },
+  "211002": {
+    "GR_Dialogues": {
+      "en": "\tCannot travel to a site of grace from this location\r",
+      "jp": "\tこの場所では、祝福への移動は行えません\r",
+      "zh": "\t无法传送至此区域的赐福。\r"
+    }
+  },
+  "211003": {
+    "GR_Dialogues": {
+      "en": "\tCannot travel to a site of grace during multiplayer\r",
+      "jp": "\tマルチプレイ中は、祝福への移動は行えません\r",
+      "zh": "\t多人联机游玩时，无法使用赐福传送。\r"
+    }
+  },
+  "211004": {
+    "GR_Dialogues": {
+      "en": "\tYou cannot travel to a site of grace now\r",
+      "jp": "\t祝福への移動は行えません\r",
+      "zh": "\t无法使用赐福传送。\r"
+    }
+  },
+  "211005": {
+    "GR_Dialogues": {
+      "en": "\tYou have been trapped.\\nYou cannot travel to sites of grace until you rest at one.\r",
+      "jp": "\t罠にかかりました\\n祝福で一度休息するまで、祝福への移動は行えません\r",
+      "zh": "\t中了设下的陷阱。\\n在赐福休息过后，才能使用赐福传送。\r"
+    }
+  },
+  "211006": {
+    "GR_Dialogues": {
+      "en": "\tCannot travel to a site of grace right now\r",
+      "jp": "\t今は、祝福への移動は行えません\r",
+      "zh": "\t现在无法使用赐福传送。\r"
+    }
+  },
+  "211007": {
+    "GR_Dialogues": {
+      "en": "\tCannot travel to a site of grace while queued for combat.\r",
+      "jp": "\t闘技参戦中は、祝福への移動は行えません\r",
+      "zh": "\t参加竞技时，无法使用赐福传送。\r"
+    }
+  },
+  "211010": {
+    "GR_Dialogues": {
+      "en": "\tCannot travel to a site of grace right now\r",
+      "jp": "\t今は、祝福への移動は行えません\r",
+      "zh": "\t现在无法使用赐福传送。\r"
+    }
+  },
+  "211100": {
+    "GR_Dialogues": {
+      "en": "\tRemoving all markers placed.\\nIs that okay?\r",
+      "jp": "\t配置したマーカーを全て削除します\\nよろしいですか？\r",
+      "zh": "\t将移除所有放置的标记。\\n您确定吗？\r"
+    }
+  },
+  "211101": {
+    "GR_Dialogues": {
+      "en": "\tYou have placed the maximum number of markers and cannot place any more\r",
+      "jp": "\tマーカー配置の上限を超えるため\\nこれ以上マーカーを配置できません\r",
+      "zh": "\t已超过可放置的标记数上限，\\n无法再放置标记。\r"
+    }
+  },
+  "211200": {
+    "GR_Dialogues": {
+      "en": "\tCannot focus on your current location\r",
+      "jp": "\t現在地にフォーカスすることができません\r",
+      "zh": "\t无法执行“显示目前所在地”。\r"
+    }
+  },
+  "211300": {
+    "GR_Dialogues": {
+      "en": "\tYou have marked the maximum number of\\nsites of grace and cannot mark any more\r",
+      "jp": "\tマークできる上限を超えるため\\nこれ以上、祝福のマークはできません\r",
+      "zh": "\t已超过可标记的上限，无法再标记赐福。\r"
+    }
+  },
+  "211400": {
+    "GR_Dialogues": {
+      "en": "\tRemoving the marker from this site of grace.\\nIs that okay?\r",
+      "jp": "\tこの祝福のマークを解除します\\nよろしいですか？\r",
+      "zh": "\t将移除这个赐福的标记。\\n您确定吗？\r"
+    }
+  },
+  "212000": {
+    "GR_Dialogues": {
+      "en": "\tSpend <?demandSoul?> runes and level up?\r",
+      "jp": "\t<?demandSoul?>ルーンでレベルアップしますか？\r",
+      "zh": "\t要花费<?demandSoul?>卢恩升级吗？\r"
+    }
+  },
+  "212001": {
+    "GR_Dialogues": {
+      "en": "\tCanceling level up.\\nIs that okay?\r",
+      "jp": "\tレベルアップを中止します\\nよろしいですか？\r",
+      "zh": "\t将中止升级。\\n您确定吗？\r"
+    }
+  },
+  "212002": {
+    "GR_Dialogues": {
+      "en": "\tSelect at least one attribute to level up\r",
+      "jp": "\t成長させる能力値を１つ以上選択してください\r",
+      "zh": "\t请选择１个以上要成长的能力值。\r"
+    }
+  },
+  "212010": {
+    "GR_Dialogues": {
+      "en": "\tLevel at maximum.\\nCannot raise level any further.\r",
+      "jp": "\tレベルの上限です。これ以上レベルアップできません\r",
+      "zh": "\t已达等级上限，无法再升级。\r"
+    }
+  },
+  "212750": {
+    "GR_Dialogues": {
+      "en": "\tUndergo rebirth?\r",
+      "jp": "\t産まれ直しを実行しますか？\r",
+      "zh": "\t要重新诞生吗？\r"
+    }
+  },
+  "212751": {
+    "GR_Dialogues": {
+      "en": "\tCanceling rebirth\r",
+      "jp": "\t産まれ直しを中止します\r",
+      "zh": "\t停止重新诞生。\r"
+    }
+  },
+  "212752": {
+    "GR_Dialogues": {
+      "en": "\tReallocate attributes until you reach your original level\r",
+      "jp": "\t元のレベルに到達するまで、レベルアップしてください\r",
+      "zh": "\t请将能力值成长至原有等级。\r"
+    }
+  },
+  "212760": {
+    "GR_Dialogues": {
+      "en": "\tThis will reduce your memory slots.\\nLoss of memory slots will result in removal\\nof any excess sorceries or incantations.\\nUndergo rebirth?\r",
+      "jp": "\t記憶スロットが減少するため\\nスロット数を超える魔術／祈祷を記憶からはずします\\n産まれ直しを実行しますか？\r",
+      "zh": "\t因为记忆空格减少，\\n超过可记忆上限的魔法、祷告将被移除。\\n\\n确定要重新诞生吗？\r"
+    }
+  },
+  "212761": {
+    "GR_Dialogues": {
+      "en": "\tSorceries/incantations exceeding the number of memory slots\\nhave been removed\r",
+      "jp": "\tスロット数を超える魔術／祈祷を記憶からはずしました\r",
+      "zh": "\t超过可记忆上限的魔法、祷告，已被移除。\r"
+    }
+  },
+  "214000": {
+    "GR_Dialogues": {
+      "en": "\tRemove these Ashes of War from <?itemNameBeforeForge?> and\\napply them to <?itemNameAfterForge?>?\r",
+      "jp": "\tこの戦灰を<?itemNameBeforeForge?>からはずし\\n<?itemNameAfterForge?>に使用しますか？\r",
+      "zh": "\t要将战灰\\n从<?itemNameBeforeForge?>上移除，\\n改用在<?itemNameAfterForge?>上吗？\r"
+    }
+  },
+  "215000": {
+    "GR_Dialogues": {
+      "en": "\tIf you change the equipped Great Rune, the\\ncurrent Great Rune's effects will be removed.\\nIs that okay?\r",
+      "jp": "\t宿す大ルーンを変更すると\\n発動中の大ルーンの効果は解除されます\\nよろしいですか？\r",
+      "zh": "\t变更寄宿身上的大卢恩，\\n会解除大卢恩目前产生的效用。\\n\\n您确定吗？\r"
+    }
+  },
+  "216000": {
+    "GR_Dialogues": {
+      "en": "\tStrengthen <?itemNameBeforeForge?> into\\n<?itemNameAfterForge?>?\r",
+      "jp": "\t<?itemNameBeforeForge?>を\\n<?itemNameAfterForge?>に強化しますか？\r",
+      "zh": "\t要将<?itemNameBeforeForge?>\\n强化成<?itemNameAfterForge?>吗？\r"
+    }
+  },
+  "216010": {
+    "GR_Dialogues": {
+      "en": "\tThis cannot be strengthened, as you already have\\n<?itemNameAfterForge?>\r",
+      "jp": "\t強化後の<?itemNameAfterForge?>を\\nすでに所持しているため、強化できません\r",
+      "zh": "\t已经持有强化后的物品：\\n<?itemNameAfterForge?>\\n\\n无法进行强化。\r"
+    }
+  },
+  "221000": {
+    "GR_Dialogues": {
+      "en": "\tStrengthen <?itemNameBeforeForge?>\\nto make <?itemNameAfterForge?>?\r",
+      "jp": "\t<?itemNameBeforeForge?>を\\n<?itemNameAfterForge?>に強化しますか？\r",
+      "zh": "\t要将<?itemNameBeforeForge?>\\n强化成<?itemNameAfterForge?>吗？\r"
+    }
+  },
+  "221011": {
+    "GR_Dialogues": {
+      "en": "\tArmament cannot be strengthened any further at the smithing table\r",
+      "jp": "\t鍛冶台で強化できる上限に達しました\\nこの武器をこれ以上強化できません\r",
+      "zh": "\t在锻造台能执行的强化已达上限。\\n这把武器无法再继续强化。\r"
+    }
+  },
+  "225000": {
+    "GR_Dialogues": {
+      "en": "\tOffer <?demandSoul?> Dragon Heart(s)\\nto make <?itemName?> thine own\r",
+      "jp": "\t竜の心臓<?demandSoul?>個を供物とし\\n<?itemName?>を我がものとします\r",
+      "zh": "\t把<?demandSoul?>颗龙心脏当作供品，\\n将<?itemName?>化为己有。\r"
+    }
+  },
+  "225001": {
+    "GR_Dialogues": {
+      "en": "\tOffer Heart of Bayle\\nto make <?itemName?> thine own\r",
+      "jp": "\tベールの心臓を供物とし\\n<?itemName?>を我がものとします\r",
+      "zh": "\t把贝勒的心脏当作供品，\\n将<?itemName?>化为己有。\r"
+    }
+  },
+  "225020": {
+    "GR_Dialogues": {
+      "en": "\tCannot receive.\\nYou have reached the maximum capacity of your inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため、我がものにできません\r",
+      "zh": "\t已超过持有与收纳上限，\\n无法将力量化为己有。\r"
+    }
+  },
+  "225100": {
+    "GR_Dialogues": {
+      "en": "\tThis strength is already thine own\r",
+      "jp": "\tこの力は、既に我がものとしています\r",
+      "zh": "\t已经将此力量化为己有。\r"
+    }
+  },
+  "226000": {
+    "GR_Dialogues": {
+      "en": "\tGive <?demandSoul?> starlight shards\\nto receive <?itemName?>\r",
+      "jp": "\t星光の欠片<?demandSoul?>個を渡し\\n<?itemName?>を手に入れます\r",
+      "zh": "\t交出<?demandSoul?>片星光碎片，\\n取得<?itemName?>。\r"
+    }
+  },
+  "226020": {
+    "GR_Dialogues": {
+      "en": "\tCannot receive.\\nYou have reached the maximum capacity of your inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため、手に入れられません\r",
+      "zh": "\t已超过持有与收纳上限，无法取得。\r"
+    }
+  },
+  "226100": {
+    "GR_Dialogues": {
+      "en": "\tThis puppet is already yours\r",
+      "jp": "\tこの傀儡は、既に手に入れています\r",
+      "zh": "\t已经拥有此傀儡。\r"
+    }
+  },
+  "227000": {
+    "GR_Dialogues": {
+      "en": "\tDuplicate <?itemName?>\r",
+      "jp": "\t<?itemName?>を複製します\r",
+      "zh": "\t开始复制<?itemName?>。\r"
+    }
+  },
+  "227020": {
+    "GR_Dialogues": {
+      "en": "\tCannot duplicate.\\nYou have reached the maximum capacity of your inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため、複製できません\r",
+      "zh": "\t已超过持有与收纳上限，无法复制。\r"
+    }
+  },
+  "227100": {
+    "GR_Dialogues": {
+      "en": "\tCannot further duplicate this Ash of War\r",
+      "jp": "\tこの戦灰は、これ以上複製できません\r",
+      "zh": "\t无法再复制此战灰。\r"
+    }
+  },
+  "230000": {
+    "GR_Dialogues": {
+      "en": "\tReceive <?itemName?>\r",
+      "jp": "\t<?itemName?>を手に入れます\r",
+      "zh": "\t取得<?itemName?>。\r"
+    }
+  },
+  "230010": {
+    "GR_Dialogues": {
+      "en": "\tItems exceeding maximum have been placed in chest\r",
+      "jp": "\t所持上限を超えたアイテムは、木箱に格納されました\r",
+      "zh": "\t超过持有上限的道具已被收纳至木箱。\r"
+    }
+  },
+  "230020": {
+    "GR_Dialogues": {
+      "en": "\tCannot receive.\\nThe number you would receive would exceed the maximum\\nable to be held in inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため、手に入れられません\r",
+      "zh": "\t已超过持有与收纳上限，无法取得。\r"
+    }
+  },
+  "230100": {
+    "GR_Dialogues": {
+      "en": "\tDuplicate <?itemName?>\r",
+      "jp": "\t<?itemName?>を複製します\r",
+      "zh": "\t开始复制<?itemName?>。\r"
+    }
+  },
+  "230110": {
+    "GR_Dialogues": {
+      "en": "\tItems exceeding maximum have been placed in chest\r",
+      "jp": "\t所持上限を超えたアイテムは、木箱に格納されました\r",
+      "zh": "\t超过持有上限的道具已被收纳至木箱。\r"
+    }
+  },
+  "230120": {
+    "GR_Dialogues": {
+      "en": "\tCannot duplicate.\\nThe number you would receive would exceed the maximum\\nable to be held in inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため、複製できません\r",
+      "zh": "\t已超过持有与收纳上限，无法复制。\r"
+    }
+  },
+  "230150": {
+    "GR_Dialogues": {
+      "en": "\tCannot further duplicate this remembrance \r",
+      "jp": "\tこの追憶は、これ以上複製できません\r",
+      "zh": "\t无法再复制此追忆。\r"
+    }
+  },
+  "231000": {
+    "GR_Dialogues": {
+      "en": "\tPurchase <?itemName?>\\nfor <?demandSoul?> runes\r",
+      "jp": "\t<?itemName?>を\\n<?demandSoul?>ルーンで購入します\r",
+      "zh": "\t将以<?demandSoul?>卢恩\\n购买<?itemName?>。\r"
+    }
+  },
+  "231010": {
+    "GR_Dialogues": {
+      "en": "\tItems exceeding maximum have been placed in chest\r",
+      "jp": "\t所持上限を超えたアイテムは、木箱に格納されました\r",
+      "zh": "\t超过持有上限的道具已被收纳至木箱。\r"
+    }
+  },
+  "231020": {
+    "GR_Dialogues": {
+      "en": "\tCannot purchase.\\nThe number you wish to buy would exceed the maximum\\nable to be held in inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため、購入できません\r",
+      "zh": "\t已超过持有与收纳上限，无法购买。\r"
+    }
+  },
+  "231100": {
+    "GR_Dialogues": {
+      "en": "\tOut of stock.\\nCannot purchase anymore.\r",
+      "jp": "\t限定数以上は購入できません\r",
+      "zh": "\t已超过限定数量上限，无法购买。\r"
+    }
+  },
+  "231500": {
+    "GR_Dialogues": {
+      "en": "\tReceive <?itemName?>\\nfor <?demandSoul?> runes\r",
+      "jp": "\t<?itemName?>を\\n<?demandSoul?>ルーンで手に入れます\r",
+      "zh": "\t将以<?demandSoul?>卢恩\\n获得<?itemName?>。\r"
+    }
+  },
+  "231510": {
+    "GR_Dialogues": {
+      "en": "\tItems exceeding maximum have been placed in chest\r",
+      "jp": "\t所持上限を超えたアイテムは、木箱に格納されました\r",
+      "zh": "\t超过持有上限的道具已被收纳至木箱。\r"
+    }
+  },
+  "231520": {
+    "GR_Dialogues": {
+      "en": "\tCannot receive.\\nYou have reached the maximum capacity of your inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため、手に入れられません\r",
+      "zh": "\t已超过持有与收纳上限，无法取得。\r"
+    }
+  },
+  "231550": {
+    "GR_Dialogues": {
+      "en": "\tYou cannot receive duplicates of champion's equipment\r",
+      "jp": "\t英雄の防具は、複数手に入れられません\r",
+      "zh": "\t无法获得复数个英雄的防具。\r"
+    }
+  },
+  "232000": {
+    "GR_Dialogues": {
+      "en": "\tSell <?itemName?>\\nfor <?sellSouls?> runes\r",
+      "jp": "\t<?itemName?>を\\n<?sellSouls?>ルーンで売却します\r",
+      "zh": "\t将以<?sellSouls?>卢恩\\n卖出<?itemName?>。\r"
+    }
+  },
+  "232002": {
+    "GR_Dialogues": {
+      "en": "\tCannot sell currently equipped items\r",
+      "jp": "\t装備しているアイテムは売却できません\r",
+      "zh": "\t装备中的道具无法卖出。\r"
+    }
+  },
+  "232003": {
+    "GR_Dialogues": {
+      "en": "\tCannot sell this item\r",
+      "jp": "\tこのアイテムは売却できません\r",
+      "zh": "\t无法卖出此道具。\r"
+    }
+  },
+  "232004": {
+    "GR_Dialogues": {
+      "en": "\tAshes of War are applied to <?itemName?> .\\nIf you sell this item, its Ashes of War will be lost.\\nIs that okay?\r",
+      "jp": "\t<?itemName?> には戦灰が使用されています\\n売却すると、使用されている戦灰は失われます\\nよろしいですか？\r",
+      "zh": "\t<?itemName?> 已使用战灰。\\n卖出后也会失去战灰。\\n\\n您确定吗？\r"
+    }
+  },
+  "235000": {
+    "GR_Dialogues": {
+      "en": "\tAllocate?\r",
+      "jp": "\t振り分けを行いますか？\r",
+      "zh": "\t要开始分配吗？\r"
+    }
+  },
+  "235001": {
+    "GR_Dialogues": {
+      "en": "\tCanceling allocation.\\nIs that okay?\r",
+      "jp": "\t振り分けを中止します\\nよろしいですか？\r",
+      "zh": "\t将中止分配。\\n您确定吗？\r"
+    }
+  },
+  "236001": {
+    "GR_Dialogues": {
+      "en": "\tCraft <?itemName?>\r",
+      "jp": "\t<?itemName?>を製作します\r",
+      "zh": "\t开始制作<?itemName?>。\r"
+    }
+  },
+  "236010": {
+    "GR_Dialogues": {
+      "en": "\tCrafted items exceeding maximum have been placed in chest\r",
+      "jp": "\t所持上限を超えるため\\n製作したアイテムは木箱に格納されました\r",
+      "zh": "\t超过持有上限，\\n制作的道具已收纳至木箱。\r"
+    }
+  },
+  "236011": {
+    "GR_Dialogues": {
+      "en": "\tCannot craft this item.\\nThe number you wish to craft would exceed the maximum\\nable to be held in inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため\\nアイテムを製作できません\r",
+      "zh": "\t超过持有与收纳上限，\\n无法制作道具。\r"
+    }
+  },
+  "236020": {
+    "GR_Dialogues": {
+      "en": "\tCannot craft this item as you do not have enough cracked pots\r",
+      "jp": "\tヒビ壺の所持数を超えてしまうため\\nアイテムを製作できません\r",
+      "zh": "\t制作的数量超过持有的龟裂壶数量，\\n无法制作道具。\r"
+    }
+  },
+  "236021": {
+    "GR_Dialogues": {
+      "en": "\tCannot craft this item as you do not have enough perfume bottles\r",
+      "jp": "\t調香瓶の所持数を超えてしまうため\\nアイテムを製作できません\r",
+      "zh": "\t制作的数量超过持有的调香瓶数量，\\n无法制作道具。\r"
+    }
+  },
+  "236030": {
+    "GR_Dialogues": {
+      "en": "\tCannot craft this item as you do not have enough ritual pots\r",
+      "jp": "\t儀式壺の所持数を超えてしまうため\\nアイテムを製作できません\r",
+      "zh": "\t制作的数量超过持有的仪式壶数量，\\n无法制作道具。\r"
+    }
+  },
+  "236031": {
+    "GR_Dialogues": {
+      "en": "\tCannot craft this item as you do not have enough hefty cracked pots\r",
+      "jp": "\tヒビ大壺の所持数を超えてしまうため\\nアイテムを製作できません\r",
+      "zh": "\t制作的数量超过持有的大龟裂壶数量，\\n无法制作道具。\r"
+    }
+  },
+  "236050": {
+    "GR_Dialogues": {
+      "en": "\tCannot craft this item as you do not have any cracked pots\r",
+      "jp": "\tヒビ壺を所持していないため\\nアイテムを製作できません \r",
+      "zh": "\t您未持有龟裂壶，\\n无法制作道具。\r"
+    }
+  },
+  "236055": {
+    "GR_Dialogues": {
+      "en": "\tCannot craft this item as you do not have any ritual pots\r",
+      "jp": "\t儀式壺を所持していないため\\nアイテムを製作できません \r",
+      "zh": "\t您未持有仪式壶，\\n无法制作道具。\r"
+    }
+  },
+  "236060": {
+    "GR_Dialogues": {
+      "en": "\tCannot craft this item as you do not have any perfume bottles\r",
+      "jp": "\t調香瓶を所持していないため\\nアイテムを製作できません\r",
+      "zh": "\t您未持有调香瓶，\\n无法制作道具。\r"
+    }
+  },
+  "236061": {
+    "GR_Dialogues": {
+      "en": "\tCannot craft this item as you do not have any hefty cracked pots\r",
+      "jp": "\tヒビ大壺を所持していないため\\nアイテムを製作できません\r",
+      "zh": "\t您未持有大龟裂壶，\\n无法制作道具。\r"
+    }
+  },
+  "236201": {
+    "GR_Dialogues": {
+      "en": "\tSpend remembrance and <?demandSoul?> runes\\nto receive <?itemName?>\r",
+      "jp": "\t追憶と<?demandSoul?>ルーンを消費し\\n<?itemName?>を得ます\r",
+      "zh": "\t将消耗<?demandSoul?>卢恩与追忆，\\n获得<?itemName?>。\r"
+    }
+  },
+  "236202": {
+    "GR_Dialogues": {
+      "en": "\tAcquire <?itemName?> in exchange for remembrance\r",
+      "jp": "\t追憶と引き換えに、<?itemName?>を得ます\r",
+      "zh": "\t将用追忆交换<?itemName?>。\r"
+    }
+  },
+  "236210": {
+    "GR_Dialogues": {
+      "en": "\tItems exceeding maximum have been placed in chest\r",
+      "jp": "\t所持上限を超えたアイテムは、木箱に格納されました\r",
+      "zh": "\t超过持有上限的道具已被收纳至木箱。\r"
+    }
+  },
+  "236211": {
+    "GR_Dialogues": {
+      "en": "\tYou cannot receive this power.\\nThe number you would receive would exceed the maximum\\nable to be held in inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため、力を得ることができません\r",
+      "zh": "\t超过持有与收纳上限，\\n无法获得力量。\r"
+    }
+  },
+  "236220": {
+    "GR_Dialogues": {
+      "en": "\tYou cannot receive any more power from this remembrance,\\nas you have reached its maximum\r",
+      "jp": "\t上限数を超えたため、これ以上追憶から力を得ることができません\r",
+      "zh": "\t超过数量上限，无法再从追忆获得力量。\r"
+    }
+  },
+  "236401": {
+    "GR_Dialogues": {
+      "en": "\tAlter to <?itemName?>\r",
+      "jp": "\t<?itemName?>に調整します\r",
+      "zh": "\t将修改成<?itemName?>。\r"
+    }
+  },
+  "236402": {
+    "GR_Dialogues": {
+      "en": "\tUse <?demandSoul?> runes to alter to <?itemName?>\r",
+      "jp": "\t<?demandSoul?>ルーンを消費し\\n<?itemName?>に調整します\r",
+      "zh": "\t将花费<?demandSoul?>卢恩，\\n修改成<?itemName?>。\r"
+    }
+  },
+  "236410": {
+    "GR_Dialogues": {
+      "en": "\tAltered items exceeding maximum have been placed in chest\r",
+      "jp": "\t所持上限を超えるため\\n調整したアイテムは木箱に格納されました\r",
+      "zh": "\t已超过持有上限，\\n修改后的道具已被收纳至木箱。\r"
+    }
+  },
+  "236411": {
+    "GR_Dialogues": {
+      "en": "\tYou cannot alter these items.\\nThe number you would receive would exceed the maximum\\nable to be held in inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため\\nアイテムを調整できません\r",
+      "zh": "\t已超过持有与收纳上限，\\n无法修改。\r"
+    }
+  },
+  "236420": {
+    "GR_Dialogues": {
+      "en": "\tYou cannot alter any more of these items,\\nas you have reached the maximum\r",
+      "jp": "\t上限数を超えたため、調整できません\r",
+      "zh": "\t已超过上限，无法修改。\r"
+    }
+  },
+  "237000": {
+    "GR_Dialogues": {
+      "en": "\tFlask of Crimson Tears\r",
+      "jp": "\t緋雫の聖杯瓶\r",
+      "zh": "\t红露滴圣杯瓶\r"
+    }
+  },
+  "237001": {
+    "GR_Dialogues": {
+      "en": "\tFlask of Cerulean Tears\r",
+      "jp": "\t青雫の聖杯瓶\r",
+      "zh": "\t蓝露滴圣杯瓶\r"
+    }
+  },
+  "241000": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Limgrave, West)\r",
+      "jp": "\t地図断片を入手しました\\n（リムグレイブ西部）\r",
+      "zh": "\t获得地图碎片：\\n宁姆格福（西）\r"
+    }
+  },
+  "241001": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Weeping Peninsula)\r",
+      "jp": "\t地図断片を入手しました\\n（啜り泣きの半島）\r",
+      "zh": "\t获得地图碎片：\\n啜泣半岛\r"
+    }
+  },
+  "241002": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Limgrave, East)\r",
+      "jp": "\t地図断片を入手しました\\n（リムグレイブ東部）\r",
+      "zh": "\t获得地图碎片：\\n宁姆格福（东）\r"
+    }
+  },
+  "241003": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Liurnia, East)\r",
+      "jp": "\t地図断片を入手しました\\n（リエーニエ東部）\r",
+      "zh": "\t获得地图碎片：\\n利耶尼亚（东）\r"
+    }
+  },
+  "241004": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Liurnia, North)\r",
+      "jp": "\t地図断片を入手しました\\n（リエーニエ北部）\r",
+      "zh": "\t获得地图碎片：\\n利耶尼亚（北）\r"
+    }
+  },
+  "241005": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Liurnia, West)\r",
+      "jp": "\t地図断片を入手しました\\n（リエーニエ西部）\r",
+      "zh": "\t获得地图碎片：\\n利耶尼亚（西）\r"
+    }
+  },
+  "241006": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Altus Plateau)\r",
+      "jp": "\t地図断片を入手しました\\n（アルター高原）\r",
+      "zh": "\t获得地图碎片：\\n亚坛高原\r"
+    }
+  },
+  "241007": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Leyndell, Royal Capital)\r",
+      "jp": "\t地図断片を入手しました\\n（王都ローデイル）\r",
+      "zh": "\t获得地图碎片：\\n王城罗德尔\r"
+    }
+  },
+  "241008": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Mt. Gelmir)\r",
+      "jp": "\t地図断片を入手しました\\n（ゲルミア火山）\r",
+      "zh": "\t获得地图碎片：\\n格密尔火山\r"
+    }
+  },
+  "241009": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Caelid)\r",
+      "jp": "\t地図断片を入手しました\\n（ケイリッド）\r",
+      "zh": "\t获得地图碎片：\\n盖利德\r"
+    }
+  },
+  "241010": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Dragonbarrow)\r",
+      "jp": "\t地図断片を入手しました\\n（竜塚）\r",
+      "zh": "\t获得地图碎片：\\n龙墓\r"
+    }
+  },
+  "241011": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Mountaintops of the Giants, West)\r",
+      "jp": "\t地図断片を入手しました\\n（巨人山嶺西部）\r",
+      "zh": "\t获得地图碎片：\\n巨人山顶（西）\r"
+    }
+  },
+  "241012": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Mountaintops of the Giants, East)\r",
+      "jp": "\t地図断片を入手しました\\n（巨人山嶺東部）\r",
+      "zh": "\t获得地图碎片：\\n巨人山顶（东）\r"
+    }
+  },
+  "241013": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Consecrated Snowfield)\r",
+      "jp": "\t地図断片を入手しました\\n（聖別雪原）\r",
+      "zh": "\t获得地图碎片：\\n化圣雪原\r"
+    }
+  },
+  "241014": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found\r",
+      "jp": "\t新しい地図が追加されました\\n＜ 地図 雪山4 ＞\r"
+    }
+  },
+  "241100": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Ainsel River)\r",
+      "jp": "\t地図断片を入手しました\\n（エインセル河）\r",
+      "zh": "\t获得地图碎片：\\n安瑟尔河\r"
+    }
+  },
+  "241101": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Lake of Rot)\r",
+      "jp": "\t地図断片を入手しました\\n（腐れ湖）\r",
+      "zh": "\t获得地图碎片：\\n腐败湖\r"
+    }
+  },
+  "241102": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Mohgwyn Palace)\r",
+      "jp": "\t地図断片を入手しました\\n（モーグウィン王朝）\r",
+      "zh": "\t获得地图碎片：\\n蒙格温王朝\r"
+    }
+  },
+  "241103": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Siofra River)\r",
+      "jp": "\t地図断片を入手しました\\n（シーフラ河）\r",
+      "zh": "\t获得地图碎片：\\n希芙拉河\r"
+    }
+  },
+  "241104": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Deeproot Depths)\r",
+      "jp": "\t地図断片を入手しました\\n（深き根の底）\r",
+      "zh": "\t获得地图碎片：\\n深根底层\r"
+    }
+  },
+  "241105": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found\r",
+      "jp": "\t新しい地図が追加されました\\n＜ 地図 地下王都2 ＞\r"
+    }
+  },
+  "241200": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Gravesite Plain)\r",
+      "jp": "\t地図断片を入手しました\\n（墓地平原）\r",
+      "zh": "\t获得地图碎片：\\n墓地平原\r"
+    }
+  },
+  "241201": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Scadu Altus)\r",
+      "jp": "\t地図断片を入手しました\\n（影のアルター）\r",
+      "zh": "\t获得地图碎片：\\n幽影亚坛\r"
+    }
+  },
+  "241202": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Southern Shore)\r",
+      "jp": "\t地図断片を入手しました\\n（南海岸）\r",
+      "zh": "\t获得地图碎片：\\n南方海岸\r"
+    }
+  },
+  "241203": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Rauh Ruins)\r",
+      "jp": "\t地図断片を入手しました\\n（ラウフの古遺跡）\r",
+      "zh": "\t获得地图碎片：\\n劳弗古遗迹\r"
+    }
+  },
+  "241204": {
+    "GR_Dialogues": {
+      "en": "\tA new map has been found.\\n(Abyss)\r",
+      "jp": "\t地図断片を入手しました\\n（奈落）\r",
+      "zh": "\t获得地图碎片：\\n谷底\r"
+    }
+  },
+  "251020": {
+    "GR_Dialogues": {
+      "en": "\tCannot store currently equipped items\r",
+      "jp": "\t装備しているアイテムは格納できません\r",
+      "zh": "\t装备中的道具无法收纳。\r"
+    }
+  },
+  "251021": {
+    "GR_Dialogues": {
+      "en": "\tSelected item cannot be placed in storage\r",
+      "jp": "\tこのアイテムは格納できません\r",
+      "zh": "\t无法收纳此道具。\r"
+    }
+  },
+  "251030": {
+    "GR_Dialogues": {
+      "en": "\tCannot store item.\\nStorage is full.\r",
+      "jp": "\t格納上限を超えてしまうため、格納できません\r",
+      "zh": "\t已超过收纳上限，无法收纳。\r"
+    }
+  },
+  "251031": {
+    "GR_Dialogues": {
+      "en": "\tCannot retrieve item.\\nInventory is full.\r",
+      "jp": "\t所持上限を超えてしまうため、取り出せません\r",
+      "zh": "\t已超过持有上限，无法取出。\r"
+    }
+  },
+  "261000": {
+    "GR_Dialogues": {
+      "en": "\tInsufficient memory slots\r",
+      "jp": "\t記憶スロットがありません\r",
+      "zh": "\t您没有记忆空格。\r"
+    }
+  },
+  "261001": {
+    "GR_Dialogues": {
+      "en": "\tInsufficient free slots\r",
+      "jp": "\t空きスロットが足りません\r",
+      "zh": "\t可用空格不足。\r"
+    }
+  },
+  "261002": {
+    "GR_Dialogues": {
+      "en": "\tNo memory slots\r",
+      "jp": "\t記憶スロットがありません\r",
+      "zh": "\t您没有记忆空格。\r"
+    }
+  },
+  "261003": {
+    "GR_Dialogues": {
+      "en": "\tCannot memorize duplicate sorceries or incantations\r",
+      "jp": "\t同じ魔術／祈祷は同時に記憶できません\r",
+      "zh": "\t无法重复记忆相同的魔法、祷告。\r"
+    }
+  },
+  "261004": {
+    "GR_Dialogues": {
+      "en": "\tCannot use this sorcery or incantation with present attributes\r",
+      "jp": "\tこの魔術／祈祷を使用するには、必要能力値が足りていません\r",
+      "zh": "\t必需能力值不足，无法使用此魔法、祷告。\r"
+    }
+  },
+  "280001": {
+    "GR_Dialogues": {
+      "en": "\tRestoring all default settings.\\nIs that okay?\r",
+      "jp": "\tすべての設定を初期状態に戻します\\nよろしいですか？\r",
+      "zh": "\t所有配置将恢复默认。\\n您确定吗？\r"
+    }
+  },
+  "281000": {
+    "GR_Dialogues": {
+      "en": "\tCannot set duplicate items\r",
+      "jp": "\t重複してセットすることはできません\r",
+      "zh": "\t无法选择相同材料。\r"
+    }
+  },
+  "290001": {
+    "GR_Dialogues": {
+      "en": "\tAbandon this character and return to character base selection?\r",
+      "jp": "\t作成中のキャラクターを破棄して\\nキャラクターベース選択に戻りますか？\r",
+      "zh": "\t要放弃创建中的角色，\\n返回选择角色雏形的画面吗？\r"
+    }
+  },
+  "290002": {
+    "GR_Dialogues": {
+      "en": "\tStarting game with this character.\\nIs that okay?\r",
+      "jp": "\tこのキャラクターでゲームをはじめます\\nよろしいですか？\r",
+      "zh": "\t将以此角色开始游戏，\\n您确定吗？\r"
+    }
+  },
+  "290003": {
+    "GR_Dialogues": {
+      "en": "\tA name is required.\\n\\nEnter a name to finish creating this character.\r",
+      "jp": "\t名前が入力されていません\\n\\nキャラクターの作成を完了するには\\n名前の入力が必要です\r",
+      "zh": "\t您尚未输入名字，\\n请输入名字以完成角色创建。\r"
+    }
+  },
+  "290004": {
+    "GR_Dialogues": {
+      "en": "\tFailed to save character information\r",
+      "jp": "\tキャラクター情報の保存に失敗しました\r",
+      "zh": "\t角色数据保存失败。\r"
+    }
+  },
+  "290011": {
+    "GR_Dialogues": {
+      "en": "\tChanges will be discarded.\\nIs that okay?\r",
+      "jp": "\t編集中の内容を破棄します\\nよろしいですか？\r",
+      "zh": "\t将放弃所编辑的内容，\\n您确定吗？\r"
+    }
+  },
+  "290020": {
+    "GR_Dialogues": {
+      "en": "\tSelected spelling contained inappropriate language\\nand could not be used as a character name.\\n\\nEnter another name.\r",
+      "jp": "\t入力された名前は不適切な文字列が含まれているため\\nキャラクターの名前に利用できません\\n\\n別の名前を入力してください\r",
+      "zh": "\t输入的名字包含不恰当的文字，\\n无法作为角色名字使用。\\n\\n请输入其他名字。\r"
+    }
+  },
+  "290030": {
+    "GR_Dialogues": {
+      "en": "\tChanging gender will reset certain changes.\\n\\nOkay?\r",
+      "jp": "\t性別を変更すると\\n一部の編集情報が失われます\\n\\nよろしいですか？\r",
+      "zh": "\t变更性别后，\\n会失去部分已编辑的内容。\\n\\n您确定吗？\r"
+    }
+  },
+  "290040": {
+    "GR_Dialogues": {
+      "en": "\tChanging appearance will mean losing any unsaved changes.\\n\\nIs that okay?\r",
+      "jp": "\t外見を変更すると\\n保存していない外見は破棄されます\\n\\nよろしいですか？\r",
+      "zh": "\t改变外貌后，\\n会失去没有保存到的外貌配置。\\n\\n您确定吗？\r"
+    }
+  },
+  "290101": {
+    "GR_Dialogues": {
+      "en": "\tDiscard changes and stop applying cosmetics?\r",
+      "jp": "\t編集中の内容を破棄して、化粧を終了しますか？\r",
+      "zh": "\t要放弃所编辑的内容，结束化妆吗？\r"
+    }
+  },
+  "290102": {
+    "GR_Dialogues": {
+      "en": "\tFinish applying cosmetics and proceed with this character?\r",
+      "jp": "\t化粧を完了し、このキャラクターとなります\\nよろしいですか？\r",
+      "zh": "\t化妆结束，将变成这个角色。\\n\\n您确定吗？\r"
+    }
+  },
+  "290103": {
+    "GR_Dialogues": {
+      "en": "\tA name is required.\\nEnter a name to finish applying cosmetics.\r",
+      "jp": "\t名前が入力されていません\\n化粧を完了するには、名前の入力が必要です\r",
+      "zh": "\t您尚未输入名字，\\n请输入名字以结束化妆。\r"
+    }
+  },
+  "290121": {
+    "GR_Dialogues": {
+      "en": "\tDiscard changes and stop applying cosmetics?\r",
+      "jp": "\t編集中の内容を破棄して、化粧を終了しますか？\r",
+      "zh": "\t要放弃所编辑的内容，结束化妆吗？\r"
+    }
+  },
+  "290122": {
+    "GR_Dialogues": {
+      "en": "\tFinish applying cosmetics and proceed with this character?\r",
+      "jp": "\t化粧を完了し、このキャラクターとなります\\nよろしいですか？\r",
+      "zh": "\t化妆结束，将变成这个角色。\\n\\n您确定吗？\r"
+    }
+  },
+  "290123": {
+    "GR_Dialogues": {
+      "en": "\tA name is required.\\nEnter a name to finish applying cosmetics.\r",
+      "jp": "\t名前が入力されていません\\n化粧を完了するには、名前の入力が必要です\r",
+      "zh": "\t您尚未输入名字，\\n请输入名字以结束化妆。\r"
+    }
+  },
+  "290200": {
+    "GR_Dialogues": {
+      "en": "\tSave present appearance as a favorite?\r",
+      "jp": "\t現状の外見を保存しますか？\r",
+      "zh": "\t要保存现在的外貌配置吗？\r"
+    }
+  },
+  "290201": {
+    "GR_Dialogues": {
+      "en": "\tOverwrite favorite slot and save present appearance?\r",
+      "jp": "\t現状の外見を上書きして保存しますか？\r",
+      "zh": "\t要覆盖原有的外貌配置吗？\r"
+    }
+  },
+  "290202": {
+    "GR_Dialogues": {
+      "en": "\tDiscard present changes and load favorite?\r",
+      "jp": "\t編集中の内容を破棄して\\n外見を読み込みますか？\r",
+      "zh": "\t要放弃编辑中的内容，\\n读取外貌配置吗？\r"
+    }
+  },
+  "290203": {
+    "GR_Dialogues": {
+      "en": "\tCannot load appearances corresponding to a different body type\r",
+      "jp": "\t体型が異なる外見の読み込みはできません\r",
+      "zh": "\t不能读取不同体型的外貌。\r"
+    }
+  },
+  "290204": {
+    "GR_Dialogues": {
+      "en": "\tDeleting selected favorite.\\nIs that okay?\r",
+      "jp": "\t選択した外見を削除します\\nよろしいですか？ \r",
+      "zh": "\t将删除选择的外貌，\\n您确定吗？\r"
+    }
+  },
+  "290210": {
+    "GR_Dialogues": {
+      "en": "\tNo favorites saved\r",
+      "jp": "\t外見が保存されていません\r",
+      "zh": "\t并无已保存的外貌配置。\r"
+    }
+  },
+  "290300": {
+    "GR_Dialogues": {
+      "en": "\tCannot be edited at this time.\\nPlease set \"Eye Alteration\" to OFF to edit this.\r",
+      "jp": "\t現在、編集できません\\n編集する場合は「眼の変化」をOFFに設定してください\r",
+      "zh": "\t目前无法编辑。\\n\\n如果想要编辑，请先在“眼睛变化配置”选择“不套用”。\r"
+    }
+  },
+  "311000": {
+    "GR_Dialogues": {
+      "en": "\tDeleting this message.\\nIs that okay?\r",
+      "jp": "\tこのメッセージを削除します\\nよろしいですか？\r",
+      "zh": "\t将消除此讯息。\\n您确定吗？\r"
+    }
+  },
+  "311001": {
+    "GR_Dialogues": {
+      "en": "\tApplaud this message?\r",
+      "jp": "\tこのメッセージを評価しますか？\r",
+      "zh": "\t要给予这则讯息好评吗？\r"
+    }
+  },
+  "311002": {
+    "GR_Dialogues": {
+      "en": "\tDisparage this message?\r",
+      "jp": "\tこのメッセージに悪評をつけますか？\r",
+      "zh": "\t要给予这则讯息恶评吗？\r"
+    }
+  },
+  "321000": {
+    "GR_Dialogues": {
+      "en": "\tCreate this message\r",
+      "jp": "\tこの内容でメッセージを作成します\r",
+      "zh": "\t将以此内容写下讯息。\r"
+    }
+  },
+  "321001": {
+    "GR_Dialogues": {
+      "en": "\tThis will delete message in progress.\\nIs that okay?\r",
+      "jp": "\t作成中のメッセージを破棄します\\nよろしいですか？\r",
+      "zh": "\t将舍弃编辑中的讯息。\\n您确定吗？\r"
+    }
+  },
+  "322000": {
+    "GR_Dialogues": {
+      "en": "\tDelete this message from list?\r",
+      "jp": "\tこのメッセージを履歴から削除します\\nよろしいですか？\r",
+      "zh": "\t将从记录中删除此讯息。\\n您确定吗？\r"
+    }
+  },
+  "334510": {
+    "GR_Dialogues": {
+      "en": "\tUnable to acquire <?itemName?>.\\nThis would exceed the maximum able to be held\\nin inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため\\n<?itemName?>\\nを入手できませんでした\r",
+      "zh": "\t已超过持有与收纳上限，\\n无法取得<?itemName?>。\r"
+    }
+  },
+  "334511": {
+    "GR_Dialogues": {
+      "en": "\tUnable to acquire every <?itemName?>.\\nThis would exceed the maximum able to be held\\nin inventory and storage.\r",
+      "jp": "\t所持および格納上限を超えてしまうため\\n<?itemName?>\\nの一部を入手できませんでした\r",
+      "zh": "\t已超过持有与收纳上限，\\n无法全数取得<?itemName?>。\r"
+    }
+  },
+  "334520": {
+    "GR_Dialogues": {
+      "en": "\tSome items could not be acquired as they would\\nexceed the maximum able to be held in inventory\\nand storage\r",
+      "jp": "\t所持および格納上限を超えてしまうため\\n入手できなかったアイテムがあります\r",
+      "zh": "\t已超过持有与收纳上限，\\n无法取得部分道具。\r"
+    }
+  },
+  "401172": {
+    "GR_Dialogues": {
+      "en": "\tOnline connection is required to play\\nELDEN RING Network Test Version.\\nReturning to title menu.\r",
+      "jp": "\tELDEN RING Network Test Ver. は\\nオンラインでのみプレイ可能です。\\nタイトル画面に戻ります。\r",
+      "zh": "\t《艾尔登法环》网络测试版仅能以联机进行游玩。\\n\\n将返回标题画面。\r"
+    }
+  },
+  "401701": {
+    "GR_Dialogues": {
+      "en": "\t<?sysmsg@401701?>\r",
+      "jp": "\t<?sysmsg@401701?>\r",
+      "zh": "\t<?sysmsg@401701?>\r"
+    }
+  },
+  "404010": {
+    "GR_Dialogues": {
+      "en": "\tDiscard present changes and return to previous page?\r",
+      "jp": "\t設定内容を破棄して、前の画面に戻ります\\nよろしいですか？\r",
+      "zh": "\t将放弃已配置的内容，回到前一个画面。\\n\\n您确定吗？\r"
+    }
+  },
+  "404020": {
+    "GR_Dialogues": {
+      "en": "\tWith HDR setting ON:\\nPicture can be adjusted from the in-game system menu\r",
+      "jp": "\tHDR設定がONの場合\\nゲーム内メインメニューのシステムメニューでのみ\\n画質を調整することができます\r",
+      "zh": "\t高动态范围成像（ＨＤＲ）配置为开启时，\\n只能从游戏内主选单的系统选单调整画质。\r"
+    }
+  },
+  "406011": {
+    "GR_Dialogues": {
+      "en": "\tStarting with selected profile\r",
+      "jp": "\t選択したプロファイルで開始します\r",
+      "zh": "\t将以选择的角色档案开始游戏。\r"
+    }
+  },
+  "406012": {
+    "GR_Dialogues": {
+      "en": "\tDelete selected profile and begin a new game?\r",
+      "jp": "\t選択したプロファイルを削除して\\n新たにゲームを始めますか？\r",
+      "zh": "\t要删除选择的角色档案，\\n开始新游戏吗？\r"
+    }
+  },
+  "406013": {
+    "GR_Dialogues": {
+      "en": "\tDeleting selected profile.\\nIs that okay?\r",
+      "jp": "\t選択したプロファイルを削除します\\nよろしいですか？\r",
+      "zh": "\t将删除选择的角色档案。\\n\\n您确定吗？\r"
+    }
+  },
+  "450000": {
+    "GR_Dialogues": {
+      "en": "\tBegin Journey <?nextLoopCount?>?\\nIf you do not start over now, you can choose to begin\\nJourney <?nextLoopCount?> later at the Table of Lost Grace\\nin the Roundtable Hold.\r",
+      "jp": "\tこのまま<?nextLoopCount?>周目の世界をはじめますか？\\n今はじめない場合は、後で円卓の大祝福から\\n<?nextLoopCount?>周目の世界をはじめることができます\r",
+      "zh": "\t要直接开始第<?nextLoopCount?>次的世界吗？\\n\\n如果不打算马上进入下一次的世界，\\n之后也能从圆桌厅堂的大赐福选择“开始第<?nextLoopCount?>次的世界”。\r"
+    }
+  },
+  "450001": {
+    "GR_Dialogues": {
+      "en": "\tIf you begin Journey <?nextLoopCount?>, you will not be able\\nto return to the present world of Journey <?loopCount?>.\\nBegin Journey <?nextLoopCount?>?\r",
+      "jp": "\t<?nextLoopCount?>周目の世界をはじめると\\n現在の<?loopCount?>周目の世界には戻れません\\n<?nextLoopCount?>周目の世界をはじめてよろしいですか？\r",
+      "zh": "\t进入第<?nextLoopCount?>次的世界之后，\\n就不能回到目前第<?loopCount?>次的世界。\\n\\n确定要开始第<?nextLoopCount?>次的世界吗？\r"
+    }
+  },
+  "502000": {
+    "GR_Dialogues": {
+      "en": "\tSend chosen player back to their world?\r",
+      "jp": "\t選んだ対象を元の世界に送還しますか？\r",
+      "zh": "\t要遣返所选的人物吗？\r"
+    }
+  },
+  "502001": {
+    "GR_Dialogues": {
+      "en": "\tNo player to send back\r",
+      "jp": "\t送還できる対象が存在しません\r",
+      "zh": "\t没有可以遣返的人物。\r"
+    }
+  },
+  "506000": {
+    "GR_Dialogues": {
+      "en": "\tEnter Colosseum combat with these settings?\r",
+      "jp": "\tこの設定で、闘技に参戦しますか？\r",
+      "zh": "\t确定以此配置参加竞技？\r"
+    }
+  },
+  "506010": {
+    "GR_Dialogues": {
+      "en": "\tMatchmaking canceled\r",
+      "jp": "\tマッチングを中断しました\r",
+      "zh": "\t已停止配对。\r"
+    }
+  },
+  "506011": {
+    "GR_Dialogues": {
+      "en": "\tMatchmaking has been canceled\r",
+      "jp": "\tマッチングが中断されました\r",
+      "zh": "\t配对已中断。\r"
+    }
+  },
+  "506012": {
+    "GR_Dialogues": {
+      "en": "\tCancel matchmaking?\r",
+      "jp": "\tマッチングを中断しますか？\r",
+      "zh": "\t要停止配对吗？\r"
+    }
+  },
+  "506013": {
+    "GR_Dialogues": {
+      "en": "\tMatchmaking canceled: Allied team could not gather enough combatants in time\r",
+      "jp": "\t一定時間内に、味方チームの闘士が揃わなかったため\\nマッチングを中止しました\r",
+      "zh": "\t一定时间内，未凑齐我方队伍的斗士，\\n已停止配对。\r"
+    }
+  },
+  "506014": {
+    "GR_Dialogues": {
+      "en": "\tColosseum Password settings must be set to 'all players' to select this option when entering a United Combat match.\r",
+      "jp": "\t闘技形式が共闘で、闘技場合言葉の適用範囲が全員の場合に選択できます\r",
+      "zh": "\t当竞技方式为组队战，\\n竞技场暗号的有效范围为“双方队伍”时能选择此项目。\r"
+    }
+  },
+  "506015": {
+    "GR_Dialogues": {
+      "en": "\tColosseum Password settings must be set to select this option when entering a United Combat match.\r",
+      "jp": "\t闘技形式が共闘で、闘技場合言葉が設定されている場合に選択できます\r",
+      "zh": "\t当竞技方式为组队战，配置完竞技场暗号后能选择此项目。\r"
+    }
+  },
+  "506020": {
+    "GR_Dialogues": {
+      "en": "\tMatchmaking failed\r",
+      "jp": "\tマッチングに失敗しました\r",
+      "zh": "\t配对失败。\r"
+    }
+  },
+  "506021": {
+    "GR_Dialogues": {
+      "en": "\tMatchmaking failed.\\nUnable to create session.\r",
+      "jp": "\tマッチングに失敗しました\\nセッション作成に失敗しました\r",
+      "zh": "\t联机失败，无法开始配对。\r"
+    }
+  },
+  "506022": {
+    "GR_Dialogues": {
+      "en": "\tMatchmaking failed.\\nUnable to join session.\r",
+      "jp": "\tマッチングに失敗しました\\nセッション参加に失敗しました\r",
+      "zh": "\t联机失败，无法进行配对。\r"
+    }
+  },
+  "506023": {
+    "GR_Dialogues": {
+      "en": "\tCombat results were not reflected in rank.\\n\\nSelect YES to make another attempt to reflect combat results in rank.\\n\\nSelect NO to discard results.\r",
+      "jp": "\t対戦結果のランクへの反映に失敗しました\\n\\n再度、対戦結果の反映を試みる場合は「YES」を選択してください\\n\\n対戦結果を反映させない場合は「NO」を選択してください\r",
+      "zh": "\t无法将对战结果上传至排行榜。\\n\\n如要重试，请按“是”。\\n不上传对战结果，请按“否”。\r"
+    }
+  },
+  "506100": {
+    "GR_Dialogues": {
+      "en": "\tColosseum Password history\r",
+      "jp": "\t闘技場合言葉履歴\r",
+      "zh": "\t竞技场暗号记录\r"
+    }
+  },
+  "506101": {
+    "GR_Dialogues": {
+      "en": "\tSelect password to apply\r",
+      "jp": "\t設定したい合言葉を選んでください\r",
+      "zh": "\t请选择想要使用的暗号。\r"
+    }
+  },
+  "506104": {
+    "GR_Dialogues": {
+      "en": "\tNo Colosseum Password history\r",
+      "jp": "\t闘技場合言葉履歴が存在しません\r",
+      "zh": "\t没有竞技场暗号的记录。\r"
+    }
+  },
+  "507000": {
+    "GR_Dialogues": {
+      "en": "\tPlayers fight one on one for a limited time (180 secs)\\nuntil a player is defeated.\\nUse of the Flask of Crimson Tears is prohibited.\\nUse of the Flask of Cerulean Tears is permitted,\\nbut limited in number.\\nThe use of spirit ashes is prohibited.\r",
+      "jp": "\t１対１で、制限時間（180秒）内にどちらかが撃破されるまで戦います\\n緋雫の聖杯瓶は使用できず、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することはできません\r",
+      "zh": "\t展开１对１交战，\\n在限制时间内（１８０秒）战斗，直到其中一方倒下为止。\\n不能使用红露滴圣杯瓶，\\n蓝露滴圣杯瓶能使用限定次数，\\n不能使用骨灰。\r"
+    }
+  },
+  "507001": {
+    "GR_Dialogues": {
+      "en": "\tPlayers fight one on one for a limited time (180 secs)\\nuntil a player is defeated.\\nUse of the Flask of Crimson Tears is prohibited.\\nUse of the Flask of Cerulean Tears is permitted,\\nbut limited in number.\\nThe use of spirit ashes is permitted.\r",
+      "jp": "\t１対１で、制限時間（180秒）内にどちらかが撃破されるまで戦います\\n緋雫の聖杯瓶は使用できず、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することができます\r",
+      "zh": "\t展开１对１交战，\\n在限制时间内（１８０秒）战斗，直到其中一方倒下为止。\\n不能使用红露滴圣杯瓶，\\n蓝露滴圣杯瓶能使用限定次数，\\n能使用骨灰。\r"
+    }
+  },
+  "507010": {
+    "GR_Dialogues": {
+      "en": "\tThe maximum number of players for a Duel is 2\r",
+      "jp": "\t決闘では、人数は２人しか選択できません\r",
+      "zh": "\t决斗的人数仅限２人。\r"
+    }
+  },
+  "507011": {
+    "GR_Dialogues": {
+      "en": "\tThe maximum number of players for a Duel is 2\r",
+      "jp": "\t決闘では、人数は２人しか選択できません\r",
+      "zh": "\t决斗的人数仅限２人。\r"
+    }
+  },
+  "507020": {
+    "GR_Dialogues": {
+      "en": "\tThe maximum number of players for a Duel is 2\r",
+      "jp": "\t決闘では、人数は２人しか選択できません\r",
+      "zh": "\t决斗的人数仅限２人。\r"
+    }
+  },
+  "507021": {
+    "GR_Dialogues": {
+      "en": "\tThe maximum number of players for a Duel is 2\r",
+      "jp": "\t決闘では、人数は２人しか選択できません\r",
+      "zh": "\t决斗的人数仅限２人。\r"
+    }
+  },
+  "507030": {
+    "GR_Dialogues": {
+      "en": "\tThe maximum number of players for a Duel is 2\r",
+      "jp": "\t決闘では、人数は２人しか選択できません\r",
+      "zh": "\t决斗的人数仅限２人。\r"
+    }
+  },
+  "507031": {
+    "GR_Dialogues": {
+      "en": "\tThe maximum number of players for a Duel is 2\r",
+      "jp": "\t決闘では、人数は２人しか選択できません\r",
+      "zh": "\t决斗的人数仅限２人。\r"
+    }
+  },
+  "507100": {
+    "GR_Dialogues": {
+      "en": "\tBoth players are enemies and have a limited time (300 seconds)\\nto down their opponent as many times as possible.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is prohibited.\r",
+      "jp": "\t２人全員が敵となり、制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することはできません\r",
+      "zh": "\t２位斗士互相为敌，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n不能使用骨灰。\r"
+    }
+  },
+  "507101": {
+    "GR_Dialogues": {
+      "en": "\tBoth players are enemies and have a limited time (300 seconds)\\nto down their opponent as many times as possible.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is permitted.\r",
+      "jp": "\t２人全員が敵となり、制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することができます\r",
+      "zh": "\t２位斗士互相为敌，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n能使用骨灰。\r"
+    }
+  },
+  "507110": {
+    "GR_Dialogues": {
+      "en": "\tAll four players are enemies and have a limited time (300 seconds)\\nto compete for the highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is prohibited.\r",
+      "jp": "\t４人全員が敵となり、制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することはできません\r",
+      "zh": "\t４位斗士互相为敌，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n不能使用骨灰。\r"
+    }
+  },
+  "507111": {
+    "GR_Dialogues": {
+      "en": "\tAll four players are enemies and have a limited time (300 seconds)\\nto compete for the highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is permitted.\r",
+      "jp": "\t４人全員が敵となり、制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することができます\r",
+      "zh": "\t４位斗士互相为敌，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n能使用骨灰。\r"
+    }
+  },
+  "507120": {
+    "GR_Dialogues": {
+      "en": "\tAll six players are enemies and have a limited time (300 seconds)\\nto compete for the highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is prohibited.\r",
+      "jp": "\t６人全員が敵となり、制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することはできません\r",
+      "zh": "\t６位斗士互相为敌，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n不能使用骨灰。\r"
+    }
+  },
+  "507121": {
+    "GR_Dialogues": {
+      "en": "\tAll six players are enemies and have a limited time (300 seconds)\\nto compete for the highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is permitted.\r",
+      "jp": "\t６人全員が敵となり、制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することができます\r",
+      "zh": "\t６位斗士互相为敌，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n能使用骨灰。\r"
+    }
+  },
+  "507130": {
+    "GR_Dialogues": {
+      "en": "\tAll four or six players are enemies and have a limited time\\n(300 seconds) to compete for the highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is prohibited.\r",
+      "jp": "\t４人あるいは６人全員が敵となり\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することはできません\r",
+      "zh": "\t４位或６位斗士互相为敌，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n不能使用骨灰。\r"
+    }
+  },
+  "507131": {
+    "GR_Dialogues": {
+      "en": "\tAll four or six players are enemies and have a limited time\\n(300 seconds) to compete for the highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is permitted.\r",
+      "jp": "\t４人あるいは６人全員が敵となり\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数使用できます\\n遺灰を使用することができます\r",
+      "zh": "\t４位或６位斗士互相为敌，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n能使用骨灰。\r"
+    }
+  },
+  "507200": {
+    "GR_Dialogues": {
+      "en": "\tBoth players are divided into two teams and given a limited time\\n(300 seconds) to compete for the highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is prohibited.\r",
+      "jp": "\t２人が、２つのチームに分かれ\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数だけ使用できます\\n遺灰を使用することはできません\r",
+      "zh": "\t２位斗士分成２队，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n不能使用骨灰。\r"
+    }
+  },
+  "507201": {
+    "GR_Dialogues": {
+      "en": "\tBoth players are divided into two teams and given a limited time\\n(300 seconds) to compete for the highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is permitted.\r",
+      "jp": "\t２人が、２つのチームに分かれ\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数だけ使用できます\\n遺灰を使用することができます\r",
+      "zh": "\t２位斗士分成２队，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n能使用骨灰。\r"
+    }
+  },
+  "507210": {
+    "GR_Dialogues": {
+      "en": "\tAll four players are divided into two teams and\\ngiven a limited time (300 seconds) to compete for\\nthe highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is prohibited.\r",
+      "jp": "\t４人が、２つのチームに分かれ\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数だけ使用できます\\n遺灰を使用することはできません\r",
+      "zh": "\t４位斗士分成２队，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n不能使用骨灰。\r"
+    }
+  },
+  "507211": {
+    "GR_Dialogues": {
+      "en": "\tAll four players are divided into two teams and\\ngiven a limited time (300 seconds) to compete for\\nthe highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is permitted.\r",
+      "jp": "\t４人が、２つのチームに分かれ\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数だけ使用できます\\n遺灰を使用することができます\r",
+      "zh": "\t４位斗士分成２队，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n能使用骨灰。\r"
+    }
+  },
+  "507220": {
+    "GR_Dialogues": {
+      "en": "\tAll six players are divided into two teams and\\ngiven a limited time (300 seconds) to compete for\\nthe highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is prohibited.\r",
+      "jp": "\t６人が、２つのチームに分かれ\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数だけ使用できます\\n遺灰を使用することはできません\r",
+      "zh": "\t６位斗士分成２队，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n不能使用骨灰。\r"
+    }
+  },
+  "507221": {
+    "GR_Dialogues": {
+      "en": "\tAll six players are divided into two teams and\\ngiven a limited time (300 seconds) to compete for\\nthe highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is permitted.\r",
+      "jp": "\t６人が、２つのチームに分かれ\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数だけ使用できます\\n遺灰を使用することができます\r",
+      "zh": "\t６位斗士分成２队，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n能使用骨灰。\r"
+    }
+  },
+  "507230": {
+    "GR_Dialogues": {
+      "en": "\tAll four or six players are divided into two teams and\\ngiven a limited time (300 seconds) to compete for\\nthe highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is prohibited.\r",
+      "jp": "\t４人あるいは６人が、２つのチームに分かれ\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数だけ使用できます\\n遺灰を使用することはできません\r",
+      "zh": "\t４位或６位斗士分成２队，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n不能使用骨灰。\r"
+    }
+  },
+  "507231": {
+    "GR_Dialogues": {
+      "en": "\tAll four or six players are divided into two teams and\\ngiven a limited time (300 seconds) to compete for\\nthe highest number of downed enemies.\\nUsage of the Flasks of Crimson and Cerulean Tears is permitted\\nbut limited in number.\\nThe use of spirit ashes is permitted.\r",
+      "jp": "\t４人あるいは６人が、２つのチームに分かれ\\n制限時間（300秒）内の撃破数を競います\\n緋雫の聖杯瓶、青雫の聖杯瓶は限られた回数だけ使用できます\\n遺灰を使用することができます\r",
+      "zh": "\t４位或６位斗士分成２队，\\n在限制时间内（３００秒）比赛击倒人数。\\n红露滴圣杯瓶、蓝露滴圣杯瓶能使用限定次数，\\n能使用骨灰。\r"
+    }
+  },
+  "507999": {
+    "GR_Dialogues": {
+      "en": "\t(This rule cannot be applied at present)\r",
+      "jp": "\t（現状では、このルールは使用できません）\r",
+      "zh": "\t（目前无法使用此规则。）\r"
+    }
+  },
+  "550000": {
+    "GR_Dialogues": {
+      "en": "\tMultiplayer is temporarily disabled due to repeated irregular termination\\nof multiplayer sessions\r",
+      "jp": "\tマルチプレイの不正な終了が繰り返されたため、\\n一定時間が経過するまでマルチプレイができなくなります\r",
+      "zh": "\t您在多人联机游玩时，多次以不当方式结束游戏，\\n无法进行多人联机游玩。\r"
+    }
+  },
+  "550100": {
+    "GR_Dialogues": {
+      "en": "\tYou were returned to your world due to inactivity\r",
+      "jp": "\t一定時間操作が行われなかったため\\n元の世界に戻りました\r",
+      "zh": "\t在一定时间内没有进行任何操作，\\n已返回原本的世界。\r"
+    }
+  },
+  "550200": {
+    "GR_Dialogues": {
+      "en": "\tThe name of this character has been replaced with\\nan underscore as it was previously left blank\r",
+      "jp": "\t名前が空白だったため\\n名前として「_」を設定しました\r",
+      "zh": "\t由于未输入名字，\\n已用“_”配置成角色的名字。\r"
+    }
+  },
+  "550300": {
+    "GR_Dialogues": {
+      "en": "\tInvalid Ashes of War have been removed\\nfrom equipped weapons\r",
+      "jp": "\t装備している武器に、正常でない戦灰が使用されています\\n戦灰を外しました\r",
+      "zh": "\t所装备的武器使用不正确的战灰，\\n已移除该战灰。\r"
+    }
+  },
+  "550301": {
+    "GR_Dialogues": {
+      "en": "\tInvalid Ashes of War have been removed from equipped weapons.\\nExcess Ashes of War have been placed in chest.\r",
+      "jp": "\t装備している武器に、正常でない戦灰が使用されています\\n戦灰を外し、所持上限を越えたものは木箱に格納しました\r",
+      "zh": "\t所装备的武器使用不正确的战灰，\\n已移除该战灰，超过持有上限的道具已被收纳至木箱。\r"
+    }
+  },
+  "550302": {
+    "GR_Dialogues": {
+      "en": "\tInvalid Ashes of War have been removed from equipped weapons.\\nExcess Ashes of War have been placed in chest, with any that\\nexceeded the storage limit placed on the ground.\r",
+      "jp": "\t装備している武器に、正常でない戦灰が使用されています\\n戦灰を外し、所持上限を越えたものは木箱に格納し\\n格納上限を越えたものは、その場に置きました\r",
+      "zh": "\t所装备的武器使用不正确的战灰，\\n已移除该战灰，超过持有上限的道具已被收纳至木箱。\\n超过收纳上限的道具将放置原地。\r"
+    }
+  },
+  "620001": {
+    "GR_Dialogues": {
+      "en": "\tReturn to title menu?\r",
+      "jp": "\tタイトル画面に戻ります\\nよろしいですか？\r",
+      "zh": "\t要返回标题画面吗？\r"
+    }
+  },
+  "620010": {
+    "GR_Dialogues": {
+      "en": "\tClose control guide and begin game?\r",
+      "jp": "\t操作説明を終了してゲームを開始します\\nよろしいですか？\r",
+      "zh": "\t将结束操作说明，开始游戏。\\n您确定吗？\r"
+    }
+  },
+  "620100": {
+    "GR_Dialogues": {
+      "en": "\tAs this product is still in development, some functionality\\n(including features that use the Xbox network) may not\\nbe working as intended, and may result in shutdown\r",
+      "jp": "\t本製品は開発中のため、機能の一部\\n（Xbox ネットワークを利用したネットワーク機能を含む)が\\n適切に動作しなかったり強制終了する可能性があります\r",
+      "zh": "\t本游戏尚在开发中，\\n部分功能（包含使用Xbox 网络的网络功能）\\n有可能无法正常运作，或出现强制结束游戏的情况。\r"
+    }
+  },
+  "620110": {
+    "GR_Dialogues": {
+      "en": "\tUnlike the final release, this product cannot be played\\nwithout a network connection\r",
+      "jp": "\t本製品は製品版とは以下の動作が異なります\\n・ネットワーク環境が無い場合はプレイすることができません\r",
+      "zh": "\t网络测试版的下列配置与商品版相异：\\n·必须连接网络才能游玩。\r"
+    }
+  },
+  "": { "GR_Dialogues": { "en": "", "jp": "", "zh": "" } }
+}

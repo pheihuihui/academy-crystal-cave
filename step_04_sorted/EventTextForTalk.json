@@ -1,0 +1,6236 @@
+{
+  "10011952": {
+    "EventTextForTalk": {
+      "en": "\tLast site of grace visited\r",
+      "jp": "\t最後に訪れた祝福\r",
+      "zh": "\t最后停留的赐福\r"
+    }
+  },
+  "13040000": {
+    "EventTextForTalk": {
+      "en": "\tThe amount of HP/FP your flasks replenish cannot be increased any further\r",
+      "jp": "\tこれ以上、聖杯瓶の回復量を高めることはできません\r",
+      "zh": "\t圣杯瓶的恢复量已提升到上限。\r"
+    }
+  },
+  "13040020": {
+    "EventTextForTalk": {
+      "en": "\tIncreased the amount of HP/FP replenished by your flasks\r",
+      "jp": "\t聖杯瓶の回復量が高まりました\r",
+      "zh": "\t已提升圣杯瓶的恢复量。\r"
+    }
+  },
+  "13040100": {
+    "EventTextForTalk": {
+      "en": "\tNo Flask of Crimson Tears in inventory\r",
+      "jp": "\t緋雫の聖杯瓶を持っていません\r",
+      "zh": "\t您未持有红露滴圣杯瓶。\r"
+    }
+  },
+  "13040110": {
+    "EventTextForTalk": {
+      "en": "\tNo Flask of Cerulean Tears in inventory\r",
+      "jp": "\t青雫の聖杯瓶を持っていません\r",
+      "zh": "\t您未持有蓝露滴圣杯瓶。\r"
+    }
+  },
+  "13040120": {
+    "EventTextForTalk": {
+      "en": "\tFlask charges already at maximum\r",
+      "jp": "\tこれ以上、聖杯瓶の使用回数を増やすことはできません\r",
+      "zh": "\t圣杯瓶的使用次数已增加到上限。\r"
+    }
+  },
+  "13040130": {
+    "EventTextForTalk": {
+      "en": "\tNo Golden Seed in inventory\r",
+      "jp": "\t黄金の種子を持っていません\r",
+      "zh": "\t您未持有黄金种子。\r"
+    }
+  },
+  "13040140": {
+    "EventTextForTalk": {
+      "en": "\tAdded a charge to Flask of Crimson Tears\r",
+      "jp": "\t緋雫の聖杯瓶の使用回数が増えました\r",
+      "zh": "\t已增加红露滴圣杯瓶的使用次数。\r"
+    }
+  },
+  "13040150": {
+    "EventTextForTalk": {
+      "en": "\tNo Flask of Crimson Tears in inventory\r",
+      "jp": "\t緋雫の聖杯瓶を持っていません\r",
+      "zh": "\t您未持有红露滴圣杯瓶。\r"
+    }
+  },
+  "13040160": {
+    "EventTextForTalk": {
+      "en": "\tNo Flask of Cerulean Tears in inventory\r",
+      "jp": "\t青雫の聖杯瓶を持っていません\r",
+      "zh": "\t您未持有蓝露滴圣杯瓶。\r"
+    }
+  },
+  "15000370": {
+    "EventTextForTalk": {
+      "en": "\tAdd charge to flask\r",
+      "jp": "\t使用回数を増やす\r",
+      "zh": "\t增加使用次数\r"
+    }
+  },
+  "15000371": {
+    "EventTextForTalk": {
+      "en": "\tFlasks\r",
+      "jp": "\t聖杯瓶\r",
+      "zh": "\t圣杯瓶\r"
+    }
+  },
+  "15000372": {
+    "EventTextForTalk": {
+      "en": "\tCancel\r",
+      "jp": "\tやめる\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "15000380": {
+    "EventTextForTalk": {
+      "en": "\tIncrease amount replenished by flasks\r",
+      "jp": "\t回復量を高める\r",
+      "zh": "\t提升恢复量\r"
+    }
+  },
+  "15000385": {
+    "EventTextForTalk": {
+      "en": "\tAllocate flask charges\r",
+      "jp": "\t使用回数の振り分け\r",
+      "zh": "\t分配使用次数\r"
+    }
+  },
+  "15000390": {
+    "EventTextForTalk": {
+      "en": "\tMemorize spell\r",
+      "jp": "\t記憶\r",
+      "zh": "\t记忆\r"
+    }
+  },
+  "15000395": {
+    "EventTextForTalk": {
+      "en": "\tSort chest\r",
+      "jp": "\t木箱の整理\r",
+      "zh": "\t整理木箱\r"
+    }
+  },
+  "15000420": {
+    "EventTextForTalk": {
+      "en": "\tPass time\r",
+      "jp": "\t時間を潰す\r",
+      "zh": "\t消磨时间\r"
+    }
+  },
+  "15000430": {
+    "EventTextForTalk": {
+      "en": "\tUntil morning\r",
+      "jp": "\t朝まで\r",
+      "zh": "\t到早上\r"
+    }
+  },
+  "15000440": {
+    "EventTextForTalk": {
+      "en": "\tUntil noon\r",
+      "jp": "\t昼まで\r",
+      "zh": "\t到中午\r"
+    }
+  },
+  "15000450": {
+    "EventTextForTalk": {
+      "en": "\tUntil nightfall\r",
+      "jp": "\t夜まで\r",
+      "zh": "\t到晚上\r"
+    }
+  },
+  "15000460": {
+    "EventTextForTalk": {
+      "en": "\tCancel\r",
+      "jp": "\tやめる\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "15000510": {
+    "EventTextForTalk": {
+      "en": "\tMix Wondrous Physick\r",
+      "jp": "\t霊薬の配合\r",
+      "zh": "\t调配灵药\r"
+    }
+  },
+  "15000520": {
+    "EventTextForTalk": {
+      "en": "\tGreat Runes\r",
+      "jp": "\t大ルーン\r",
+      "zh": "\t大卢恩\r"
+    }
+  },
+  "15000530": {
+    "EventTextForTalk": {
+      "en": "\tAshes of War\r",
+      "jp": "\t戦灰\r",
+      "zh": "\t战灰\r"
+    }
+  },
+  "15000540": {
+    "EventTextForTalk": {
+      "en": "\tLevel Up\r",
+      "jp": "\tレベルアップ\r",
+      "zh": "\t升级\r"
+    }
+  },
+  "15000700": {
+    "EventTextForTalk": {
+      "en": "\tPurchase\r",
+      "jp": "\t購入する\r",
+      "zh": "\t购买\r"
+    }
+  },
+  "15000710": {
+    "EventTextForTalk": {
+      "en": "\tSell\r",
+      "jp": "\t売却する\r",
+      "zh": "\t卖出\r"
+    }
+  },
+  "15000720": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离去\r"
+    }
+  },
+  "20000000": {
+    "EventTextForTalk": { "en": "\tTalk\r", "jp": "\t話す\r", "zh": "\t交谈\r" }
+  },
+  "20000009": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离去\r"
+    }
+  },
+  "20000010": {
+    "EventTextForTalk": {
+      "en": "\tPurchase\r",
+      "jp": "\t購入する\r",
+      "zh": "\t购买\r"
+    }
+  },
+  "20000011": {
+    "EventTextForTalk": {
+      "en": "\tSell\r",
+      "jp": "\t売却する\r",
+      "zh": "\t卖出\r"
+    }
+  },
+  "20010001": {
+    "EventTextForTalk": {
+      "en": "\tShadow Realm Blessing\r",
+      "jp": "\t影の地の加護\r",
+      "zh": "\t幽影之地的庇佑\r"
+    }
+  },
+  "20010002": {
+    "EventTextForTalk": {
+      "en": "\tScadutree Blessing (<?dlcPlayerDopingLevel?>)\r",
+      "jp": "\t影樹の加護（<?dlcPlayerDopingLevel?>）\r",
+      "zh": "\t幽影树庇佑（<?dlcPlayerDopingLevel?>）\r"
+    }
+  },
+  "20010003": {
+    "EventTextForTalk": {
+      "en": "\tRevered Spirit Ash Blessing (<?dlcBuddyDopingLevel?>)\r",
+      "jp": "\t霊灰の加護（<?dlcBuddyDopingLevel?>）\r",
+      "zh": "\t灵灰庇佑（<?dlcBuddyDopingLevel?>）\r"
+    }
+  },
+  "20010004": {
+    "EventTextForTalk": {
+      "en": "\tCancel\r",
+      "jp": "\tやめる\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "20010080": {
+    "EventTextForTalk": {
+      "en": "\tBegin Journey <?nextLoopCount?>\r",
+      "jp": "\t<?nextLoopCount?>周目の世界をはじめる\r",
+      "zh": "\t开始第<?nextLoopCount?>次的世界\r"
+    }
+  },
+  "20010101": {
+    "EventTextForTalk": {
+      "en": "\tListen to the sounds of flame\r",
+      "jp": "\t燻りの音に耳を傾ける\r",
+      "zh": "\t倾听火焰熏烧的声音\r"
+    }
+  },
+  "20011000": {
+    "EventTextForTalk": {
+      "en": "\tNo Sacred Tear in inventory\r",
+      "jp": "\t聖杯の雫を持っていません\r",
+      "zh": "\t您未持有圣杯露滴。\r"
+    }
+  },
+  "20011001": {
+    "EventTextForTalk": {
+      "en": "\tUse a Sacred Tear to increase the amount of HP/FP replenished by your flasks?\r",
+      "jp": "\t聖杯の雫を使って、聖杯瓶の回復量を高めますか？\r",
+      "zh": "\t要使用圣杯露滴，提升圣杯瓶的恢复量吗？\r"
+    }
+  },
+  "20011010": {
+    "EventTextForTalk": {
+      "en": "\tNot enough Golden Seeds\r",
+      "jp": "\t黄金の種子が足りません\r",
+      "zh": "\t黄金种子的数量不足。\r"
+    }
+  },
+  "20011011": {
+    "EventTextForTalk": {
+      "en": "\tUse one Golden Seed to increase your number of flask uses?\r",
+      "jp": "\t黄金の種子を１つ使って、聖杯瓶の使用回数を増やしますか？\r",
+      "zh": "\t要使用１个黄金种子，增加圣杯瓶的使用次数吗？\r"
+    }
+  },
+  "20011012": {
+    "EventTextForTalk": {
+      "en": "\tUse two Golden Seeds to increase your number of flask uses?\r",
+      "jp": "\t黄金の種子を２つ使って、聖杯瓶の使用回数を増やしますか？\r",
+      "zh": "\t要使用２个黄金种子，增加圣杯瓶的使用次数吗？\r"
+    }
+  },
+  "20011013": {
+    "EventTextForTalk": {
+      "en": "\tUse three Golden Seeds to increase your number of flask uses?\r",
+      "jp": "\t黄金の種子を３つ使って、聖杯瓶の使用回数を増やしますか？\r",
+      "zh": "\t要使用３个黄金种子，增加圣杯瓶的使用次数吗？\r"
+    }
+  },
+  "20011014": {
+    "EventTextForTalk": {
+      "en": "\tUse four Golden Seeds to increase your number of flask uses?\r",
+      "jp": "\t黄金の種子を４つ使って、聖杯瓶の使用回数を増やしますか？\r",
+      "zh": "\t要使用４个黄金种子，增加圣杯瓶的使用次数吗？\r"
+    }
+  },
+  "20011015": {
+    "EventTextForTalk": {
+      "en": "\tUse five Golden Seeds to increase your number of flask uses?\r",
+      "jp": "\t黄金の種子を５つ使って、聖杯瓶の使用回数を増やしますか？\r",
+      "zh": "\t要使用５个黄金种子，增加圣杯瓶的使用次数吗？\r"
+    }
+  },
+  "20011020": {
+    "EventTextForTalk": {
+      "en": "\tCannot rest at sites of grace right now\r",
+      "jp": "\t今は、祝福で休むことはできません\r",
+      "zh": "\t现在不能在赐福休息。\r"
+    }
+  },
+  "20011030": {
+    "EventTextForTalk": {
+      "en": "\tCannot select while entering combat\r",
+      "jp": "\t闘技参戦中は選択できません\r",
+      "zh": "\t参加竞技时，无法选取。\r"
+    }
+  },
+  "20011031": {
+    "EventTextForTalk": {
+      "en": "\tCannot select while entering combat\r",
+      "jp": "\t闘技参戦中は選択できません\r",
+      "zh": "\t参加竞技时，无法选取。\r"
+    }
+  },
+  "20011032": {
+    "EventTextForTalk": {
+      "en": "\tCannot select while entering combat\r",
+      "jp": "\t闘技参戦中は選択できません\r",
+      "zh": "\t参加竞技时，无法选取。\r"
+    }
+  },
+  "20011040": {
+    "EventTextForTalk": {
+      "en": "\tUse 1 Scadutree Fragment to empower blessing?\r",
+      "jp": "\t影樹の破片を１つ使って、影樹の加護を上げますか？\r",
+      "zh": "\t要使用１个幽影树碎片，加强幽影树庇佑吗？\r"
+    }
+  },
+  "20011041": {
+    "EventTextForTalk": {
+      "en": "\tUse 2 Scadutree Fragments to empower blessing?\r",
+      "jp": "\t影樹の破片を２つ使って、影樹の加護を上げますか？\r",
+      "zh": "\t要使用２个幽影树碎片，加强幽影树庇佑吗？\r"
+    }
+  },
+  "20011042": {
+    "EventTextForTalk": {
+      "en": "\tUse 3 Scadutree Fragments to empower blessing?\r",
+      "jp": "\t影樹の破片を３つ使って、影樹の加護を上げますか？\r",
+      "zh": "\t要使用３个幽影树碎片，加强幽影树庇佑吗？\r"
+    }
+  },
+  "20011043": {
+    "EventTextForTalk": {
+      "en": "\tUse 4 Scadutree Fragments to empower blessing?\r",
+      "jp": "\t影樹の破片を４つ使って、影樹の加護を上げますか？\r",
+      "zh": "\t要使用４个幽影树碎片，加强幽影树庇佑吗？\r"
+    }
+  },
+  "20011044": {
+    "EventTextForTalk": {
+      "en": "\tUse 5 Scadutree Fragments to empower blessing?\r",
+      "jp": "\t影樹の破片を５つ使って、影樹の加護を上げますか？\r",
+      "zh": "\t要使用５个幽影树碎片，加强幽影树庇佑吗？\r"
+    }
+  },
+  "20011045": {
+    "EventTextForTalk": {
+      "en": "\tUse 6 Scadutree Fragments to empower blessing?\r",
+      "jp": "\t影樹の破片を６つ使って、影樹の加護を上げますか？\r",
+      "zh": "\t要使用６个幽影树碎片，加强幽影树庇佑吗？\r"
+    }
+  },
+  "20011046": {
+    "EventTextForTalk": {
+      "en": "\tUse 7 Scadutree Fragments to empower blessing?\r",
+      "jp": "\t影樹の破片を７つ使って、影樹の加護を上げますか？\r",
+      "zh": "\t要使用７个幽影树碎片，加强幽影树庇佑吗？\r"
+    }
+  },
+  "20011047": {
+    "EventTextForTalk": {
+      "en": "\tUse 8 Scadutree Fragments to empower blessing?\r",
+      "jp": "\t影樹の破片を８つ使って、影樹の加護を上げますか？\r",
+      "zh": "\t要使用８个幽影树碎片，加强幽影树庇佑吗？\r"
+    }
+  },
+  "20011048": {
+    "EventTextForTalk": {
+      "en": "\tUse 9 Scadutree Fragments to empower blessing?\r",
+      "jp": "\t影樹の破片を９つ使って、影樹の加護を上げますか？\r",
+      "zh": "\t要使用９个幽影树碎片，加强幽影树庇佑吗？\r"
+    }
+  },
+  "20011050": {
+    "EventTextForTalk": {
+      "en": "\tUse 1 Revered Spirit Ash to empower blessing?\r",
+      "jp": "\t霊灰を１つ使って、霊灰の加護を上げますか？\r",
+      "zh": "\t要使用１个灵灰，加强灵灰庇佑吗？\r"
+    }
+  },
+  "20011051": {
+    "EventTextForTalk": {
+      "en": "\tUse 2 Revered Spirit Ashes to empower blessing?\r",
+      "jp": "\t霊灰を２つ使って、霊灰の加護を上げますか？\r",
+      "zh": "\t要使用２个灵灰，加强灵灰庇佑吗？\r"
+    }
+  },
+  "20011052": {
+    "EventTextForTalk": {
+      "en": "\tUse 3 Revered Spirit Ashes to empower blessing?\r",
+      "jp": "\t霊灰を３つ使って、霊灰の加護を上げますか？\r",
+      "zh": "\t要使用３个灵灰，加强灵灰庇佑吗？\r"
+    }
+  },
+  "20011053": {
+    "EventTextForTalk": {
+      "en": "\tUse 4 Revered Spirit Ashes to empower blessing?\r",
+      "jp": "\t霊灰を４つ使って、霊灰の加護を上げますか？\r",
+      "zh": "\t要使用４个灵灰，加强灵灰庇佑吗？\r"
+    }
+  },
+  "20011054": {
+    "EventTextForTalk": {
+      "en": "\tUse 5 Revered Spirit Ashes to empower blessing?\r",
+      "jp": "\t霊灰を５つ使って、霊灰の加護を上げますか？\r",
+      "zh": "\t要使用５个灵灰，加强灵灰庇佑吗？\r"
+    }
+  },
+  "20011055": {
+    "EventTextForTalk": {
+      "en": "\tUse 6 Revered Spirit Ashes to empower blessing?\r",
+      "jp": "\t霊灰を６つ使って、霊灰の加護を上げますか？\r",
+      "zh": "\t要使用６个灵灰，加强灵灰庇佑吗？\r"
+    }
+  },
+  "20011056": {
+    "EventTextForTalk": {
+      "en": "\tUse 7 Revered Spirit Ashes to empower blessing?\r",
+      "jp": "\t霊灰を７つ使って、霊灰の加護を上げますか？\r",
+      "zh": "\t要使用７个灵灰，加强灵灰庇佑吗？\r"
+    }
+  },
+  "20011057": {
+    "EventTextForTalk": {
+      "en": "\tUse 8 Revered Spirit Ashes to empower blessing?\r",
+      "jp": "\t霊灰を８つ使って、霊灰の加護を上げますか？\r",
+      "zh": "\t要使用８个灵灰，加强灵灰庇佑吗？\r"
+    }
+  },
+  "20011058": {
+    "EventTextForTalk": {
+      "en": "\tUse 9 Revered Spirit Ashes to empower blessing?\r",
+      "jp": "\t霊灰を９つ使って、霊灰の加護を上げますか？\r",
+      "zh": "\t要使用９个灵灰，加强灵灰庇佑吗？\r"
+    }
+  },
+  "20011060": {
+    "EventTextForTalk": {
+      "en": "\tNot enough Scadutree Fragments\r",
+      "jp": "\t影樹の破片が足りません\r",
+      "zh": "\t幽影树碎片的数量不足。\r"
+    }
+  },
+  "20011061": {
+    "EventTextForTalk": {
+      "en": "\tNot enough Revered Spirit Ashes\r",
+      "jp": "\t霊灰が足りません\r",
+      "zh": "\t灵灰的数量不足。\r"
+    }
+  },
+  "20011062": {
+    "EventTextForTalk": {
+      "en": "\tScadutree Blessing empowered\r",
+      "jp": "\t影樹の加護が上がりました\r",
+      "zh": "\t已加强幽影树庇佑。\r"
+    }
+  },
+  "20011063": {
+    "EventTextForTalk": {
+      "en": "\tRevered Spirit Ash Blessing empowered\r",
+      "jp": "\t霊灰の加護が上がりました\r",
+      "zh": "\t已加强灵灰庇佑。\r"
+    }
+  },
+  "20011064": {
+    "EventTextForTalk": {
+      "en": "\tScadutree Blessing cannot be empowered any further\r",
+      "jp": "\tこれ以上、影樹の加護は上げられません\r",
+      "zh": "\t幽影树庇佑已加强到上限。\r"
+    }
+  },
+  "20011065": {
+    "EventTextForTalk": {
+      "en": "\tRevered Spirit Ash Blessing cannot be empowered any further\r",
+      "jp": "\tこれ以上、霊灰の加護は上げられません\r",
+      "zh": "\t灵灰庇佑已加强到上限。\r"
+    }
+  },
+  "20011080": {
+    "EventTextForTalk": {
+      "en": "\tBegin Journey <?nextLoopCount?>?\r",
+      "jp": "\t<?nextLoopCount?>周目の世界をはじめますか？\r",
+      "zh": "\t要进入第<?nextLoopCount?>次的世界吗？\r"
+    }
+  },
+  "20011081": {
+    "EventTextForTalk": {
+      "en": "\tIf you begin Journey <?nextLoopCount?>, you will not be able\\nto return to the present world of Journey <?loopCount?>.\\nBegin Journey <?nextLoopCount?>?\r",
+      "jp": "\t<?nextLoopCount?>周目の世界をはじめると\\n現在の<?loopCount?>周目の世界には戻れません\\n<?nextLoopCount?>周目の世界をはじめてよろしいですか？\r",
+      "zh": "\t进入第<?nextLoopCount?>次的世界之后，\\n就不能回到目前第<?loopCount?>次的世界。\\n\\n确定要开始第<?nextLoopCount?>次的世界吗？\r"
+    }
+  },
+  "21000000": {
+    "EventTextForTalk": { "jp": "\tメリナに巨大EV用の通行証Bをもらう\r" }
+  },
+  "21000001": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000002": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000003": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000004": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000005": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000006": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000007": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000008": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000009": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000010": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000011": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000012": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000013": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000014": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000015": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000016": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000017": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000018": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000020": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000021": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000022": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000023": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000024": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000025": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000026": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000027": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000028": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000029": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000030": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000031": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Melina\r",
+      "jp": "\tメリナと話す\r",
+      "zh": "\t和梅琳娜交谈\r"
+    }
+  },
+  "21000050": {
+    "EventTextForTalk": {
+      "en": "\tTell her you're off to Roundtable Hold\r",
+      "jp": "\tメリナに、円卓に行くと伝える\r",
+      "zh": "\t告诉梅琳娜想去圆桌厅堂\r"
+    }
+  },
+  "21001000": {
+    "EventTextForTalk": {
+      "en": "\tAccept\r",
+      "jp": "\t取引する\r",
+      "zh": "\t接受条件\r"
+    }
+  },
+  "21001001": {
+    "EventTextForTalk": {
+      "en": "\tRefuse\r",
+      "jp": "\t断る\r",
+      "zh": "\t拒绝\r"
+    }
+  },
+  "21001002": {
+    "EventTextForTalk": {
+      "en": "\tI'm interested\r",
+      "jp": "\t興味がある\r",
+      "zh": "\t我想听\r"
+    }
+  },
+  "21001003": {
+    "EventTextForTalk": {
+      "en": "\tI'm not interested\r",
+      "jp": "\t興味はない\r",
+      "zh": "\t我不想听\r"
+    }
+  },
+  "21001004": {
+    "EventTextForTalk": {
+      "en": "\tGo to the Roundtable Hold\r",
+      "jp": "\t円卓に行く\r",
+      "zh": "\t我要去圆桌厅堂\r"
+    }
+  },
+  "21001005": {
+    "EventTextForTalk": {
+      "en": "\tI'm ready\r",
+      "jp": "\t準備はできた\r",
+      "zh": "\t我准备好了\r"
+    }
+  },
+  "21001006": {
+    "EventTextForTalk": {
+      "en": "\tI'd like you to wait\r",
+      "jp": "\t待って欲しい\r",
+      "zh": "\t等我一下\r"
+    }
+  },
+  "21011000": {
+    "EventTextForTalk": {
+      "en": "\tShow your right hand\r",
+      "jp": "\t右手を見せる\r"
+    }
+  },
+  "21011001": {
+    "EventTextForTalk": {
+      "en": "\tShow your left hand\r",
+      "jp": "\t左手を見せる\r"
+    }
+  },
+  "21011002": {
+    "EventTextForTalk": {
+      "en": "\tShow hands\r",
+      "jp": "\t手を見せる\r",
+      "zh": "\t让她看自己的手\r"
+    }
+  },
+  "21011003": {
+    "EventTextForTalk": {
+      "en": "\tShow hands\r",
+      "jp": "\t手を見せる\r",
+      "zh": "\t让她看自己的手\r"
+    }
+  },
+  "21020000": {
+    "EventTextForTalk": {
+      "en": "\tReceive power from remembrance\r",
+      "jp": "\t追憶から力を得る\r",
+      "zh": "\t从追忆获得力量\r"
+    }
+  },
+  "21020001": {
+    "EventTextForTalk": {
+      "en": "\tAbout Great Runes\r",
+      "jp": "\t大ルーンについて\r",
+      "zh": "\t关于大卢恩\r"
+    }
+  },
+  "21020002": {
+    "EventTextForTalk": {
+      "en": "\tAbout Queen Marika\r",
+      "jp": "\t女王マリカについて\r",
+      "zh": "\t关于玛莉卡女王\r"
+    }
+  },
+  "21020003": {
+    "EventTextForTalk": {
+      "en": "\tHow to burn thorns\r",
+      "jp": "\t刺を焼く方法\r",
+      "zh": "\t燃烧刺的方法\r"
+    }
+  },
+  "21020004": {
+    "EventTextForTalk": {
+      "en": "\tI want to burn the impenetrable thorns\r",
+      "jp": "\t拒絶の刺を焼きたい\r",
+      "zh": "\t我想烧掉拒绝的刺\r"
+    }
+  },
+  "21020005": {
+    "EventTextForTalk": {
+      "en": "\tReceive equipment of champions\r",
+      "jp": "\t英雄の防具を得る\r",
+      "zh": "\t获得英雄的防具\r"
+    }
+  },
+  "21060900": {
+    "EventTextForTalk": {
+      "en": "\tTalk to miniature Ranni\r",
+      "jp": "\t小さなラニに話しかける\r",
+      "zh": "\t对娇小菈妮说话\r"
+    }
+  },
+  "21060901": {
+    "EventTextForTalk": {
+      "en": "\tTalk to miniature Ranni\r",
+      "jp": "\t小さなラニに話しかける\r",
+      "zh": "\t对娇小菈妮说话\r"
+    }
+  },
+  "21060902": {
+    "EventTextForTalk": {
+      "en": "\tTalk to miniature Ranni\r",
+      "jp": "\t小さなラニに話しかける\r",
+      "zh": "\t对娇小菈妮说话\r"
+    }
+  },
+  "21060903": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Ranni\r",
+      "jp": "\tラニと話す\r",
+      "zh": "\t和菈妮交谈\r"
+    }
+  },
+  "21060910": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Ranni\r",
+      "jp": "\tラニと話す\r",
+      "zh": "\t和菈妮交谈\r"
+    }
+  },
+  "21060911": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Ranni\r",
+      "jp": "\tラニと話す\r",
+      "zh": "\t和菈妮交谈\r"
+    }
+  },
+  "21060912": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Ranni\r",
+      "jp": "\tラニと話す\r",
+      "zh": "\t和菈妮交谈\r"
+    }
+  },
+  "21060920": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Ranni\r",
+      "jp": "\tラニと話す\r",
+      "zh": "\t和菈妮交谈\r"
+    }
+  },
+  "21060921": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Ranni\r",
+      "jp": "\tラニと話す\r",
+      "zh": "\t和菈妮交谈\r"
+    }
+  },
+  "21060930": {
+    "EventTextForTalk": {
+      "en": "\tTalk to miniature Ranni\r",
+      "jp": "\t小さなラニに話しかける\r",
+      "zh": "\t对娇小菈妮说话\r"
+    }
+  },
+  "21060931": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Ranni\r",
+      "jp": "\tラニと話す\r",
+      "zh": "\t和菈妮交谈\r"
+    }
+  },
+  "21061000": {
+    "EventTextForTalk": {
+      "en": "\tI can call the spectral steed\r",
+      "jp": "\t霊馬を喚んでいる\r",
+      "zh": "\t我能召唤灵马\r"
+    }
+  },
+  "21061001": {
+    "EventTextForTalk": {
+      "en": "\tI cannot call the spectral steed\r",
+      "jp": "\t喚んでいない\r",
+      "zh": "\t我不能\r"
+    }
+  },
+  "21061002": {
+    "EventTextForTalk": {
+      "en": "\tI can call the spectral steed\r",
+      "jp": "\t霊馬を喚んでいる\r",
+      "zh": "\t我能召唤灵马\r"
+    }
+  },
+  "21061003": {
+    "EventTextForTalk": {
+      "en": "\tI cannot call the spectral steed\r",
+      "jp": "\t喚んでいない\r",
+      "zh": "\t我不能\r"
+    }
+  },
+  "21061004": {
+    "EventTextForTalk": {
+      "en": "\tYou must be Ranni the Witch, behind the Night of the Black Knives\r",
+      "jp": "\t魔女ラニ、陰謀の夜の主犯だろう\r",
+      "zh": "\t魔女菈妮是阴谋之夜的主谋吧？\r"
+    }
+  },
+  "21061005": {
+    "EventTextForTalk": {
+      "en": "\tI wish to serve you\r",
+      "jp": "\t貴方に仕えたい\r",
+      "zh": "\t我想要帮忙\r"
+    }
+  },
+  "21061006": {
+    "EventTextForTalk": {
+      "en": "\tNo particular reason\r",
+      "jp": "\t特に用はない\r",
+      "zh": "\t没事\r"
+    }
+  },
+  "21061007": {
+    "EventTextForTalk": {
+      "en": "\tServe Ranni the Witch\r",
+      "jp": "\t魔女ラニに仕える\r",
+      "zh": "\t愿意替魔女菈妮做事\r"
+    }
+  },
+  "21061008": {
+    "EventTextForTalk": {
+      "en": "\tDo not serve\r",
+      "jp": "\t仕えない\r",
+      "zh": "\t不愿意\r"
+    }
+  },
+  "21061009": {
+    "EventTextForTalk": {
+      "en": "\tAdminister Amber Draught?\r",
+      "jp": "\t「琥珀色の精薬」を飲ませますか？\r",
+      "zh": "\t要让她喝“琥珀色药水”吗？\r"
+    }
+  },
+  "21121000": {
+    "EventTextForTalk": {
+      "en": "\tTell him that Radagon is Marika\r",
+      "jp": "\t「ラダゴンとはマリカである」と伝える\r",
+      "zh": "\t告诉他“拉达冈就是玛莉卡”\r"
+    }
+  },
+  "22000000": {
+    "EventTextForTalk": {
+      "en": "\tRebirth\r",
+      "jp": "\t産まれ直し\r",
+      "zh": "\t重新诞生\r"
+    }
+  },
+  "22000001": {
+    "EventTextForTalk": {
+      "en": "\tCosmetics\r",
+      "jp": "\t化粧\r",
+      "zh": "\t化妆\r"
+    }
+  },
+  "22000002": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "22000003": { "EventTextForTalk": { "jp": "\t生まれ変わり\r" } },
+  "22001000": {
+    "EventTextForTalk": {
+      "en": "\tUse a Larval Tear to accept rebirth?\r",
+      "jp": "\t「雫の幼生」を使い、産まれ直しを行いますか？\r",
+      "zh": "\t要使用“泪滴幼体”，重新诞生吗？\r"
+    }
+  },
+  "22001001": {
+    "EventTextForTalk": {
+      "en": "\tSince you weren't reborn with new attributes,\\nthe Larval Tear was not spent\r",
+      "jp": "\t産まれ直しを実行しなかったため、「雫の幼生」は消費されません\r",
+      "zh": "\t取消重新诞生，没有消耗“泪滴幼体”。\r"
+    }
+  },
+  "22001002": {
+    "EventTextForTalk": {
+      "en": "\tA Larval Tear is required for rebirth\r",
+      "jp": "\t産まれ直しには「雫の幼生」が必要です\r",
+      "zh": "\t重新诞生必须要有“泪滴幼体”。\r"
+    }
+  },
+  "22021003": {
+    "EventTextForTalk": {
+      "en": "\tChoose how many to hand over\r",
+      "jp": "\t渡す数を選択してください\r",
+      "zh": "\t请选择交出的数量\r"
+    }
+  },
+  "22130001": {
+    "EventTextForTalk": {
+      "en": "\tStrengthen armament\r",
+      "jp": "\t武器強化\r",
+      "zh": "\t强化武器\r"
+    }
+  },
+  "22130002": {
+    "EventTextForTalk": { "en": "\tRepair Weapon\r", "jp": "\t武器修復\r" }
+  },
+  "22130003": {
+    "EventTextForTalk": {
+      "en": "\tAshes of War\r",
+      "jp": "\t戦灰\r",
+      "zh": "\t战灰\r"
+    }
+  },
+  "22130004": {
+    "EventTextForTalk": {
+      "en": "\tAbout prayer\r",
+      "jp": "\t祈りについて\r",
+      "zh": "\t关于祈祷\r"
+    }
+  },
+  "22130005": {
+    "EventTextForTalk": {
+      "en": "\tAbout Roderika\r",
+      "jp": "\tローデリカについて\r",
+      "zh": "\t关于罗德莉卡\r"
+    }
+  },
+  "22130006": {
+    "EventTextForTalk": {
+      "en": "\tAbout Roderika\r",
+      "jp": "\tローデリカについて\r",
+      "zh": "\t关于罗德莉卡\r"
+    }
+  },
+  "22130007": {
+    "EventTextForTalk": {
+      "en": "\tAbout Roderika\r",
+      "jp": "\tローデリカについて\r",
+      "zh": "\t关于罗德莉卡\r"
+    }
+  },
+  "22130008": {
+    "EventTextForTalk": {
+      "en": "\tAbout Roderika\r",
+      "jp": "\tローデリカについて\r",
+      "zh": "\t关于罗德莉卡\r"
+    }
+  },
+  "22130009": {
+    "EventTextForTalk": {
+      "en": "\tLet's talk a while\r",
+      "jp": "\t少しだけ話を\r",
+      "zh": "\t“听我说个几句吧”\r"
+    }
+  },
+  "22130010": {
+    "EventTextForTalk": {
+      "en": "\tAbout the chains on your legs\r",
+      "jp": "\t足元の鎖について\r",
+      "zh": "\t关于脚边的锁链\r"
+    }
+  },
+  "22130011": {
+    "EventTextForTalk": {
+      "en": "\tYou're a prisoner?\r",
+      "jp": "\t虜囚とは？\r",
+      "zh": "\t什么俘虏？\r"
+    }
+  },
+  "22130012": {
+    "EventTextForTalk": {
+      "en": "\tAbout the god-slaying weapon\r",
+      "jp": "\t神殺しの武器について\r",
+      "zh": "\t关于弒神武器\r"
+    }
+  },
+  "22130013": {
+    "EventTextForTalk": {
+      "en": "\tAbout the god-slaying weapon\r",
+      "jp": "\t神殺しの武器について\r",
+      "zh": "\t关于弒神武器\r"
+    }
+  },
+  "22130014": {
+    "EventTextForTalk": {
+      "en": "\tWhy are you still making weapons?\r",
+      "jp": "\tなぜ、まだ武器を打つ？\r",
+      "zh": "\t你为什么还在锻造武器？\r"
+    }
+  },
+  "22130015": {
+    "EventTextForTalk": {
+      "en": "\tWhat happened to her?\r",
+      "jp": "\t彼女はなんと？\r",
+      "zh": "\t她怎么了？\r"
+    }
+  },
+  "22130016": {
+    "EventTextForTalk": {
+      "en": "\tAbout yourself\r",
+      "jp": "\t貴方について\r",
+      "zh": "\t“你……”\r"
+    }
+  },
+  "22130017": {
+    "EventTextForTalk": {
+      "en": "\tWhat's that little knife for?\r",
+      "jp": "\tそこにある小刀は？\r",
+      "zh": "\t那边的小刀是什么？\r"
+    }
+  },
+  "22130018": {
+    "EventTextForTalk": {
+      "en": "\tAsh of War duplication\r",
+      "jp": "\t戦灰の複製\r",
+      "zh": "\t复制战灰\r"
+    }
+  },
+  "22131000": {
+    "EventTextForTalk": {
+      "en": "\tWould you watch over Roderika?\r",
+      "jp": "\tローデリカを預かってみないか？\r",
+      "zh": "\t你能照顾罗德莉卡吗？\r"
+    }
+  },
+  "22131001": {
+    "EventTextForTalk": {
+      "en": "\tNothing\r",
+      "jp": "\t何でもない\r",
+      "zh": "\t没事\r"
+    }
+  },
+  "22131002": {
+    "EventTextForTalk": {
+      "en": "\tIt's what she wants\r",
+      "jp": "\t彼女がそう望んでいる\r",
+      "zh": "\t这也是出自她的意愿\r"
+    }
+  },
+  "22131003": {
+    "EventTextForTalk": {
+      "en": "\tUnderstood\r",
+      "jp": "\t分かった\r",
+      "zh": "\t好吧\r"
+    }
+  },
+  "22131010": {
+    "EventTextForTalk": {
+      "en": "\tCannot select while entering combat\r",
+      "jp": "\t闘技参戦中は選択できません\r",
+      "zh": "\t参加竞技时，无法选取。\r"
+    }
+  },
+  "22161000": {
+    "EventTextForTalk": {
+      "en": "\tI still don't understand\r",
+      "jp": "\tまだ分からない\r",
+      "zh": "\t还没有情报\r"
+    }
+  },
+  "22161001": {
+    "EventTextForTalk": {
+      "en": "\tTell Sellen's story\r",
+      "jp": "\tセレンの話を伝える\r",
+      "zh": "\t告诉他瑟濂说出的情报\r"
+    }
+  },
+  "22161002": {
+    "EventTextForTalk": {
+      "en": "\tDon't say anything\r",
+      "jp": "\t何も伝えない\r",
+      "zh": "\t不告诉他\r"
+    }
+  },
+  "22161003": {
+    "EventTextForTalk": {
+      "en": "\tTell Iji's story\r",
+      "jp": "\tイジーの話を伝える\r",
+      "zh": "\t告诉他伊吉说出的情报\r"
+    }
+  },
+  "22161004": {
+    "EventTextForTalk": {
+      "en": "\tOpen the evergaol\r",
+      "jp": "\t封牢を開く\r",
+      "zh": "\t打开封印监牢\r"
+    }
+  },
+  "22161005": {
+    "EventTextForTalk": {
+      "en": "\tDon't open it\r",
+      "jp": "\t開かない\r",
+      "zh": "\t不打开\r"
+    }
+  },
+  "22201000": {
+    "EventTextForTalk": {
+      "en": "\tHelp him out\r",
+      "jp": "\t脱出を手伝う\r",
+      "zh": "\t帮忙他脱困\r"
+    }
+  },
+  "22201001": {
+    "EventTextForTalk": {
+      "en": "\tDon't help\r",
+      "jp": "\t手伝わない\r",
+      "zh": "\t不帮忙\r"
+    }
+  },
+  "22230000": {
+    "EventTextForTalk": {
+      "en": "\tAlter garments\r",
+      "jp": "\t衣装の調整\r",
+      "zh": "\t修改服装\r"
+    }
+  },
+  "22230001": {
+    "EventTextForTalk": {
+      "en": "\tDon't tell me...\r",
+      "jp": "\tもしかしたら…？\r",
+      "zh": "\t“我其实在想……”\r"
+    }
+  },
+  "22230002": {
+    "EventTextForTalk": {
+      "en": "\tI'm sorry...\r",
+      "jp": "\tすみません…\r",
+      "zh": "\t“很抱歉……”\r"
+    }
+  },
+  "22230003": {
+    "EventTextForTalk": {
+      "en": "\tGive the Gold Sewing Needle\r",
+      "jp": "\t「黄金の縫い針」を渡す\r",
+      "zh": "\t交出“黄金缝衣针”\r"
+    }
+  },
+  "22230004": {
+    "EventTextForTalk": {
+      "en": "\tSurely she'd be happy for you?\r",
+      "jp": "\t喜んでくれますかね？\r",
+      "zh": "\t“会不会替我高兴呢？”\r"
+    }
+  },
+  "22230005": {
+    "EventTextForTalk": {
+      "en": "\tHave you ever thought so?\r",
+      "jp": "\t思ったことはありますか？\r",
+      "zh": "\t“您有想过吗？”\r"
+    }
+  },
+  "22230006": {
+    "EventTextForTalk": {
+      "en": "\tGive a Larval Tear\r",
+      "jp": "\t「雫の幼生」を渡す\r",
+      "zh": "\t交出“泪滴幼体”\r"
+    }
+  },
+  "22230007": {
+    "EventTextForTalk": {
+      "en": "\tPlease wait\r",
+      "jp": "\tまっていてください\r",
+      "zh": "\t“请您稍待”\r"
+    }
+  },
+  "22230008": {
+    "EventTextForTalk": {
+      "en": "\tWhat do you really think?\r",
+      "jp": "\tほんとは、どう思われてますか？\r",
+      "zh": "\t“您是怎么想的呢？”\r"
+    }
+  },
+  "22230009": {
+    "EventTextForTalk": {
+      "en": "\tI heard a voice\r",
+      "jp": "\t声が聞こえました\r",
+      "zh": "\t“我听到了声音”\r"
+    }
+  },
+  "22230010": {
+    "EventTextForTalk": {
+      "en": "\tThe voice was mine\r",
+      "jp": "\tあれは自分の言葉だ\r",
+      "zh": "\t我的想法就是那样\r"
+    }
+  },
+  "22230011": {
+    "EventTextForTalk": {
+      "en": "\tI have a favor to ask\r",
+      "jp": "\tお願いがあるんです\r",
+      "zh": "\t“我有一个请求”\r"
+    }
+  },
+  "22230012": {
+    "EventTextForTalk": {
+      "en": "\tYou may call me lord\r",
+      "jp": "\t王と呼ぶことを許す\r",
+      "zh": "\t愿意让他称自己为“吾王”\r"
+    }
+  },
+  "22230013": {
+    "EventTextForTalk": {
+      "en": "\tDid you see it?\r",
+      "jp": "\tご覧になりましたか\r",
+      "zh": "\t“您有看见吗？”\r"
+    }
+  },
+  "22231000": {
+    "EventTextForTalk": {
+      "en": "\tGive the Sewing Needle\r",
+      "jp": "\t「縫い針」を渡す\r",
+      "zh": "\t交出“缝衣针”\r"
+    }
+  },
+  "22231001": {
+    "EventTextForTalk": {
+      "en": "\tDon't give it\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "22231002": {
+    "EventTextForTalk": {
+      "en": "\tYou may call me lord\r",
+      "jp": "\t王と呼ぶことを許す\r",
+      "zh": "\t愿意让他称自己为“吾王”\r"
+    }
+  },
+  "22231003": {
+    "EventTextForTalk": {
+      "en": "\tDon't call me that\r",
+      "jp": "\t許さない\r",
+      "zh": "\t不愿意\r"
+    }
+  },
+  "22231004": {
+    "EventTextForTalk": {
+      "en": "\tThat's right\r",
+      "jp": "\tそうだ\r",
+      "zh": "\t是\r"
+    }
+  },
+  "22231005": {
+    "EventTextForTalk": {
+      "en": "\tNot at all\r",
+      "jp": "\t違う\r",
+      "zh": "\t不是\r"
+    }
+  },
+  "22240000": {
+    "EventTextForTalk": {
+      "en": "\tStrengthen armaments\r",
+      "jp": "\t武器強化\r",
+      "zh": "\t强化武器\r"
+    }
+  },
+  "22240001": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "22240002": {
+    "EventTextForTalk": {
+      "en": "\tPlease take care\r",
+      "jp": "\tお気を付けください\r",
+      "zh": "\t“请你当心”\r"
+    }
+  },
+  "22240003": {
+    "EventTextForTalk": {
+      "en": "\tAbout Nokron\r",
+      "jp": "\tノクローンについて\r",
+      "zh": "\t关于诺克隆恩\r"
+    }
+  },
+  "22240005": {
+    "EventTextForTalk": {
+      "en": "\tAbout Blaidd\r",
+      "jp": "\tブライヴについて\r",
+      "zh": "\t关于布莱泽\r"
+    }
+  },
+  "22240006": {
+    "EventTextForTalk": {
+      "en": "\tAbout Jerren\r",
+      "jp": "\tジェーレンについて\r",
+      "zh": "\t关于杰廉\r"
+    }
+  },
+  "22240007": {
+    "EventTextForTalk": {
+      "en": "\tPlease go to the festival grounds\r",
+      "jp": "\t祭りの地に向かってください\r",
+      "zh": "\t“请前往祭典的举办地”\r"
+    }
+  },
+  "22240008": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "22240009": {
+    "EventTextForTalk": {
+      "en": "\tAbout Blaidd\r",
+      "jp": "\tブライヴについて\r",
+      "zh": "\t关于布莱泽\r"
+    }
+  },
+  "22240010": {
+    "EventTextForTalk": {
+      "en": "\tAbout Jerren\r",
+      "jp": "\tジェーレンについて\r",
+      "zh": "\t关于杰廉\r"
+    }
+  },
+  "22240011": {
+    "EventTextForTalk": {
+      "en": "\tWhy is Blaidd in the Evergaol?\r",
+      "jp": "\tブライヴは何故封牢に？\r",
+      "zh": "\t为什么把布莱泽关进封印监牢？\r"
+    }
+  },
+  "22240012": {
+    "EventTextForTalk": {
+      "en": "\tBlaidd's death\r",
+      "jp": "\tブライヴの最期\r",
+      "zh": "\t布莱泽临终之际\r"
+    }
+  },
+  "22240013": {
+    "EventTextForTalk": {
+      "en": "\tAbout advice\r",
+      "jp": "\t忠告について\r",
+      "zh": "\t关于忠告\r"
+    }
+  },
+  "22240014": {
+    "EventTextForTalk": {
+      "en": "\tBlaidd sent me\r",
+      "jp": "\tブライヴに紹介された\r",
+      "zh": "\t布莱泽介绍我来的\r"
+    }
+  },
+  "22240015": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "22240016": {
+    "EventTextForTalk": {
+      "en": "\tAbout Jerren\r",
+      "jp": "\tジェーレンについて\r",
+      "zh": "\t关于杰廉\r"
+    }
+  },
+  "22240017": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "22240018": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "22240020": {
+    "EventTextForTalk": {
+      "en": "\tPurchase\r",
+      "jp": "\t購入する\r",
+      "zh": "\t购买\r"
+    }
+  },
+  "22241010": {
+    "EventTextForTalk": {
+      "en": "\tCannot do this during multiplayer\r",
+      "jp": "\tマルチプレイ中は選択できません\r",
+      "zh": "\t多人联机游玩时，无法选取。\r"
+    }
+  },
+  "22261000": {
+    "EventTextForTalk": {
+      "en": "\tI'll be your Potentate\r",
+      "jp": "\t壺師になる\r",
+      "zh": "\t想当维壶师\r"
+    }
+  },
+  "22261001": {
+    "EventTextForTalk": {
+      "en": "\tI'm no Potentate\r",
+      "jp": "\tならない\r",
+      "zh": "\t不是\r"
+    }
+  },
+  "22261002": {
+    "EventTextForTalk": {
+      "en": "\tGive Alexander's Insides\r",
+      "jp": "\t「アレキサンダーの中身」を渡す\r",
+      "zh": "\t交出“亚历山大的内容物”\r"
+    }
+  },
+  "22261003": {
+    "EventTextForTalk": {
+      "en": "\tDon't give\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "22281000": {
+    "EventTextForTalk": {
+      "en": "\tShow the secret medallion\r",
+      "jp": "\t秘割符を見せる\r",
+      "zh": "\t让她看秘密符节\r"
+    }
+  },
+  "22281001": {
+    "EventTextForTalk": {
+      "en": "\tDon't show it\r",
+      "jp": "\t見せない\r",
+      "zh": "\t不给她看\r"
+    }
+  },
+  "22281002": {
+    "EventTextForTalk": {
+      "en": "\tHear her request\r",
+      "jp": "\t願いを聞く\r",
+      "zh": "\t答应她的请求\r"
+    }
+  },
+  "22281003": {
+    "EventTextForTalk": {
+      "en": "\tRefuse\r",
+      "jp": "\t断る\r",
+      "zh": "\t拒绝\r"
+    }
+  },
+  "22281004": {
+    "EventTextForTalk": {
+      "en": "\tHear her request after all\r",
+      "jp": "\tやはり願いを聞く\r",
+      "zh": "\t还是答应她的请求\r"
+    }
+  },
+  "22281005": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "23001000": {
+    "EventTextForTalk": {
+      "en": "\tJoin Volcano Manor\r",
+      "jp": "\t火山館の一員となる\r",
+      "zh": "\t加入成为火山官邸的一员\r"
+    }
+  },
+  "23001001": {
+    "EventTextForTalk": {
+      "en": "\tDon't join\r",
+      "jp": "\tならない\r",
+      "zh": "\t不加入\r"
+    }
+  },
+  "23001004": {
+    "EventTextForTalk": {
+      "en": "\tSee the Lord\r",
+      "jp": "\t王に見える\r",
+      "zh": "\t愿意觐见王\r"
+    }
+  },
+  "23001005": {
+    "EventTextForTalk": {
+      "en": "\tDon't see the Lord\r",
+      "jp": "\t見えない\r",
+      "zh": "\t不愿意\r"
+    }
+  },
+  "23001006": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "23001007": {
+    "EventTextForTalk": {
+      "en": "\tZorayas's form\r",
+      "jp": "\tゾラーヤスの姿\r",
+      "zh": "\t关于泽菈雅丝的外表\r"
+    }
+  },
+  "23001008": {
+    "EventTextForTalk": {
+      "en": "\tZorayas's troubles\r",
+      "jp": "\tゾラーヤスの悩み\r",
+      "zh": "\t提及泽菈雅丝的烦恼\r"
+    }
+  },
+  "23001009": {
+    "EventTextForTalk": {
+      "en": "\tZorayas's absence\r",
+      "jp": "\tゾラーヤスの不在\r",
+      "zh": "\t泽菈雅丝不见身影\r"
+    }
+  },
+  "23001010": {
+    "EventTextForTalk": {
+      "en": "\tI gave her the potion\r",
+      "jp": "\t薬を飲ませた\r",
+      "zh": "\t我让她喝下药了\r"
+    }
+  },
+  "23001011": {
+    "EventTextForTalk": {
+      "en": "\tZorayas is dead\r",
+      "jp": "\tゾラーヤスは死んだ\r",
+      "zh": "\t泽菈雅丝死了\r"
+    }
+  },
+  "23001012": {
+    "EventTextForTalk": {
+      "en": "\tGive the Dancer's Castanets\r",
+      "jp": "\t「踊り子の打楽器」を渡す\r",
+      "zh": "\t交出“舞娘的打击乐器”\r"
+    }
+  },
+  "23001013": {
+    "EventTextForTalk": {
+      "en": "\tDon't give them\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23011000": {
+    "EventTextForTalk": {
+      "en": "\tI'll fly straight and true!\r",
+      "jp": "\t真の一員を目指す\r",
+      "zh": "\t想成为真正的一员\r"
+    }
+  },
+  "23011001": {
+    "EventTextForTalk": {
+      "en": "\tI don't need a seat\r",
+      "jp": "\t目指さない\r",
+      "zh": "\t不要\r"
+    }
+  },
+  "23011002": {
+    "EventTextForTalk": {
+      "en": "\tThey didn't seem right\r",
+      "jp": "\t違和感があった\r",
+      "zh": "\t我觉得不对劲\r"
+    }
+  },
+  "23011003": {
+    "EventTextForTalk": {
+      "en": "\tThey were magnificent\r",
+      "jp": "\t素晴らしかった\r",
+      "zh": "\t我觉得很感动\r"
+    }
+  },
+  "23011004": {
+    "EventTextForTalk": {
+      "en": "\tAnoint me\r",
+      "jp": "\t騎士となる\r",
+      "zh": "\t愿意成为骑士\r"
+    }
+  },
+  "23011005": {
+    "EventTextForTalk": {
+      "en": "\tI refuse\r",
+      "jp": "\tならない\r",
+      "zh": "\t不愿意\r"
+    }
+  },
+  "23011006": {
+    "EventTextForTalk": {
+      "en": "\tTwo Fingers seemed off\r",
+      "jp": "\t二本指には、違和感があった\r",
+      "zh": "\t我觉得双指不对劲\r"
+    }
+  },
+  "23011007": {
+    "EventTextForTalk": {
+      "en": "\tThey were magnificent\r",
+      "jp": "\t素晴らしかった\r",
+      "zh": "\t我觉得很感动\r"
+    }
+  },
+  "23021000": {
+    "EventTextForTalk": {
+      "en": "\tNo, I'll use the main gate\r",
+      "jp": "\tいや、正門から入る\r",
+      "zh": "\t不要，我要从正门进去\r"
+    }
+  },
+  "23021001": {
+    "EventTextForTalk": {
+      "en": "\tVery well\r",
+      "jp": "\t分かった\r",
+      "zh": "\t我知道了\r"
+    }
+  },
+  "23021002": {
+    "EventTextForTalk": {
+      "en": "\tI want to use the main gate\r",
+      "jp": "\t正門から入りたい\r",
+      "zh": "\t我想从正门进去\r"
+    }
+  },
+  "23021003": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "23021010": {
+    "EventTextForTalk": {
+      "en": "\tLocked by some contraption\r",
+      "jp": "\t仕掛けで閉じられている\r",
+      "zh": "\t被机关锁住，无法开启。\r"
+    }
+  },
+  "23070006": {
+    "EventTextForTalk": {
+      "en": "\tStudy sorcery\r",
+      "jp": "\t魔術を学ぶ\r",
+      "zh": "\t学习魔法\r"
+    }
+  },
+  "23070007": {
+    "EventTextForTalk": {
+      "en": "\tObtain a puppet\r",
+      "jp": "\t傀儡を手に入れる\r",
+      "zh": "\t取得傀儡\r"
+    }
+  },
+  "23070008": {
+    "EventTextForTalk": {
+      "en": "\tAbout your chambers\r",
+      "jp": "\t地下室について\r",
+      "zh": "\t询问关于地下室\r"
+    }
+  },
+  "23070009": {
+    "EventTextForTalk": {
+      "en": "\tAbout Nokron\r",
+      "jp": "\tノクローンについて\r",
+      "zh": "\t询问关于诺克隆恩\r"
+    }
+  },
+  "23070010": {
+    "EventTextForTalk": {
+      "en": "\tI want a new puppet\r",
+      "jp": "\t新しい傀儡が欲しい\r",
+      "zh": "\t我想要新的傀儡\r"
+    }
+  },
+  "23070011": {
+    "EventTextForTalk": {
+      "en": "\tAbout the scheme\r",
+      "jp": "\t秘密の話\r",
+      "zh": "\t关于秘密\r"
+    }
+  },
+  "23070012": {
+    "EventTextForTalk": {
+      "en": "\tGive Amber Starlight\r",
+      "jp": "\t「琥珀の星光」を渡す\r",
+      "zh": "\t交出“琥珀星光”\r"
+    }
+  },
+  "23070013": {
+    "EventTextForTalk": {
+      "en": "\tAbout the draught\r",
+      "jp": "\t精薬について\r",
+      "zh": "\t关于药水\r"
+    }
+  },
+  "23070014": {
+    "EventTextForTalk": {
+      "en": "\tAbout the draught\r",
+      "jp": "\t精薬について\r",
+      "zh": "\t关于药水\r"
+    }
+  },
+  "23070015": {
+    "EventTextForTalk": {
+      "en": "\tAbout your scheme\r",
+      "jp": "\t秘め事について\r",
+      "zh": "\t询问关于秘密\r"
+    }
+  },
+  "23070016": {
+    "EventTextForTalk": {
+      "en": "\tAbout Nepheli\r",
+      "jp": "\tネフェリについて\r",
+      "zh": "\t关于涅斐丽\r"
+    }
+  },
+  "23070017": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23070018": {
+    "EventTextForTalk": {
+      "en": "\tAbout Amber Starlight\r",
+      "jp": "\t琥珀の星光について\r",
+      "zh": "\t关于“琥珀星光”\r"
+    }
+  },
+  "23070019": {
+    "EventTextForTalk": {
+      "en": "\tHand over the scroll\r",
+      "jp": "\tスクロールを渡す\r",
+      "zh": "\t交出卷轴\r"
+    }
+  },
+  "23070020": {
+    "EventTextForTalk": {
+      "en": "\tPurchase\r",
+      "jp": "\t購入する\r",
+      "zh": "\t购买\r"
+    }
+  },
+  "23071001": {
+    "EventTextForTalk": {
+      "en": "\tAccept the task\r",
+      "jp": "\t使いを受ける\r",
+      "zh": "\t愿意帮忙办事\r"
+    }
+  },
+  "23071002": {
+    "EventTextForTalk": {
+      "en": "\tDon't accept\r",
+      "jp": "\t受けない\r",
+      "zh": "\t不愿意\r"
+    }
+  },
+  "23071007": { "EventTextForTalk": { "jp": "\t共に歩む\r" } },
+  "23071008": { "EventTextForTalk": { "jp": "\t共に歩まない\r" } },
+  "23071009": {
+    "EventTextForTalk": {
+      "en": "\tI'm interested\r",
+      "jp": "\t興味がある\r",
+      "zh": "\t有兴趣听\r"
+    }
+  },
+  "23071010": {
+    "EventTextForTalk": {
+      "en": "\tI'm not interested\r",
+      "jp": "\tない\r",
+      "zh": "\t没有\r"
+    }
+  },
+  "23071014": {
+    "EventTextForTalk": {
+      "en": "\tAsk about Nokron\r",
+      "jp": "\tノクローンについて訊く\r",
+      "zh": "\t询问关于诺克隆恩\r"
+    }
+  },
+  "23071015": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "23090000": {
+    "EventTextForTalk": {
+      "en": "\tAbout the bandits\r",
+      "jp": "\t追い剥ぎ団について\r",
+      "zh": "\t询问关于强盗团\r"
+    }
+  },
+  "23090001": {
+    "EventTextForTalk": {
+      "en": "\tThat chest...\r",
+      "jp": "\tそこの宝箱…\r",
+      "zh": "\t那边那个宝箱……\r"
+    }
+  },
+  "23090002": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23090003": {
+    "EventTextForTalk": {
+      "en": "\tWhat you spoke of before\r",
+      "jp": "\tさっきの話\r",
+      "zh": "\t关于刚才的话题\r"
+    }
+  },
+  "23090004": {
+    "EventTextForTalk": {
+      "en": "\tSpeaking of...\r",
+      "jp": "\tそういえば…\r",
+      "zh": "\t“话说回来……”\r"
+    }
+  },
+  "23090006": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23090007": {
+    "EventTextForTalk": {
+      "en": "\tWhat you spoke of before\r",
+      "jp": "\tさっきの話\r",
+      "zh": "\t关于刚才的话题\r"
+    }
+  },
+  "23090008": {
+    "EventTextForTalk": {
+      "en": "\tAbout the previous request\r",
+      "jp": "\tさっきの依頼\r",
+      "zh": "\t刚才那笔委托\r"
+    }
+  },
+  "23090009": {
+    "EventTextForTalk": {
+      "en": "\tAbout the previous request\r",
+      "jp": "\tさっきの依頼\r",
+      "zh": "\t刚才那笔委托\r"
+    }
+  },
+  "23090010": {
+    "EventTextForTalk": {
+      "en": "\tThe request is done\r",
+      "jp": "\t依頼は終わった\r",
+      "zh": "\t委托完成了\r"
+    }
+  },
+  "23090011": {
+    "EventTextForTalk": {
+      "en": "\tAbout Patches\r",
+      "jp": "\tパッチについて\r",
+      "zh": "\t询问关于帕奇\r"
+    }
+  },
+  "23090012": {
+    "EventTextForTalk": {
+      "en": "\tWhat about my reward?\r",
+      "jp": "\t依頼の報酬は？\r",
+      "zh": "\t委托的报酬呢？\r"
+    }
+  },
+  "23091000": {
+    "EventTextForTalk": {
+      "en": "\tForgive and forget\r",
+      "jp": "\t水に流す\r",
+      "zh": "\t当作没发生\r"
+    }
+  },
+  "23091001": {
+    "EventTextForTalk": {
+      "en": "\tSome things can't be forgiven\r",
+      "jp": "\t許さない\r",
+      "zh": "\t不原谅你\r"
+    }
+  },
+  "23101000": {
+    "EventTextForTalk": {
+      "en": "\tDeliver the letter\r",
+      "jp": "\t手紙を届ける\r",
+      "zh": "\t帮忙转交信\r"
+    }
+  },
+  "23101001": {
+    "EventTextForTalk": {
+      "en": "\tRefuse\r",
+      "jp": "\t断る\r",
+      "zh": "\t拒绝\r"
+    }
+  },
+  "23101002": {
+    "EventTextForTalk": {
+      "en": "\tThey're human eyes\r",
+      "jp": "\tそれは人の瞳だ\r",
+      "zh": "\t那是人的眼球\r"
+    }
+  },
+  "23101003": {
+    "EventTextForTalk": {
+      "en": "\tDon't say anything\r",
+      "jp": "\t何も伝えない\r",
+      "zh": "\t保持沉默\r"
+    }
+  },
+  "23101004": {
+    "EventTextForTalk": {
+      "en": "\tGive a Shabriri Grape\r",
+      "jp": "\t「シャブリリのブドウ」を渡す\r",
+      "zh": "\t交出“夏玻利利葡萄”\r"
+    }
+  },
+  "23101005": {
+    "EventTextForTalk": {
+      "en": "\tDon't give a grape\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23101006": {
+    "EventTextForTalk": {
+      "en": "\tGive a Fingerprint Grape\r",
+      "jp": "\t「指痕のブドウ」を渡す\r",
+      "zh": "\t交出“指痕葡萄”\r"
+    }
+  },
+  "23101009": {
+    "EventTextForTalk": {
+      "en": "\tShe's dead\r",
+      "jp": "\t死んでいる\r",
+      "zh": "\t已经回天乏术。\r"
+    }
+  },
+  "23111000": {
+    "EventTextForTalk": {
+      "en": "\tDeliver Irina's Letter\r",
+      "jp": "\t「イレーナの手紙」を渡す\r",
+      "zh": "\t交出“伊蕾娜的信”\r"
+    }
+  },
+  "23111001": {
+    "EventTextForTalk": {
+      "en": "\tDon't give the letter\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23121000": {
+    "EventTextForTalk": {
+      "en": "\tI love a good festival\r",
+      "jp": "\t祭りは好きだ\r",
+      "zh": "\t我喜欢祭典\r"
+    }
+  },
+  "23121001": {
+    "EventTextForTalk": {
+      "en": "\tI'm not the festive type\r",
+      "jp": "\t好きではない\r",
+      "zh": "\t我不喜欢\r"
+    }
+  },
+  "23121002": { "EventTextForTalk": { "jp": "\t古い手紙を見せる\r" } },
+  "23121003": {
+    "EventTextForTalk": {
+      "en": "\tAbout Iji\r",
+      "jp": "\tイジーについて\r",
+      "zh": "\t询问关于伊吉\r"
+    }
+  },
+  "23121004": {
+    "EventTextForTalk": {
+      "en": "\tReady as I'll ever be\r",
+      "jp": "\t準備はよい\r",
+      "zh": "\t准备好了\r"
+    }
+  },
+  "23121005": {
+    "EventTextForTalk": {
+      "en": "\tNot yet\r",
+      "jp": "\tまだだ\r",
+      "zh": "\t还没\r"
+    }
+  },
+  "23131000": {
+    "EventTextForTalk": {
+      "en": "\tHear the request\r",
+      "jp": "\t願いを聞く\r",
+      "zh": "\t答应帮忙\r"
+    }
+  },
+  "23131001": {
+    "EventTextForTalk": {
+      "en": "\tRefuse\r",
+      "jp": "\t断る\r",
+      "zh": "\t拒绝\r"
+    }
+  },
+  "23131002": {
+    "EventTextForTalk": {
+      "en": "\tTake Rya's hand\r",
+      "jp": "\tラーヤの手をとる\r",
+      "zh": "\t牵住菈雅的手\r"
+    }
+  },
+  "23131003": {
+    "EventTextForTalk": {
+      "en": "\tRefuse Rya's hand\r",
+      "jp": "\tとらない\r",
+      "zh": "\t不牵手\r"
+    }
+  },
+  "23131004": {
+    "EventTextForTalk": {
+      "en": "\tTell her of the dark side of Volcano Manor\r",
+      "jp": "\t火山館の裏側を伝える\r",
+      "zh": "\t告诉她火山官邸的内幕\r"
+    }
+  },
+  "23131005": {
+    "EventTextForTalk": {
+      "en": "\tDon't tell her\r",
+      "jp": "\t伝えない\r",
+      "zh": "\t不告诉她\r"
+    }
+  },
+  "23131006": {
+    "EventTextForTalk": {
+      "en": "\tGive Serpent's Amnion\r",
+      "jp": "\t「蛇の羊膜」を渡す\r",
+      "zh": "\t交出“蛇的羊膜”\r"
+    }
+  },
+  "23131007": {
+    "EventTextForTalk": {
+      "en": "\tDon't give it\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23131009": {
+    "EventTextForTalk": {
+      "en": "\tGive Tonic of Forgetfulness\r",
+      "jp": "\t「忘却の秘薬」を渡す\r",
+      "zh": "\t交出“遗忘秘药”\r"
+    }
+  },
+  "23131010": {
+    "EventTextForTalk": {
+      "en": "\tGive Rya's Necklace\r",
+      "jp": "\t「ラーヤの首飾り」を渡す\r",
+      "zh": "\t交出“菈雅的项链”\r"
+    }
+  },
+  "23131011": {
+    "EventTextForTalk": {
+      "en": "\tDon't give it\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23131012": {
+    "EventTextForTalk": {
+      "en": "\tDon't give it\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23141000": {
+    "EventTextForTalk": {
+      "en": "\tYou defended them\r",
+      "jp": "\t守れた\r",
+      "zh": "\t有保护到他们\r"
+    }
+  },
+  "23141001": {
+    "EventTextForTalk": {
+      "en": "\tI'm afraid not\r",
+      "jp": "\t守れなかった\r",
+      "zh": "\t没有保护到\r"
+    }
+  },
+  "23160003": {
+    "EventTextForTalk": {
+      "en": "\tStudy sorcery\r",
+      "jp": "\t魔術を学ぶ\r",
+      "zh": "\t学习魔法\r"
+    }
+  },
+  "23160006": {
+    "EventTextForTalk": {
+      "en": "\tI need to speak with you later\r",
+      "jp": "\t後で話がある\r",
+      "zh": "\t“好好聊一聊吧”\r"
+    }
+  },
+  "23160007": {
+    "EventTextForTalk": {
+      "en": "\tAbout the request\r",
+      "jp": "\t願いについて\r",
+      "zh": "\t关于需要帮忙的内容\r"
+    }
+  },
+  "23160008": {
+    "EventTextForTalk": {
+      "en": "\tAbout the request\r",
+      "jp": "\t願いについて\r",
+      "zh": "\t需要帮忙的内容\r"
+    }
+  },
+  "23160009": {
+    "EventTextForTalk": {
+      "en": "\tShow letter of introduction\r",
+      "jp": "\t紹介状を見せる\r",
+      "zh": "\t拿出介绍信给她看\r"
+    }
+  },
+  "23160010": {
+    "EventTextForTalk": {
+      "en": "\tShow Azur's sorcery\r",
+      "jp": "\tアズールの魔術を見せる\r",
+      "zh": "\t施展亚兹勒的魔法\r"
+    }
+  },
+  "23160011": {
+    "EventTextForTalk": {
+      "en": "\tTell me your story\r",
+      "jp": "\t話とは？\r",
+      "zh": "\t有什么事？\r"
+    }
+  },
+  "23160012": {
+    "EventTextForTalk": {
+      "en": "\tI'll help restore the primeval current\r",
+      "jp": "\tやはり、源流の復興を手伝う\r",
+      "zh": "\t还是想帮忙复兴起源\r"
+    }
+  },
+  "23160013": {
+    "EventTextForTalk": {
+      "en": "\tI have a favor to ask\r",
+      "jp": "\tお前に頼みがある\r",
+      "zh": "\t“有事需要你的帮助”\r"
+    }
+  },
+  "23160014": {
+    "EventTextForTalk": {
+      "en": "\tLusat's location\r",
+      "jp": "\tルーサットの居所を伝える\r",
+      "zh": "\t告诉她卢瑟特的所在地\r"
+    }
+  },
+  "23160015": {
+    "EventTextForTalk": {
+      "en": "\tAbout glintstone sorcery\r",
+      "jp": "\t輝石魔術について\r",
+      "zh": "\t关于辉石魔法\r"
+    }
+  },
+  "23160016": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23160017": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23160018": {
+    "EventTextForTalk": {
+      "en": "\tAbout Lusat\r",
+      "jp": "\tルーサットについて\r",
+      "zh": "\t关于卢瑟特\r"
+    }
+  },
+  "23160019": {
+    "EventTextForTalk": {
+      "en": "\tLusat's location\r",
+      "jp": "\tルーサットの居所を伝える\r",
+      "zh": "\t告诉她卢瑟特的所在地\r"
+    }
+  },
+  "23160020": {
+    "EventTextForTalk": {
+      "en": "\tGive a scroll\r",
+      "jp": "\tスクロールを渡す\r",
+      "zh": "\t交出卷轴\r"
+    }
+  },
+  "23160021": {
+    "EventTextForTalk": {
+      "en": "\tGive the Conspectus Scroll\r",
+      "jp": "\t「教室のスクロール」を渡す\r",
+      "zh": "\t交出“教室卷轴”\r"
+    }
+  },
+  "23160022": {
+    "EventTextForTalk": {
+      "en": "\tGive the Royal House Scroll\r",
+      "jp": "\t「王家のスクロール」を渡す\r",
+      "zh": "\t交出“王室卷轴”\r"
+    }
+  },
+  "23160023": {
+    "EventTextForTalk": {
+      "en": "\tGive Ranni's Scroll\r",
+      "jp": "\tラニのスクロールを渡す\r",
+      "zh": "\t交出菈妮卷轴\r"
+    }
+  },
+  "23160024": {
+    "EventTextForTalk": {
+      "en": "\tGive Sellian Scroll\r",
+      "jp": "\tサリアのスクロールを渡す\r",
+      "zh": "\t交出瑟利亚卷轴\r"
+    }
+  },
+  "23160025": {
+    "EventTextForTalk": {
+      "en": "\tGive Gelmirian Scroll\r",
+      "jp": "\tゲルミアのスクロールを渡す\r",
+      "zh": "\t交出格密尔卷轴\r"
+    }
+  },
+  "23160026": {
+    "EventTextForTalk": {
+      "en": "\tDon't give a scroll\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23160027": {
+    "EventTextForTalk": {
+      "en": "\tLead on Lusat\r",
+      "jp": "\tルーサットの手がかり\r",
+      "zh": "\t关于卢瑟特的线索\r"
+    }
+  },
+  "23160028": {
+    "EventTextForTalk": {
+      "en": "\tGive the Academy Scroll\r",
+      "jp": "\t「学院のスクロール」を渡す\r",
+      "zh": "\t交出“学院卷轴”\r"
+    }
+  },
+  "23161000": {
+    "EventTextForTalk": {
+      "en": "\tI want to learn sorcery\r",
+      "jp": "\t魔術を学びたい\r",
+      "zh": "\t我想学习魔法\r"
+    }
+  },
+  "23161001": {
+    "EventTextForTalk": {
+      "en": "\tNever mind\r",
+      "jp": "\t用はない\r",
+      "zh": "\t没事\r"
+    }
+  },
+  "23161002": {
+    "EventTextForTalk": {
+      "en": "\tI still want to learn\r",
+      "jp": "\tそれでもよい\r",
+      "zh": "\t我还是想拜师\r"
+    }
+  },
+  "23161003": {
+    "EventTextForTalk": {
+      "en": "\tLet me reconsider\r",
+      "jp": "\t考えさせてくれ\r",
+      "zh": "\t让我考虑一下\r"
+    }
+  },
+  "23161006": {
+    "EventTextForTalk": {
+      "en": "\tLet us journey together\r",
+      "jp": "\t共に歩む\r",
+      "zh": "\t愿意共同努力\r"
+    }
+  },
+  "23161007": {
+    "EventTextForTalk": {
+      "en": "\tLet me think about it\r",
+      "jp": "\t考えさせてくれ\r",
+      "zh": "\t让我考虑一下\r"
+    }
+  },
+  "23161008": {
+    "EventTextForTalk": {
+      "en": "\tShow letter of introduction\r",
+      "jp": "\t紹介状を見せる\r",
+      "zh": "\t拿出介绍信给她看\r"
+    }
+  },
+  "23161009": {
+    "EventTextForTalk": {
+      "en": "\tDon't show it\r",
+      "jp": "\t見せない\r",
+      "zh": "\t不给她看\r"
+    }
+  },
+  "23161010": {
+    "EventTextForTalk": {
+      "en": "\tI still want to learn sorcery\r",
+      "jp": "\tそれでも、魔術を学びたい\r",
+      "zh": "\t我还是想拜师学习\r"
+    }
+  },
+  "23161011": {
+    "EventTextForTalk": {
+      "en": "\tI need a bit more time to think\r",
+      "jp": "\tまだ考えさせてくれ\r",
+      "zh": "\t再让我考虑一下\r"
+    }
+  },
+  "23161012": {
+    "EventTextForTalk": {
+      "en": "\tYou can now learn new sorcery\r",
+      "jp": "\t新しい魔術が学べるようになりました\r",
+      "zh": "\t已能学习新的魔法。\r"
+    }
+  },
+  "23190000": {
+    "EventTextForTalk": {
+      "en": "\tStudy incantations\r",
+      "jp": "\t祈祷を学ぶ\r",
+      "zh": "\t学习祷告\r"
+    }
+  },
+  "23190001": {
+    "EventTextForTalk": {
+      "en": "\tAbout D\r",
+      "jp": "\tＤについて\r",
+      "zh": "\t关于Ｄ\r"
+    }
+  },
+  "23190002": {
+    "EventTextForTalk": {
+      "en": "\tAbout Rogier\r",
+      "jp": "\tロジェールについて\r",
+      "zh": "\t关于罗杰尔\r"
+    }
+  },
+  "23190003": {
+    "EventTextForTalk": {
+      "en": "\tGive the Weathered Dagger\r",
+      "jp": "\t「蝕まれた短剣」を渡す\r",
+      "zh": "\t交出“侵蚀短剑”\r"
+    }
+  },
+  "23191002": {
+    "EventTextForTalk": {
+      "en": "\tAccept introduction\r",
+      "jp": "\t紹介を受ける\r",
+      "zh": "\t愿意被推荐\r"
+    }
+  },
+  "23191003": {
+    "EventTextForTalk": {
+      "en": "\tRefuse\r",
+      "jp": "\t断る\r",
+      "zh": "\t拒绝\r"
+    }
+  },
+  "23191004": {
+    "EventTextForTalk": {
+      "en": "\tShow Deathroot\r",
+      "jp": "\t死の根を見せる\r",
+      "zh": "\t让他看“死根”\r"
+    }
+  },
+  "23191005": {
+    "EventTextForTalk": {
+      "en": "\tDon't show it\r",
+      "jp": "\t見せない\r",
+      "zh": "\t不给他看\r"
+    }
+  },
+  "23191006": {
+    "EventTextForTalk": {
+      "en": "\tGive the Weathered Dagger\r",
+      "jp": "\t「蝕まれた短剣」を渡す\r",
+      "zh": "\t交出“侵蚀短剑”\r"
+    }
+  },
+  "23191007": {
+    "EventTextForTalk": {
+      "en": "\tDon't give it\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23191008": {
+    "EventTextForTalk": {
+      "en": "\tGive the Twinned Armor set\r",
+      "jp": "\t「双児の鎧」一式を渡す\r",
+      "zh": "\t交出整套“孪生”系列盔甲\r"
+    }
+  },
+  "23191009": {
+    "EventTextForTalk": {
+      "en": "\tDon't give it\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23191010": {
+    "EventTextForTalk": {
+      "en": "\tHand over the Twinned Armor set?\r",
+      "jp": "\t「双児の鎧」一式を渡しますか？\r",
+      "zh": "\t要交出整套“孪生”系列盔甲吗？\r"
+    }
+  },
+  "23191011": {
+    "EventTextForTalk": {
+      "en": "\tA red mark was made on the map\r",
+      "jp": "\t地図に赤い印が描き込まれました\r",
+      "zh": "\t地图已被画上红色标记。\r"
+    }
+  },
+  "23200000": {
+    "EventTextForTalk": {
+      "en": "\tSpirit Tuning\r",
+      "jp": "\t調霊\r",
+      "zh": "\t调灵\r"
+    }
+  },
+  "23200001": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23200002": {
+    "EventTextForTalk": {
+      "en": "\tAbout Hewg\r",
+      "jp": "\tヒューグについて\r",
+      "zh": "\t关于修古\r"
+    }
+  },
+  "23200003": {
+    "EventTextForTalk": {
+      "en": "\tWhat's happened to Hewg\r",
+      "jp": "\tヒューグの異変\r",
+      "zh": "\t询问修古的异状\r"
+    }
+  },
+  "23200004": {
+    "EventTextForTalk": {
+      "en": "\tThere's something you should know\r",
+      "jp": "\tお知らせしておきたいこと\r",
+      "zh": "\t“有件事情，我想和你说一声”\r"
+    }
+  },
+  "23200005": {
+    "EventTextForTalk": {
+      "en": "\tThere's something you should know\r",
+      "jp": "\tお知らせしておきたいこと\r",
+      "zh": "\t“有件事情，我想和你说一声”\r"
+    }
+  },
+  "23200006": {
+    "EventTextForTalk": {
+      "en": "\tAbout the spirits' voices\r",
+      "jp": "\t霊たちの声について\r",
+      "zh": "\t关于灵魂发出的声音\r"
+    }
+  },
+  "23200007": {
+    "EventTextForTalk": {
+      "en": "\tPlease take care\r",
+      "jp": "\t気を付けてください\r",
+      "zh": "\t“请多加小心”\r"
+    }
+  },
+  "23200008": {
+    "EventTextForTalk": {
+      "en": "\tAbout the spirits' voices\r",
+      "jp": "\t霊たちの声について\r",
+      "zh": "\t关于灵魂发出的声音\r"
+    }
+  },
+  "23200009": {
+    "EventTextForTalk": {
+      "en": "\tPlease\r",
+      "jp": "\tお願い\r",
+      "zh": "\t请求\r"
+    }
+  },
+  "23200010": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23200011": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23201002": {
+    "EventTextForTalk": {
+      "en": "\tGive Chrysalids' Memento\r",
+      "jp": "\t「蛹たちの形見」を渡す\r",
+      "zh": "\t交出“蛹群的遗物”\r"
+    }
+  },
+  "23201003": {
+    "EventTextForTalk": {
+      "en": "\tTell her what the blacksmith said\r",
+      "jp": "\t鍛冶師の言葉を伝える\r",
+      "zh": "\t转达铁匠的话\r"
+    }
+  },
+  "23201004": {
+    "EventTextForTalk": {
+      "en": "\tDon't tell her\r",
+      "jp": "\t伝えない\r",
+      "zh": "\t不转达\r"
+    }
+  },
+  "23201010": {
+    "EventTextForTalk": {
+      "en": "\tCannot select while entering combat\r",
+      "jp": "\t闘技参戦中は選択できません\r",
+      "zh": "\t参加竞技时，无法选取。\r"
+    }
+  },
+  "23211000": {
+    "EventTextForTalk": {
+      "en": "\tPledge service\r",
+      "jp": "\tケネス・ハイトに仕える\r",
+      "zh": "\t愿意为肯尼斯·海德工作\r"
+    }
+  },
+  "23211001": {
+    "EventTextForTalk": {
+      "en": "\tDo not pledge service\r",
+      "jp": "\t仕えない\r",
+      "zh": "\t不愿意\r"
+    }
+  },
+  "23220000": {
+    "EventTextForTalk": {
+      "en": "\tTalk in secret\r",
+      "jp": "\t密かな話\r",
+      "zh": "\t说悄悄话\r"
+    }
+  },
+  "23220001": {
+    "EventTextForTalk": {
+      "en": "\tMay I ask a favor?\r",
+      "jp": "\tお願いをしてもよいでしょうか\r",
+      "zh": "\t“你愿意听听我的请求吗？”\r"
+    }
+  },
+  "23220002": {
+    "EventTextForTalk": {
+      "en": "\tAbout the dagger\r",
+      "jp": "\t渡された短剣について\r",
+      "zh": "\t询问关于收下的短剑\r"
+    }
+  },
+  "23220003": {
+    "EventTextForTalk": {
+      "en": "\tDo you know...?\r",
+      "jp": "\tご存知ですか？\r",
+      "zh": "\t“你知道吗？”\r"
+    }
+  },
+  "23220004": {
+    "EventTextForTalk": {
+      "en": "\tAbout the Black Knifeprint\r",
+      "jp": "\t黒き刃の刻印について\r",
+      "zh": "\t关于黑刀烙印\r"
+    }
+  },
+  "23220005": {
+    "EventTextForTalk": {
+      "en": "\tAbout the Black Knifeprint\r",
+      "jp": "\t黒き刃の刻印について\r",
+      "zh": "\t关于黑刀烙印\r"
+    }
+  },
+  "23220006": {
+    "EventTextForTalk": {
+      "en": "\tAbout Rogier\r",
+      "jp": "\tロジェールについて\r",
+      "zh": "\t关于罗杰尔\r"
+    }
+  },
+  "23220007": {
+    "EventTextForTalk": {
+      "en": "\tTalk in secret\r",
+      "jp": "\t密かな話\r",
+      "zh": "\t说悄悄话\r"
+    }
+  },
+  "23220008": {
+    "EventTextForTalk": {
+      "en": "\tTalk in secret\r",
+      "jp": "\t密かな話\r",
+      "zh": "\t说悄悄话\r"
+    }
+  },
+  "23220009": {
+    "EventTextForTalk": {
+      "en": "\tTalk in secret\r",
+      "jp": "\t密かな話\r",
+      "zh": "\t说悄悄话\r"
+    }
+  },
+  "23220010": {
+    "EventTextForTalk": {
+      "en": "\tTalk in secret\r",
+      "jp": "\t密かな話\r",
+      "zh": "\t说悄悄话\r"
+    }
+  },
+  "23220011": {
+    "EventTextForTalk": {
+      "en": "\tTalk in secret\r",
+      "jp": "\t密かな話\r",
+      "zh": "\t说悄悄话\r"
+    }
+  },
+  "23220012": {
+    "EventTextForTalk": {
+      "en": "\tGive Cursemark of Death\r",
+      "jp": "\t「死の呪痕」を渡す\r",
+      "zh": "\t交出“死亡的咒痕”\r"
+    }
+  },
+  "23220014": {
+    "EventTextForTalk": {
+      "en": "\tTalk in secret\r",
+      "jp": "\t密かな話\r",
+      "zh": "\t说悄悄话\r"
+    }
+  },
+  "23221000": {
+    "EventTextForTalk": {
+      "en": "\tLet her hold you\r",
+      "jp": "\t抱かれる\r",
+      "zh": "\t接受拥抱\r"
+    }
+  },
+  "23221001": {
+    "EventTextForTalk": {
+      "en": "\tRefuse\r",
+      "jp": "\t断る\r",
+      "zh": "\t拒绝\r"
+    }
+  },
+  "23221002": {
+    "EventTextForTalk": {
+      "en": "\tThat's right\r",
+      "jp": "\tそうだ\r",
+      "zh": "\t没错\r"
+    }
+  },
+  "23221003": {
+    "EventTextForTalk": {
+      "en": "\tNo, I want to be held\r",
+      "jp": "\tいや、抱かれたい\r",
+      "zh": "\t没有，我想接受你的拥抱\r"
+    }
+  },
+  "23221004": {
+    "EventTextForTalk": {
+      "en": "\tEnter the Deathbed Dream\r",
+      "jp": "\t死衾の夢に入る\r",
+      "zh": "\t进入死眠梦境\r"
+    }
+  },
+  "23221005": {
+    "EventTextForTalk": {
+      "en": "\tDon't enter\r",
+      "jp": "\t入らない\r",
+      "zh": "\t放弃\r"
+    }
+  },
+  "23221006": {
+    "EventTextForTalk": {
+      "en": "\tEnter the Deathbed Dream?\r",
+      "jp": "\t死衾の夢に入りますか？\r",
+      "zh": "\t要进入死眠梦境吗？\r"
+    }
+  },
+  "23221007": {
+    "EventTextForTalk": {
+      "en": "\tYou found a simple map.\\nCheck in inventory.\r",
+      "jp": "\t簡易な地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了简易地图。\\n请从置物包确认。\r"
+    }
+  },
+  "23231000": {
+    "EventTextForTalk": {
+      "en": "\tLeave your gaol!\r",
+      "jp": "\t牢を出ろ\r",
+      "zh": "\t出来吧\r"
+    }
+  },
+  "23231001": {
+    "EventTextForTalk": {
+      "en": "\tSay nothing\r",
+      "jp": "\t何も言わない\r",
+      "zh": "\t保持沉默\r"
+    }
+  },
+  "23231002": {
+    "EventTextForTalk": {
+      "en": "\tAdminister Seluvis's Potion\r",
+      "jp": "\t「セルブスの精薬」を飲ませる\r",
+      "zh": "\t灌下“赛尔维斯的药水”\r"
+    }
+  },
+  "23231003": {
+    "EventTextForTalk": {
+      "en": "\tUse the Seedbed Curse\r",
+      "jp": "\t「苗床の呪い」を使う\r",
+      "zh": "\t使用“温床的诅咒”\r"
+    }
+  },
+  "23231004": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "23240000": { "EventTextForTalk": { "jp": "\t購入する\r" } },
+  "23240007": {
+    "EventTextForTalk": {
+      "en": "\tAbout Nepheli\r",
+      "jp": "\tネフェリについて\r",
+      "zh": "\t关于涅斐丽\r"
+    }
+  },
+  "23240008": {
+    "EventTextForTalk": {
+      "en": "\tNepheli's despair\r",
+      "jp": "\tネフェリの失意\r",
+      "zh": "\t询问涅斐丽沮丧的原因\r"
+    }
+  },
+  "23240009": {
+    "EventTextForTalk": {
+      "en": "\tAbout Ensha\r",
+      "jp": "\tエンシャについて\r",
+      "zh": "\t关于恩夏\r"
+    }
+  },
+  "23240010": {
+    "EventTextForTalk": {
+      "en": "\tAbout Ensha\r",
+      "jp": "\tエンシャについて\r",
+      "zh": "\t关于恩夏\r"
+    }
+  },
+  "23240012": {
+    "EventTextForTalk": {
+      "en": "\tAbout Godrick\r",
+      "jp": "\tゴドリックについて\r",
+      "zh": "\t关于葛瑞克\r"
+    }
+  },
+  "23240013": {
+    "EventTextForTalk": {
+      "en": "\tAbout Radahn\r",
+      "jp": "\tラダーンについて\r",
+      "zh": "\t关于拉塔恩\r"
+    }
+  },
+  "23240014": {
+    "EventTextForTalk": {
+      "en": "\tAbout Rykard\r",
+      "jp": "\tライカードについて\r",
+      "zh": "\t关于拉卡德\r"
+    }
+  },
+  "23240015": {
+    "EventTextForTalk": {
+      "en": "\tAbout Morgott\r",
+      "jp": "\tモーゴットについて\r",
+      "zh": "\t关于蒙葛特\r"
+    }
+  },
+  "23240016": {
+    "EventTextForTalk": {
+      "en": "\tAbout Rennala\r",
+      "jp": "\tレナラについて\r",
+      "zh": "\t关于蕾娜菈\r"
+    }
+  },
+  "23240017": {
+    "EventTextForTalk": {
+      "en": "\tUnlocated demigods\r",
+      "jp": "\t居場所の分からぬデミゴッド\r",
+      "zh": "\t所在地毫无线索的半神\r"
+    }
+  },
+  "23240018": {
+    "EventTextForTalk": {
+      "en": "\tAbout Radahn\r",
+      "jp": "\tラダーンについて\r",
+      "zh": "\t关于拉塔恩\r"
+    }
+  },
+  "23240019": {
+    "EventTextForTalk": {
+      "en": "\tAbout Rykard\r",
+      "jp": "\tライカードについて\r",
+      "zh": "\t关于拉卡德\r"
+    }
+  },
+  "23240020": {
+    "EventTextForTalk": {
+      "en": "\tAbout Rennala\r",
+      "jp": "\tレナラについて\r",
+      "zh": "\t关于蕾娜菈\r"
+    }
+  },
+  "23240021": {
+    "EventTextForTalk": {
+      "en": "\tAbout the secret medallions\r",
+      "jp": "\t秘割符の情報\r",
+      "zh": "\t秘密符节的情报\r"
+    }
+  },
+  "23240022": {
+    "EventTextForTalk": {
+      "en": "\tThe secret medallions are reunited\r",
+      "jp": "\t秘割符が揃った\r",
+      "zh": "\t凑齐了秘密符节\r"
+    }
+  },
+  "23240023": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23240024": {
+    "EventTextForTalk": {
+      "en": "\tWhere should I go?\r",
+      "jp": "\t向かうべき先\r",
+      "zh": "\t该前往的地方\r"
+    }
+  },
+  "23240025": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23240026": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23240027": {
+    "EventTextForTalk": {
+      "en": "\tUsing the secret medallions\r",
+      "jp": "\t秘割符を使った先\r",
+      "zh": "\t使用秘密符节后抵达的地方\r"
+    }
+  },
+  "23240028": {
+    "EventTextForTalk": {
+      "en": "\tAbout the Haligtree roots\r",
+      "jp": "\t聖樹の根について\r",
+      "zh": "\t关于圣树的根\r"
+    }
+  },
+  "23240029": {
+    "EventTextForTalk": {
+      "en": "\tMohgwyn Palace\r",
+      "jp": "\tモーグウィン王朝\r",
+      "zh": "\t蒙格温王朝\r"
+    }
+  },
+  "23240030": {
+    "EventTextForTalk": {
+      "en": "\tAbout the Lord of Blood's cocoon\r",
+      "jp": "\t血の君主の繭について\r",
+      "zh": "\t关于鲜血君王的茧\r"
+    }
+  },
+  "23240031": {
+    "EventTextForTalk": {
+      "en": "\tShow him Seluvis's Potion\r",
+      "jp": "\t「セルブスの精薬」を見せる\r",
+      "zh": "\t让他看“赛尔维斯的药水”\r"
+    }
+  },
+  "23240032": {
+    "EventTextForTalk": {
+      "en": "\tGive Gideon Seluvis's Potion\r",
+      "jp": "\t「セルブスの精薬」をギデオンに渡す\r",
+      "zh": "\t把“赛尔维斯的药水”交给基甸\r"
+    }
+  },
+  "23240033": {
+    "EventTextForTalk": {
+      "en": "\tAbout Ensha\r",
+      "jp": "\tエンシャについて\r",
+      "zh": "\t关于恩夏\r"
+    }
+  },
+  "23240034": {
+    "EventTextForTalk": {
+      "en": "\tAbout the secret medallions\r",
+      "jp": "\t秘割符の情報\r",
+      "zh": "\t秘密符节的情报\r"
+    }
+  },
+  "23240035": {
+    "EventTextForTalk": {
+      "en": "\tAbout the Lord of Blood's cocoon\r",
+      "jp": "\t血の君主の繭について\r",
+      "zh": "\t关于鲜血君王的茧\r"
+    }
+  },
+  "23241000": {
+    "EventTextForTalk": {
+      "en": "\tWhat do you mean, a house guest?\r",
+      "jp": "\t居候とは？\r",
+      "zh": "\t过客是什么意思？\r"
+    }
+  },
+  "23241001": {
+    "EventTextForTalk": {
+      "en": "\tSay nothing\r",
+      "jp": "\t何も言わない\r",
+      "zh": "\t保持沉默\r"
+    }
+  },
+  "23241002": {
+    "EventTextForTalk": {
+      "en": "\tHand over Seluvis's Potion\r",
+      "jp": "\t「セルブスの精薬」を渡す\r",
+      "zh": "\t交出“赛尔维斯的药水”\r"
+    }
+  },
+  "23241003": {
+    "EventTextForTalk": {
+      "en": "\tDon't hand it over\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23241004": {
+    "EventTextForTalk": {
+      "en": "\tA red mark was made on the map\r",
+      "jp": "\t地図に赤い印が描き込まれました\r",
+      "zh": "\t地图已被画上红色标记。\r"
+    }
+  },
+  "23250000": {
+    "EventTextForTalk": {
+      "en": "\tLearn skills\r",
+      "jp": "\t戦技を学ぶ\r",
+      "zh": "\t学习战技\r"
+    }
+  },
+  "23250001": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23250002": {
+    "EventTextForTalk": {
+      "en": "\tI've defeated Godrick\r",
+      "jp": "\tゴドリックを倒した\r",
+      "zh": "\t我打倒葛瑞克了\r"
+    }
+  },
+  "23250003": {
+    "EventTextForTalk": {
+      "en": "\tAbout the corpse under Stormveil\r",
+      "jp": "\tストームヴィル地下の死体\r",
+      "zh": "\t关于史东薇尔地底的尸体\r"
+    }
+  },
+  "23250004": {
+    "EventTextForTalk": {
+      "en": "\tGive the Black Knifeprint\r",
+      "jp": "\t「黒き刃の刻印」を渡す\r",
+      "zh": "\t交出“黑刀烙印”\r"
+    }
+  },
+  "23250005": {
+    "EventTextForTalk": {
+      "en": "\tRanni cast off her cursemark\r",
+      "jp": "\tラニは呪痕を棄てた\r",
+      "zh": "\t菈妮抛弃了咒痕\r"
+    }
+  },
+  "23250007": {
+    "EventTextForTalk": {
+      "en": "\tAbout D\r",
+      "jp": "\tＤについて\r",
+      "zh": "\t关于Ｄ\r"
+    }
+  },
+  "23250008": {
+    "EventTextForTalk": {
+      "en": "\tWhy do you want a cursemark?\r",
+      "jp": "\tなぜ呪痕を求める？\r",
+      "zh": "\t你为什么要找咒痕？\r"
+    }
+  },
+  "23250009": {
+    "EventTextForTalk": {
+      "en": "\tAbout D\r",
+      "jp": "\tＤについて\r",
+      "zh": "\t关于Ｄ\r"
+    }
+  },
+  "23250010": {
+    "EventTextForTalk": {
+      "en": "\tRogier's proposition\r",
+      "jp": "\tロジェールの提案\r",
+      "zh": "\t罗杰尔的提议\r"
+    }
+  },
+  "23250011": {
+    "EventTextForTalk": {
+      "en": "\tAbout D\r",
+      "jp": "\tＤについて\r",
+      "zh": "\t关于Ｄ\r"
+    }
+  },
+  "23250012": {
+    "EventTextForTalk": {
+      "en": "\tAbout the corpse under Stormveil\r",
+      "jp": "\tストームヴィル地下の死体\r",
+      "zh": "\t关于史东薇尔地底的尸体\r"
+    }
+  },
+  "23250013": {
+    "EventTextForTalk": {
+      "en": "\tRanni's whereabouts\r",
+      "jp": "\tラニの居場所\r",
+      "zh": "\t菈妮的所在地\r"
+    }
+  },
+  "23250014": {
+    "EventTextForTalk": {
+      "en": "\tRanni's whereabouts\r",
+      "jp": "\tラニの居場所\r",
+      "zh": "\t菈妮的所在地\r"
+    }
+  },
+  "23250015": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23251000": {
+    "EventTextForTalk": {
+      "en": "\tI'm here to defeat Godrick\r",
+      "jp": "\t城の主に挑む\r",
+      "zh": "\t为了挑战城主\r"
+    }
+  },
+  "23251001": {
+    "EventTextForTalk": {
+      "en": "\tI can't tell you\r",
+      "jp": "\t答えない\r",
+      "zh": "\t不回答\r"
+    }
+  },
+  "23251004": {
+    "EventTextForTalk": {
+      "en": "\tHanded over the Black Knifeprint\r",
+      "jp": "\t「黒き刃の刻印」を渡しました\r",
+      "zh": "\t已交出“黑刀烙印”。\r"
+    }
+  },
+  "23260000": {
+    "EventTextForTalk": {
+      "en": "\tLearn skills\r",
+      "jp": "\t戦技を学ぶ\r",
+      "zh": "\t学习战技\r"
+    }
+  },
+  "23260001": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23260002": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23261000": {
+    "EventTextForTalk": {
+      "en": "\tMy faith holds firm\r",
+      "jp": "\t信じられる\r",
+      "zh": "\t还是会相信\r"
+    }
+  },
+  "23261001": {
+    "EventTextForTalk": {
+      "en": "\tI'm not sure\r",
+      "jp": "\t分からない\r",
+      "zh": "\t我不知道\r"
+    }
+  },
+  "23261002": {
+    "EventTextForTalk": {
+      "en": "\tI understand\r",
+      "jp": "\t分かっている\r",
+      "zh": "\t我懂\r"
+    }
+  },
+  "23261003": {
+    "EventTextForTalk": {
+      "en": "\tI don't understand\r",
+      "jp": "\t分かっていない\r",
+      "zh": "\t我不懂\r"
+    }
+  },
+  "23300000": {
+    "EventTextForTalk": {
+      "en": "\tStudy sorcery\r",
+      "jp": "\t魔術を学ぶ\r",
+      "zh": "\t学习魔法\r"
+    }
+  },
+  "23300001": {
+    "EventTextForTalk": {
+      "en": "\tAtone\r",
+      "jp": "\t贖罪する\r",
+      "zh": "\t赎罪\r"
+    }
+  },
+  "23300002": {
+    "EventTextForTalk": {
+      "en": "\tShow Celestial Dew\r",
+      "jp": "\t星の雫を見せる\r",
+      "zh": "\t让他看“星星泪滴”\r"
+    }
+  },
+  "23300003": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23300005": {
+    "EventTextForTalk": {
+      "en": "\tAbout the miracle\r",
+      "jp": "\t奇跡について\r",
+      "zh": "\t关于奇迹\r"
+    }
+  },
+  "23300006": {
+    "EventTextForTalk": {
+      "en": "\tAbout absolution\r",
+      "jp": "\t贖罪について\r",
+      "zh": "\t关于赎罪\r"
+    }
+  },
+  "23300007": {
+    "EventTextForTalk": {
+      "en": "\tAbout Radagon\r",
+      "jp": "\tラダゴンについて\r",
+      "zh": "\t关于拉达冈\r"
+    }
+  },
+  "23300008": {
+    "EventTextForTalk": {
+      "en": "\tAbout Radagon\r",
+      "jp": "\tラダゴンについて\r",
+      "zh": "\t关于拉达冈\r"
+    }
+  },
+  "23300009": {
+    "EventTextForTalk": {
+      "en": "\tAbout Rennala\r",
+      "jp": "\tレナラについて\r",
+      "zh": "\t关于蕾娜菈\r"
+    }
+  },
+  "23300010": {
+    "EventTextForTalk": {
+      "en": "\tAbout Rennala\r",
+      "jp": "\tレナラについて\r",
+      "zh": "\t关于蕾娜菈\r"
+    }
+  },
+  "23300011": {
+    "EventTextForTalk": {
+      "en": "\tGive a scroll\r",
+      "jp": "\tスクロールを渡す\r",
+      "zh": "\t交出卷轴\r"
+    }
+  },
+  "23300012": {
+    "EventTextForTalk": {
+      "en": "\tGive a prayerbook\r",
+      "jp": "\t祈祷書を渡す\r",
+      "zh": "\t交出祷告书\r"
+    }
+  },
+  "23300013": {
+    "EventTextForTalk": {
+      "en": "\tStudy incantations\r",
+      "jp": "\t祈祷を学ぶ\r",
+      "zh": "\t学习祷告\r"
+    }
+  },
+  "23301000": {
+    "EventTextForTalk": {
+      "en": "\tI don't know\r",
+      "jp": "\t知らない\r",
+      "zh": "\t没有听过\r"
+    }
+  },
+  "23301001": {
+    "EventTextForTalk": {
+      "en": "\tYou don't need absolution\r",
+      "jp": "\t貴方は贖罪の必要がありません\r",
+      "zh": "\t您没有赎罪的必要。\r"
+    }
+  },
+  "23301002": {
+    "EventTextForTalk": {
+      "en": "\tNo Celestial Dew in inventory\r",
+      "jp": "\t「星の雫」を持っていません\r",
+      "zh": "\t您未持有“星星泪滴”。\r"
+    }
+  },
+  "23301003": {
+    "EventTextForTalk": {
+      "en": "\tUse Celestial Dew to receive absolution?\r",
+      "jp": "\t「星の雫」を使用して、贖罪を行いますか？\r",
+      "zh": "\t要使用“星星泪滴”，进行赎罪吗？\r"
+    }
+  },
+  "23301004": {
+    "EventTextForTalk": {
+      "en": "\tYour sins are absolved\r",
+      "jp": "\t貴方の罪が許されました\r",
+      "zh": "\t您的罪已受到饶恕。\r"
+    }
+  },
+  "23310000": {
+    "EventTextForTalk": {
+      "en": "\tAbout Rya\r",
+      "jp": "\tラーヤについて\r",
+      "zh": "\t关于菈雅\r"
+    }
+  },
+  "23310001": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23310002": {
+    "EventTextForTalk": {
+      "en": "\tYou should probably know... \r",
+      "jp": "\t…言っておいた方がいいだろうな\r",
+      "zh": "\t“……还是说一下好了”\r"
+    }
+  },
+  "23310003": {
+    "EventTextForTalk": {
+      "en": "\tAbout the Dung Eater\r",
+      "jp": "\t糞喰いについて\r",
+      "zh": "\t关于食粪者\r"
+    }
+  },
+  "23310004": {
+    "EventTextForTalk": {
+      "en": "\tAbout the Dung Eater\r",
+      "jp": "\t糞喰いについて\r",
+      "zh": "\t关于食粪者\r"
+    }
+  },
+  "23311000": {
+    "EventTextForTalk": {
+      "en": "\tGive me the necklace\r",
+      "jp": "\t首飾りを渡してくれ\r",
+      "zh": "\t给我项链吧\r"
+    }
+  },
+  "23311001": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "23311002": {
+    "EventTextForTalk": {
+      "en": "\tDeal\r",
+      "jp": "\t分かった\r",
+      "zh": "\t好吧\r"
+    }
+  },
+  "23311003": {
+    "EventTextForTalk": {
+      "en": "\tRefuse\r",
+      "jp": "\t断る\r",
+      "zh": "\t我不要\r"
+    }
+  },
+  "23330000": {
+    "EventTextForTalk": {
+      "en": "\tStudy sorcery\r",
+      "jp": "\t魔術を学ぶ\r",
+      "zh": "\t学习魔法\r"
+    }
+  },
+  "23330001": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23330002": {
+    "EventTextForTalk": {
+      "en": "\tAbout the glintstone key\r",
+      "jp": "\t輝石鍵について\r",
+      "zh": "\t关于辉石钥匙\r"
+    }
+  },
+  "23330004": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23330005": {
+    "EventTextForTalk": {
+      "en": "\tGive the Academy Glintstone Key\r",
+      "jp": "\t「学院の輝石鍵」を渡す\r",
+      "zh": "\t交出“学院辉石钥匙”\r"
+    }
+  },
+  "23330006": {
+    "EventTextForTalk": {
+      "en": "\tAbout Sellen\r",
+      "jp": "\tセレンについて\r",
+      "zh": "\t关于瑟濂\r"
+    }
+  },
+  "23330008": {
+    "EventTextForTalk": {
+      "en": "\tAbout the glintstone key\r",
+      "jp": "\t輝石鍵について\r",
+      "zh": "\t关于辉石钥匙\r"
+    }
+  },
+  "23330009": {
+    "EventTextForTalk": {
+      "en": "\tGive a scroll\r",
+      "jp": "\tスクロールを渡す\r",
+      "zh": "\t交出卷轴\r"
+    }
+  },
+  "23330010": {
+    "EventTextForTalk": {
+      "en": "\tDon't give the scroll\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23331000": {
+    "EventTextForTalk": {
+      "en": "\tDonate <?evntAcquittalPrice?> runes\r",
+      "jp": "\t<?evntAcquittalPrice?>ルーンを恵む\r",
+      "zh": "\t分给他<?evntAcquittalPrice?>卢恩\r"
+    }
+  },
+  "23331001": {
+    "EventTextForTalk": {
+      "en": "\tDon't donate runes\r",
+      "jp": "\t恵まない\r",
+      "zh": "\t不分给他\r"
+    }
+  },
+  "23331003": {
+    "EventTextForTalk": {
+      "en": "\tNot enough runes to donate\r",
+      "jp": "\t恵むルーンが足りません\r",
+      "zh": "\t卢恩不足，无法分给他。\r"
+    }
+  },
+  "23341000": {
+    "EventTextForTalk": {
+      "en": "\tGive Seluvis's Potion\r",
+      "jp": "\t「セルブスの精薬」を渡す\r",
+      "zh": "\t交出“赛尔维斯的药水”\r"
+    }
+  },
+  "23341001": {
+    "EventTextForTalk": {
+      "en": "\tGive the Stormhawk King\r",
+      "jp": "\t「嵐鷹の古王」を渡す\r",
+      "zh": "\t交出“风暴鹰古王”\r"
+    }
+  },
+  "23341002": {
+    "EventTextForTalk": {
+      "en": "\tI heard from Gideon\r",
+      "jp": "\tギデオンから話は聞いた\r",
+      "zh": "\t前因后果我听基甸说了\r"
+    }
+  },
+  "23341003": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "23351001": { "EventTextForTalk": { "jp": "\t要らない\r" } },
+  "23481000": {
+    "EventTextForTalk": {
+      "en": "\tGive an Unalloyed Gold Needle\r",
+      "jp": "\t「無垢金の針」を渡す\r",
+      "zh": "\t交出“纯净金针”\r"
+    }
+  },
+  "23481001": {
+    "EventTextForTalk": {
+      "en": "\tDon't give it\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23481002": {
+    "EventTextForTalk": {
+      "en": "\tGive the Valkyrie's Prosthesis\r",
+      "jp": "\t「戦乙女の義手」を渡す\r",
+      "zh": "\t交出“女武神的义手”\r"
+    }
+  },
+  "23490000": {
+    "EventTextForTalk": {
+      "en": "\tStudy sorcery\r",
+      "jp": "\t魔術を学ぶ\r",
+      "zh": "\t学习魔法\r"
+    }
+  },
+  "23490001": {
+    "EventTextForTalk": {
+      "en": "\tMillicent paid a visit\r",
+      "jp": "\tミリセントが訪ねてきていた\r",
+      "zh": "\t米莉森来过了\r"
+    }
+  },
+  "23490002": {
+    "EventTextForTalk": {
+      "en": "\tI gave Millicent the prosthesis\r",
+      "jp": "\tミリセントに義手を渡した\r",
+      "zh": "\t我把义手交给米莉森了\r"
+    }
+  },
+  "23490003": {
+    "EventTextForTalk": {
+      "en": "\tAbout Millicent\r",
+      "jp": "\tミリセントについて\r",
+      "zh": "\t关于米莉森\r"
+    }
+  },
+  "23490004": {
+    "EventTextForTalk": {
+      "en": "\tAbout Malenia\r",
+      "jp": "\tマレニアについて\r",
+      "zh": "\t关于玛莲妮亚\r"
+    }
+  },
+  "23490005": {
+    "EventTextForTalk": {
+      "en": "\tWhat Millicent said\r",
+      "jp": "\tミリセントの言葉\r",
+      "zh": "\t转述米莉森的话\r"
+    }
+  },
+  "23490006": {
+    "EventTextForTalk": {
+      "en": "\tWhy are you crying?\r",
+      "jp": "\t泣いていた理由\r",
+      "zh": "\t哭泣的原因\r"
+    }
+  },
+  "23490009": {
+    "EventTextForTalk": {
+      "en": "\tBecome a flower?\r",
+      "jp": "\t花となってしまう？\r",
+      "zh": "\t幻化成花？\r"
+    }
+  },
+  "23490010": {
+    "EventTextForTalk": {
+      "en": "\tBecome a flower?\r",
+      "jp": "\t花となってしまう？\r",
+      "zh": "\t幻化成花？\r"
+    }
+  },
+  "23490011": {
+    "EventTextForTalk": {
+      "en": "\tStudy incantations\r",
+      "jp": "\t祈祷を学ぶ\r",
+      "zh": "\t学习祷告\r"
+    }
+  },
+  "23491000": {
+    "EventTextForTalk": {
+      "en": "\tHear the request\r",
+      "jp": "\t願いを聞く\r",
+      "zh": "\t答应请求\r"
+    }
+  },
+  "23491001": {
+    "EventTextForTalk": {
+      "en": "\tRefuse\r",
+      "jp": "\t断る\r",
+      "zh": "\t拒绝\r"
+    }
+  },
+  "23510000": {
+    "EventTextForTalk": {
+      "en": "\tStudy incantations\r",
+      "jp": "\t祈祷を学ぶ\r",
+      "zh": "\t学习祷告\r"
+    }
+  },
+  "23510001": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "23510002": {
+    "EventTextForTalk": {
+      "en": "\tAbout the noble Goldmask\r",
+      "jp": "\t金仮面卿について\r",
+      "zh": "\t关于金面具先生\r"
+    }
+  },
+  "23510003": {
+    "EventTextForTalk": {
+      "en": "\tTell the noble Goldmask's whereabouts\r",
+      "jp": "\t金仮面卿の居場所を教える\r",
+      "zh": "\t告诉他金面具的所在地\r"
+    }
+  },
+  "23510004": {
+    "EventTextForTalk": {
+      "en": "\tAbout the noble Goldmask\r",
+      "jp": "\t金仮面卿について\r",
+      "zh": "\t关于金面具先生\r"
+    }
+  },
+  "23510005": {
+    "EventTextForTalk": {
+      "en": "\tAbout the noble Goldmask\r",
+      "jp": "\t金仮面卿について\r",
+      "zh": "\t关于金面具先生\r"
+    }
+  },
+  "23510006": {
+    "EventTextForTalk": {
+      "en": "\tAbout the noble Goldmask\r",
+      "jp": "\t金仮面卿について\r",
+      "zh": "\t关于金面具先生\r"
+    }
+  },
+  "23510007": {
+    "EventTextForTalk": {
+      "en": "\tAbout the noble Goldmask\r",
+      "jp": "\t金仮面卿について\r",
+      "zh": "\t关于金面具先生\r"
+    }
+  },
+  "23510008": {
+    "EventTextForTalk": {
+      "en": "\tAbout the noble Goldmask\r",
+      "jp": "\t金仮面卿について\r",
+      "zh": "\t关于金面具先生\r"
+    }
+  },
+  "23510009": {
+    "EventTextForTalk": {
+      "en": "\tGive Tonic of Forgetfulness\r",
+      "jp": "\t「忘却の秘薬」を渡す\r",
+      "zh": "\t交出“遗忘秘药”\r"
+    }
+  },
+  "23510010": {
+    "EventTextForTalk": {
+      "en": "\tGive a prayerbook\r",
+      "jp": "\t祈祷書を渡す\r",
+      "zh": "\t交出祷告书\r"
+    }
+  },
+  "23510011": {
+    "EventTextForTalk": {
+      "en": "\tGive the Fire Monks' Prayerbook\r",
+      "jp": "\t「火の僧兵の祈祷書」を渡す\r",
+      "zh": "\t交出“火焰习武修士祷告书”\r"
+    }
+  },
+  "23510012": {
+    "EventTextForTalk": {
+      "en": "\tGive the Giant's Prayerbook\r",
+      "jp": "\t「巨人の祈祷書」を渡す\r",
+      "zh": "\t交出“巨人祷告书”\r"
+    }
+  },
+  "23510013": {
+    "EventTextForTalk": {
+      "en": "\tGive the Godskin Prayerbook\r",
+      "jp": "\t「神肌の祈祷書」を渡す\r",
+      "zh": "\t交出“神皮祷告书”\r"
+    }
+  },
+  "23510014": {
+    "EventTextForTalk": {
+      "en": "\tGive the Two Fingers' Prayerbook\r",
+      "jp": "\t「二本指の祈祷書」を渡す\r",
+      "zh": "\t交出“双指祷告书”\r"
+    }
+  },
+  "23510015": {
+    "EventTextForTalk": {
+      "en": "\tGive the Assassin's Prayerbook\r",
+      "jp": "\t「暗部の祈祷書」を渡す\r",
+      "zh": "\t交出“刺客祷告书”\r"
+    }
+  },
+  "23510016": {
+    "EventTextForTalk": {
+      "en": "\tGive the Erdtree Prayerbook\r",
+      "jp": "\t黄金樹の祈祷書を渡す\r",
+      "zh": "\t交出黄金树祷告书\r"
+    }
+  },
+  "23510017": {
+    "EventTextForTalk": {
+      "en": "\tGive the Erdtree Codex\r",
+      "jp": "\t黄金樹の古文書を渡す\r",
+      "zh": "\t交出黄金树古文书\r"
+    }
+  },
+  "23510018": {
+    "EventTextForTalk": {
+      "en": "\tGive the Golden Order Principia\r",
+      "jp": "\t「黄金律原論」を渡す\r",
+      "zh": "\t交出“黄金律法原本”\r"
+    }
+  },
+  "23510019": {
+    "EventTextForTalk": {
+      "en": "\tGive the Golden Order Canon\r",
+      "jp": "\t黄金律原論を渡す\r",
+      "zh": "\t交出黄金律法原本\r"
+    }
+  },
+  "23510020": {
+    "EventTextForTalk": {
+      "en": "\tGive the Dragon Cult Prayerbook\r",
+      "jp": "\t「竜信仰の祈祷書」を渡す\r",
+      "zh": "\t交出“龙信仰祷告书”\r"
+    }
+  },
+  "23510021": {
+    "EventTextForTalk": {
+      "en": "\tGive the Ancient Dragon Prayerbook\r",
+      "jp": "\t「古き竜の祈祷書」を渡す\r",
+      "zh": "\t交出“古龙祷告书”\r"
+    }
+  },
+  "23510022": {
+    "EventTextForTalk": {
+      "en": "\tDon't give a prayerbook\r",
+      "jp": "\t渡さない\r",
+      "zh": "\t不交出\r"
+    }
+  },
+  "23511000": {
+    "EventTextForTalk": {
+      "en": "\tI see it\r",
+      "jp": "\t見えている\r",
+      "zh": "\t我看得见\r"
+    }
+  },
+  "23511001": {
+    "EventTextForTalk": {
+      "en": "\tI don't see it\r",
+      "jp": "\t見えていない\r",
+      "zh": "\t看不见\r"
+    }
+  },
+  "24050000": {
+    "EventTextForTalk": {
+      "en": "\tImbibe nectar\r",
+      "jp": "\t蜜を吸う\r",
+      "zh": "\t吸取花蜜\r"
+    }
+  },
+  "24050001": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24060000": {
+    "EventTextForTalk": {
+      "en": "\tDevour draconic essence\r",
+      "jp": "\t竜の力を喰らう\r",
+      "zh": "\t我想吞下龙的力量\r"
+    }
+  },
+  "24060001": {
+    "EventTextForTalk": {
+      "en": "\tDo not partake\r",
+      "jp": "\t喰らわない\r",
+      "zh": "\t不想\r"
+    }
+  },
+  "24060002": {
+    "EventTextForTalk": {
+      "en": "\tUse Thiollier's concoction\r",
+      "jp": "\tティエリエの秘薬を含ませる\r",
+      "zh": "\t把“休里耶的秘药”倒入口中\r"
+    }
+  },
+  "24060003": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24060004": {
+    "EventTextForTalk": {
+      "en": "\tConfess to putting her to sleep\r",
+      "jp": "\t眠らせたのは自分だと伝える\r",
+      "zh": "\t你会陷入沉睡，是我造成的\r"
+    }
+  },
+  "24060005": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24060006": {
+    "EventTextForTalk": {
+      "en": "\tTake her with you\r",
+      "jp": "\t連れていく\r",
+      "zh": "\t带领她一起前进\r"
+    }
+  },
+  "24060007": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24061000": {
+    "EventTextForTalk": {
+      "en": "\tAsk for power\r",
+      "jp": "\t力を望む\r",
+      "zh": "\t我渴望力量\r"
+    }
+  },
+  "24061001": {
+    "EventTextForTalk": {
+      "en": "\tAsk about Bayle\r",
+      "jp": "\tベールについて\r",
+      "zh": "\t关于贝勒\r"
+    }
+  },
+  "24061002": {
+    "EventTextForTalk": {
+      "en": "\tAsk about Igon\r",
+      "jp": "\tエーゴンについて\r",
+      "zh": "\t关于埃贡\r"
+    }
+  },
+  "24061003": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24090000": {
+    "EventTextForTalk": {
+      "en": "\tTell her you were attacked by a Swordhand of Night underground\r",
+      "jp": "\t地下で襲われた、夜の剣士について\r",
+      "zh": "\t关于在地底袭击自己的黑夜剑士\r"
+    }
+  },
+  "24090001": {
+    "EventTextForTalk": {
+      "en": "\tSay nothing\r",
+      "jp": "\t何も言わない\r",
+      "zh": "\t保持沉默\r"
+    }
+  },
+  "24090002": {
+    "EventTextForTalk": {
+      "en": "\tUse Iris of Grace\r",
+      "jp": "\t「祝福の瞳膜」を使う\r",
+      "zh": "\t使用“赐福覆眼膜”\r"
+    }
+  },
+  "24090003": {
+    "EventTextForTalk": {
+      "en": "\tUse Iris of Occultation\r",
+      "jp": "\t「暗闇の瞳膜」を使う\r",
+      "zh": "\t使用“黑暗覆眼膜”\r"
+    }
+  },
+  "24090004": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24121000": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121001": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121002": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121003": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121004": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121005": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121006": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121007": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121008": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121009": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121010": {
+    "EventTextForTalk": {
+      "en": "\tUsher Anna into Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰に、アンナを取り込みますか？\r",
+      "zh": "\t要将安娜放入“黑夜剑士”约兰的骨灰里吗？\r"
+    }
+  },
+  "24121011": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121012": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121013": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121014": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121015": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121016": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121017": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121018": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121019": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121020": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121021": {
+    "EventTextForTalk": {
+      "en": "\tRemove Anna from Swordhand of Night Jolán's spirit ashes?\r",
+      "jp": "\tヨラーンとアンナの遺灰から、アンナを取り除きますか？\r",
+      "zh": "\t要从约兰与安娜的骨灰之中，拿出安娜吗？\r"
+    }
+  },
+  "24121022": {
+    "EventTextForTalk": {
+      "en": "\tSwordhand of Night Jolán's spirit ashes not in inventory\r",
+      "jp": "\t夜の剣士、ヨラーンの遺灰を持っていません\r",
+      "zh": "\t您未持有“黑夜剑士”约兰的骨灰。\r"
+    }
+  },
+  "24121023": {
+    "EventTextForTalk": {
+      "en": "\tNeither Anna's nor Jolán's spirit ashes are in inventory\r",
+      "jp": "\tヨラーンとアンナの遺灰を持っていません\r",
+      "zh": "\t您未持有约兰与安娜的骨灰。\r"
+    }
+  },
+  "24121024": {
+    "EventTextForTalk": {
+      "en": "\tUshered Anna into Swordhand of Night Jolán's spirit ashes\r",
+      "jp": "\t遺灰にアンナを取り込みました\r",
+      "zh": "\t已将安娜放入骨灰之中。\r"
+    }
+  },
+  "24121025": {
+    "EventTextForTalk": {
+      "en": "\tRemoved Anna from Swordhand of Night Jolán's spirit ashes\r",
+      "jp": "\t遺灰からアンナを取り除きました\r",
+      "zh": "\t已从骨灰之中拿出安娜。\r"
+    }
+  },
+  "24121026": {
+    "EventTextForTalk": {
+      "en": "\tPuppet of Anna\r",
+      "jp": "\tアンナの傀儡\r",
+      "zh": "\t安娜的傀儡。\r"
+    }
+  },
+  "24130000": {
+    "EventTextForTalk": {
+      "en": "\tUse Iris of Grace\r",
+      "jp": "\t「祝福の瞳膜」を使う\r",
+      "zh": "\t使用“赐福覆眼膜”\r"
+    }
+  },
+  "24130001": {
+    "EventTextForTalk": {
+      "en": "\tUse Iris of Occultation\r",
+      "jp": "\t「暗闇の瞳膜」を使う\r",
+      "zh": "\t使用“黑暗覆眼膜”\r"
+    }
+  },
+  "24130002": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24140000": {
+    "EventTextForTalk": {
+      "en": "\tGive scorpion stew\r",
+      "jp": "\tサソリ煮込みを渡す\r",
+      "zh": "\t交出“炖煮蝎子”\r"
+    }
+  },
+  "24140001": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24141000": {
+    "EventTextForTalk": {
+      "en": "\tMap of cross sites received.\\nCheck in inventory.\r",
+      "jp": "\t十字の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了十字记号的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "24141001": {
+    "EventTextForTalk": {
+      "en": "\tMap of cross sites received.\\nCheck in inventory.\r",
+      "jp": "\t十字の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了十字记号的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "24142000": {
+    "EventTextForTalk": {
+      "en": "\tMap to old ruins received.\\nCheck in inventory.\r",
+      "jp": "\t遺跡の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了遗迹的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "24142001": {
+    "EventTextForTalk": {
+      "en": "\tMap to old ruins received.\\nCheck in inventory.\r",
+      "jp": "\t遺跡の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了遗迹的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "24142002": {
+    "EventTextForTalk": {
+      "en": "\tMap to old ruins received.\\nCheck in inventory.\r",
+      "jp": "\t遺跡の地図を手に入れました\\nインベントリから確認してください\r",
+      "zh": "\t获得了遗迹的地图。\\n请从置物包确认。\r"
+    }
+  },
+  "24150000": {
+    "EventTextForTalk": {
+      "en": "\tPut it behind you\r",
+      "jp": "\t忘れてしまえばいい\r",
+      "zh": "\t忘记就行了\r"
+    }
+  },
+  "24150001": {
+    "EventTextForTalk": {
+      "en": "\tRemain sad forever\r",
+      "jp": "\tずっと、悲しいままだ\r",
+      "zh": "\t就一直很伤心吧\r"
+    }
+  },
+  "24150002": {
+    "EventTextForTalk": {
+      "en": "\tI don't know\r",
+      "jp": "\t分からない\r",
+      "zh": "\t我不知道\r"
+    }
+  },
+  "24151000": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Moore\r",
+      "jp": "\tムーアと話す\r",
+      "zh": "\t和穆尔交谈\r"
+    }
+  },
+  "24151001": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Moore\r",
+      "jp": "\tムーアと話す\r",
+      "zh": "\t和穆尔交谈\r"
+    }
+  },
+  "24151002": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Moore\r",
+      "jp": "\tムーアと話す\r",
+      "zh": "\t和穆尔交谈\r"
+    }
+  },
+  "24151003": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Moore\r",
+      "jp": "\tムーアと話す\r",
+      "zh": "\t和穆尔交谈\r"
+    }
+  },
+  "24151004": {
+    "EventTextForTalk": {
+      "en": "\tPurchase\r",
+      "jp": "\t購入する\r",
+      "zh": "\t购买\r"
+    }
+  },
+  "24151005": {
+    "EventTextForTalk": {
+      "en": "\tSell\r",
+      "jp": "\t売却する\r",
+      "zh": "\t卖出\r"
+    }
+  },
+  "24151006": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24151007": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Moore\r",
+      "jp": "\tムーアと話す\r",
+      "zh": "\t和穆尔交谈\r"
+    }
+  },
+  "24151008": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Moore\r",
+      "jp": "\tムーアと話す\r",
+      "zh": "\t和穆尔交谈\r"
+    }
+  },
+  "24151009": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Moore\r",
+      "jp": "\tムーアと話す\r",
+      "zh": "\t和穆尔交谈\r"
+    }
+  },
+  "24151010": {
+    "EventTextForTalk": {
+      "en": "\tTalk to Moore\r",
+      "jp": "\tムーアと話す\r",
+      "zh": "\t和穆尔交谈\r"
+    }
+  },
+  "24160000": {
+    "EventTextForTalk": {
+      "en": "\tSpeak of the cross at the tower\r",
+      "jp": "\t塔にあった十字を教える\r",
+      "zh": "\t告诉他塔附近的十字记号\r"
+    }
+  },
+  "24160001": {
+    "EventTextForTalk": {
+      "en": "\tSpeak of the cross where the eye was abandoned\r",
+      "jp": "\t瞳が棄てられた十字を教える\r",
+      "zh": "\t告诉他弃置眼眸的十字记号\r"
+    }
+  },
+  "24160002": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24160003": {
+    "EventTextForTalk": {
+      "en": "\tHand over Secret Rite Scroll\r",
+      "jp": "\t「秘儀の巻物」を渡す\r",
+      "zh": "\t交出“秘密仪式卷轴”\r"
+    }
+  },
+  "24160004": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24160005": {
+    "EventTextForTalk": {
+      "en": "\tPass on Freyja's message\r",
+      "jp": "\tフレイヤの言葉を伝える\r",
+      "zh": "\t转达弗蕾亚的话\r"
+    }
+  },
+  "24160006": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24160007": {
+    "EventTextForTalk": {
+      "en": "\tAsk about the person in verdigris armor\r",
+      "jp": "\t緑青鎧の人物について\r",
+      "zh": "\t关于身穿铜绿盔甲的人\r"
+    }
+  },
+  "24160008": {
+    "EventTextForTalk": {
+      "en": "\tTell him about Freyja's decision\r",
+      "jp": "\tフレイヤの状況を伝える\r",
+      "zh": "\t告知弗蕾亚的近况\r"
+    }
+  },
+  "24160009": {
+    "EventTextForTalk": {
+      "en": "\tAsk about Thiollier\r",
+      "jp": "\tティエリエについて\r",
+      "zh": "\t关于休里耶\r"
+    }
+  },
+  "24160010": {
+    "EventTextForTalk": {
+      "en": "\tAsk about Mohg's death\r",
+      "jp": "\tモーグの死について\r",
+      "zh": "\t关于蒙格的死因\r"
+    }
+  },
+  "24160011": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24160012": {
+    "EventTextForTalk": {
+      "en": "\tSpeak of the cross at the coast\r",
+      "jp": "\t海岸にあった十字を教える\r",
+      "zh": "\t告诉他海岸附近的十字记号\r"
+    }
+  },
+  "24170000": {
+    "EventTextForTalk": {
+      "en": "\tWhat do you intend to look into?\r",
+      "jp": "\t確かめておきたいこと、とは？\r",
+      "zh": "\t你想查证什么事？\r"
+    }
+  },
+  "24170001": {
+    "EventTextForTalk": {
+      "en": "\tWhat if you become our enemy?\r",
+      "jp": "\t敵対するかもしれない？\r",
+      "zh": "\t你要变成敌人了吗？\r"
+    }
+  },
+  "24170002": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24170003": {
+    "EventTextForTalk": {
+      "en": "\tPass on Letter for Freyja\r",
+      "jp": "\t「フレイヤへの手紙」を渡す\r",
+      "zh": "\t交出“给弗蕾亚的信”\r"
+    }
+  },
+  "24170004": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24170005": {
+    "EventTextForTalk": {
+      "en": "\tAsk about that other man\r",
+      "jp": "\tもう一人の男について\r",
+      "zh": "\t关于另一位男性\r"
+    }
+  },
+  "24170006": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24170007": {
+    "EventTextForTalk": {
+      "en": "\tAsk about the damage to her helm\r",
+      "jp": "\t兜の傷について\r",
+      "zh": "\t关于头盔上的裂痕\r"
+    }
+  },
+  "24170008": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24170009": {
+    "EventTextForTalk": {
+      "en": "\tAsk about the missing man\r",
+      "jp": "\tいなくなった男について\r",
+      "zh": "\t关于消失不见的男性\r"
+    }
+  },
+  "24180000": {
+    "EventTextForTalk": {
+      "en": "\tSuggest Thiollier\r",
+      "jp": "\tティエリエを提案する\r",
+      "zh": "\t提议处置休里耶\r"
+    }
+  },
+  "24180001": {
+    "EventTextForTalk": {
+      "en": "\tSuggest the hornsent\r",
+      "jp": "\t角人を提案する\r",
+      "zh": "\t提议处置角人\r"
+    }
+  },
+  "24180002": {
+    "EventTextForTalk": {
+      "en": "\tMake no suggestion\r",
+      "jp": "\t誰も提案しない\r",
+      "zh": "\t不提议任何人\r"
+    }
+  },
+  "24181002": {
+    "EventTextForTalk": {
+      "en": "\tAsk about the hornsent\r",
+      "jp": "\t角人について\r",
+      "zh": "\t关于角人\r"
+    }
+  },
+  "24181006": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24181007": {
+    "EventTextForTalk": {
+      "en": "\tAsk about the silent monk\r",
+      "jp": "\t無口な僧について\r",
+      "zh": "\t关于沉默不语的修士\r"
+    }
+  },
+  "24190004": {
+    "EventTextForTalk": {
+      "en": "\tPass on St. Trina's words\r",
+      "jp": "\tトリーナの言葉を伝える\r",
+      "zh": "\t转达托莉娜的话\r"
+    }
+  },
+  "24190005": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24190006": {
+    "EventTextForTalk": {
+      "en": "\tTry to pass on St. Trina's words again\r",
+      "jp": "\tもう一度、トリーナの言葉を伝える\r",
+      "zh": "\t再一次转达托莉娜的话\r"
+    }
+  },
+  "24190007": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24190008": {
+    "EventTextForTalk": {
+      "en": "\tPass on St. Trina's words\r",
+      "jp": "\tトリーナの言葉を伝える\r",
+      "zh": "\t转达托莉娜的话\r"
+    }
+  },
+  "24190009": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24191000": {
+    "EventTextForTalk": {
+      "en": "\tPurchase\r",
+      "jp": "\t購入する\r",
+      "zh": "\t购买\r"
+    }
+  },
+  "24191001": {
+    "EventTextForTalk": {
+      "en": "\tSell\r",
+      "jp": "\t売却する\r",
+      "zh": "\t卖出\r"
+    }
+  },
+  "24191002": {
+    "EventTextForTalk": {
+      "en": "\tGive black syrup\r",
+      "jp": "\t「黒いシロップ」を渡す\r",
+      "zh": "\t交出“黑色浓浆”\r"
+    }
+  },
+  "24191003": {
+    "EventTextForTalk": {
+      "en": "\tAsk about black syrup\r",
+      "jp": "\t「黒いシロップ」について\r",
+      "zh": "\t关于“黑色浓浆”\r"
+    }
+  },
+  "24191004": {
+    "EventTextForTalk": {
+      "en": "\tI'm weary of life\r",
+      "jp": "\t生きることに疲れた\r",
+      "zh": "\t我觉得活着很累\r"
+    }
+  },
+  "24191005": {
+    "EventTextForTalk": {
+      "en": "\tTell him St. Trina's whereabouts\r",
+      "jp": "\tトリーナの居場所を伝える\r",
+      "zh": "\t告诉他托莉娜的所在地\r"
+    }
+  },
+  "24191006": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "24201000": {
+    "EventTextForTalk": {
+      "en": "\tStudy sorcery\r",
+      "jp": "\t魔術を学ぶ\r",
+      "zh": "\t学习魔法\r"
+    }
+  },
+  "24201001": {
+    "EventTextForTalk": {
+      "en": "\tAsk about glintstone sorcery\r",
+      "jp": "\t輝石魔術について\r",
+      "zh": "\t关于辉石魔法\r"
+    }
+  },
+  "24201002": {
+    "EventTextForTalk": {
+      "en": "\tAsk about the knight in black armor\r",
+      "jp": "\t黒鎧の騎士について\r",
+      "zh": "\t关于黑铠骑士\r"
+    }
+  },
+  "24201003": {
+    "EventTextForTalk": {
+      "en": "\tAsk about the nature of the world\r",
+      "jp": "\tこの世界について\r",
+      "zh": "\t关于这个世界\r"
+    }
+  },
+  "24201004": {
+    "EventTextForTalk": {
+      "en": "\tAsk about Miquella\r",
+      "jp": "\tミケラについて\r",
+      "zh": "\t关于米凯拉\r"
+    }
+  },
+  "24201005": {
+    "EventTextForTalk": {
+      "en": "\tAsk about the nature of the world\r",
+      "jp": "\tこの世界について\r",
+      "zh": "\t关于这个世界\r"
+    }
+  },
+  "24201006": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "26000000": {
+    "EventTextForTalk": {
+      "en": "\tOffer a bell bearing\r",
+      "jp": "\t鈴玉を捧げる\r",
+      "zh": "\t献上铃珠\r"
+    }
+  },
+  "26000001": {
+    "EventTextForTalk": {
+      "en": "\tCancel\r",
+      "jp": "\tやめる\r",
+      "zh": "\t放弃\r"
+    }
+  },
+  "26000004": {
+    "EventTextForTalk": {
+      "en": "\tGo back\r",
+      "jp": "\t戻る\r",
+      "zh": "\t返回\r"
+    }
+  },
+  "26000010": {
+    "EventTextForTalk": {
+      "en": "\tPurchase\r",
+      "jp": "\t購入する\r",
+      "zh": "\t购买\r"
+    }
+  },
+  "26000011": {
+    "EventTextForTalk": {
+      "en": "\tBell Bearing Shop 1\r",
+      "jp": "\t鈴玉取引１\r",
+      "zh": "\t铃珠交易１\r"
+    }
+  },
+  "26000012": {
+    "EventTextForTalk": {
+      "en": "\tBell Bearing Shop 2\r",
+      "jp": "\t鈴玉取引２\r",
+      "zh": "\t铃珠交易２\r"
+    }
+  },
+  "26000013": {
+    "EventTextForTalk": {
+      "en": "\tBell Bearing Shop 3\r",
+      "jp": "\t鈴玉取引３\r",
+      "zh": "\t铃珠交易３\r"
+    }
+  },
+  "26000014": {
+    "EventTextForTalk": {
+      "en": "\tBell Bearing Shop 4\r",
+      "jp": "\t鈴玉取引４\r",
+      "zh": "\t铃珠交易４\r"
+    }
+  },
+  "26000020": {
+    "EventTextForTalk": {
+      "en": "\tSellen's Bell Bearing\r",
+      "jp": "\tセレンの鈴玉\r",
+      "zh": "\t瑟濂的铃珠\r"
+    }
+  },
+  "26000021": {
+    "EventTextForTalk": {
+      "en": "\tSeluvis's Bell Bearing\r",
+      "jp": "\tセルブスの鈴玉\r",
+      "zh": "\t赛尔维斯的铃珠\r"
+    }
+  },
+  "26000022": {
+    "EventTextForTalk": {
+      "en": "\tSeluvis's Bell Bearing\r",
+      "jp": "\tセルブスの鈴玉\r",
+      "zh": "\t赛尔维斯的铃珠\r"
+    }
+  },
+  "26000023": {
+    "EventTextForTalk": {
+      "en": "\tThops's Bell Bearing\r",
+      "jp": "\tトープスの鈴玉\r",
+      "zh": "\t托普斯的铃珠\r"
+    }
+  },
+  "26000024": {
+    "EventTextForTalk": {
+      "en": "\tCorhyn's Bell Bearing\r",
+      "jp": "\tコリンの鈴玉\r",
+      "zh": "\t柯林的铃珠\r"
+    }
+  },
+  "26000025": {
+    "EventTextForTalk": {
+      "en": "\tMiriel's Bell Bearing (Sorcery)\r",
+      "jp": "\tミリエルの鈴玉（魔術）\r",
+      "zh": "\t米利耶的铃珠（魔法）\r"
+    }
+  },
+  "26000026": {
+    "EventTextForTalk": {
+      "en": "\tD's Bell Bearing\r",
+      "jp": "\tＤの鈴玉\r",
+      "zh": "\tＤ的铃珠\r"
+    }
+  },
+  "26000027": {
+    "EventTextForTalk": {
+      "en": "\tGowry's Bell Bearing (Sorcery)\r",
+      "jp": "\tゴーリーの鈴玉（魔術）\r",
+      "zh": "\t格威的铃珠（魔法）\r"
+    }
+  },
+  "26000028": {
+    "EventTextForTalk": {
+      "en": "\tRogier's Bell Bearing\r",
+      "jp": "\tロジェールの鈴玉\r",
+      "zh": "\t罗杰尔的铃珠\r"
+    }
+  },
+  "26000029": {
+    "EventTextForTalk": {
+      "en": "\tBernahl's Bell Bearing\r",
+      "jp": "\tベルナールの鈴玉\r",
+      "zh": "\t贝纳尔的铃珠\r"
+    }
+  },
+  "26000030": {
+    "EventTextForTalk": {
+      "en": "\tIji's Bell Bearing\r",
+      "jp": "\tイジーの鈴玉\r",
+      "zh": "\t伊吉的铃珠\r"
+    }
+  },
+  "26000031": {
+    "EventTextForTalk": {
+      "en": "\tMiriel's Bell Bearing (Incantations)\r",
+      "jp": "\tミリエルの鈴玉（祈祷）\r",
+      "zh": "\t米利耶的铃珠（祷告）\r"
+    }
+  },
+  "26000032": {
+    "EventTextForTalk": {
+      "en": "\tGowry's Bell Bearing (Incantations)\r",
+      "jp": "\tゴーリーの鈴玉（祈祷）\r",
+      "zh": "\t格威的铃珠（祷告）\r"
+    }
+  },
+  "26000040": {
+    "EventTextForTalk": {
+      "en": "\tGostoc's Bell Bearing\r",
+      "jp": "\tゴストークの鈴玉\r",
+      "zh": "\t葛托克的铃珠\r"
+    }
+  },
+  "26000041": {
+    "EventTextForTalk": {
+      "en": "\tPidia's Bell Bearing\r",
+      "jp": "\tピディの鈴玉\r",
+      "zh": "\t毕迪的铃珠\r"
+    }
+  },
+  "26000042": {
+    "EventTextForTalk": {
+      "en": "\tPatches' Bell Bearing\r",
+      "jp": "\tパッチの鈴玉\r",
+      "zh": "\t帕奇的铃珠\r"
+    }
+  },
+  "26000043": {
+    "EventTextForTalk": {
+      "en": "\tBlackguard's Bell Bearing\r",
+      "jp": "\tならず者の鈴玉\r",
+      "zh": "\t流氓的铃珠\r"
+    }
+  },
+  "26000050": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [1]\r",
+      "jp": "\t放浪商人の鈴玉【１】\r",
+      "zh": "\t流浪商人的铃珠【１】\r"
+    }
+  },
+  "26000051": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [2]\r",
+      "jp": "\t放浪商人の鈴玉【２】\r",
+      "zh": "\t流浪商人的铃珠【２】\r"
+    }
+  },
+  "26000052": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [3]\r",
+      "jp": "\t放浪商人の鈴玉【３】\r",
+      "zh": "\t流浪商人的铃珠【３】\r"
+    }
+  },
+  "26000053": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [4]\r",
+      "jp": "\t放浪商人の鈴玉【４】\r",
+      "zh": "\t流浪商人的铃珠【４】\r"
+    }
+  },
+  "26000054": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [5]\r",
+      "jp": "\t放浪商人の鈴玉【５】\r",
+      "zh": "\t流浪商人的铃珠【５】\r"
+    }
+  },
+  "26000055": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [6]\r",
+      "jp": "\t放浪商人の鈴玉【６】\r",
+      "zh": "\t流浪商人的铃珠【６】\r"
+    }
+  },
+  "26000056": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [7]\r",
+      "jp": "\t放浪商人の鈴玉【７】\r",
+      "zh": "\t流浪商人的铃珠【７】\r"
+    }
+  },
+  "26000057": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [8]\r",
+      "jp": "\t放浪商人の鈴玉【８】\r",
+      "zh": "\t流浪商人的铃珠【８】\r"
+    }
+  },
+  "26000058": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [9]\r",
+      "jp": "\t放浪商人の鈴玉【９】\r",
+      "zh": "\t流浪商人的铃珠【９】\r"
+    }
+  },
+  "26000059": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [10]\r",
+      "jp": "\t放浪商人の鈴玉【１０】\r",
+      "zh": "\t流浪商人的铃珠【１０】\r"
+    }
+  },
+  "26000060": {
+    "EventTextForTalk": {
+      "en": "\tNomadic Merchant's Bell Bearing [11]\r",
+      "jp": "\t放浪商人の鈴玉【１１】\r",
+      "zh": "\t流浪商人的铃珠【１１】\r"
+    }
+  },
+  "26000070": {
+    "EventTextForTalk": {
+      "en": "\tKalé's Bell Bearing\r",
+      "jp": "\tカーレの鈴玉\r",
+      "zh": "\t咖列的铃珠\r"
+    }
+  },
+  "26000071": {
+    "EventTextForTalk": {
+      "en": "\tIsolated Merchant's Bell Bearing [1]\r",
+      "jp": "\t隠遁商人の鈴玉【１】\r",
+      "zh": "\t隐居商人的铃珠【１】\r"
+    }
+  },
+  "26000072": {
+    "EventTextForTalk": {
+      "en": "\tIsolated Merchant's Bell Bearing [2]\r",
+      "jp": "\t隠遁商人の鈴玉【２】\r",
+      "zh": "\t隐居商人的铃珠【２】\r"
+    }
+  },
+  "26000073": {
+    "EventTextForTalk": {
+      "en": "\tHermit Merchant's Bell Bearing [1]\r",
+      "jp": "\t世捨て商人の鈴玉【１】\r",
+      "zh": "\t遁世商人的铃珠【１】\r"
+    }
+  },
+  "26000074": {
+    "EventTextForTalk": {
+      "en": "\tIsolated Merchant's Bell Bearing [3]\r",
+      "jp": "\t隠遁商人の鈴玉【３】\r",
+      "zh": "\t隐居商人的铃珠【３】\r"
+    }
+  },
+  "26000075": {
+    "EventTextForTalk": {
+      "en": "\tHermit Merchant's Bell Bearing [2]\r",
+      "jp": "\t世捨て商人の鈴玉【２】\r",
+      "zh": "\t遁世商人的铃珠【２】\r"
+    }
+  },
+  "26000076": {
+    "EventTextForTalk": {
+      "en": "\tAbandoned Merchant's Bell Bearing\r",
+      "jp": "\t取り残された商人の鈴玉\r",
+      "zh": "\t见弃商人的铃珠\r"
+    }
+  },
+  "26000077": {
+    "EventTextForTalk": {
+      "en": "\tHermit Merchant's Bell Bearing [3]\r",
+      "jp": "\t世捨て商人の鈴玉【３】\r",
+      "zh": "\t遁世商人的铃珠【３】\r"
+    }
+  },
+  "26000078": {
+    "EventTextForTalk": {
+      "en": "\tImprisoned Merchant's Bell Bearing\r",
+      "jp": "\t囚われ商人の鈴玉\r",
+      "zh": "\t受囚商人的铃珠\r"
+    }
+  },
+  "26000110": {
+    "EventTextForTalk": {
+      "en": "\tOffer Pidia's Bell Bearing\r",
+      "jp": "\tピディの鈴玉を捧げる\r",
+      "zh": "\t献上毕迪的铃珠\r"
+    }
+  },
+  "26000111": {
+    "EventTextForTalk": {
+      "en": "\tOffer Seluvis's Bell Bearing\r",
+      "jp": "\tセルブスの鈴玉を捧げる\r",
+      "zh": "\t献上赛尔维斯的铃珠\r"
+    }
+  },
+  "26000112": {
+    "EventTextForTalk": {
+      "en": "\tOffer Patches' Bell Bearing\r",
+      "jp": "\tパッチの鈴玉を捧げる\r",
+      "zh": "\t献上帕奇的铃珠\r"
+    }
+  },
+  "26000113": {
+    "EventTextForTalk": {
+      "en": "\tOffer Sellen's Bell Bearing\r",
+      "jp": "\tセレンの鈴玉を捧げる\r",
+      "zh": "\t献上瑟濂的铃珠\r"
+    }
+  },
+  "26000114": { "EventTextForTalk": { "jp": "\t遺灰_ジコ坊を捧げる\r" } },
+  "26000115": {
+    "EventTextForTalk": {
+      "en": "\tOffer D's Bell Bearing\r",
+      "jp": "\tＤの鈴玉を捧げる\r",
+      "zh": "\t献上Ｄ的铃珠\r"
+    }
+  },
+  "26000116": {
+    "EventTextForTalk": {
+      "en": "\tOffer Bernahl's Bell Bearing\r",
+      "jp": "\tベルナールの鈴玉を捧げる\r",
+      "zh": "\t献上贝纳尔的铃珠\r"
+    }
+  },
+  "26000117": {
+    "EventTextForTalk": {
+      "en": "\tOffer Miriel's Bell Bearing\r",
+      "jp": "\tミリエルの鈴玉を捧げる\r",
+      "zh": "\t献上米利耶的铃珠\r"
+    }
+  },
+  "26000118": {
+    "EventTextForTalk": {
+      "en": "\tOffer Gostoc's Bell Bearing\r",
+      "jp": "\tゴストークの鈴玉を捧げる\r",
+      "zh": "\t献上葛托克的铃珠\r"
+    }
+  },
+  "26000119": {
+    "EventTextForTalk": {
+      "en": "\tOffer Thops's Bell Bearing\r",
+      "jp": "\tトープスの鈴玉を捧げる\r",
+      "zh": "\t献上托普斯的铃珠\r"
+    }
+  },
+  "26000120": {
+    "EventTextForTalk": {
+      "en": "\tOffer Kalé's Bell Bearing\r",
+      "jp": "\tカーレの鈴玉を捧げる\r",
+      "zh": "\t献上咖列的铃珠\r"
+    }
+  },
+  "26000121": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [1]\r",
+      "jp": "\t放浪商人の鈴玉【１】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【１】\r"
+    }
+  },
+  "26000122": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [2]\r",
+      "jp": "\t放浪商人の鈴玉【２】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【２】\r"
+    }
+  },
+  "26000123": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [3]\r",
+      "jp": "\t放浪商人の鈴玉【３】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【３】\r"
+    }
+  },
+  "26000124": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [4]\r",
+      "jp": "\t放浪商人の鈴玉【４】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【４】\r"
+    }
+  },
+  "26000125": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [5]\r",
+      "jp": "\t放浪商人の鈴玉【５】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【５】\r"
+    }
+  },
+  "26000126": {
+    "EventTextForTalk": {
+      "en": "\tOffer Isolated Merchant's Bell Bearing [1]\r",
+      "jp": "\t隠遁商人の鈴玉【１】を捧げる\r",
+      "zh": "\t献上隐居商人的铃珠【１】\r"
+    }
+  },
+  "26000127": {
+    "EventTextForTalk": {
+      "en": "\tOffer Isolated Merchant's Bell Bearing [2]\r",
+      "jp": "\t隠遁商人の鈴玉【２】を捧げる\r",
+      "zh": "\t献上隐居商人的铃珠【２】\r"
+    }
+  },
+  "26000128": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [6]\r",
+      "jp": "\t放浪商人の鈴玉【６】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【６】\r"
+    }
+  },
+  "26000129": {
+    "EventTextForTalk": {
+      "en": "\tOffer Hermit Merchant's Bell Bearing [1]\r",
+      "jp": "\t世捨て商人の鈴玉【１】を捧げる\r",
+      "zh": "\t献上遁世商人的铃珠【１】\r"
+    }
+  },
+  "26000130": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [7]\r",
+      "jp": "\t放浪商人の鈴玉【７】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【７】\r"
+    }
+  },
+  "26000131": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [8]\r",
+      "jp": "\t放浪商人の鈴玉【８】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【８】\r"
+    }
+  },
+  "26000132": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [9]\r",
+      "jp": "\t放浪商人の鈴玉【９】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【９】\r"
+    }
+  },
+  "26000133": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [10]\r",
+      "jp": "\t放浪商人の鈴玉【１０】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【１０】\r"
+    }
+  },
+  "26000134": {
+    "EventTextForTalk": {
+      "en": "\tOffer Nomadic Merchant's Bell Bearing [11]\r",
+      "jp": "\t放浪商人の鈴玉【１１】を捧げる\r",
+      "zh": "\t献上流浪商人的铃珠【１１】\r"
+    }
+  },
+  "26000135": {
+    "EventTextForTalk": {
+      "en": "\tOffer Isolated Merchant's Bell Bearing [3]\r",
+      "jp": "\t隠遁商人の鈴玉【３】を捧げる\r",
+      "zh": "\t献上隐居商人的铃珠【３】\r"
+    }
+  },
+  "26000136": {
+    "EventTextForTalk": {
+      "en": "\tOffer Hermit Merchant's Bell Bearing [2]\r",
+      "jp": "\t世捨て商人の鈴玉【２】を捧げる\r",
+      "zh": "\t献上遁世商人的铃珠【２】\r"
+    }
+  },
+  "26000137": {
+    "EventTextForTalk": {
+      "en": "\tOffer Abandoned Merchant's Bell Bearing\r",
+      "jp": "\t取り残された商人の鈴玉を捧げる\r",
+      "zh": "\t献上见弃商人的铃珠\r"
+    }
+  },
+  "26000138": {
+    "EventTextForTalk": {
+      "en": "\tOffer Hermit Merchant's Bell Bearing [3]\r",
+      "jp": "\t世捨て商人の鈴玉【３】を捧げる\r",
+      "zh": "\t献上遁世商人的铃珠【３】\r"
+    }
+  },
+  "26000139": {
+    "EventTextForTalk": {
+      "en": "\tOffer Imprisoned Merchant's Bell Bearing\r",
+      "jp": "\t囚われ商人の鈴玉を捧げる\r",
+      "zh": "\t献上受囚商人的铃珠\r"
+    }
+  },
+  "26000140": {
+    "EventTextForTalk": {
+      "en": "\tOffer Iji's Bell Bearing\r",
+      "jp": "\tイジーの鈴玉を捧げる\r",
+      "zh": "\t献上伊吉的铃珠\r"
+    }
+  },
+  "26000141": {
+    "EventTextForTalk": {
+      "en": "\tOffer Rogier's Bell Bearing\r",
+      "jp": "\tロジェールの鈴玉を捧げる\r",
+      "zh": "\t献上罗杰尔的铃珠\r"
+    }
+  },
+  "26000142": {
+    "EventTextForTalk": {
+      "en": "\tOffer Blackguard's Bell Bearing\r",
+      "jp": "\tならず者の鈴玉を捧げる\r",
+      "zh": "\t献上流氓的铃珠\r"
+    }
+  },
+  "26000143": {
+    "EventTextForTalk": {
+      "en": "\tOffer Corhyn's Bell Bearing\r",
+      "jp": "\tコリンの鈴玉を捧げる\r",
+      "zh": "\t献上柯林的铃珠\r"
+    }
+  },
+  "26000144": {
+    "EventTextForTalk": {
+      "en": "\tOffer Gowry's Bell Bearing\r",
+      "jp": "\tゴーリーの鈴玉を捧げる\r",
+      "zh": "\t献上格威的铃珠\r"
+    }
+  },
+  "26000145": {
+    "EventTextForTalk": {
+      "en": "\tOffer Bone Peddler's Bell Bearing\r",
+      "jp": "\t骨売りの鈴玉を捧げる\r",
+      "zh": "\t献上兽骨贩子的铃珠\r"
+    }
+  },
+  "26000146": {
+    "EventTextForTalk": {
+      "en": "\tOffer Meat Peddler's Bell Bearing\r",
+      "jp": "\t肉売りの鈴玉を捧げる\r",
+      "zh": "\t献上兽肉贩子的铃珠\r"
+    }
+  },
+  "26000147": {
+    "EventTextForTalk": {
+      "en": "\tOffer Medicine Peddler's Bell Bearing\r",
+      "jp": "\t薬売りの鈴玉を捧げる\r",
+      "zh": "\t献上苔药贩子的铃珠\r"
+    }
+  },
+  "26000148": {
+    "EventTextForTalk": {
+      "en": "\tOffer Gravity Stone Peddler's Bell Bearing\r",
+      "jp": "\t重力売りの鈴玉を捧げる\r",
+      "zh": "\t献上重力贩子的铃珠\r"
+    }
+  },
+  "26000151": {
+    "EventTextForTalk": {
+      "en": "\tOffer Smithing Miner's Bell Bearing [1]\r",
+      "jp": "\t鍛石掘りの鈴玉【１】を捧げる\r",
+      "zh": "\t献上锻造石矿工的铃珠【１】\r"
+    }
+  },
+  "26000152": {
+    "EventTextForTalk": {
+      "en": "\tOffer Smithing Miner's Bell Bearing [2]\r",
+      "jp": "\t鍛石掘りの鈴玉【２】を捧げる\r",
+      "zh": "\t献上锻造石矿工的铃珠【２】\r"
+    }
+  },
+  "26000153": {
+    "EventTextForTalk": {
+      "en": "\tOffer Smithing Miner's Bell Bearing [3]\r",
+      "jp": "\t鍛石掘りの鈴玉【３】を捧げる\r",
+      "zh": "\t献上锻造石矿工的铃珠【３】\r"
+    }
+  },
+  "26000154": {
+    "EventTextForTalk": {
+      "en": "\tOffer Smithing Miner's Bell Bearing [4]\r",
+      "jp": "\t鍛石掘りの鈴玉【４】を捧げる\r",
+      "zh": "\t献上锻造石矿工的铃珠【４】\r"
+    }
+  },
+  "26000155": {
+    "EventTextForTalk": {
+      "en": "\tOffer Somber Miner's Bell Bearing [1]\r",
+      "jp": "\t喪色掘りの鈴玉【１】を捧げる\r",
+      "zh": "\t献上失色石矿工的铃珠【１】\r"
+    }
+  },
+  "26000156": {
+    "EventTextForTalk": {
+      "en": "\tOffer Somber Miner's Bell Bearing [2]\r",
+      "jp": "\t喪色掘りの鈴玉【２】を捧げる\r",
+      "zh": "\t献上失色石矿工的铃珠【２】\r"
+    }
+  },
+  "26000157": {
+    "EventTextForTalk": {
+      "en": "\tOffer Somber Miner's Bell Bearing [3]\r",
+      "jp": "\t喪色掘りの鈴玉【３】を捧げる\r",
+      "zh": "\t献上失色石矿工的铃珠【３】\r"
+    }
+  },
+  "26000158": {
+    "EventTextForTalk": {
+      "en": "\tOffer Somber Miner's Bell Bearing [4]\r",
+      "jp": "\t喪色掘りの鈴玉【４】を捧げる\r",
+      "zh": "\t献上失色石矿工的铃珠【４】\r"
+    }
+  },
+  "26000159": {
+    "EventTextForTalk": {
+      "en": "\tOffer Somber Miner's Bell Bearing [5]\r",
+      "jp": "\t喪色掘りの鈴玉【５】を捧げる\r",
+      "zh": "\t献上失色石矿工的铃珠【５】\r"
+    }
+  },
+  "26000160": {
+    "EventTextForTalk": {
+      "en": "\tOffer Glovewort Picker's Bell Bearing [1]\r",
+      "jp": "\tすずらん摘みの鈴玉【１】を捧げる\r",
+      "zh": "\t献上铃兰摘采工的铃珠【１】\r"
+    }
+  },
+  "26000161": {
+    "EventTextForTalk": {
+      "en": "\tOffer Glovewort Picker's Bell Bearing [2]\r",
+      "jp": "\tすずらん摘みの鈴玉【２】を捧げる\r",
+      "zh": "\t献上铃兰摘采工的铃珠【２】\r"
+    }
+  },
+  "26000162": {
+    "EventTextForTalk": {
+      "en": "\tOffer Glovewort Picker's Bell Bearing [3]\r",
+      "jp": "\tすずらん摘みの鈴玉【３】を捧げる\r",
+      "zh": "\t献上铃兰摘采工的铃珠【３】\r"
+    }
+  },
+  "26000163": {
+    "EventTextForTalk": {
+      "en": "\tOffer Ghostform Picker's Bell Bearing [1]\r",
+      "jp": "\t霊姿摘みの鈴玉【１】を捧げる\r",
+      "zh": "\t献上灵依摘采工的铃珠【１】\r"
+    }
+  },
+  "26000164": {
+    "EventTextForTalk": {
+      "en": "\tOffer Ghostform Picker's Bell Bearing [2]\r",
+      "jp": "\t霊姿摘みの鈴玉【２】を捧げる\r",
+      "zh": "\t献上灵依摘采工的铃珠【２】\r"
+    }
+  },
+  "26000165": {
+    "EventTextForTalk": {
+      "en": "\tOffer Ghostform Picker's Bell Bearing [3]\r",
+      "jp": "\t霊姿摘みの鈴玉【３】を捧げる\r",
+      "zh": "\t献上灵依摘采工的铃珠【３】\r"
+    }
+  },
+  "26001000": {
+    "EventTextForTalk": {
+      "en": "\tNo bell bearings offered\r",
+      "jp": "\tまだ鈴玉を捧げていません\r",
+      "zh": "\t尚未献上铃珠。\r"
+    }
+  },
+  "26001001": {
+    "EventTextForTalk": {
+      "en": "\tNo bell bearing to offer\r",
+      "jp": "\t捧げる鈴玉がありません\r",
+      "zh": "\t没有可献上的铃珠。\r"
+    }
+  },
+  "26001110": {
+    "EventTextForTalk": {
+      "en": "\tOffered Pidia's Bell Bearing\r",
+      "jp": "\tピディの鈴玉を捧げました\r",
+      "zh": "\t已献上毕迪的铃珠。\r"
+    }
+  },
+  "26001111": {
+    "EventTextForTalk": {
+      "en": "\tOffered Seluvis's Bell Bearing\r",
+      "jp": "\tセルブスの鈴玉を捧げました\r",
+      "zh": "\t已献上赛尔维斯的铃珠。\r"
+    }
+  },
+  "26001112": {
+    "EventTextForTalk": {
+      "en": "\tOffered Patches' Bell Bearing\r",
+      "jp": "\tパッチの鈴玉を捧げました\r",
+      "zh": "\t已献上帕奇的铃珠。\r"
+    }
+  },
+  "26001113": {
+    "EventTextForTalk": {
+      "en": "\tOffered Sellen's Bell Bearing\r",
+      "jp": "\tセレンの鈴玉を捧げました\r",
+      "zh": "\t已献上瑟濂的铃珠。\r"
+    }
+  },
+  "26001114": {
+    "EventTextForTalk": {
+      "en": "\tOffered Monk Jiko's Ashes\r",
+      "jp": "\t遺灰_ジコ坊を捧げました\r",
+      "zh": "\t已献上里可的铃珠。\r"
+    }
+  },
+  "26001115": {
+    "EventTextForTalk": {
+      "en": "\tOffered D's Bell Bearing\r",
+      "jp": "\tＤの鈴玉を捧げました\r",
+      "zh": "\t已献上Ｄ的铃珠。\r"
+    }
+  },
+  "26001116": {
+    "EventTextForTalk": {
+      "en": "\tOffered Bernahl's Bell Bearing\r",
+      "jp": "\tベルナールの鈴玉を捧げました\r",
+      "zh": "\t已献上贝纳尔的铃珠。\r"
+    }
+  },
+  "26001117": {
+    "EventTextForTalk": {
+      "en": "\tOffered Miriel's Bell Bearing\r",
+      "jp": "\tミリエルの鈴玉を捧げました\r",
+      "zh": "\t已献上米利耶的铃珠。\r"
+    }
+  },
+  "26001118": {
+    "EventTextForTalk": {
+      "en": "\tOffered Gostoc's Bell Bearing\r",
+      "jp": "\tゴストークの鈴玉を捧げました\r",
+      "zh": "\t已献上葛托克的铃珠。\r"
+    }
+  },
+  "26001119": {
+    "EventTextForTalk": {
+      "en": "\tOffered Thops's Bell Bearing\r",
+      "jp": "\tトープスの鈴玉を捧げました\r",
+      "zh": "\t已献上托普斯的铃珠。\r"
+    }
+  },
+  "26001120": {
+    "EventTextForTalk": {
+      "en": "\tOffered Kalé's Bell Bearing\r",
+      "jp": "\tカーレの鈴玉を捧げました\r",
+      "zh": "\t已献上咖列的铃珠。\r"
+    }
+  },
+  "26001121": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [1]\r",
+      "jp": "\t放浪商人の鈴玉【１】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【１】。\r"
+    }
+  },
+  "26001122": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [2]\r",
+      "jp": "\t放浪商人の鈴玉【２】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【２】。\r"
+    }
+  },
+  "26001123": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [3]\r",
+      "jp": "\t放浪商人の鈴玉【３】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【３】。\r"
+    }
+  },
+  "26001124": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [4]\r",
+      "jp": "\t放浪商人の鈴玉【４】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【４】。\r"
+    }
+  },
+  "26001125": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [5]\r",
+      "jp": "\t放浪商人の鈴玉【５】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【５】。\r"
+    }
+  },
+  "26001126": {
+    "EventTextForTalk": {
+      "en": "\tOffered Isolated Merchant's Bell Bearing [1]\r",
+      "jp": "\t隠遁商人の鈴玉【１】を捧げました\r",
+      "zh": "\t已献上隐居商人的铃珠【１】。\r"
+    }
+  },
+  "26001127": {
+    "EventTextForTalk": {
+      "en": "\tOffered Isolated Merchant's Bell Bearing [2]\r",
+      "jp": "\t隠遁商人の鈴玉【２】を捧げました\r",
+      "zh": "\t已献上隐居商人的铃珠【２】。\r"
+    }
+  },
+  "26001128": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [6]\r",
+      "jp": "\t放浪商人の鈴玉【６】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【６】。\r"
+    }
+  },
+  "26001129": {
+    "EventTextForTalk": {
+      "en": "\tOffered Hermit Merchant's Bell Bearing [1]\r",
+      "jp": "\t世捨て商人の鈴玉【１】を捧げました\r",
+      "zh": "\t已献上遁世商人的铃珠【１】。\r"
+    }
+  },
+  "26001130": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [7]\r",
+      "jp": "\t放浪商人の鈴玉【７】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【７】。\r"
+    }
+  },
+  "26001131": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [8]\r",
+      "jp": "\t放浪商人の鈴玉【８】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【８】。\r"
+    }
+  },
+  "26001132": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [9]\r",
+      "jp": "\t放浪商人の鈴玉【９】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【９】。\r"
+    }
+  },
+  "26001133": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [10]\r",
+      "jp": "\t放浪商人の鈴玉【１０】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【１０】。\r"
+    }
+  },
+  "26001134": {
+    "EventTextForTalk": {
+      "en": "\tOffered Nomadic Merchant's Bell Bearing [11]\r",
+      "jp": "\t放浪商人の鈴玉【１１】を捧げました\r",
+      "zh": "\t已献上流浪商人的铃珠【１１】。\r"
+    }
+  },
+  "26001135": {
+    "EventTextForTalk": {
+      "en": "\tOffered Isolated Merchant's Bell Bearing [3]\r",
+      "jp": "\t隠遁商人の鈴玉【３】を捧げました\r",
+      "zh": "\t已献上隐居商人的铃珠【３】。\r"
+    }
+  },
+  "26001136": {
+    "EventTextForTalk": {
+      "en": "\tOffered Hermit Merchant's Bell Bearing [2]\r",
+      "jp": "\t世捨て商人の鈴玉【２】を捧げました\r",
+      "zh": "\t已献上遁世商人的铃珠【２】。\r"
+    }
+  },
+  "26001137": {
+    "EventTextForTalk": {
+      "en": "\tOffered Abandoned Merchant's Bell Bearing\r",
+      "jp": "\t取り残された商人の鈴玉を捧げました\r",
+      "zh": "\t已献上见弃商人的铃珠。\r"
+    }
+  },
+  "26001138": {
+    "EventTextForTalk": {
+      "en": "\tOffered Hermit Merchant's Bell Bearing [3]\r",
+      "jp": "\t世捨て商人の鈴玉【３】を捧げました\r",
+      "zh": "\t已献上遁世商人的铃珠【３】。\r"
+    }
+  },
+  "26001139": {
+    "EventTextForTalk": {
+      "en": "\tOffered Imprisoned Merchant's Bell Bearing\r",
+      "jp": "\t囚われ商人の鈴玉を捧げました\r",
+      "zh": "\t已献上受囚商人的铃珠。\r"
+    }
+  },
+  "26001140": {
+    "EventTextForTalk": {
+      "en": "\tOffered Iji's Bell Bearing\r",
+      "jp": "\tイジーの鈴玉を捧げました\r",
+      "zh": "\t已献上伊吉的铃珠。\r"
+    }
+  },
+  "26001141": {
+    "EventTextForTalk": {
+      "en": "\tOffered Rogier's Bell Bearing\r",
+      "jp": "\tロジェールの鈴玉を捧げました\r",
+      "zh": "\t已献上罗杰尔的铃珠。\r"
+    }
+  },
+  "26001142": {
+    "EventTextForTalk": {
+      "en": "\tOffered Blackguard's Bell Bearing\r",
+      "jp": "\tならず者の鈴玉を捧げました\r",
+      "zh": "\t已献上流氓的铃珠。\r"
+    }
+  },
+  "26001143": {
+    "EventTextForTalk": {
+      "en": "\tOffered Corhyn's Bell Bearing\r",
+      "jp": "\tコリンの鈴玉を捧げました\r",
+      "zh": "\t已献上柯林的铃珠。\r"
+    }
+  },
+  "26001144": {
+    "EventTextForTalk": {
+      "en": "\tOffered Gowry's Bell Bearing\r",
+      "jp": "\tゴーリーの鈴玉を捧げました\r",
+      "zh": "\t已献上格威的铃珠。\r"
+    }
+  },
+  "26001145": {
+    "EventTextForTalk": {
+      "en": "\tOffered Bone Peddler's Bell Bearing\r",
+      "jp": "\t骨売りの鈴玉を捧げました\r",
+      "zh": "\t已献上兽骨贩子的铃珠。\r"
+    }
+  },
+  "26001146": {
+    "EventTextForTalk": {
+      "en": "\tOffered Meat Peddler's Bell Bearing\r",
+      "jp": "\t肉売りの鈴玉を捧げました\r",
+      "zh": "\t已献上兽肉贩子的铃珠。\r"
+    }
+  },
+  "26001147": {
+    "EventTextForTalk": {
+      "en": "\tOffered Medicine Peddler's Bell Bearing\r",
+      "jp": "\t薬売りの鈴玉を捧げました\r",
+      "zh": "\t已献上苔药贩子的铃珠。\r"
+    }
+  },
+  "26001148": {
+    "EventTextForTalk": {
+      "en": "\tOffered Gravity Stone Peddler's Bell Bearing\r",
+      "jp": "\t重力売りの鈴玉を捧げました\r",
+      "zh": "\t已献上重力贩子的铃珠。\r"
+    }
+  },
+  "26001151": {
+    "EventTextForTalk": {
+      "en": "\tOffered Smithing Miner's Bell Bearing [1]\r",
+      "jp": "\t鍛石掘りの鈴玉【１】を捧げました\r",
+      "zh": "\t已献上锻造石矿工的铃珠【１】。\r"
+    }
+  },
+  "26001152": {
+    "EventTextForTalk": {
+      "en": "\tOffered Smithing Miner's Bell Bearing [2]\r",
+      "jp": "\t鍛石掘りの鈴玉【２】を捧げました\r",
+      "zh": "\t已献上锻造石矿工的铃珠【２】。\r"
+    }
+  },
+  "26001153": {
+    "EventTextForTalk": {
+      "en": "\tOffered Smithing Miner's Bell Bearing [3]\r",
+      "jp": "\t鍛石掘りの鈴玉【３】を捧げました\r",
+      "zh": "\t已献上锻造石矿工的铃珠【３】。\r"
+    }
+  },
+  "26001154": {
+    "EventTextForTalk": {
+      "en": "\tOffered Smithing Miner's Bell Bearing [4]\r",
+      "jp": "\t鍛石掘りの鈴玉【４】を捧げました\r",
+      "zh": "\t已献上锻造石矿工的铃珠【４】。\r"
+    }
+  },
+  "26001155": {
+    "EventTextForTalk": {
+      "en": "\tOffered Somber Miner's Bell Bearing [1]\r",
+      "jp": "\t喪色掘りの鈴玉【１】を捧げました\r",
+      "zh": "\t已献上失色石矿工的铃珠【１】。\r"
+    }
+  },
+  "26001156": {
+    "EventTextForTalk": {
+      "en": "\tOffered Somber Miner's Bell Bearing [2]\r",
+      "jp": "\t喪色掘りの鈴玉【２】を捧げました\r",
+      "zh": "\t已献上失色石矿工的铃珠【２】。\r"
+    }
+  },
+  "26001157": {
+    "EventTextForTalk": {
+      "en": "\tOffered Somber Miner's Bell Bearing [3]\r",
+      "jp": "\t喪色掘りの鈴玉【３】を捧げました\r",
+      "zh": "\t已献上失色石矿工的铃珠【３】。\r"
+    }
+  },
+  "26001158": {
+    "EventTextForTalk": {
+      "en": "\tOffered Somber Miner's Bell Bearing [4]\r",
+      "jp": "\t喪色掘りの鈴玉【４】を捧げました\r",
+      "zh": "\t已献上失色石矿工的铃珠【４】。\r"
+    }
+  },
+  "26001159": {
+    "EventTextForTalk": {
+      "en": "\tOffered Somber Miner's Bell Bearing [5]\r",
+      "jp": "\t喪色掘りの鈴玉【５】を捧げました\r",
+      "zh": "\t已献上失色石矿工的铃珠【５】。\r"
+    }
+  },
+  "26001160": {
+    "EventTextForTalk": {
+      "en": "\tOffered Glovewort Picker's Bell Bearing [1]\r",
+      "jp": "\tすずらん摘みの鈴玉【１】を捧げました\r",
+      "zh": "\t已献上铃兰摘采工的铃珠【１】。\r"
+    }
+  },
+  "26001161": {
+    "EventTextForTalk": {
+      "en": "\tOffered Glovewort Picker's Bell Bearing [2]\r",
+      "jp": "\tすずらん摘みの鈴玉【２】を捧げました\r",
+      "zh": "\t已献上铃兰摘采工的铃珠【２】。\r"
+    }
+  },
+  "26001162": {
+    "EventTextForTalk": {
+      "en": "\tOffered Glovewort Picker's Bell Bearing [3]\r",
+      "jp": "\tすずらん摘みの鈴玉【３】を捧げました\r",
+      "zh": "\t已献上铃兰摘采工的铃珠【３】。\r"
+    }
+  },
+  "26001163": {
+    "EventTextForTalk": {
+      "en": "\tOffered Ghostform Picker's Bell Bearing [1]\r",
+      "jp": "\t霊姿摘みの鈴玉【１】を捧げました\r",
+      "zh": "\t已献上灵依摘采工的铃珠【１】。\r"
+    }
+  },
+  "26001164": {
+    "EventTextForTalk": {
+      "en": "\tOffered Ghostform Picker's Bell Bearing [2]\r",
+      "jp": "\t霊姿摘みの鈴玉【２】を捧げました\r",
+      "zh": "\t已献上灵依摘采工的铃珠【２】。\r"
+    }
+  },
+  "26001165": {
+    "EventTextForTalk": {
+      "en": "\tOffered Ghostform Picker's Bell Bearing [3]\r",
+      "jp": "\t霊姿摘みの鈴玉【３】を捧げました\r",
+      "zh": "\t已献上灵依摘采工的铃珠【３】。\r"
+    }
+  },
+  "26002000": {
+    "EventTextForTalk": {
+      "en": "\tBell Bearing Shop 5\r",
+      "jp": "\t鈴玉取引５\r",
+      "zh": "\t铃珠交易５\r"
+    }
+  },
+  "26002010": {
+    "EventTextForTalk": {
+      "en": "\tMoore's Bell Bearing\r",
+      "jp": "\tムーアの鈴玉\r",
+      "zh": "\t穆尔的铃珠\r"
+    }
+  },
+  "26002011": {
+    "EventTextForTalk": {
+      "en": "\tYmir's Bell Bearing\r",
+      "jp": "\tユミルの鈴玉\r",
+      "zh": "\t尤弥尔的铃珠\r"
+    }
+  },
+  "26002110": {
+    "EventTextForTalk": {
+      "en": "\tOffer Moore's Bell Bearing\r",
+      "jp": "\tムーアの鈴玉を捧げる\r",
+      "zh": "\t献上穆尔的铃珠\r"
+    }
+  },
+  "26002111": {
+    "EventTextForTalk": {
+      "en": "\tOffer Ymir's Bell Bearing\r",
+      "jp": "\tユミルの鈴玉を捧げる\r",
+      "zh": "\t献上尤弥尔的铃珠\r"
+    }
+  },
+  "26002112": {
+    "EventTextForTalk": {
+      "en": "\tOffer Herbalist's Bell Bearing\r",
+      "jp": "\t草売りの鈴玉を捧げる\r",
+      "zh": "\t献上药草贩子的铃珠\r"
+    }
+  },
+  "26002113": {
+    "EventTextForTalk": {
+      "en": "\tOffer Mushroom-Seller's Bell Bearing [1]\r",
+      "jp": "\tキノコ売りの鈴玉【１】を捧げる\r",
+      "zh": "\t献上蘑菇贩子的铃珠【１】\r"
+    }
+  },
+  "26002114": {
+    "EventTextForTalk": {
+      "en": "\tOffer Mushroom-Seller's Bell Bearing [2]\r",
+      "jp": "\tキノコ売りの鈴玉【２】を捧げる\r",
+      "zh": "\t献上蘑菇贩子的铃珠【２】\r"
+    }
+  },
+  "26002115": {
+    "EventTextForTalk": {
+      "en": "\tOffer Greasemonger's Bell Bearing\r",
+      "jp": "\t脂売りの鈴玉を捧げる\r",
+      "zh": "\t献上树脂贩子的铃珠\r"
+    }
+  },
+  "26002116": {
+    "EventTextForTalk": {
+      "en": "\tOffer Moldmonger's Bell Bearing\r",
+      "jp": "\tカビ売りの鈴玉を捧げる\r",
+      "zh": "\t献上霉菌贩子的铃珠\r"
+    }
+  },
+  "26002117": {
+    "EventTextForTalk": {
+      "en": "\tOffer Igon's Bell Bearing\r",
+      "jp": "\tエーゴンの鈴玉を捧げる\r",
+      "zh": "\t献上埃贡的铃珠\r"
+    }
+  },
+  "26002118": {
+    "EventTextForTalk": {
+      "en": "\tOffer Spellmachinist's Bell Bearing\r",
+      "jp": "\t魔術技師の鈴玉を捧げる\r",
+      "zh": "\t献上魔法技师的铃珠\r"
+    }
+  },
+  "26002119": {
+    "EventTextForTalk": {
+      "en": "\tOffer String-Seller's Bell Bearing\r",
+      "jp": "\t紐売りの鈴玉を捧げる\r",
+      "zh": "\t献上绳索贩子的铃珠\r"
+    }
+  },
+  "26002210": {
+    "EventTextForTalk": {
+      "en": "\tOffered Moore's Bell Bearing\r",
+      "jp": "\tムーアの鈴玉を捧げました\r",
+      "zh": "\t已献上穆尔的铃珠。\r"
+    }
+  },
+  "26002211": {
+    "EventTextForTalk": {
+      "en": "\tOffered Ymir's Bell Bearing\r",
+      "jp": "\tユミルの鈴玉を捧げました\r",
+      "zh": "\t已献上尤弥尔的铃珠。\r"
+    }
+  },
+  "26002212": {
+    "EventTextForTalk": {
+      "en": "\tOffered Herbalist's Bell Bearing\r",
+      "jp": "\t草売りの鈴玉を捧げました\r",
+      "zh": "\t已献上药草贩子的铃珠。\r"
+    }
+  },
+  "26002213": {
+    "EventTextForTalk": {
+      "en": "\tOffered Mushroom-Seller's Bell Bearing [1]\r",
+      "jp": "\tキノコ売りの鈴玉【１】を捧げました\r",
+      "zh": "\t已献上蘑菇贩子的铃珠【１】。\r"
+    }
+  },
+  "26002214": {
+    "EventTextForTalk": {
+      "en": "\tOffered Mushroom-Seller's Bell Bearing [2]\r",
+      "jp": "\tキノコ売りの鈴玉【２】を捧げました\r",
+      "zh": "\t已献上蘑菇贩子的铃珠【２】。\r"
+    }
+  },
+  "26002215": {
+    "EventTextForTalk": {
+      "en": "\tOffered Greasemonger's Bell Bearing\r",
+      "jp": "\t脂売りの鈴玉を捧げました\r",
+      "zh": "\t已献上树脂贩子的铃珠。\r"
+    }
+  },
+  "26002216": {
+    "EventTextForTalk": {
+      "en": "\tOffered Moldmonger's Bell Bearing\r",
+      "jp": "\tカビ売りの鈴玉を捧げました\r",
+      "zh": "\t已献上霉菌贩子的铃珠。\r"
+    }
+  },
+  "26002217": {
+    "EventTextForTalk": {
+      "en": "\tOffered Igon's Bell Bearing\r",
+      "jp": "\tエーゴンの鈴玉を捧げました\r",
+      "zh": "\t已献上埃贡的铃珠。\r"
+    }
+  },
+  "26002218": {
+    "EventTextForTalk": {
+      "en": "\tOffered Spellmachinist's Bell Bearing\r",
+      "jp": "\t魔術技師の鈴玉を捧げました\r",
+      "zh": "\t已献上魔法技师的铃珠。\r"
+    }
+  },
+  "26002219": {
+    "EventTextForTalk": {
+      "en": "\tOffered String-Seller's Bell Bearing\r",
+      "jp": "\t紐売りの鈴玉を捧げました\r",
+      "zh": "\t已献上绳索贩子的铃珠。\r"
+    }
+  },
+  "26010000": {
+    "EventTextForTalk": {
+      "en": "\tRitual of Dragon Communion\r",
+      "jp": "\t竜餐の儀式\r",
+      "zh": "\t龙飨仪式\r"
+    }
+  },
+  "26020000": {
+    "EventTextForTalk": {
+      "en": "\tStrengthen armament\r",
+      "jp": "\t武器強化\r",
+      "zh": "\t强化武器\r"
+    }
+  },
+  "26020001": {
+    "EventTextForTalk": { "en": "\tAffix gem\r", "jp": "\t魔石装着\r" }
+  },
+  "26071000": {
+    "EventTextForTalk": {
+      "en": "\tMend the Elden Ring\r",
+      "jp": "\tエルデンリングを修復する\r",
+      "zh": "\t修复艾尔登法环\r"
+    }
+  },
+  "26071001": {
+    "EventTextForTalk": {
+      "en": "\tUse Mending Rune of Perfect Order\r",
+      "jp": "\t完全律のルーンで、エルデンリングを修復する\r",
+      "zh": "\t用完美律法的卢恩修复艾尔登法环\r"
+    }
+  },
+  "26071002": {
+    "EventTextForTalk": {
+      "en": "\tUse Mending Rune of the Death-Prince\r",
+      "jp": "\t死王子のルーンで、エルデンリングを修復する\r",
+      "zh": "\t用死王子的卢恩修复艾尔登法环\r"
+    }
+  },
+  "26071003": {
+    "EventTextForTalk": {
+      "en": "\tUse Mending Rune of the Fell Curse\r",
+      "jp": "\t忌み呪いのルーンで、エルデンリングを修復する\r",
+      "zh": "\t用忌讳诅咒的卢恩修复艾尔登法环\r"
+    }
+  },
+  "26080000": {
+    "EventTextForTalk": {
+      "en": "\tApply cosmetics\r",
+      "jp": "\t化粧をする\r",
+      "zh": "\t化妆\r"
+    }
+  },
+  "26080001": {
+    "EventTextForTalk": {
+      "en": "\tLeave\r",
+      "jp": "\t立ち去る\r",
+      "zh": "\t离开\r"
+    }
+  },
+  "26081000": {
+    "EventTextForTalk": {
+      "en": "\tCannot use while entering combat\r",
+      "jp": "\t闘技参戦中は使用できません\r",
+      "zh": "\t参加竞技时，无法使用。\r"
+    }
+  },
+  "26201000": {
+    "EventTextForTalk": {
+      "en": "\tColosseums are only available online\r",
+      "jp": "\t闘技場は、オンラインプレイ専用です\r",
+      "zh": "\t竞技场只能以联机游玩。\r"
+    }
+  },
+  "26211000": {
+    "EventTextForTalk": {
+      "en": "\tColosseums are only available online\r",
+      "jp": "\t闘技場は、オンラインプレイ専用です\r",
+      "zh": "\t竞技场只能以联机游玩。\r"
+    }
+  },
+  "26221000": {
+    "EventTextForTalk": {
+      "en": "\tColosseums are only available online\r",
+      "jp": "\t闘技場は、オンラインプレイ専用です\r",
+      "zh": "\t竞技场只能以联机游玩。\r"
+    }
+  },
+  "26231000": {
+    "EventTextForTalk": {
+      "en": "\tColosseums are only available online\r",
+      "jp": "\t闘技場は、オンラインプレイ専用です\r",
+      "zh": "\t竞技场只能以联机游玩。\r"
+    }
+  },
+  "26231001": {
+    "EventTextForTalk": {
+      "en": "\tNo Colosseum rules available for selection\r",
+      "jp": "\t選択できる闘技場のルールがありません\r",
+      "zh": "\t没有可选择的竞技场规则。\r"
+    }
+  },
+  "26302000": {
+    "EventTextForTalk": {
+      "en": "\tCommunion with Bayle\r",
+      "jp": "\tベールの竜餐\r",
+      "zh": "\t贝勒的龙飨\r"
+    }
+  },
+  "26302010": {
+    "EventTextForTalk": {
+      "en": "\tRitual of Dragon Communion\r",
+      "jp": "\t竜餐の儀式\r",
+      "zh": "\t龙飨仪式\r"
+    }
+  },
+  "28000002": {
+    "EventTextForTalk": {
+      "en": "\tAbout Kalé\r",
+      "jp": "\tカーレについて\r",
+      "zh": "\t关于咖列\r"
+    }
+  },
+  "28000003": {
+    "EventTextForTalk": {
+      "en": "\tRecommendation\r",
+      "jp": "\tおすすめ\r",
+      "zh": "\t推荐商品\r"
+    }
+  },
+  "28000004": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "28000005": {
+    "EventTextForTalk": {
+      "en": "\tTalk\r",
+      "jp": "\t話をする\r",
+      "zh": "\t交谈\r"
+    }
+  },
+  "28000014": {
+    "EventTextForTalk": {
+      "en": "\tAbout the howling in Mistwood\r",
+      "jp": "\t霧の森の遠吠えについて\r",
+      "zh": "\t询问关于雾林里的狼嚎声\r"
+    }
+  },
+  "28000015": {
+    "EventTextForTalk": {
+      "en": "\tAbout Blaidd\r",
+      "jp": "\tブライヴについて\r",
+      "zh": "\t关于布莱泽\r"
+    }
+  },
+  "99990200": { "EventTextForTalk": { "jp": "\t武器強化\r" } },
+  "99990201": { "EventTextForTalk": { "jp": "\t修復\r" } },
+  "99990202": { "EventTextForTalk": { "jp": "\tアイテム作成\r" } },
+  "99990203": { "EventTextForTalk": { "jp": "\t話す\r" } },
+  "99990205": {
+    "EventTextForTalk": { "en": "\tLevel up\r", "jp": "\tレベルアップ\r" }
+  },
+  "99990299": { "EventTextForTalk": { "jp": "\t立ち去る\r" } },
+  "99990300": { "EventTextForTalk": { "jp": "\t既にサインを送っています\r" } },
+  "99990301": {
+    "EventTextForTalk": {
+      "en": "\tSpeak with Merina\r",
+      "jp": "\tメリナと会話する\r"
+    }
+  },
+  "99990302": {
+    "EventTextForTalk": {
+      "en": "\tYou can now summon spirits at rebirth monuments\r",
+      "jp": "\t還魂碑で霊体の召喚ができるようになりました\r"
+    }
+  },
+  "99990400": {
+    "EventTextForTalk": {
+      "en": "\tYour sins will be pardoned for <?evntAcquittalPrice?> runes\\nRequest absolution?\r",
+      "jp": "\tあなたの罪は<?evntAcquittalPrice?>ルーンで赦されます\\n免罪を願いますか？\r"
+    }
+  },
+  "99990401": {
+    "EventTextForTalk": {
+      "en": "\tYour sins have been pardoned\r",
+      "jp": "\tあなたの罪が赦されました\r"
+    }
+  },
+  "99990402": {
+    "EventTextForTalk": {
+      "en": "\tInsufficient runes\r",
+      "jp": "\tルーンが不足しています\r"
+    }
+  },
+  "99990403": {
+    "EventTextForTalk": {
+      "en": "\tYou are already absolved\r",
+      "jp": "\t既に免罪が行われています\r"
+    }
+  },
+  "99990404": {
+    "EventTextForTalk": {
+      "en": "\tRequest absolution? (仮)\r",
+      "jp": "\t免罪アイテムを使い免罪を願いますか？\r"
+    }
+  },
+  "99990405": {
+    "EventTextForTalk": {
+      "en": "\tNo item (仮)\r",
+      "jp": "\t免罪アイテムを持っていません\r"
+    }
+  },
+  "99993010": { "EventTextForTalk": { "jp": "\t項目1\r" } },
+  "99993011": { "EventTextForTalk": { "jp": "\t項目2\r" } },
+  "99993012": { "EventTextForTalk": { "jp": "\t項目3\r" } },
+  "99993013": { "EventTextForTalk": { "jp": "\t項目4\r" } },
+  "99993014": { "EventTextForTalk": { "jp": "\t項目5\r" } },
+  "99993015": { "EventTextForTalk": { "jp": "\t項目6\r" } },
+  "99993016": { "EventTextForTalk": { "jp": "\t項目7\r" } },
+  "99993017": { "EventTextForTalk": { "jp": "\t項目8\r" } },
+  "99993018": { "EventTextForTalk": { "jp": "\t項目9\r" } },
+  "99993019": { "EventTextForTalk": { "jp": "\t項目10\r" } },
+  "99993020": { "EventTextForTalk": { "jp": "\t項目11\r" } },
+  "99993021": { "EventTextForTalk": { "jp": "\t項目12\r" } },
+  "99996000": { "EventTextForTalk": { "jp": "\t入口へ戻る\r" } },
+  "99997000": { "EventTextForTalk": { "jp": "\t倉庫を開く\r" } },
+  "99998200": {
+    "EventTextForTalk": { "jp": "\t「対グールの王専用装備」について\r" }
+  },
+  "99998201": { "EventTextForTalk": { "jp": "\t贄になりますか？\r" } },
+  "99998210": { "EventTextForTalk": { "jp": "\t輝石魔術師になりますか？\r" } },
+  "99998211": { "EventTextForTalk": { "jp": "\t魔術師になる\r" } },
+  "99998300": {
+    "EventTextForTalk": {
+      "jp": "\t«ギュメ» ⟪Mathematical double angle bracket⟫\r"
+    }
+  },
+  "99998301": {
+    "EventTextForTalk": {
+      "jp": "\t-=11 ^~12 \\|13 `@14 {15} ;+16 :*17 [18] ,19\r"
+    }
+  },
+  "99998302": { "EventTextForTalk": { "jp": "\t.20 /?21 \\_22 ↑23 ↓24\r" } },
+  "99998400": { "EventTextForTalk": { "jp": "\t配下になりますか？\r" } },
+  "99998401": { "EventTextForTalk": { "jp": "\t誓いを立てますか？\r" } },
+  "99998500": { "EventTextForTalk": { "jp": "\t取引を受けますか？\r" } },
+  "": { "EventTextForTalk": { "en": "", "jp": "", "zh": "" } }
+}
